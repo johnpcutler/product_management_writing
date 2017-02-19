@@ -1,4 +1,4 @@
-* [Trello, “Jira Sucks”, and Tool Dysfunction](#README.mdtrello-jira-sucks-and-tool-dysfunction)
+* [Trello, “Jira Sucks”, and Tool Dysfunction](#trello-jira-sucks-and-tool-dysfunction)
 
 # 8 Trends Shaping Modern Product Management
 
