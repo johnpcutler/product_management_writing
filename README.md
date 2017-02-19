@@ -1,3 +1,4 @@
+* [#Trello, “Jira Sucks”, and Tool Dysfunction)](Trello, “Jira Sucks”, and Tool Dysfunction)
 
 # 8 Trends Shaping Modern Product Management
 
