@@ -1,148 +1,3 @@
-# Table of Contents
-
-* [8 Trends Shaping Modern Product Management](#8-trends-shaping-modern-product-management)
-* [The System Thinking Change Agent Survival Guide](#the-system-thinking-change-agent-survival-guide)
-* [7 Tips For Better Prototypes](#7-tips-for-better-prototypes)
-* [Inside My Kindle: 100 Books For PMs, UX, Entrepreneurs, Systems Thinkers, Design Thinkers, and…](#inside-my-kindle-100-books-for-pms-ux-entrepreneurs-systems-thinkers-design-thinkers-and)
-* [Dr. Obvious, Startup Validation, and Failure](#dr-obvious-startup-validation-and-failure)
-* [Life, Death, Continuous Improvement, and Continuous Disruption](#life-death-continuous-improvement-and-continuous-disruption)
-* [What comes to mind first …. love the problem and sense the impact.](#what-comes-to-mind-first--love-the-problem-and-sense-the-impact)
-* [Sticky Love — Choosing Between Physical Boards and Online Tools](#sticky-love--choosing-between-physical-boards-and-online-tools)
-* [104 Questions For Product Development Teams](#104-questions-for-product-development-teams)
-* [Good Process, Bad Process](#good-process-bad-process)
-* [Product Ownership: 10 Core Principles](#product-ownership-10-core-principles)
-* [Juggling Growth and Usability: A UX Debt Primer](#juggling-growth-and-usability-a-ux-debt-primer)
-* [User Stories and Data](#user-stories-and-data)
-* [10 Questions For Your (Product Role) Interviewer](#10-questions-for-your-product-role-interviewer)
-* [Hidden Costs of the Sales-Driven Roadmap](#hidden-costs-of-the-salesdriven-roadmap)
-* [The Way Of The Product Whatchamacallit](#the-way-of-the-product-whatchamacallit)
-* [This PM Hack Saved Me 1 Hour A Day (and helped me connect with more customers)](#this-pm-hack-saved-me-1-hour-a-day-and-helped-me-connect-with-more-customers)
-* [As Product Managers We’re Asking Ourselves The Wrong Set Of Questions](#as-product-managers-were-asking-ourselves-the-wrong-set-of-questions)
-* [50 Interview Questions For B2B SaaS Customer Research](#50-interview-questions-for-b2b-saas-customer-research)
-* [I’m good with that … if the team needs/wants that.](#im-good-with-that--if-the-team-needswants-that)
-* [I’ll do my best to write a follow up post. Thanks for the comments. Maybe we could collaborate?](#ill-do-my-best-to-write-a-follow-up-post-thanks-for-the-comments-maybe-we-could-collaborate)
-* [Persona(s) Non Grata](#personas-non-grata)
-* [The Iron Triangle Is Dead](#the-iron-triangle-is-dead)
-* [Focus Until It Hurts](#focus-until-it-hurts)
-* [To Experiment Is Human. Reality is a **cker. And The Law Of Two Feet](#to-experiment-is-human-reality-is-a-cker-and-the-law-of-two-feet)
-* [Agreed. From a coach and humanist perspective.](#agreed-from-a-coach-and-humanist-perspective)
-* [How I Forced Myself To Eat Healthy Food (For 40 Days)](#how-i-forced-myself-to-eat-healthy-food-for-40-days)
-* [Talking The Talk: 32 Conversation Prompts for Product Development Teams](#talking-the-talk-32-conversation-prompts-for-product-development-teams)
-* [Getting The All-Hands Right](#getting-the-allhands-right)
-* [A Better Roadmap | Mind-Map | Mousetrap](#a-better-roadmap--mindmap--mousetrap)
-* [Team Health: A Daily Checkup](#team-health-a-daily-checkup)
-* [How To Tame Engineers, Be A Rockstar, and Ship ****ing Product](#how-to-tame-engineers-be-a-rockstar-and-ship-ing-product)
-* [12 Core Competencies For Product Managers](#12-core-competencies-for-product-managers)
-* [What Startup Sales Can Learn From UX](#what-startup-sales-can-learn-from-ux)
-* [Decision Making Transparency (The Why)](#decision-making-transparency-the-why)
-* [Time Management: Tips for Product Managers](#time-management-tips-for-product-managers)
-* [Your Startup: Food Truck or Buffet?](#your-startup-food-truck-or-buffet)
-* [How Much Does A New Feature Cost?](#how-much-does-a-new-feature-cost)
-* [A SaaS Startup Cautionary Tale](#a-saas-startup-cautionary-tale)
-* [Stop Setting Up Product Roadmaps To Fail](#stop-setting-up-product-roadmaps-to-fail)
-* [Opening Your Eyes to Real Customer Delight](#opening-your-eyes-to-real-customer-delight)
-* [10 Common PM Intuition Traps](#10-common-pm-intuition-traps)
-* [Product! Stop Whining About Sales!](#product-stop-whining-about-sales)
-* [The Killer Sales Instinct vs. Startup Validation](#the-killer-sales-instinct-vs-startup-validation)
-* [100 Product Development Hats](#100-product-development-hats)
-* [Go Towards The Discomfort (It’s A Sign)](#go-towards-the-discomfort-its-a-sign)
-* [Your Product is a Service…](#your-product-is-a-service)
-* [Real World Kanban (A Cartoon)](#real-world-kanban-a-cartoon)
-* [What Does “Sales-Driven” Even Mean?](#what-does-salesdriven-even-mean)
-* [45 Posts On Product Development](#45-posts-on-product-development)
-* [Before You Join A Startup …](#before-you-join-a-startup-)
-* [Quit Planning Ahead and Keeping People Busy](#quit-planning-ahead-and-keeping-people-busy)
-* [Enter Through The Narrow Gate (Go Deep)](#enter-through-the-narrow-gate-go-deep)
-* [The Unseen Product is Still The Product](#the-unseen-product-is-still-the-product)
-* [You Don’t Need A “Great Product”](#you-dont-need-a-great-product)
-* [Is Agile Dead?](#is-agile-dead)
-* [Exactly …](#exactly-)
-* [Focus is the Ultimate Process](#focus-is-the-ultimate-process)
-* [12 Traits of a Powerful Product Vision](#12-traits-of-a-powerful-product-vision)
-* [Where Do We Put The UX Tasks?](#where-do-we-put-the-ux-tasks)
-* [Is It Safe for Your Team to Get “Real”](#is-it-safe-for-your-team-to-get-real)
-* [*Just* a Lifestyle Business …](#just-a-lifestyle-business-)
-* [Focus on These 8 Things to Build Better Products](#focus-on-these-8-things-to-build-better-products)
-* [Check out this presentation I’ve been giving lately.](#check-out-this-presentation-ive-been-giving-lately)
-* [That B2B SaaS Savvy Thing](#that-b2b-saas-savvy-thing)
-* [44 Signs You Are Becoming a “Real” PM/PO](#44-signs-you-are-becoming-a-real-pmpo)
-* [7 Product Manager / Product Owner Archetypes](#7-product-manager--product-owner-archetypes)
-* [Be the Laziest Team and Win](#be-the-laziest-team-and-win)
-* [35 B2B SaaS Tips and Gentle Reminders](#35-b2b-saas-tips-and-gentle-reminders)
-* [5 Simple Questions to Drive Validated Learning](#5-simple-questions-to-drive-validated-learning)
-* [Chasing Revenue Growth (and Hidden Costs)](#chasing-revenue-growth-and-hidden-costs)
-* [The Tease](#the-tease)
-* [Pain, Potential, and Outcomes](#pain-potential-and-outcomes)
-* [The Evolving Product Manager Role](#the-evolving-product-manager-role)
-* [company culture is…](#company-culture-is)
-* [Beat the Feature Factory: Run Pre-cap Design Studios](#beat-the-feature-factory-run-precap-design-studios)
-* [Complexity Is a Startup Killer. Don’t Grow Up](#complexity-is-a-startup-killer-dont-grow-up)
-* [Startups: Be Awesome At Something](#startups-be-awesome-at-something)
-* [10 Things I Learned By Doodling For 100 Days Straight](#10-things-i-learned-by-doodling-for-100-days-straight)
-* [Agile: Don’t Exchange Waterfalls for Whirlpools](#agile-dont-exchange-waterfalls-for-whirlpools)
-* [Maybe You’re Just Bored. And It’s Your Fault](#maybe-youre-just-bored-and-its-your-fault)
-* [Do We Need Product Managers?](#do-we-need-product-managers)
-* [Explaining Product/Market Fit in 60 Seconds](#explaining-productmarket-fit-in-60-seconds)
-* [16 Quick Product Management Tips](#16-quick-product-management-tips)
-* [Why Startups Need 3rd Party Accountability Coaches](#why-startups-need-3rd-party-accountability-coaches)
-* [The CynAgileanUXanbanicrumify Method](#the-cynagileanuxanbanicrumify-method)
-* [It’s All Good. Until You’re Screwed](#its-all-good-until-youre-screwed)
-* [PMs/POs: 25 Things You Can Try Now](#pmspos-25-things-you-can-try-now)
-* [The Healthy Tension Trap](#the-healthy-tension-trap)
-* [Product Development Nerds Unite](#product-development-nerds-unite)
-* [The Overlap](#the-overlap)
-* [6 Questions to Guide Continuous Improvement](#6-questions-to-guide-continuous-improvement)
-* [To the 40+ Year Old PMs](#to-the-40-year-old-pms)
-* [#agilebrandproblem](#agilebrandproblem)
-* [30 Things I Think about When Meeting a Product Dev Org for the First Time](#30-things-i-think-about-when-meeting-a-product-dev-org-for-the-first-time)
-* [What Do You Need? What Do We Need?](#what-do-you-need-what-do-we-need)
-* [10 Ways PMs Can Earn The Respect and Trust of Their Team](#10-ways-pms-can-earn-the-respect-and-trust-of-their-team)
-* [Helicopter Management, Teal, and Stirring The Soup](#helicopter-management-teal-and-stirring-the-soup)
-* [Should We Do [ Agile, Kanban, Design Thinking, LeanUX, …]](#should-we-do--agile-kanban-design-thinking-leanux-)
-* [24-Point Checklist for PM/PO Candidates](#24point-checklist-for-pmpo-candidates)
-* [SaaS and the Impostor Clairvoyant PM](#saas-and-the-impostor-clairvoyant-pm)
-* [PMs: How To Make Sure You Aren’t Wasting Everyone’s Time](#pms-how-to-make-sure-you-arent-wasting-everyones-time)
-* [10 Ways UX Research Is Changing](#10-ways-ux-research-is-changing)
-* [40+ Lies PMs Tell Themselves](#40-lies-pms-tell-themselves)
-* [Your Saas Company Is Like a Theme Park](#your-saas-company-is-like-a-theme-park)
-* [50 Questions I Ask PMs About Data and Their Teams](#50-questions-i-ask-pms-about-data-and-their-teams)
-* [Acute vs. Chronic Product Issues](#acute-vs-chronic-product-issues)
-* [Cutting Corners and Electric Fences](#cutting-corners-and-electric-fences)
-* [Case Study: From The Front Lines](#case-study-from-the-front-lines)
-* [Visualizing Debt, Rework, Cut Corners, and Frustration](#visualizing-debt-rework-cut-corners-and-frustration)
-* [12 Signs You’re Working in a Feature Factory](#12-signs-youre-working-in-a-feature-factory)
-* [Success Theater …](#success-theater-)
-* [Beat the Feature Factory — With Biz Chops](#beat-the-feature-factory--with-biz-chops)
-* [Dear Product Managers …](#dear-product-managers-)
-* [Hi Lexi. I have a couple posts that probably answer your question. Off the top of my head:](#hi-lexi-i-have-a-couple-posts-that-probably-answer-your-question-off-the-top-of-my-head)
-* [Place Your Bets](#place-your-bets)
-* [Safety, Discomfort, and the Art of Self-Service Un***king](#safety-discomfort-and-the-art-of-selfservice-unking)
-* [Startups and the Enterprise Vortex](#startups-and-the-enterprise-vortex)
-* [A 12-Step Program for Recovering Product Managers](#a-12step-program-for-recovering-product-managers)
-* [110 Product Development Posts Later…](#110-product-development-posts-later)
-* [140 Product Management Action Verbs](#140-product-management-action-verbs)
-* [Evangelist/Consultant Myopia](#evangelistconsultant-myopia)
-* [Untangling OKRs with a Big, Visual Board](#untangling-okrs-with-a-big-visual-board)
-* [What We Can’t See](#what-we-cant-see)
-* [50 Things I’ve Learned About Product Management](#50-things-ive-learned-about-product-management)
-* [PM “Responsibilities” ?](#pm-responsibilities-)
-* [90 Problems You’ve Heard About Before](#90-problems-youve-heard-about-before)
-* [20 Ways to Kill Elephants (In Rooms)](#20-ways-to-kill-elephants-in-rooms)
-* [Play Your Own Game](#play-your-own-game)
-* [Talking Product: Running Themes from a Year of Conversations](#talking-product-running-themes-from-a-year-of-conversations)
-* [The Learning Styles Myth and User Onboarding](#the-learning-styles-myth-and-user-onboarding)
-* [#NoEstimates. Two Different Problems](#noestimates-two-different-problems)
-* [Completed != Validated](#completed--validated)
-* [We Are What We Learn](#we-are-what-we-learn)
-* [Trello, “Jira Sucks”, and Tool Dysfunction](#trello-jira-sucks-and-tool-dysfunction)
-* [Product vs. Single Projects (and 8x Teams)](#product-vs-single-projects-and-8x-teams)
-* [The 20 Jobs Of In-App Messaging](#the-20-jobs-of-inapp-messaging)
-* [Unvalidated Complexity is a Liability](#unvalidated-complexity-is-a-liability)
-* [Usability Principles and Onboarding](#usability-principles-and-onboarding)
-* [10 Big Software PM Time Wasters](#10-big-software-pm-time-wasters)
-* [Do You Ask For Story-Level Estimates?](#do-you-ask-for-storylevel-estimates)
-* [Outcomes? We’re Programmed to Get into the Weeds](#outcomes-were-programmed-to-get-into-the-weeds)
-
 # 8 Trends Shaping Modern Product Management
 
 A brief post to list eight trends that are shaping modern product management.
@@ -173,7 +28,7 @@ Research”. Continuous Delivery impacts roadmap creation and “key events” (
 release planning / product lifecycle management). And data impacts multiple
 areas.
 
-![](https://cdn-images-1.medium.com/max/720/1*P40f_Ch_UZodMZeP1VfuqA.png)
+![](https://cdn-images-1.medium.com/max/800/1*P40f_Ch_UZodMZeP1VfuqA.png)
 
 So what does this all mean for product managers? I’ll save that for another
 post. Please comment if you have anything to add.
@@ -203,7 +58,7 @@ For some perspective, when I was in 2nd grade I played the part of the
 “Eternal Question” in our blockbuster play _Vernacular Island_. My costume was
 a big question mark taped to a headband.
 
-![](https://cdn-images-1.medium.com/max/720/1*OrSJKFXvexqC3Mx8-TOTVg.png)
+![](https://cdn-images-1.medium.com/max/800/1*OrSJKFXvexqC3Mx8-TOTVg.png)
 
 The Eternal Question
 
@@ -759,7 +614,7 @@ Product Development_, Donald G. Reinertsen shows the following graph to
 demonstrate that the average information generated by such a test is a
 function of its failure rate:
 
-![](https://cdn-images-1.medium.com/max/720/0*XRVALKugCEUqoy4O.jpg)
+![](https://cdn-images-1.medium.com/max/800/0*XRVALKugCEUqoy4O.jpg)
 
 This should look familiar to engineers as the theoretical basis behind the
 binary search algorithm, but for the rest of us Reinertsen explains:
@@ -887,7 +742,7 @@ are the same, but the pace is massively accelerated.
 Let me present the basic model we developed and played around with at Agile
 Open.
 
-![](https://cdn-images-1.medium.com/max/720/0*EZrEwRg_8zTn0KaC.png)
+![](https://cdn-images-1.medium.com/max/800/0*EZrEwRg_8zTn0KaC.png)
 
 How does this work? Let’s start out with the basics:
 
@@ -987,101 +842,13 @@ reflection in the form of this post, and now I’m off to the steady-state
 (bed). Cheers!
 
 
-# What comes to mind first …. love the problem and sense the impact.
-
-People focus myopically on craft and perfection when there is not obvious
-evidence for the impact of their work. And you can’t really blame…
-
-* * *
-
-What comes to mind first …. **love the problem and sense the impact.**
-
-People focus myopically on craft and perfection when there is not obvious
-evidence for the impact of their work. And you can’t really blame them.
-Sensing impact feels good. It makes you feel better about the corners you
-might have cut — that delta between perfect and what works. But when you lack
-that sense of impact it is easy to focus on what you can control (craft, and
-“doing it right”).
-
-I’ve heard it from engineers, product, and UX alike for years. “At the end of
-the day I can just dig into the architecture”. “When all else fails I can
-focus on design patterns.” “Just ship it”. From that angle, you can say that
-the role of the product manager is to help the team fall in LOVE with a
-customer/user/business (hopefully all three) problem AND then do whatever
-possible to guide the team towards a sense of real IMPACT (not success
-theater, not made up metrics, not “on to the next thing”, but something that
-passes intellectual and emotional muster.)
-
-> help the team fall in LOVE with a customer/user/business (hopefully all
-three) problem AND then do whatever possible to guide the team towards a sense
-of real IMPACT.
-
-This can be through “hard” skills (qual data, quant data, customer interviews,
-experiment design, competitive analysis, good story writing, analysis,
-decision making frameworks, plain old experience) and also through “soft”
-skills like communication, motivation, leadership, empathy, focus, time
-management, clarity, etc.
-
-So **LOVE THE PROBLEM and SENSE OF IMPACT.** If you just do the former, you’ll
-have a sad team.
-
-![](https://cdn-images-1.medium.com/max/720/1*uoHuvdHS5MgiTz7D3Y-wGQ.jpeg)
-
-DailyMailUK
-
-They’ll love the problem, but have no sense they’re solving it. If you only do
-the latter, and they **don’t **love the problem, and only see KPIs, then that
-wont make a difference either.** It is LOVE and IMPACT**. Cheesy, I know. In
-both of these cases it is easy to go back to craft. As professionals mature,
-this becomes harder and harder. Simply shipping, or the perfect architecture,
-or the perfect pattern become tired goals. As you develop professionally, so
-does the desire for a real sense of validated impact.
-
-Finding that balance requires creative problem solving, even if the “official”
-problem solving isn’t in the PMs court. Problem definition requires problem
-solving. And they also take speaking the language of the other parties
-involved. You have to be (at a minimum) quad lingual (customer, engineering,
-UX, and business).
-
-IMO, one cop out is the “healthy tension” concept. In that model, you’ll have
-the various silos fight it out and the solution will magically end up settling
-somewhere in the mundane middle. No risks taken. No real fulfillment from the
-team on a job well done. It is really a battle of the guesses. This is a
-“spray and pray” model. You’re relying on the battle and tension to somehow
-yield the best path forward. This doesn’t feel healthy to me, and doesn’t
-compete with a motivated team (Love), moving with a sense of Impact.
-
-At my previous job I was asked what would motivate me after a day of work as a
-PM (I was a UX Researcher at the time). And here was my answer … which pretty
-much sums up my post above:
-
-> _I would leave the engineers I work with _**_incredibly psyched about what
-they were working on, able to see the potential impact, comfortable with the
-risks, and confident with the direction we were taking together_**_. They’d
-have “flow”, and so would I. I’d connect them to the data and insights that
-would help them understand, on a deep level, the problem our customers were up
-against, as well as the business objective. Importantly, I’d “do” things …
-there would be tickets in Pivotal for their requests, and they’d always feel I
-was pulling my weight. This could be very practical and mundane stuff but I
-wouldn’t mind: designing a survey, processing feedback, arranging calls with
-customers, doing competitive analysis, data analysis, doing lo-fi usability
-tests with a customer and iterating rapidly, etc. During that day I would have
-taken something very gnarly and diffuse, and helped boil it down into 3 clean
-bullets that somehow had a unifying effect on the project. Go from complex to
-actionable._
-
-Of course, this all goes with your “day job” of knowing your customers/users
-better than they understand themselves, and really tapping into their story
-and job. But such is the life of a PM!
-
-
 # Sticky Love — Choosing Between Physical Boards and Online Tools
 
 I say both.
 
 * * *
 
-![](https://cdn-images-1.medium.com/max/720/1*UstcUT_2Ly24yQdwGDgWpg.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*UstcUT_2Ly24yQdwGDgWpg.jpeg)
 
 ### Sticky Love — Choosing Between Physical Boards and Online Tools
 
@@ -1132,7 +899,7 @@ physical tools. So I settled on the imperfect “online”.
   * Preventing measurement dysfunction. Not all metrics from online tools are applicable in all situations, and many are abused
   * Boards can accommodate theme, epic, and story level views simultaneously which aids in mentally connecting epics and their stories
 
-![](https://cdn-images-1.medium.com/max/720/1*TUtzVadAlkWo7b6TYEkTCA.png)
+![](https://cdn-images-1.medium.com/max/800/1*TUtzVadAlkWo7b6TYEkTCA.png)
 
 Spotify Agile Board (source:
 <https://www.pinterest.com/pin/495396027732629779/> )
@@ -1151,7 +918,7 @@ Spotify Agile Board (source:
   * Encouraging edits to existing cards
   * Handling lots of cards / tickets
 
-![](https://cdn-images-1.medium.com/max/720/1*4IeVQY7bNmuy1voTRCohGg.png)
+![](https://cdn-images-1.medium.com/max/800/1*4IeVQY7bNmuy1voTRCohGg.png)
 
 Online Kanban Board (source: <http://leankit.com/blog/2013/12/seeing-big-
 picture/>)
@@ -1176,7 +943,7 @@ hate the tool (I’ve had teams hate Jira, Rally, Fogbuz, Pivotal, Bugzilla,
 etc.) [You always end up hating the digital
 tool](https://twitter.com/henrikkniberg/status/256055433045880832) …
 
-![](https://cdn-images-1.medium.com/max/720/1*n2M-r4OYkMu8g6lbuiYhmw.png)
+![](https://cdn-images-1.medium.com/max/800/1*n2M-r4OYkMu8g6lbuiYhmw.png)
 
 Not sure what he thinks now …
 
@@ -1299,7 +1066,7 @@ activity.
 Apathy, boredom, and anxiety are Flow anti-patterns. Clear goals, tight
 feedback loops, and the absence of blockers are Flow state prerequisites.
 
-![](https://cdn-images-1.medium.com/max/720/0*h332lIEr3yb8sR3R.jpg)
+![](https://cdn-images-1.medium.com/max/800/0*h332lIEr3yb8sR3R.jpg)
 
 And they also happen to fit squarely in a product manager’s job description.
 In short, help the team focus all of its energy on driving value directly to
@@ -1558,7 +1325,7 @@ collaborate, deliver, reflect, and improve. Which is remarkably similar to the
 processes), and the [Deming Circle
 (PDCA)](https://en.wikipedia.org/wiki/PDCA).
 
-![](https://cdn-images-1.medium.com/max/720/0*IU7FzFvFIufSAPPL.png)
+![](https://cdn-images-1.medium.com/max/800/0*IU7FzFvFIufSAPPL.png)
 
 Four processes form the [“basic
 mechanisms”](http://evolution.berkeley.edu/evolibrary/article/evo_16) of
@@ -1823,7 +1590,7 @@ I frequently hear questions like …
 
 ### User Stories and Data
 
-![](https://cdn-images-1.medium.com/max/720/1*YI6YoTq9GexVQpoNxav-dA.png)
+![](https://cdn-images-1.medium.com/max/800/1*YI6YoTq9GexVQpoNxav-dA.png)
 
 I frequently hear questions like …
 
@@ -1902,7 +1669,7 @@ gratification,**AND THAT** they enjoy seeing news from their friends, **WHEN**
 they encounter a “feed” of friend related news-snippets, **THEN** they will
 spend hours online, and may even click on ads.
 
-![](https://cdn-images-1.medium.com/max/720/0*t8aZUJuE-oRCvArH.gif)
+![](https://cdn-images-1.medium.com/max/800/0*t8aZUJuE-oRCvArH.gif)
 
 Bingo! You have some clues for what to measure. You have context, events, and
 outcomes. Now validate!
@@ -2108,7 +1875,7 @@ responsiveness at first, but they might not be any happier in a year.
 
 From an Agile perspective this is a big “requirements upfront” anti-pattern:
 
-![](https://cdn-images-1.medium.com/max/720/1*ovSub-mFzsrJzHrZTo7J-A.png)
+![](https://cdn-images-1.medium.com/max/800/1*ovSub-mFzsrJzHrZTo7J-A.png)
 
 Looks simple huh? ([Source](http://sunnibrown.com/2009/05/rfp-evaluation-
 process-map))
@@ -2181,7 +1948,7 @@ manage](http://blog.aha.io/index.php/the-product-manager-vs-product-owner/)?
 Mini-CEO or minion? Who knows!? The Internet sure doesn’t. Maybe this dolphin
 does. Nope.
 
-![](https://cdn-images-1.medium.com/max/720/1*l7OCGXPxzzJcWXYGJt4aiA.png)
+![](https://cdn-images-1.medium.com/max/800/1*l7OCGXPxzzJcWXYGJt4aiA.png)
 
 Ever feel like a smart dolphin utterly confused by Product Management?
 
@@ -2195,7 +1962,7 @@ stripes (coders are designers, also), inventors, and visionaries. Trust them,
 they’ve got a lot in common. Don’t separate them into departments. Departments
 are for Sears and Macy’s.
 
-![](https://cdn-images-1.medium.com/max/720/1*Cp_BQY4pvuxL87NfT4LbEg.png)
+![](https://cdn-images-1.medium.com/max/800/1*Cp_BQY4pvuxL87NfT4LbEg.png)
 
 Together We Make Stuff. And Trust The Other People Know Their Shit
 
@@ -2215,7 +1982,7 @@ as humanly possible. Decentralize. Look skeptically across the room when
 someone says that you (codeword engineering and UX) just need to “execute on
 the roadmap” and then doles out projects.
 
-![](https://cdn-images-1.medium.com/max/720/1*gJzNUvyYbJdl23kxh5590g.png)
+![](https://cdn-images-1.medium.com/max/800/1*gJzNUvyYbJdl23kxh5590g.png)
 
 The Sorcerer And The Magic ProjectMap
 
@@ -2233,7 +2000,7 @@ If you happen to be that lucky person -- and trust me this isn’t the standard
 “recipe for burnout, can’t wait till I’m in biz dev or strategy” role -- then
 read on. Embrace the Whatchamacallit Way.
 
-![](https://cdn-images-1.medium.com/max/720/1*YdTYpziOt-ne-H28INCZzQ.png)
+![](https://cdn-images-1.medium.com/max/800/1*YdTYpziOt-ne-H28INCZzQ.png)
 
 Maybe? Could it be?
 
@@ -2261,14 +2028,14 @@ for our product, and the business and team will benefit. We’ll feel good about
 our work, and customers will come up to us in airports when we wear our shwag
 t-shirts and thank us.
 
-![](https://cdn-images-1.medium.com/max/720/1*zRQ2kIVCB1WasVdU_QE8qw.png)
+![](https://cdn-images-1.medium.com/max/800/1*zRQ2kIVCB1WasVdU_QE8qw.png)
 
 Our handy dandy trust laden Kanban magnets
 
 Go forth Whatchamacallit ! They’ll tell you “it’s not that simple”! Ask Why
 five times and see where you get …
 
-![](https://cdn-images-1.medium.com/max/720/1*qHp-tFIYoebLpJzlAAfhlw.png)
+![](https://cdn-images-1.medium.com/max/800/1*qHp-tFIYoebLpJzlAAfhlw.png)
 
 
 # This PM Hack Saved Me 1 Hour A Day (and helped me connect with more
@@ -2285,7 +2052,7 @@ customers)
 _How I saved an hour every day, stopped wasting my team and customers’ time,
 and gathered valuable insights and feedback from our customers._
 
-![](https://cdn-images-1.medium.com/max/720/0*KiQcA8JAMWnAV31b.)
+![](https://cdn-images-1.medium.com/max/800/0*KiQcA8JAMWnAV31b.)
 
 **Image by **[**petradr**](https://unsplash.com/petradr)
 
@@ -2328,7 +2095,7 @@ assistance. I prefer this approach to email because it reaches the customer
 in-context when they are more receptive to the guide copy and request for
 feedback.
 
-![](https://cdn-images-1.medium.com/max/720/0*wFtBcCDbEcqnPPOj.)
+![](https://cdn-images-1.medium.com/max/800/0*wFtBcCDbEcqnPPOj.)
 
 ### Ingredient #2: Targeting
 
@@ -2337,7 +2104,7 @@ details page viewed &gt; 5 times). This is case where casting a wide net is
 NOT ideal. You want to screen your interviewees, and limit the disruption to
 visitors who don’t match your screening criteria.
 
-![](https://cdn-images-1.medium.com/max/720/0*ac-puspG3KKhjjzj.)
+![](https://cdn-images-1.medium.com/max/800/0*ac-puspG3KKhjjzj.)
 
 ### Ingredient #3:A online booking app.
 
@@ -2348,7 +2115,7 @@ allows a single booking profile, but still manages to add appointments to my
 calendar. From a customer standpoint, the experience is pretty intuitive. They
 click on the button in the guide and see this:
 
-![](https://cdn-images-1.medium.com/max/720/0*KyEhoG_XcqKl_NZJ.)
+![](https://cdn-images-1.medium.com/max/800/0*KyEhoG_XcqKl_NZJ.)
 
 ### Outcome
 
@@ -2397,7 +2164,7 @@ master/)) or by how it is expressed in the context of a domain or methodology
 [SaaS](http://pragmaticmarketing.com/resources/saas-product-management), in
 Lean Startup).
 
-![](https://cdn-images-1.medium.com/max/720/1*2ordkKcC7Vqb17nx60_coA.png)
+![](https://cdn-images-1.medium.com/max/800/1*2ordkKcC7Vqb17nx60_coA.png)
 
 … surfing the Google in search for answers
 
@@ -2409,7 +2176,7 @@ Intercom or Marty Cagan said so!”
 In 2015 I attended three conferences where the best presenter jokes were PM/PO
 jokes, and the audience of UXers and Engineers ate it up.
 
-![](https://cdn-images-1.medium.com/max/720/1*m9YMgBo9_5syWPhYqgjkyw.png)
+![](https://cdn-images-1.medium.com/max/800/1*m9YMgBo9_5syWPhYqgjkyw.png)
 
 In my view we’re asking the wrong question. We’re replacing a tough discussion
 of values and principles — as a whole team, not just as product managers —
@@ -2426,7 +2193,7 @@ occasionally worn by PMs, but caution against the “title”. **I suggest User
 Experience or Engineering. **There’s a community of practice and a less
 weighty chip on the shoulder.
 
-![](https://cdn-images-1.medium.com/max/720/1*WzG_M_41ku68_uSZEPjTLg.png)
+![](https://cdn-images-1.medium.com/max/800/1*WzG_M_41ku68_uSZEPjTLg.png)
 
 Consider what a young associate product manager wrote me the other day:
 
@@ -2484,7 +2251,7 @@ A no-nonsense list of of questions for B2B SaaS Customer Research
 
 _A no-nonsense list of of questions for B2B SaaS Customer Research_
 
-![](https://cdn-images-1.medium.com/max/720/1*iDQbRKoEiCmtCjRbM93D9A.png)
+![](https://cdn-images-1.medium.com/max/800/1*iDQbRKoEiCmtCjRbM93D9A.png)
 
 This is an audio cassette
 
@@ -2514,7 +2281,7 @@ that it was a good time to put some pen to paper. First some context:
   * Be aware of nonverbal cues, and “leading”. Take a deep breath and smile. Repeat words to yourself to stay in the zone like “curious”, “observant”, “patient”, “open”, “non-judgmental”, and “respectful”. Write these down as reminders
   * Use an audio recorder so as not to distract the customer. Or have a notetaker
 
-![](https://cdn-images-1.medium.com/max/720/1*XfyklCIxMeb6sTsg7qXqeQ.png)
+![](https://cdn-images-1.medium.com/max/800/1*XfyklCIxMeb6sTsg7qXqeQ.png)
 
 Notes from a recent meeting …
 
@@ -2577,26 +2344,6 @@ customer.
   50. Describe an intractable problem from your work world … something that no amount of work, research, meetings, and discussion — formal and otherwise — can seem to fix. What is the sticking point?
 
 
-# I’m good with that … if the team needs/wants that.
-
-* * *
-
-I’m good with that … if the team needs/wants that. Would they pay the PM to do
-that if they owned the budget? Done right — with trust, empathy, and buy-in —
-this can be an incredibly valuable “hat” worn by somebody. Does it need to be
-the same person all the time? Does that person need the title? That’s
-something establishing your team values can uncover IMHO.
-
-
-# I’ll do my best to write a follow up post. Thanks for the comments. Maybe we
-could collaborate?
-
-* * *
-
-I’ll do my best to write a follow up post. Thanks for the comments. Maybe we
-could collaborate?
-
-
 # Persona(s) Non Grata
 
 Saving the persona from itself, from selfish UX, and other tips
@@ -2607,7 +2354,7 @@ Saving the persona from itself, from selfish UX, and other tips
 
 #### _Saving the persona from itself, from selfish UX, and other tips_
 
-![](https://cdn-images-1.medium.com/max/720/1*PYLd6uR47EKj0uaWYRT3yA.png)
+![](https://cdn-images-1.medium.com/max/800/1*PYLd6uR47EKj0uaWYRT3yA.png)
 
 An engineer once described a persona exercise as “theater camp”. I thought
 about that for a while and realized what she was getting at. Here I was coming
@@ -2620,7 +2367,7 @@ It’s like a wrestler doing their first yoga class. Or me doing pair
 programming or trying TDD. I tell the one about role playing games being the
 inspiration for personas. Crickets. My jokes fall flat.
 
-![](https://cdn-images-1.medium.com/max/720/1*ts7qjjGY3B7UE4FD0DA7HA.png)
+![](https://cdn-images-1.medium.com/max/800/1*ts7qjjGY3B7UE4FD0DA7HA.png)
 
 [Role Playing Game Character Sheet aka
 Persona](http://markdangerchen.net/papers/coordination-cooperation-and-
@@ -2697,7 +2444,7 @@ How do you structure and visualize this approach? Instead of a static (and
 quickly stale) persona, we’d use a Kanban board (or “canvas”) to prioritize
 assumptions, and then plan and execute experiments.
 
-![](https://cdn-images-1.medium.com/max/720/0*YoQirHs3SV7frdye.)
+![](https://cdn-images-1.medium.com/max/800/0*YoQirHs3SV7frdye.)
 
 The challenge here is that openly acknowledging how little we know is not
 exactly the stuff of CTO and VP of Product dreams. It makes people uneasy.
@@ -2731,7 +2478,7 @@ generalized personas by going backwards — which essentially mimics how ski
 designers and marketers create personas in the first place. It was a good
 example of experiencing the thinking process instead of mandating it.
 
-![](https://cdn-images-1.medium.com/max/720/0*ojES-hr1w2MCd0qB.)
+![](https://cdn-images-1.medium.com/max/800/0*ojES-hr1w2MCd0qB.)
 
 Starting with Fake Fake People rarely gets you to Real Fake People
 
@@ -2784,7 +2531,7 @@ Check out [the period table of
 storytelling](http://www.designthroughstorytelling.net/periodic/) and get lost
 for an afternoon.
 
-![](https://cdn-images-1.medium.com/max/720/1*UPyBhXJbHufZFHYAga0Vng.png)
+![](https://cdn-images-1.medium.com/max/800/1*UPyBhXJbHufZFHYAga0Vng.png)
 
 [Periodic Table of
 Storytelling](http://www.designthroughstorytelling.net/periodic/)
@@ -2859,7 +2606,7 @@ emotional support when she shanks the ball into another fairway. The caddie is
 relying on the golfer for money, for conversation (perhaps), and for regular
 work. Both have a relationship with the Pro and other Golfers.
 
-![](https://cdn-images-1.medium.com/max/720/0*J7yqiHDYAeKWpgk-.)
+![](https://cdn-images-1.medium.com/max/800/0*J7yqiHDYAeKWpgk-.)
 
 The relationship view is a much needed layer of understanding. The real
 opportunities for products often exists along the edges … not at the nodes.
@@ -2888,7 +2635,7 @@ and have mastered the core skills (“just code and deliver” below). Personas,
 and their inherent ambiguity, definitely makes things more complicated at
 first …
 
-![](https://cdn-images-1.medium.com/max/720/1*BRvrROzR0a52Xw_2tTXs2A.png)
+![](https://cdn-images-1.medium.com/max/800/1*BRvrROzR0a52Xw_2tTXs2A.png)
 
 Shu Ha Ri Kokoro — [Allistair
 Cockburn](http://alistair.cockburn.us/Shu+Ha+Ri+Kokoro)
@@ -2932,7 +2679,7 @@ This is what I came up with ([click here for high
 res](https://drive.google.com/file/d/0BwV5ydXhNqgiRlgzUk04VER4aEE/view?usp=sharing)).
 What do you see?
 
-![](https://cdn-images-1.medium.com/max/720/1*A_VyiMYQB7VoabXbI_e0pg.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*A_VyiMYQB7VoabXbI_e0pg.jpeg)
 
 
 # Focus Until It Hurts
@@ -2951,7 +2698,7 @@ definition opportunists and risk-takers and the list of good ideas is endless.
 
 It’s easy to talk about focus. But much harder to BE focused.
 
-![](https://cdn-images-1.medium.com/max/720/1*GEu1h17A6_pm_grHkXzv-g.png)
+![](https://cdn-images-1.medium.com/max/800/1*GEu1h17A6_pm_grHkXzv-g.png)
 
 When the lights go up …. think of all the great things we could do!
 
@@ -3041,7 +2788,7 @@ Unfortunately, the Koolaid is spiked with some [wicked cheap
 vodka](http://gizmodo.com/5966569/why-cheap-booze-makes-your-hangover-so-
 horrible).
 
-![](https://cdn-images-1.medium.com/max/720/0*ErUuStIXI2e1gL6s.)
+![](https://cdn-images-1.medium.com/max/800/0*ErUuStIXI2e1gL6s.)
 
 Most organizations are structurally and culturally incapable of making it safe
 for teams to experiment and occasionally fail. As companies progress out of
@@ -3064,7 +2811,7 @@ the company accu-hires an innovation lab and starts doing hack days, longing
 for its innocent childhood, skinned knees, bruises, and bright smiles (and
 all).
 
-![](https://cdn-images-1.medium.com/max/720/1*ZKA3Bdow-IF5MG5Oa7lc5g.png)
+![](https://cdn-images-1.medium.com/max/800/1*ZKA3Bdow-IF5MG5Oa7lc5g.png)
 
 <http://blog.nwf.org/2013/06/how-to-get-dirty-for-international-mud-day/>
 
@@ -3075,7 +2822,7 @@ two-feet-your-next-meeting)”). The former trailblazer wanders drunkenly into
 oblivion, talking about the good old days, and then joins the board of a
 startup.
 
-![](https://cdn-images-1.medium.com/max/720/1*LzU0DFaVoTiN_aOfBMe7ug.png)
+![](https://cdn-images-1.medium.com/max/800/1*LzU0DFaVoTiN_aOfBMe7ug.png)
 
 <http://tokyomango.com/tokyo_mango/2011/06/photographer-documents-drunk-
 salarymen-passed-out-on-sidewalks.html>
@@ -3089,7 +2836,7 @@ masses to embrace impactful and honest work, while not being able to dislodge
 the leadership hegemony. That was a buzzkill, but I couldn’t completely
 discount his argument.
 
-![](https://cdn-images-1.medium.com/max/720/1*FkbI54bWeECiXwHNOYl_bg.png)
+![](https://cdn-images-1.medium.com/max/800/1*FkbI54bWeECiXwHNOYl_bg.png)
 
 <http://www.marinephotobank.org/resources/OIFcontestwinners2012_essays_Potenski.php>
 
@@ -3132,7 +2879,7 @@ measure-learn-throw-things-against-the-wall-and-see-if-they-work/), the
 aliens all under the same category, and categorize them as “more functional”.
 They are innately human.
 
-![](https://cdn-images-1.medium.com/max/720/1*iIXWPQLE2asgjYPKvA-biA.png)
+![](https://cdn-images-1.medium.com/max/800/1*iIXWPQLE2asgjYPKvA-biA.png)
 
 We’re inundated with ways — under “ideal” circumstances — to build great
 products people love. My Twitter feed swims in it. The summary is basically …
@@ -3203,11 +2950,11 @@ restaurants.com/joule/).
 
 Go big. Really big. Like $500 big:
 
-![](https://cdn-images-1.medium.com/max/720/1*CmRS6p0jrCwPFBYm38sZ7g.png)
+![](https://cdn-images-1.medium.com/max/800/1*CmRS6p0jrCwPFBYm38sZ7g.png)
 
 Convert the money to pieces of plastic:
 
-![](https://cdn-images-1.medium.com/max/720/1*1Mv5uqL2jr9JS9AO46IS5Q.png)
+![](https://cdn-images-1.medium.com/max/800/1*1Mv5uqL2jr9JS9AO46IS5Q.png)
 
 #### Step 2
 
@@ -3218,13 +2965,13 @@ along with $500 in healthy food.
 
 **Eat the food.** Why not? You’ve invested this much into eating healthy. You might as well. Each morning I get the Breakfast of Champions at Joule.
 
-![](https://cdn-images-1.medium.com/max/720/1*Rj7PmQBG2pLjecMaOg0tzg.png)
+![](https://cdn-images-1.medium.com/max/800/1*Rj7PmQBG2pLjecMaOg0tzg.png)
 
-![](https://cdn-images-1.medium.com/max/720/1*A8ibj_5fNqinbPidiW3TDg.png)
+![](https://cdn-images-1.medium.com/max/800/1*A8ibj_5fNqinbPidiW3TDg.png)
 
 and for lunch, I have a salad and some protein from H+H.
 
-![](https://cdn-images-1.medium.com/max/720/1*GtXMns6Oiljty1uiaAnQwg.png)
+![](https://cdn-images-1.medium.com/max/800/1*GtXMns6Oiljty1uiaAnQwg.png)
 
 <http://www.movoto.com/blog/food/best-restaurants-in-raleigh-for-vegetarians/>
 
@@ -3244,7 +2991,7 @@ Personal passions. And respect for diverse viewpoints.
 #### Topics: Learning goals. Decisions. Collaboration. Data. Experimentation.
 Personal passions. And respect for diverse viewpoints.
 
-![](https://cdn-images-1.medium.com/max/720/1*h-fQGOKu14ZeE5Od7e4o4g.png)
+![](https://cdn-images-1.medium.com/max/800/1*h-fQGOKu14ZeE5Od7e4o4g.png)
 
 [Arnold Lakhovsky](https://en.wikipedia.org/wiki/Arnold_Lakhovsky "Arnold
 Lakhovsky" ), _The Conversation_ (circa 1935)
@@ -3269,7 +3016,7 @@ There is a lot of material out there to help teams collaborate and communicate
 more generally, but I wanted to focus in on common product development
 situations.
 
-![](https://cdn-images-1.medium.com/max/720/1*8n-B9T5qiH_zx6RKOivOTg.png)
+![](https://cdn-images-1.medium.com/max/800/1*8n-B9T5qiH_zx6RKOivOTg.png)
 
 So here’s the first iteration …
 
@@ -3658,7 +3405,7 @@ stories) of companies that hold weekly meetings:
   * Pardot: [Weekly](http://davidcummings.org/2016/01/21/develop-a-meeting-rhythm/)
   * Twitter: [Weekly “Tea-Time](http://mashable.com/2016/01/29/twitter-employees-rally/#boBjCdveU5qy)”. Note the situation in this link:
 
-![](https://cdn-images-1.medium.com/max/720/1*ni4Um463LmEvGvwujnV0fg.png)
+![](https://cdn-images-1.medium.com/max/800/1*ni4Um463LmEvGvwujnV0fg.png)
 
 [Source](https://twitter.com/WillStick/status/692775729235296256/photo/1?ref_src=twsrc%5Etfw)
 
@@ -3690,7 +3437,7 @@ Let it be messy. Let it be unscripted. Tell the story. Connect. An “efficient�
 meeting message can be easily communicated by other means. But myths, ritual,
 and narratives can’t.
 
-![](https://cdn-images-1.medium.com/max/720/1*heqTiupFvKOa8B7VH7Cknw.png)
+![](https://cdn-images-1.medium.com/max/800/1*heqTiupFvKOa8B7VH7Cknw.png)
 
 <http://ocw.mit.edu/courses/anthropology/21a-212-myth-ritual-and-symbolism-
 spring-2004/>
@@ -3727,7 +3474,7 @@ of all-hands time to QA.
 
 Who will share the stage?
 
-![](https://cdn-images-1.medium.com/max/720/1*e-8U0wBLxOm_4aDly-PrBQ.png)
+![](https://cdn-images-1.medium.com/max/800/1*e-8U0wBLxOm_4aDly-PrBQ.png)
 
 <http://www.uxforthemasses.com/improve-ux-presentations/>
 
@@ -3794,7 +3541,7 @@ afternoons. Friday afternoons are a wash. “Branch day” can cause major
 distractions for dev teams. You’ll never find the perfect time, but there are
 terrible times. Avoid them.
 
-![](https://cdn-images-1.medium.com/max/720/1*5N3Mi-F-feSfrH33S08WzA.png)
+![](https://cdn-images-1.medium.com/max/800/1*5N3Mi-F-feSfrH33S08WzA.png)
 
 <https://www.tumblr.com/tagged/ahotbrewwillseeyouthrough>
 
@@ -3871,7 +3618,7 @@ Most goals have a “why”, some constraints, and some proposed solutions. I ca
 these Because, While/Without, and By. We’ll repeat these throughout the mind-
 map.
 
-![](https://cdn-images-1.medium.com/max/720/0*nzHBM1ylBXCLtK2K.)
+![](https://cdn-images-1.medium.com/max/800/0*nzHBM1ylBXCLtK2K.)
 
 Goals, Because (Why), While/Without, and By
 
@@ -3885,7 +3632,7 @@ I need to make $70 by tomorrow evening so I can take my visiting friend Bill
 out to dinner. This is my “why”. We use “because” as it helps us form coherent
 sentences inside the mind-map.
 
-![](https://cdn-images-1.medium.com/max/720/0*ArYivwgy1VlOI8Jc.)
+![](https://cdn-images-1.medium.com/max/800/0*ArYivwgy1VlOI8Jc.)
 
 We specify a Because
 
@@ -3896,7 +3643,7 @@ These are not solutions, but they guide our selection of a solution. We use
 use “while” when we assume or know that we will do something alongside the
 solution. Here I list some potential constraints:
 
-![](https://cdn-images-1.medium.com/max/720/0*Or107y94C41XPzIF.)
+![](https://cdn-images-1.medium.com/max/800/0*Or107y94C41XPzIF.)
 
 We list our constraints
 
@@ -3908,7 +3655,7 @@ can’t do physical labor because I **know **I hurt my back. I **assume** travel
 could be expensive (or too time consuming), but who knows … maybe a friend
 will give me a ride. We specify these using the following format:
 
-![](https://cdn-images-1.medium.com/max/720/0*82X3iALLAwDRW1pV.)
+![](https://cdn-images-1.medium.com/max/800/0*82X3iALLAwDRW1pV.)
 
 Each of these constraints has their own assumptions
 
@@ -3918,7 +3665,7 @@ Now that we have a clear understanding of the why and constraints, we dream up
 some potential solutions. We could start a lemonade stand, do some freelance
 web work, or borrow the money.
 
-![](https://cdn-images-1.medium.com/max/720/0*s7ekH2oKdVA07wQ3.)
+![](https://cdn-images-1.medium.com/max/800/0*s7ekH2oKdVA07wQ3.)
 
 Potential solutions
 
@@ -3933,7 +3680,7 @@ I assume people will feel cheated. Again I start with Because and
 While/Without. I hate the taste of powdered lemonade (and I think it will
 leave customers bummed) so I make sure to specify that:
 
-![](https://cdn-images-1.medium.com/max/720/0*CbdL-yVEBKLksRAY.)
+![](https://cdn-images-1.medium.com/max/800/0*CbdL-yVEBKLksRAY.)
 
 It looks like the weather will be hot. And I hate the taste of powdered
 lemonade
@@ -3945,7 +3692,7 @@ assumptions. In this case I’ve made an assumption about what I can charge, my
 overhead, my location, and my product (fresh squeezed lemonade). My assumption
 is that $1 will hit the sweetspot.
 
-![](https://cdn-images-1.medium.com/max/720/0*3H-cvImu_R5evCO0.)
+![](https://cdn-images-1.medium.com/max/800/0*3H-cvImu_R5evCO0.)
 
 Our solutions ALSO have underlying assumptions
 
@@ -3954,7 +3701,7 @@ Our solutions ALSO have underlying assumptions
 Here is the completed mind-map for my goal of making $70 today. This could be
 easily handed to someone and the story would be told.
 
-![](https://cdn-images-1.medium.com/max/720/0*kAn3K-9R1cLf06vL.)
+![](https://cdn-images-1.medium.com/max/800/0*kAn3K-9R1cLf06vL.)
 
 Going from a goal of making $70 to the details of the lemonade stand
 
@@ -3968,7 +3715,7 @@ Because sale’s goals are finicky and potential disruptive, we balance the goal
 with constraints. In this example we make sure to point out that we don’t want
 to sacrifice employee morale, or to stop innovating.
 
-![](https://cdn-images-1.medium.com/max/720/0*J5g-RFZoXxRw7cNV.)
+![](https://cdn-images-1.medium.com/max/800/0*J5g-RFZoXxRw7cNV.)
 
 Sales Goals are potentially dangerous unless mitigated
 
@@ -3977,7 +3724,7 @@ by a limit on the acceptable level of professional services income, first
 because it might distract the team, and second because it could sap employee
 morale.
 
-![](https://cdn-images-1.medium.com/max/720/0*hzHHgN5-wieIblQq.)
+![](https://cdn-images-1.medium.com/max/800/0*hzHHgN5-wieIblQq.)
 
 Turns out that some revenue isn’t investor friendly
 
@@ -3986,7 +3733,7 @@ the all important churn/renewal goal (to offset overly ambitious sales
 tactics). And then we proceed to list solutions. We start with Sales and
 Marketing, but would eventually list product initiatives.
 
-![](https://cdn-images-1.medium.com/max/720/0*APW7dSWMSz6fxWku.)
+![](https://cdn-images-1.medium.com/max/800/0*APW7dSWMSz6fxWku.)
 
 With the constraints listed, we move on to the proposed solutions
 
@@ -4023,7 +3770,7 @@ version in Google Sheets](https://docs.google.com/spreadsheets/d/1hUet-
 D9RLR7ctg6-KW9SNNrYRbL5-zYwt9eCYxLbokE/edit?usp=sharing). Feel free to make a
 copy of it and use as you see fit.
 
-![](https://cdn-images-1.medium.com/max/720/0*Q7NvVjfvs3dvDzOe.)
+![](https://cdn-images-1.medium.com/max/800/0*Q7NvVjfvs3dvDzOe.)
 
 Find this spreadsheet [here](https://docs.google.com/spreadsheets/d/1hUet-
 D9RLR7ctg6-KW9SNNrYRbL5-zYwt9eCYxLbokE/edit?usp=sharing)
@@ -4079,7 +3826,7 @@ WTF? When did we lose our hold of the reigns? We need to fight back. We need
 to regain our honor. We need to ship ****ing product. And to do that we need
 to learn how to control engineers.
 
-![](https://cdn-images-1.medium.com/max/720/1*k0DySgE8CxPlO_h3zIBX4g.png)
+![](https://cdn-images-1.medium.com/max/800/1*k0DySgE8CxPlO_h3zIBX4g.png)
 
 Tom Cruise as Frank T.J. Mackey in Magnolia
 
@@ -4524,7 +4271,7 @@ is a “service” if you think about it) is routinely underestimated. It’s th
 opportunist in all of us. We’d like to believe that there is a homogenous
 groundswell of interest in our product. So we turn on the sales firehose.
 
-![](https://cdn-images-1.medium.com/max/720/1*sie8DhRoJZulViTzUsXmBA.png)
+![](https://cdn-images-1.medium.com/max/800/1*sie8DhRoJZulViTzUsXmBA.png)
 
 Sales and UX have a lot in common. Both deal with psychology every day — sales
 to [close the deal](http://www.businessinsider.com/daniel-pink-to-sell-is-
@@ -4545,7 +4292,7 @@ strategy](https://hbr.org/2015/12/dont-turn-your-sales-team-loose-
 without-a-strategy), things can go a little haywire. Part and parcel to that
 strategy is having a sense of the “who”.
 
-![](https://cdn-images-1.medium.com/max/720/1*juOfh1pFqOVmICjLKHxkWg.png)
+![](https://cdn-images-1.medium.com/max/800/1*juOfh1pFqOVmICjLKHxkWg.png)
 
 UX knows it is very difficult to design a product or service that pleases all
 people, in all situations. People may look similar, and their pains may, in
@@ -4558,7 +4305,7 @@ traits, and organizational culture. Importantly, they design for a limited
 “fingerprint” across these various
 [dimensions](http://www.servicedesigntoolkit.org/assets2013/posters/EN/P3-persona%20dimensions-A1.pdf).
 
-![](https://cdn-images-1.medium.com/max/720/1*7Cv8zQGubobRAua4cpdxEQ.png)
+![](https://cdn-images-1.medium.com/max/800/1*7Cv8zQGubobRAua4cpdxEQ.png)
 
 <http://www.elezea.com/2013/09/case-study-vumi-go-redesign/>
 
@@ -4573,7 +4320,7 @@ solve. They agree on that. But John’s work will need to withstand
 organizational blockers, while Mary has to be scrappy and get the data she
 needs to secure next year’s budget.
 
-![](https://cdn-images-1.medium.com/max/720/1*jYvKGLHWArEF46xdeajYrQ.png)
+![](https://cdn-images-1.medium.com/max/800/1*jYvKGLHWArEF46xdeajYrQ.png)
 
 <http://www.bryaneisenberg.com/personas-magic-behind-mirror/>
 
@@ -4617,7 +4364,7 @@ startup phase we are constantly drilling down, iterating, and validating our
 approach. Sure, your sales and growth might be higher, but you’re not
 learning.
 
-![](https://cdn-images-1.medium.com/max/720/1*yEolUvVRg8rQiKokLUQq5Q.png)
+![](https://cdn-images-1.medium.com/max/800/1*yEolUvVRg8rQiKokLUQq5Q.png)
 
 <http://www.garymagnone.com/blog/content-marketing-digital-touchpoints/>
 
@@ -4653,6 +4400,20 @@ In closing …
   * Choose learning over growth. [Learning starts with specific tests, not a firehose](http://steveblank.com/2015/05/06/build-measure-learn-throw-things-against-the-wall-and-see-if-they-work/). Learning transcends departments in your growing startup. Set learning goals, not sales goals. The sales model validation process cannot be run independently of product or retention experiments.
   * Embrace the value of the [lean canvas](https://leanstack.com/lean-canvas/) in all of its complexity. Don’t skimp on the market segmentation, cost model, and channel hypotheses. Testing more than one or two things at once is virtually impossible.
   * Attract a sales team that is open to iterating, learning, and rolling with changes in approach. Your best bet may be less experienced, but more flexible team members.
+
+
+# I would agree.
+
+* * *
+
+I would agree. Wrong choice of words on my part. I think I was probably
+thinking more of drivers and dependencies not “constraints” in the sense of
+resource constraints. I’d agree that funneling more resources behind a lack of
+focus can lead you even further astray (perhaps the hidden blessing of having
+a small team). I think it was Johanna Rothman who said something like a
+project with one driver and one major constraint can typically succeed. Two
+drivers and two constraints can succeed but only with great luck and
+oversight. And three driver efforts typically always fail.
 
 
 # Decision Making Transparency (The Why)
@@ -4748,7 +4509,7 @@ coordination costs or losing that single “wringable neck”. It’s a recipe f
 burnout, and a big reason why people do their time in the PM ranks and then
 leave for greener pastures.
 
-![](https://cdn-images-1.medium.com/max/720/0*fDxI8bjXm9lfrJuP.)
+![](https://cdn-images-1.medium.com/max/800/0*fDxI8bjXm9lfrJuP.)
 
 <https://theconsultantlounge.com/2015/09/avoid-burnout-in-consulting/>
 
@@ -4873,7 +4634,7 @@ starting-a-food-truck/#440fea602930)). If your clientele dries up — the lo
 venture funded startup goes caput, for example — you can drive somewhere else.
 It’s just you, your partner, your food, and your customers.
 
-![](https://cdn-images-1.medium.com/max/720/0*1mV9tajvoGXrqxH1.)
+![](https://cdn-images-1.medium.com/max/800/0*1mV9tajvoGXrqxH1.)
 
 <http://www.post-gazette.com/life/dining/2015/07/26/Food-trucks-have-nowhere-
 to-go-but-up/stories/201507260052>
@@ -4919,7 +4680,7 @@ chili [might have a rat head](http://www.nydailynews.com/news/national
 around in there if you aren’t careful (test first). It’s hard to keep track of
 all that food, rotate it, heat and cool it, and throw it out when it festers.
 
-![](https://cdn-images-1.medium.com/max/720/0*dbjrQsKORYkVPosj.)
+![](https://cdn-images-1.medium.com/max/800/0*dbjrQsKORYkVPosj.)
 
 ### How About Your Startup?
 
@@ -4989,7 +4750,7 @@ A SaaS Startup Comedy. Sort of.
 
 A SaaS Startup Comedy. Sort of.
 
-![](https://cdn-images-1.medium.com/max/540/1*Q9SrGeq-aGUkX9WM1kk8bw.jpeg)
+![](https://cdn-images-1.medium.com/max/600/1*Q9SrGeq-aGUkX9WM1kk8bw.jpeg)
 
 [PDF
 version](https://drive.google.com/file/d/0BwV5ydXhNqgiQWNWSUVJUjQ1WUU/view?usp=sharing)
@@ -5057,7 +4818,7 @@ the planning fallacy, confirmation bias, and groupthink.
   6. Converage prematurely on solutions
   7. Rely on estimates, despite the fallibility of those estimates
 
-![](https://cdn-images-1.medium.com/max/720/1*lOyg3v-GPArdMfHFP558mA.png)
+![](https://cdn-images-1.medium.com/max/800/1*lOyg3v-GPArdMfHFP558mA.png)
 
 “Big Batch” Planning
 
@@ -5073,11 +4834,11 @@ the planning fallacy, confirmation bias, and groupthink.
 
 **This Tweet from Jeff Patton wraps it all up:**
 
-![](https://cdn-images-1.medium.com/max/720/0*_5HN1gHKLCGXKDr1.)
+![](https://cdn-images-1.medium.com/max/800/0*_5HN1gHKLCGXKDr1.)
 
 **Some common pitfalls I described in a recent talk:**
 
-![](https://cdn-images-1.medium.com/max/720/1*fD83hoX1EY5rVzT5ERx4dw.png)
+![](https://cdn-images-1.medium.com/max/800/1*fD83hoX1EY5rVzT5ERx4dw.png)
 
 ### Challengers vs. Defenders
 
@@ -5093,7 +4854,7 @@ also find debates that look something like this:
 You need to get back to the basics …  
 You need to stop doing it the old way …
 
-![](https://cdn-images-1.medium.com/max/720/1*eXUqdtEc2SMBg2H5xxCg4Q.png)
+![](https://cdn-images-1.medium.com/max/800/1*eXUqdtEc2SMBg2H5xxCg4Q.png)
 
 **Challenger  
 **What could you do such that [Some positive aspect] would be possible without the abuse, and observable negative effects?
@@ -5131,14 +4892,14 @@ asked me something to the effect of:
 > what would need to happen such that this wasn’t even an issue. What would it
 take for the company to be awesome?
 
-![](https://cdn-images-1.medium.com/max/720/0*hPu3Zi5A1i1Ngos-.)
+![](https://cdn-images-1.medium.com/max/800/0*hPu3Zi5A1i1Ngos-.)
 
 Let’s try that thought experiment …
 
 What would a crazy successful and awesome product development team actually
 look like? Would they still have gant-like visuals for their roadmap?
 
-![](https://cdn-images-1.medium.com/max/720/0*MJyRcuIpGEG5pxgB.)
+![](https://cdn-images-1.medium.com/max/800/0*MJyRcuIpGEG5pxgB.)
 
 Probably not. The future might look nothing like a 12 lane LA highway. Because
 you’d be on a bullet train.
@@ -5159,12 +4920,12 @@ Continuing on that thought …
 **Need:** “We have to meet to decide which features are most important, to advocate for our ideas, and favorite features”  
 **Awesome:** “The problem to solve is known, and all team members — down to the developers, UX, etc. — are empowered to solve them and try to push the needle without drowning in meetings. And we make continuous progress towards those goals. Everyone trusts each other. When we fail, that’s OK as well … provided we learn, and do better next time.”
 
-![](https://cdn-images-1.medium.com/max/720/1*PgeB1tI_4pjT0T23wFF-Hw.png)
+![](https://cdn-images-1.medium.com/max/800/1*PgeB1tI_4pjT0T23wFF-Hw.png)
 
 **Need:** “We need to have a yearly plan, and the roadmap is part of that”  
 **Awesome:** “You always have focus, vision, and direction … not just in late December (or whenever your yearly planning period is). Gaining that shared understanding is a rapid process, and can happen at any appropriate time. Few dependencies hamper the team. We respond immediately to new opportunities, and data.”
 
-![](https://cdn-images-1.medium.com/max/720/1*f0IF-fzFXv4G8r_iz9lGsw.png)
+![](https://cdn-images-1.medium.com/max/800/1*f0IF-fzFXv4G8r_iz9lGsw.png)
 
 **Need:** “We need to know what is coming down the pike!”  
 **Awesome:** “The product is sellable, awesome, and valuable as is. You’d be able to sell to those people without pitching shaky future promises. You’d discuss features released in the last two months, and the prospect would be wowed. From a technology standpoint we can flexibly tackle new challenges without a ton of notice.”
@@ -5175,7 +4936,7 @@ Continuing on that thought …
 Note: If you listen carefully, most “big picture” discussions are actually a
 code for “we don’t think we’re making a difference”.
 
-![](https://cdn-images-1.medium.com/max/720/0*2votZLbfcMxlPYKP.)
+![](https://cdn-images-1.medium.com/max/800/0*2votZLbfcMxlPYKP.)
 
 <http://www.boost.co.nz/blog/wp-content/uploads/2014/03/Release-Planning-PSI-
 Program-Plan.png>
@@ -5280,7 +5041,7 @@ because they aren’t complaining and they keep coming back month after month. -
 business-with-customer-loyalty/), “What Happens When You Confuse Repeat
 Business with Customer Loyalty”
 
-![](https://cdn-images-1.medium.com/max/720/1*dVuCPvjKt_b8iv9ny-k59A.png)
+![](https://cdn-images-1.medium.com/max/800/1*dVuCPvjKt_b8iv9ny-k59A.png)
 
 Users with a “meh” attitude toward the product often stick around — sometimes
 because they don’t have the time or energy to shop around, sometimes because
@@ -5295,7 +5056,7 @@ captive user leaves their company and becomes a buyer elsewhere. As your
 company grows, your time to sweet-talk individual customers into sticking
 around is reduced.
 
-![](https://cdn-images-1.medium.com/max/720/1*0sYmIpXMUDBTavSR2W7Hcw.png)
+![](https://cdn-images-1.medium.com/max/800/1*0sYmIpXMUDBTavSR2W7Hcw.png)
 
 You start rationalizing by thinking that usability and delighting customers
 aren’t important in your domain, and that you’ll be fine as long as the
@@ -5336,7 +5097,7 @@ leaves a 20% tip. A thoroughly impressed and new fan-for-life diner leaves a
 20% tip. All give the restaurant four stars in their online reviews. How do
 you differentiate rabid foodie fandom from “a decent meal” or a happy buzz?
 
-![](https://cdn-images-1.medium.com/max/900/1*aRYzLsa4dr0UWWuaofEiZA.png)
+![](https://cdn-images-1.medium.com/max/1000/1*aRYzLsa4dr0UWWuaofEiZA.png)
 
 Not-Too-Impressed, Drunk, or Fan?
 
@@ -5371,7 +5132,7 @@ rewarding. And that has to count for something.
 
 ### The Delighted Customer
 
-![](https://cdn-images-1.medium.com/max/720/1*PcESXNMaoVAdbL9Zi-CDig.png)
+![](https://cdn-images-1.medium.com/max/800/1*PcESXNMaoVAdbL9Zi-CDig.png)
 
 So, what do you keep your eyes open for? Take a big step back from your
 dashboards, spreadsheets, and predictive algorithms and ask if your
@@ -5392,7 +5153,7 @@ attention, you may notice that the delighted customer…
   * Bugs you for T-shirts. And then sends you a photo of them wearing the T-shirt.
   * Uses emoticons when writing otherwise dry emails. Like …
 
-![](https://cdn-images-1.medium.com/max/720/0*Df9N3VV59T2oZ5tr.)
+![](https://cdn-images-1.medium.com/max/800/0*Df9N3VV59T2oZ5tr.)
 
 ### 2\. While in the Buying Process…
 
@@ -5404,11 +5165,11 @@ attention, you may notice that the delighted customer…
   * Contacts you to renew, instead of waiting for your call. Contacts you to explore purchasing add-ons, instead of waiting for your email.
   * A couple of months after purchasing, writes to thank you. Literally, as in a handwritten thank-you note.
 
-![](https://cdn-images-1.medium.com/max/720/1*Tpt3kNmVtnLgJaGPdrE5tg.png)
+![](https://cdn-images-1.medium.com/max/800/1*Tpt3kNmVtnLgJaGPdrE5tg.png)
 
 ### 3\. While Using the Product…
 
-![](https://cdn-images-1.medium.com/max/720/1*xpOiMRZQ3VsjJDD5TNze1Q.png)
+![](https://cdn-images-1.medium.com/max/800/1*xpOiMRZQ3VsjJDD5TNze1Q.png)
 
   * Describes your product as “very easy to use,” ”easy to learn,” ”user-friendly.” Cliche, yes, but NPS and SUS (system usability score) [are related](http://www.measuringu.com/blog/nps-sus.php) (more on this [here](http://www.measuringu.com/usability-loyalty.php)). This you can measure quantitatively.
   * Uses your product/company name as a verb: “We ______ed it.”
@@ -5417,9 +5178,9 @@ attention, you may notice that the delighted customer…
   * Invests money to integrate with your product. Many customers may ask for pre-built “connectors,” but the most passionate customers will find it worth it to shoulder the cost of integrating.
   * Does awesome and unexpected things with your product (things you never expected or planned for).
 
-![](https://cdn-images-1.medium.com/max/720/1*WYSLJt_g_09NFxNS6TMJcA.png)
+![](https://cdn-images-1.medium.com/max/800/1*WYSLJt_g_09NFxNS6TMJcA.png)
 
-![](https://cdn-images-1.medium.com/max/720/1*2fDb_zKh6prl08Yekn9O9Q.png)
+![](https://cdn-images-1.medium.com/max/800/1*2fDb_zKh6prl08Yekn9O9Q.png)
 
   * Hounds you to learn about the roadmap, not because they’re waiting on features, but rather because they want to plan their training and get the most out of new functionality.
   * Regularly seeks the help of your support team to resolve _their _challenges rather than challenges with your product. The difference is critical.
@@ -5438,7 +5199,7 @@ See this post [for more about the value of brand advocacy](https://medium.com
 /the-growth-hackers-cookbook/customer-success-has-a-quantifiable-impact-on-
 revenue-d18d25786863#.s6sz9843l).
 
-![](https://cdn-images-1.medium.com/max/720/1*s2nWKWNfDt5Y1_DcDVMAEA.png)
+![](https://cdn-images-1.medium.com/max/800/1*s2nWKWNfDt5Y1_DcDVMAEA.png)
 
   * Hounds you to be part of a beta group or research panel.
   * Refers you to friends and professional contacts in their industry.
@@ -5481,7 +5242,7 @@ teams, organizations, competitors, and industries represent a dizzyingly
 complex system. What we think works, makes sense and feels efficient betrays
 us.
 
-![](https://cdn-images-1.medium.com/max/720/1*fOjsHl5gqack0hVGdb-hAQ.png)
+![](https://cdn-images-1.medium.com/max/800/1*fOjsHl5gqack0hVGdb-hAQ.png)
 
 The famous Katama weather rock …
 
@@ -5506,7 +5267,7 @@ Watch out for the waiting snakes …
 
 **5\. Stop multitasking!** Doing three things at once prevents the team from delivering value early, and rarely beats working serially.
 
-![](https://cdn-images-1.medium.com/max/720/1*xsUvG_nXqd4MQzd0pygboA.png)
+![](https://cdn-images-1.medium.com/max/800/1*xsUvG_nXqd4MQzd0pygboA.png)
 
 <http://www.slideshare.net/JelenaFiodorova/teamwork-agile-way>
 
@@ -5545,7 +5306,7 @@ We need to break out of the “glass case of emotion”:
 As Product folks, we need to stop whining about Sales. We aren’t the victim.
 We need to break out of the “glass case of emotion”:
 
-![](https://cdn-images-1.medium.com/max/720/1*J-xVDMEDgVgYKF3HOrkrWg.png)
+![](https://cdn-images-1.medium.com/max/800/1*J-xVDMEDgVgYKF3HOrkrWg.png)
 
 <https://www.youtube.com/watch?v=5fmHCNfowbQ>
 
@@ -5639,7 +5400,7 @@ error, undercharging, and losing my voice. It took months, but I got to the
 point where I could come home with a couple of hundred bucks on any day of the
 week.
 
-![](https://cdn-images-1.medium.com/max/720/1*3U5OC0De1KImLyOrbIK9VQ.png)
+![](https://cdn-images-1.medium.com/max/800/1*3U5OC0De1KImLyOrbIK9VQ.png)
 
 Manhattan Rickshaw Driver
 
@@ -5655,7 +5416,7 @@ back. Unfortunately, so many of our methodologies are stuck in the “old” way
 of physical and shippable products … front-loaded to trigger the purchase
 decision vs. the retain decision.
 
-![](https://cdn-images-1.medium.com/max/720/1*Ze1YzC_R2lNRDilASZJ1aQ.png)
+![](https://cdn-images-1.medium.com/max/800/1*Ze1YzC_R2lNRDilASZJ1aQ.png)
 
 A billboard from Croatia. He is actually offering truffles to the goddess. Go
 figure.
@@ -5674,7 +5435,7 @@ decently well), but Bach aficionados and Kevin Harvick junkies are a different
 breed. In both cases, the miracle diet goes unreturned, despite the 30 day
 refund.
 
-![](https://cdn-images-1.medium.com/max/720/1*rrT066h8-v6frEUfvt8XYw.png)
+![](https://cdn-images-1.medium.com/max/800/1*rrT066h8-v6frEUfvt8XYw.png)
 
 **Selling to learn, and selling to sell is a fundamentally different task**. The minute that killer instinct bubbles up — that competitive drive to close the deal, that paranoia about the deal falling through, that fear of hitting the number — you’ve already lost your ability to learn about certain things. You’ll learn how to morph the message to the audience (like I did countless times as a rickshaw driver), but you won’t learn about the big picture.
 
@@ -5722,7 +5483,7 @@ Why? Because it takes 100+ Hats to build an awesome product.
 Stop thinking about titles in product development. Start thinking about Hats.
 Why? Because it takes 100+ Hats to build an awesome product.
 
-![](https://cdn-images-1.medium.com/max/720/1*7pCG2R6cOLWYDGR_LAiCKQ.png)
+![](https://cdn-images-1.medium.com/max/800/1*7pCG2R6cOLWYDGR_LAiCKQ.png)
 
 Too often we focus solely on accountability, alignment, and efficiency. This
 fixation frequently manifests in silos, politics, title obsession, and
@@ -5759,7 +5520,7 @@ _Do I get out of my head, go out, see friends, and enjoy the weather (which I
 know is 100% effective at making me feel better), or do I withdraw and spend
 the day working and mulling over my angst?_
 
-![](https://cdn-images-1.medium.com/max/720/1*jUfZDveIlz7VakyS4Vlvwg.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*jUfZDveIlz7VakyS4Vlvwg.jpeg)
 
 I often opt for the latter, with reliably poor results. Weird, right?
 
@@ -5776,7 +5537,7 @@ status quo! Make it go away! Time for dessert!” Should we do something that
 feels unnatural, dangerous, impractical, uncomfortable, worrying, challenging?
 Or do we just roll with it?
 
-![](https://cdn-images-1.medium.com/max/720/1*nXcVN_iE3NABLBbTzS1L9g.png)
+![](https://cdn-images-1.medium.com/max/800/1*nXcVN_iE3NABLBbTzS1L9g.png)
 
 That uncomfortable moment is a sign. It’s a **beacon**.
 
@@ -5802,7 +5563,7 @@ things like autonomy, diversity, open communication, challenge, honesty,
 coherence, a sense of purpose, and acknowledgment. Even more fundamentally, we
 require safety, trust, and respect.
 
-![](https://cdn-images-1.medium.com/max/720/1*2LhW2K7CtvUXZB5LV3CJdg.png)
+![](https://cdn-images-1.medium.com/max/800/1*2LhW2K7CtvUXZB5LV3CJdg.png)
 
 Contact me for a higher res version. This is a work in progress.
 
@@ -5816,7 +5577,7 @@ Some of these choices are automatic, and there’s no time to pluck the signal
 from the noise. But, in most cases, there’s that glowing beacon — that split
 second of tension and resistance — that indicates a better path is possible.
 
-![](https://cdn-images-1.medium.com/max/720/1*Ym91rCVYUMa1e9yb21Hqlg.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*Ym91rCVYUMa1e9yb21Hqlg.jpeg)
 
 You’ll often know these moments just by the words you use. Do any of these
 snippets sound familiar?
@@ -5847,7 +5608,7 @@ mistakes and send our organizations into an ugly spiral. The trick is to sense
 those moments — the spark, instability, tension, momentary fear — and go
 toward the discomfort. Adopt the beginner’s brain, and let that be your guide.
 
-![](https://cdn-images-1.medium.com/max/720/1*6rr4zgvFyLPTs0VYe8XRxQ.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*6rr4zgvFyLPTs0VYe8XRxQ.jpeg)
 
 We can sniff out these opportunities because they have many common traits. You
 can help your teams learn to be aware of them. To hone their radar — not for a
@@ -5867,13 +5628,13 @@ But it’s the meditative practice of sensing these moments of tension,
 acknowledging the path of habit and inertia, and taking the uncomfortable
 route that counts.
 
-![](https://cdn-images-1.medium.com/max/720/1*bump1Indr5DU5O9vvsuKKg.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*bump1Indr5DU5O9vvsuKKg.jpeg)
 
 How can we, as individuals, be clear with ourselves, and then bring that to
 our organizations? It starts with emotional safety, and in the end requires
 facing our discomfort. But it is possible.
 
-![](https://cdn-images-1.medium.com/max/720/1*Xy-k95-hIPxELNWxyu1lFA.png)
+![](https://cdn-images-1.medium.com/max/800/1*Xy-k95-hIPxELNWxyu1lFA.png)
 
 
 # Your Product is a Service…
@@ -5886,7 +5647,7 @@ What is The Product? What is Your Product?
 
 What is **The Product?** What is **_Your_ Product?**
 
-![](https://cdn-images-1.medium.com/max/720/1*rJm3ADtiBS27b7tqmiVm1A.png)
+![](https://cdn-images-1.medium.com/max/800/1*rJm3ADtiBS27b7tqmiVm1A.png)
 
 Your **Product** is …
 
@@ -5902,9 +5663,9 @@ Your **Product** is …
   * Your code quality, data-centers, infrastructure, and test coverage
   * The worst behavior you tolerate on the part of your leadership and team
 
-![](https://cdn-images-1.medium.com/max/720/1*idKLEHqFEZIy13OVjFjSxw.png)
+![](https://cdn-images-1.medium.com/max/800/1*idKLEHqFEZIy13OVjFjSxw.png)
 
-![](https://cdn-images-1.medium.com/max/720/1*p1AcunItLsobv1ikuxOu-A.png)
+![](https://cdn-images-1.medium.com/max/800/1*p1AcunItLsobv1ikuxOu-A.png)
 
 Product is not something you “ship”. Increasingly, it is a service that the
 whole organization _delivers continuously. _Tossing things over the wall isn’t
@@ -5919,7 +5680,7 @@ product is everything. Don’t let the anchor of old ways of delivering physical
 software products weigh you down. You’re in the [service delivery and
 design](http://www.servicedesigntools.org/) business now. Embrace it!
 
-![](https://cdn-images-1.medium.com/max/720/1*6O0dRtEs1Ubp0VU74Xi_XA.png)
+![](https://cdn-images-1.medium.com/max/800/1*6O0dRtEs1Ubp0VU74Xi_XA.png)
 
 
 # Real World Kanban (A Cartoon)
@@ -5932,7 +5693,7 @@ So you’ve been trying this Kanban thing. It’s working out great …
 
 So you’ve been trying this Kanban thing. It’s working out great …
 
-![](https://cdn-images-1.medium.com/max/900/1*9ucdCRidvfvN8tTbVute3Q.jpeg)
+![](https://cdn-images-1.medium.com/max/1000/1*9ucdCRidvfvN8tTbVute3Q.jpeg)
 
 
 # What Does “Sales-Driven” Even Mean?
@@ -5998,7 +5759,7 @@ Given that Medium doesn’t have a great index feature, I figured I’d provide
 one here. I’m grateful for the folks who have taken the time to read and
 comment.
 
-![](https://cdn-images-1.medium.com/max/720/1*GvvCwnSNlou9G9MQlgyigQ.png)
+![](https://cdn-images-1.medium.com/max/800/1*GvvCwnSNlou9G9MQlgyigQ.png)
 
 **May 2016**
 
@@ -6033,7 +5794,7 @@ organization
 > Product is not something you “ship”. Increasingly, it is a service that the
 whole organization _delivers continuously_
 
-![](https://cdn-images-1.medium.com/max/720/1*22kk91DZxJKFScCMRQr98A.png)
+![](https://cdn-images-1.medium.com/max/800/1*22kk91DZxJKFScCMRQr98A.png)
 
 **April 2016**
 
@@ -6097,7 +5858,7 @@ cautionary-tale-dcf7eabd6402)
 
 Video showing a common startup anti-pattern
 
-![](https://cdn-images-1.medium.com/max/720/1*NzMUQGqHk5-WK57bU6bV4w.png)
+![](https://cdn-images-1.medium.com/max/800/1*NzMUQGqHk5-WK57bU6bV4w.png)
 
 **March 2016**
 
@@ -6160,7 +5921,7 @@ A quick daily team health checkout template
 
 A video covering an approach to mind-mapping your roadmap and/or strategy
 
-![](https://cdn-images-1.medium.com/max/720/1*B6YL5F0TVZ6g2-PauAIKFA.png)
+![](https://cdn-images-1.medium.com/max/800/1*B6YL5F0TVZ6g2-PauAIKFA.png)
 
 **Feb 2016**
 
@@ -6198,7 +5959,7 @@ safe for teams to experiment and occasionally fail.
 
 Startups talk about focus. But what does focus REALLY feel like?
 
-![](https://cdn-images-1.medium.com/max/720/1*xiuNOu53I87Ox2isCOvOPw.png)
+![](https://cdn-images-1.medium.com/max/800/1*xiuNOu53I87Ox2isCOvOPw.png)
 
 **Jan 2016**
 
@@ -6243,7 +6004,7 @@ way-of-the-product-whatchamacallit-9929a78d6694)
 
 Light take on effective product development teams
 
-![](https://cdn-images-1.medium.com/max/720/1*hKTvYck1I2LBlxEWiXdHlw.png)
+![](https://cdn-images-1.medium.com/max/800/1*hKTvYck1I2LBlxEWiXdHlw.png)
 
 #### [14: Hidden Costs of the Sales-Driven Roadmap](https://medium.com/p
 /hidden-costs-of-the-sales-driven-roadmap-81b847da3452)
@@ -6262,7 +6023,7 @@ fit
 
 Tips on incorporating data directly into your user stories
 
-![](https://cdn-images-1.medium.com/max/720/1*BXT7TbyIXOHRaBlkmUW6aQ.png)
+![](https://cdn-images-1.medium.com/max/800/1*BXT7TbyIXOHRaBlkmUW6aQ.png)
 
 **Dec 2015**
 
@@ -6335,7 +6096,7 @@ Thinkers, Design Thinkers, and…](https://medium.com/p/inside-my-kindle-100
 
 All the books in my Kindle. In one place
 
-![](https://cdn-images-1.medium.com/max/720/1*SXC6-Lg67B-ZrLvpi45mIw.png)
+![](https://cdn-images-1.medium.com/max/800/1*SXC6-Lg67B-ZrLvpi45mIw.png)
 
 **Nov 2015**
 
@@ -6373,7 +6134,7 @@ craft, responsibility, and happiness. And that’s no one’s fault. It just is
 how it is. The economics, risk profile, and odds dictate the tactics. The
 letdown comes when you believe otherwise.
 
-![](https://cdn-images-1.medium.com/max/720/1*HqV_INUN2nZBDmCF-zHFbA.png)
+![](https://cdn-images-1.medium.com/max/800/1*HqV_INUN2nZBDmCF-zHFbA.png)
 
 <http://techcrunch.com/2014/05/24/deciphering-the-economics-of-venture-
 capital/>
@@ -6385,7 +6146,7 @@ trying to grow a healthy vegetable garden. They’re trying to build an oasis in
 the desert. Your veggie garden is the much derided “lifestyle business”, while
 their oasis is the Unicorn. Neither is bad.
 
-![](https://cdn-images-1.medium.com/max/720/1*_D7Yg02emrF-wyMZ2dHfeQ.png)
+![](https://cdn-images-1.medium.com/max/800/1*_D7Yg02emrF-wyMZ2dHfeQ.png)
 
 Reality check: some of the biggest venture “wins” come from land-grabs,
 vaporware, accu-hires, and mediocre products. Interestingly, these wins are
@@ -6399,7 +6160,7 @@ label. [Without that hit single, you weren’t much good to
 anyone](http://www.negativland.com/news/?page_id=17). For better or worse
 that’s how much of the startup world works.
 
-![](https://cdn-images-1.medium.com/max/720/1*aI6IcxOgEVCCGTG2OUj2Kw.png)
+![](https://cdn-images-1.medium.com/max/800/1*aI6IcxOgEVCCGTG2OUj2Kw.png)
 
 Much of the startup world revolves around the heuristic that high growth
 validates the business model, and that you can always find more efficiencies
@@ -6450,7 +6211,7 @@ to project Z, and … oh, well Mandy will be done with that thing, and we can
 slide that project in there. If they finish that afternoon, Bill will present
 his mockups and we can start on …
 
-![](https://cdn-images-1.medium.com/max/720/1*JiavS5lB-qVQNmaOKL8vnQ.png)
+![](https://cdn-images-1.medium.com/max/800/1*JiavS5lB-qVQNmaOKL8vnQ.png)
 
 Your average PM will spend countless hours in meetings talking to non front-
 line stakeholders about what their organizations will (or should) do at some
@@ -6459,7 +6220,7 @@ everyone feels heard. And then talk about pet solutions, show mock-ups, make a
 lot of guesses, play Tetris with initiatives, and pester engineers for
 estimates. Towards what end? Why?
 
-![](https://cdn-images-1.medium.com/max/720/1*15mf15mJocHueM9mNQJ6fA.png)
+![](https://cdn-images-1.medium.com/max/800/1*15mf15mJocHueM9mNQJ6fA.png)
 
 <https://siouxnetontrack.wordpress.com/page/8/>
 
@@ -6478,7 +6239,7 @@ hurries to prepare mock-ups (in isolation) so that the team will be able to
 get started right away. More colorful lines get added to the roadmap swim-
 lanes. And then what happens?
 
-![](https://cdn-images-1.medium.com/max/720/1*J0T7PY2Y8YF1aZL1Kz6CSw.png)
+![](https://cdn-images-1.medium.com/max/800/1*J0T7PY2Y8YF1aZL1Kz6CSw.png)
 
 <http://connectedprincipals.com/archives/10412>
 
@@ -6488,7 +6249,7 @@ our faulty assumptions. And then rush to get the feature shipped to shut
 everyone up only to find we missed the mark because our batch was huge and we
 had 10 things on deck.
 
-![](https://cdn-images-1.medium.com/max/720/1*Lo7EAH9vH8oqLDmMXDr7Rw.png)
+![](https://cdn-images-1.medium.com/max/800/1*Lo7EAH9vH8oqLDmMXDr7Rw.png)
 
 Consider the alternative. The reality is you only need to plan for the very
 next thing. And only in broad strokes. What counts is the mission: the
@@ -6504,7 +6265,7 @@ with engineers to explore what was possible. Instead of paper prototypes,
 you’d try testing working prototypes with real customer data. Simply put,
 you’d be getting it done right.
 
-![](https://cdn-images-1.medium.com/max/720/1*QDGubkwuQKlQePv2yg6BmA.png)
+![](https://cdn-images-1.medium.com/max/800/1*QDGubkwuQKlQePv2yg6BmA.png)
 
 Take a step back, and ask yourself the hard question. Is any of the pre-
 planning worth it? Really? If the team produced constant value and you could
@@ -6544,7 +6305,7 @@ Hire staff that can communicate with your Japanese clientele and explain sushi
 to traveling Swedes. Seat people for 25 minutes and 3 hours. Does this sound
 feasible?
 
-![](https://cdn-images-1.medium.com/max/900/1*5-jWrdgukbnOoehFBRguBg.png)
+![](https://cdn-images-1.medium.com/max/1000/1*5-jWrdgukbnOoehFBRguBg.png)
 
 Not really. I wouldn’t bet on it.
 
@@ -6620,7 +6381,7 @@ host, the server, the food and drink, and the dishes and decor…
 
 ### The Unseen Product is Still The Product
 
-![](https://cdn-images-1.medium.com/max/720/1*kBpFVCAYx6Ni-ovqM6bsHw.png)
+![](https://cdn-images-1.medium.com/max/800/1*kBpFVCAYx6Ni-ovqM6bsHw.png)
 
 My favorite metaphor … restaurants
 
@@ -6786,13 +6547,6 @@ to be hopeful and curious.
 See you there!
 
 
-# Exactly …
-
-* * *
-
-Exactly …
-
-
 # Focus is the Ultimate Process
 
 When confronted with workplace dysfunction, missed connections, or poor
@@ -6903,7 +6657,7 @@ I’ve seen teams try these three options to remedy the situation:
 Product and UX maintains intricate to-do lists for design and research work
 OUTSIDE of the primary ticketing system.
 
-![](https://cdn-images-1.medium.com/max/720/1*A3aIVO8RHXo9Z_wavFQ8Dw.png)
+![](https://cdn-images-1.medium.com/max/800/1*A3aIVO8RHXo9Z_wavFQ8Dw.png)
 
   * **_Pros:_** It keeps the ticketing system “clean and uncluttered.”
   * **_Con:_** No one knows what UX is working on, and it is impossible to view the dependencies. The backlog is obscured making it tough to get the “big picture”
@@ -6916,7 +6670,7 @@ tickets
 When UX is working on something, it is described as being In Progress (along
 with engineering work)
 
-![](https://cdn-images-1.medium.com/max/720/1*yJxE4NZ8nqkBuGo3mpiTWw.png)
+![](https://cdn-images-1.medium.com/max/800/1*yJxE4NZ8nqkBuGo3mpiTWw.png)
 
   * **_Pros:_** A clear sense of WIP (work in progress), and the current burden on UX
   * **_Con:_** Too much clutter / too many tickets, and UX work often falls out of sync with release cycle
@@ -6928,7 +6682,7 @@ with engineering work)
 UX work is attached to a user-focused story, from early phase backlog
 refinement to shipped/done
 
-![](https://cdn-images-1.medium.com/max/720/1*EyWfsXX4vnYjYRcJjXsQpg.png)
+![](https://cdn-images-1.medium.com/max/800/1*EyWfsXX4vnYjYRcJjXsQpg.png)
 
   * **_Pros:_** Clearly describes dependencies. Allows for a “pull” system for design and research which promotes just-in-time work. Remains very user-goal focused
   * **_Cons:_** May require sub-tasks, and multiple people assigned to a particular ticket. Requires strong stories and story splitting practices
@@ -7046,7 +6800,7 @@ friend’s business ..
 _At a coffee shop somewhere in the Bay Area. Two people are talking about
 their friend’s business .._
 
-![](https://cdn-images-1.medium.com/max/720/1*yhyG0HCQOGROTZG1lJwGSg.png)
+![](https://cdn-images-1.medium.com/max/800/1*yhyG0HCQOGROTZG1lJwGSg.png)
 
 The Atlantic: <http://www.theatlantic.com/technology/archive/2011/02/lets-
 just-make-the-startup-coffee-shop-thing-official/71603/>
@@ -7237,53 +6991,6 @@ _For example …_
 **Why:** Silos inhibit the flow of information.
 
 
-# Check out this presentation I’ve been giving lately.
-
-https://prezi.com/dgedeyma2nqr/rtp-product-camp/
-
-* * *
-
-Check out this presentation I’ve been giving lately. I think it touches on
-many of the issues you mention. Specifically:
-
-<https://prezi.com/dgedeyma2nqr/rtp-product-camp/>
-
-1) the role of Trust on teams  
-2) the story (the “why”)  
-3) safe to fail experiments (without that, data is a trust proxy)  
-4) measurement as a learning catalyst  
-5) intuition is “Data”  
-6) sometimes you just wont know. You have to take the leap and then validate
-
-If a team is paralyzed, afraid to take a risk, and not feeling a sense of
-impact overall … then no amount of data-driven mumbo-jumbo will solve the
-problem. “Data-driven” is not the end goal. You don’t feel proud because you
-work at a drive-driven company. You feel proud because you have a sense of
-impact. You feel the impact of your work (in your words impact-driven).
-
-Now … being a “learning-driven” company resonates, as your collective learning
-as an organization can be your greatest asset. But when you’re on your
-deathbed do you say “damn, I worked for an AWESOME data-driven company?” No …
-you say “I changed people’s lives” or “we kicked ass” or “I got to build great
-things that helped people” or “I worked with people I trusted”.
-
-The answer is very rarely delivered on a platter. You often have to build and
-act in order to learn. That’s what you have to address first. If people feel
-in inability to act or respond, they will often resort to feeling incredibly
-attached to data to drive the original decision to act. So, if you repeatedly
-pull people off projects without giving them the ability to learn/respond,
-people will harp about data. Why? Because they’ve gotten burned! They put work
-in and didn’t see the impact of their work?
-
-So … great piece. Encourage a bias to action. Give a leeway to experiment
-towards a goal. Admit when things aren’t working. And at that point the “data”
-is just a tool, no more.
-
-Best
-
-John
-
-
 # That B2B SaaS Savvy Thing
 
 I have received a lot of questions about a graphic I posted on Twitter
@@ -7296,7 +7003,7 @@ recently:
 I have received a lot of questions about a graphic I [posted on Twitter
 recently](https://twitter.com/johncutlefish/status/746480856122941440):
 
-![](https://cdn-images-1.medium.com/max/720/1*s1SM8b3qHrOvaVIZ1fUwUw.png)
+![](https://cdn-images-1.medium.com/max/800/1*s1SM8b3qHrOvaVIZ1fUwUw.png)
 
 Let me explain it in more depth.
 
@@ -7334,7 +7041,7 @@ _(unless you’ve truly nailed one, and are ready to branch out). Even if the
 sales are rolling in. Someone (usually customer success, customer support, or
 product) will feel the sting.
 
-![](https://cdn-images-1.medium.com/max/720/1*feWFzjTjlWXhUxdYna7YZg.png)
+![](https://cdn-images-1.medium.com/max/800/1*feWFzjTjlWXhUxdYna7YZg.png)
 
 You need to target the same persona with intent across the full customer
 journey including marketing, sales, on-boarding, product, and customers
@@ -7436,7 +7143,7 @@ Note: PMP is a project management certification
 
 Note: PMP is a project management certification
 
-![](https://cdn-images-1.medium.com/max/900/1*9LbU4Sa35EnHqIOHBh7wKA.png)
+![](https://cdn-images-1.medium.com/max/1000/1*9LbU4Sa35EnHqIOHBh7wKA.png)
 
 
 # Be the Laziest Team and Win
@@ -7452,7 +7159,7 @@ I often challenge teams with the following question:
 _What would happen if you stopped building anything new? Just stopped? Killed
 the backlogs and roadmaps? Burned it down? Acted like a stubborn mule?_
 
-![](https://cdn-images-1.medium.com/max/720/1*pFxwgQhLWn8Ns8ohpklrXg.png)
+![](https://cdn-images-1.medium.com/max/800/1*pFxwgQhLWn8Ns8ohpklrXg.png)
 
 HERMANN G. SIMON — The Stubborn Mule (1881)
 
@@ -7466,13 +7173,13 @@ forward and say “you know, I’m not sure things will change all that much!”
 Blasphemy! Make, build, grow, get things done, check things off, and stay
 busy. It’s who we are, right? There’s always room for another lawn gnome …
 
-![](https://cdn-images-1.medium.com/max/720/1*YVKxBy5UVhm_7TqtM5sBlQ.png)
+![](https://cdn-images-1.medium.com/max/800/1*YVKxBy5UVhm_7TqtM5sBlQ.png)
 
 Engineers are “resources” that must be “fully utilized” and kept from being
 “idle”. “What would we do all day? Just sit around and refactor the code, tool
 up, and knock out bugs?” Keep the line rolling …
 
-![](https://cdn-images-1.medium.com/max/720/1*pNkisQVNZtARLm9L2GcV2g.png)
+![](https://cdn-images-1.medium.com/max/800/1*pNkisQVNZtARLm9L2GcV2g.png)
 
 1937 Ford Assembly Line
 
@@ -7495,7 +7202,7 @@ ago? What happened? Do you even remember what you shipped?
 
 If we have so many ideas … then some of them MUST be good.
 
-![](https://cdn-images-1.medium.com/max/720/1*W6IKuM0gqkkpSmOYHHISzQ.png)
+![](https://cdn-images-1.medium.com/max/800/1*W6IKuM0gqkkpSmOYHHISzQ.png)
 
 <http://saralouhicks.com/how-we-published-our-product-roadmap-to-the-world-
 using-google-sheets-as-our-cms/>
@@ -7506,7 +7213,7 @@ comparison to each other). There’s always some new magic bullet to build or
 table stakes addition. Ideas are cheap. The items are stacked back to back
 with little opportunity to validate outcomes delivered.
 
-![](https://cdn-images-1.medium.com/max/720/1*jgAybmCcKRPL7TeOAxsU_g.png)
+![](https://cdn-images-1.medium.com/max/800/1*jgAybmCcKRPL7TeOAxsU_g.png)
 
 Why is leaving marginally validated new stuff in the product so harmful? It’s
 super expensive!
@@ -7548,7 +7255,7 @@ Tacitus
 
 It’s a listicle kind of night. And the topic is B2B Saas!
 
-![](https://cdn-images-1.medium.com/max/720/1*YrN3kttaDgOW2058NS8XVg.png)
+![](https://cdn-images-1.medium.com/max/800/1*YrN3kttaDgOW2058NS8XVg.png)
 
   1. The broader the product, and the more pains it promises to address, the “easier” it will be to sell. It’s like casting a larger net, or putting on a buffet.
   2. The breadth of a product has an exponential impact on product complexity, cost to service, cost to market, cost to sell, and cost to remain agile
@@ -7598,7 +7305,7 @@ a change in user behavior. It is accessible and not too jargon-laden. It can
 be used to describe things on the highest level — a whole business, for
 example — or a specific, low-level design change.
 
-![](https://cdn-images-1.medium.com/max/720/1*gsDRyfZEkjvaDzOJJTgGeA.png)
+![](https://cdn-images-1.medium.com/max/800/1*gsDRyfZEkjvaDzOJJTgGeA.png)
 
 #### Whose behavior will change because of the work?
 
@@ -7652,7 +7359,7 @@ investment, where the _investment_ is some shift from the status quo.
 In the spirit of validated learning, we attempt to validate the various
 assumptions — explicit and implicit — in the framework:
 
-![](https://cdn-images-1.medium.com/max/720/1*YculttC5xLDY8W-9-Zyxow.png)
+![](https://cdn-images-1.medium.com/max/800/1*YculttC5xLDY8W-9-Zyxow.png)
 
   * The Target exists, and can be isolated and targeted consistently
   * The Target’s current behavior exists, and can be measured and understood
@@ -7695,7 +7402,7 @@ talented bike racers.
 
 ### Chasing Revenue Growth (and Hidden Costs)
 
-![](https://cdn-images-1.medium.com/max/720/1*CngWKQyzvq75ZCfY_Ykfiw.png)
+![](https://cdn-images-1.medium.com/max/800/1*CngWKQyzvq75ZCfY_Ykfiw.png)
 
 I am an avid cyclist, and have also had the privilege of coaching a couple of
 talented bike racers.
@@ -7708,7 +7415,7 @@ capital firm setting a ramped ladder of revenue targets. They expect some of
 their portfolio companies to “hit the wall” and “crash and burn”, but that’s
 just how the cookie crumbles.
 
-![](https://cdn-images-1.medium.com/max/720/1*l4Y3Av-2OuhG0peWMAAaTQ.png)
+![](https://cdn-images-1.medium.com/max/800/1*l4Y3Av-2OuhG0peWMAAaTQ.png)
 
 The danger here — as with startups — is that a highly motivated person can
 usually find a way. We are incredibly adaptable, and can push ourselves for
@@ -7718,7 +7425,7 @@ fatigue and poor motivation was sudden, and there was no quick fix. It didn’t
 mean they were untalented cyclists. On the contrary, they tended to be the
 most talented (and most motivated).
 
-![](https://cdn-images-1.medium.com/max/720/1*Rq86bv2PjBdreeUw-KgjDQ.png)
+![](https://cdn-images-1.medium.com/max/800/1*Rq86bv2PjBdreeUw-KgjDQ.png)
 
 <https://statumentis.wordpress.com/2014/12/01/overtraining-is-of-great-
 importance-to-the-high-performance-athlete-we-need-to-gain-knowledge/>
@@ -7736,7 +7443,7 @@ master:
   * A strong support structure
   * Event selection and specialization
 
-![](https://cdn-images-1.medium.com/max/720/1*RLfp0Mee5q2AxCDxMLmPEw.png)
+![](https://cdn-images-1.medium.com/max/800/1*RLfp0Mee5q2AxCDxMLmPEw.png)
 
 <http://www.pezcyclingnews.com/latestnews/toolbox-jump-in-the-waters-great/>
 
@@ -7793,7 +7500,7 @@ Find and fix The Tease to keep your best team members
 The Tease is real. And it lurks almost exclusively in some of the best
 organizations.
 
-![](https://cdn-images-1.medium.com/max/720/1*SlxKpmInca2alYuNow606w.png)
+![](https://cdn-images-1.medium.com/max/800/1*SlxKpmInca2alYuNow606w.png)
 
 <http://909sickle.net/hidden/somethings-not-right>
 
@@ -7860,7 +7567,7 @@ investment.
 
 It doesn’t always go as planned.
 
-![](https://cdn-images-1.medium.com/max/900/1*GJzOsXVzrYmWqw56dv19Mw.png)
+![](https://cdn-images-1.medium.com/max/1000/1*GJzOsXVzrYmWqw56dv19Mw.png)
 
   * Example. I want clean water. I don’t want crap in my water. **Pain!**
   * My goodness, the Brita water filter looks amazingly clear, crisp, and pure. **Potential!**
@@ -7883,7 +7590,7 @@ that promise
 You could broadly divide up “sales driven” and “product driven” startups by
 how they approach this sequence:
 
-![](https://cdn-images-1.medium.com/max/900/1*jcSUWmFgThuDbmvT9nEl9g.png)
+![](https://cdn-images-1.medium.com/max/1000/1*jcSUWmFgThuDbmvT9nEl9g.png)
 
 The sales driven startup puts energy behind selling the pain and potential.
 **Growth** is the first objective. After going broad and taking stock of
@@ -7918,7 +7625,7 @@ Where is Product Management going? What do the “best” do differently?
 
 Here are the trends I see in forward thinking product development teams:
 
-![](https://cdn-images-1.medium.com/max/900/1*Mp9wqK1dQ3Ju7g9oLlX5kQ.png)
+![](https://cdn-images-1.medium.com/max/1000/1*Mp9wqK1dQ3Ju7g9oLlX5kQ.png)
 
 
 # company culture is…
@@ -7964,7 +7671,7 @@ initiative, and design the slides early in the process (leaving…
 
 **_Benefit:_**_ Promote a learning mindset. Balance upfront planning with unbiased retrospective. Crease a sense of team ownership and pride. Drive a shared understanding of the initiative. Promote evidence driven development, even when the current strategy is more tilted towards the “feature factory”._
 
-![](https://cdn-images-1.medium.com/max/720/1*WoqIdA9nbo-ewIdrQsB-5w.png)
+![](https://cdn-images-1.medium.com/max/800/1*WoqIdA9nbo-ewIdrQsB-5w.png)
 
 ### The Opportunity
 
@@ -8016,7 +7723,7 @@ but you’d be amazed at how infrequently these types of presentations happen
 unless there’s a major win to promote. Learnings are rarely celebrated, and
 that is a shame.
 
-![](https://cdn-images-1.medium.com/max/720/1*yHhLGZaYQBk4p9cLvhzciA.png)
+![](https://cdn-images-1.medium.com/max/800/1*yHhLGZaYQBk4p9cLvhzciA.png)
 
 ### Tips:
 
@@ -8046,7 +7753,7 @@ you’ve lost the only two advantages a startup will have: speed…
 Complexity is a startup killer. Like a giant anchor, it slows you down until
 you’ve lost the only two advantages a startup will have: speed and focus.
 
-![](https://cdn-images-1.medium.com/max/720/1*3wIdOX4QVf8odqSOHtwrqg.png)
+![](https://cdn-images-1.medium.com/max/800/1*3wIdOX4QVf8odqSOHtwrqg.png)
 
 Credit: AMC (The Prisoner)
 
@@ -8069,7 +7776,7 @@ since the mid-Cretaceous period — you can start to divide and conquer. Wit
 startup, you are none of those things. You’re still building, measuring, and
 learning. Anything that constrains that is an antipattern.
 
-![](https://cdn-images-1.medium.com/max/720/1*APtw_dKk8MnCwvF_ZIZh0w.png)
+![](https://cdn-images-1.medium.com/max/800/1*APtw_dKk8MnCwvF_ZIZh0w.png)
 
 **Brazil **(1985) — Director: Terry Gilliam
 
@@ -8084,7 +7791,7 @@ In creeps the complexity like a thick fog over the Sunset District. But the
 fog almost never clears. Once you’ve gone down the rabbit hole, it is nearly
 impossible to come back up for air.
 
-![](https://cdn-images-1.medium.com/max/720/1*e-iEixNUrJrQk86V9msGvg.png)
+![](https://cdn-images-1.medium.com/max/800/1*e-iEixNUrJrQk86V9msGvg.png)
 
 <http://sfcitizen.com/blog/2015/02/16/ah-the-sunset-district-home-of-chain-
 stores-unreliable-transit-and-oppressive-fog/>
@@ -8101,7 +7808,7 @@ that it causes you near term pain (imagine you’re smelling your favorite dish
 in the world and have to walk away). Don’t be a mini version of a Company.
 You’ll have plenty of time to grow up.
 
-![](https://cdn-images-1.medium.com/max/720/1*VdEdW8OFRotAmdXOopqnLA.png)
+![](https://cdn-images-1.medium.com/max/800/1*VdEdW8OFRotAmdXOopqnLA.png)
 
 
 # Startups: Be Awesome At Something
@@ -8159,7 +7866,7 @@ I recently finished a 100 day doodle challenge. How did it go?
 
 ### 10 Things I Learned By Doodling For 100 Days Straight
 
-![](https://cdn-images-1.medium.com/max/900/1*7ocOOfbnr1J8vMTQTWUL5w.jpeg)
+![](https://cdn-images-1.medium.com/max/1000/1*7ocOOfbnr1J8vMTQTWUL5w.jpeg)
 
 I recently finished a 100 day doodle challenge. How did it go?
 
@@ -8189,395 +7896,395 @@ I set a small number of rules.
 
 ### The Drawings (In Order)
 
-![](https://cdn-images-1.medium.com/max/720/1*B--5H0shvLDpBgP4fIMsig.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*B--5H0shvLDpBgP4fIMsig.jpeg)
 
 **1:100** This wasn’t too much of a stretch. I draw mind-maps all day. So it was no surprise that I started off in familiar territory.
 
-![](https://cdn-images-1.medium.com/max/720/1*ZG0aC2GMPkGHYmFtg2jTkA.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*ZG0aC2GMPkGHYmFtg2jTkA.jpeg)
 
 **2: 100** He sure looks scared. And of course there’s the wing-suit which must be a reference to one of my favorite films …. [Brazil](http://cinearchive.org/post/37275277565/behind-the-scenes-of-brazil-rob-heddens). Tiny dots make their first appearance, but overall I haven’t found my groove yet.
 
-![](https://cdn-images-1.medium.com/max/720/1*Fc_I68qYbqPbhf22ZW1t9A.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*Fc_I68qYbqPbhf22ZW1t9A.jpeg)
 
 **3:100** Adele! Hello it’s me. Themes of isolation, rain, birds, flying, and tall places predominate. Plus I’m still using words.
 
-![](https://cdn-images-1.medium.com/max/720/1*HJF8yfYrqq9yiC6nWaoHfw.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*HJF8yfYrqq9yiC6nWaoHfw.jpeg)
 
 **4:100** What a smarty pants! Actually, this did start with me imagining the sensation of a rose petals on my eyeballs. This one made me happy. And it was deliberate to some degree so it didn’t feel completely accidental.
 
-![](https://cdn-images-1.medium.com/max/720/1*JtxUeP5T0WLB6zYUemXoag.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*JtxUeP5T0WLB6zYUemXoag.jpeg)
 
 **5:100** Wordplay continues. I was high from the rose colored glasses, so I took another shot at something witty. At this point I was all in. I had shared the drawings on Facebook. Game on. But it didn’t have the zing of the glasses.
 
-![](https://cdn-images-1.medium.com/max/720/1*uaynzIDmsINU9fAEI6i5lA.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*uaynzIDmsINU9fAEI6i5lA.jpeg)
 
 **6:100** Major discovery! Starbucks can completely **** me up. My hands were shaking and it felt like lasers were shooting out of my eyeballs. So I drew that.
 
-![](https://cdn-images-1.medium.com/max/720/1*if4HcX4e4c79a7ZEWsJx3w.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*if4HcX4e4c79a7ZEWsJx3w.jpeg)
 
 **7:100 **OK. Things get serious. I remember what NYC looked like shortly after 9/11. I remember all the posters taped up on construction site walls. It was heart breaking. But I have to admit … I questioned whether I was just milking this memory for the drawing. Have you ever had that happen?
 
-![](https://cdn-images-1.medium.com/max/720/1*9TxcsuqWNbEfLoskjJ1K2Q.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*9TxcsuqWNbEfLoskjJ1K2Q.jpeg)
 
 **8:100 **My first of the the weird “the people are kind of small and the object is super big” drawings. I also discovered how to draw sand. The father and son walking away held some significance for me. This was the first drawing where I stated to get super anal with the line-work.
 
-![](https://cdn-images-1.medium.com/max/720/1*mbnXWajVyFjcprnP6FTRCg.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*mbnXWajVyFjcprnP6FTRCg.jpeg)
 
 **9:100** Strange how this happens. Back to back small people (see 8:100). This started as an insect, but I wasn’t happy with it. It didn’t look “right”. So at the last minute I turned it into a kite. I was traveling at the time, so I was likely caffeinated with Starbucks coffee (bad ideas), and my head wasn’t in the game.
 
-![](https://cdn-images-1.medium.com/max/720/1*d7nkFjknbDDZUiZXsKHuDQ.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*d7nkFjknbDDZUiZXsKHuDQ.jpeg)
 
 **10:100** OK! Now we’re in business. The addiction with line-work, different textures, rain clouds, and awkward perspective gazebos begins. I actually finished this at an Agile conference in King of Prussia (of all places). My mind must have been pretty dialed in. I start to notice the fetish of carrying around nice pens.
 
-![](https://cdn-images-1.medium.com/max/720/1*9ZT_5IDV8_wf5WMhEd0iyA.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*9ZT_5IDV8_wf5WMhEd0iyA.jpeg)
 
 **11:100** Travel day. This felt like weak sauce. It can be hard to string together super-anal line-work on back to back days.
 
-![](https://cdn-images-1.medium.com/max/720/1*B40m54uvwHS3pz32gsZ_7A.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*B40m54uvwHS3pz32gsZ_7A.jpeg)
 
 **12:100** Strange swirls and flourishes rise! This was one of those wandering “I won’t know until it is almost done” doodles. I go to my old standby little-people (see above) and it comes to life. I loved the idea of a strange ferris / hamster wheel. The buttocks in the lower left was unintentional.
 
 **13:100 **13 was not lucky to me. I get lost in the swirls. This was probably a stressful day.
 
-![](https://cdn-images-1.medium.com/max/720/1*HzeiApIAees2Y1OKmwjNJA.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*HzeiApIAees2Y1OKmwjNJA.jpeg)
 
 **14:100** Birds! Rain! Sand! Themes unite. My favorite part of this drawing was doing the clouds. I didn’t expect it to work. But in retrospect they look very layered and humid.
 
-![](https://cdn-images-1.medium.com/max/720/1*6ARbbymz7rHpNlcheuAnLQ.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*6ARbbymz7rHpNlcheuAnLQ.jpeg)
 
 **15:100** I patted myself on the back a bunch of times for this one. Anal line-work? Check. Word-play? Check. My friend Tim counted them to make sure I did include 50 shades. I did. Pulling this off made my day. I haven’t seen the movie. Is it good?
 
 **16:100** Return of the crazy gazebo and little people. There’s some movement here … they’re climbing to the top. What’s at the top? I don’t know. Remember the rocks. I come back to them near the end.
 
-![](https://cdn-images-1.medium.com/max/720/1*X2yZEC2corhF1L7NuiwG0w.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*X2yZEC2corhF1L7NuiwG0w.jpeg)
 
 **17:100** Stressful morning. I couldn’t get my head in the game here, and work was looming on my mind. Stress muffles the thoughts and saps the patience.
 
-![](https://cdn-images-1.medium.com/max/720/1*33Tjjo3ZDwnAn6af5RLN6Q.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*33Tjjo3ZDwnAn6af5RLN6Q.jpeg)
 
 **18:100** Regaining some momentum I tap into my childhood obsession with catfish. I considered the return to halfway focused and inspired drawing a win here (given the previous day’s doodle crap).
 
-![](https://cdn-images-1.medium.com/max/720/1*hlAMmUgz8AfuTHejk-SHGQ.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*hlAMmUgz8AfuTHejk-SHGQ.jpeg)
 
 **19:100** Is it a house? A hotel? How about a weird house with stairs? You can see the lines become tighter here. Dots. A wild freeform splat. These themes will return in future drawings.
 
-![](https://cdn-images-1.medium.com/max/720/1*vUAuOSIG_7xxAHkKG1fuiA.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*vUAuOSIG_7xxAHkKG1fuiA.jpeg)
 
 **20:100** And now for something completely different! I was getting bored with the semi-literal stuff. The idea of parallel lines seemed appealing.
 
-![](https://cdn-images-1.medium.com/max/720/1*xVJv7ys8XoLiAr2sUJ3e6g.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*xVJv7ys8XoLiAr2sUJ3e6g.jpeg)
 
 **21:100** I channel a bracelet designer and go for symmetry.
 
-![](https://cdn-images-1.medium.com/max/720/1*e8CyYxepDYqpg21E2Dtz5Q.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*e8CyYxepDYqpg21E2Dtz5Q.jpeg)
 
 **22:100** This followed the pattern of “ok, let’s draw a bunch of patterns and then position a person in the drawing”. Webs, roses, thorns. Some familiar themes and a more confident larger non-stick-figure.
 
-![](https://cdn-images-1.medium.com/max/720/1*hTxzLxXcBYcir6XZLP7xbA.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*hTxzLxXcBYcir6XZLP7xbA.jpeg)
 
 **24:100** A crying elephant in a hall of mirrors with a nude. Makes perfect sense. I came to the elephant about halfway through the doodle.
 
-![](https://cdn-images-1.medium.com/max/720/1*j-eKs6lCL-vO5_yt3S-QEQ.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*j-eKs6lCL-vO5_yt3S-QEQ.jpeg)
 
 **25:100** A lapse. My mind wasn’t in it and work was piling up the stress. I try to resurrect it a couple ways, but it will be the flying steak forever.
 
-![](https://cdn-images-1.medium.com/max/720/1*85ZHhYr_71q417334KVD8w.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*85ZHhYr_71q417334KVD8w.jpeg)
 
 **26:100** Patterns and doodles. Some new techniques … little circles, network drawings, a stray bra, and booze.
 
-![](https://cdn-images-1.medium.com/max/720/1*FRRsFge9RL7Pe_XylHTjbQ.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*FRRsFge9RL7Pe_XylHTjbQ.jpeg)
 
 **27:100** More structure and control. For a while I was thinking about making it a woman’s back. Maybe it is. But I resort to a small man on a bicycle underneath a bunch of balloons.
 
-![](https://cdn-images-1.medium.com/max/720/1*0YBx6oibaOvmVXdkJBhL2g.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*0YBx6oibaOvmVXdkJBhL2g.jpeg)
 
 **28:100** End of the workweek! Can’t hold it together. Fridays aren’t great doodle days. Note that I repeated #27. This is #28.
 
-![](https://cdn-images-1.medium.com/max/720/1*xclfDW286NMtb7OF0DPgoA.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*xclfDW286NMtb7OF0DPgoA.jpeg)
 
 **29:100** Ah! Saturdays. Time to be incredibly detailed. The steps descend.
 
-![](https://cdn-images-1.medium.com/max/720/1*kn8TCRXX1cjedaj1OxHa-Q.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*kn8TCRXX1cjedaj1OxHa-Q.jpeg)
 
 **30:100** First of the knife drawings. And sexual fruit.
 
-![](https://cdn-images-1.medium.com/max/720/1*sj6hF85F5GbGUMSMIJbMBg.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*sj6hF85F5GbGUMSMIJbMBg.jpeg)
 
 **31:100** Must be a Monday. Semi-relaxed but mind buzzing. The squares return in a tree drawing later.
 
-![](https://cdn-images-1.medium.com/max/720/1*_ZglrrcF4o-kswK-FInAHw.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*_ZglrrcF4o-kswK-FInAHw.jpeg)
 
 **32:100** This was more playful with larger circles. On some level it is related to the prior day’s drawing, but I go big.
 
-![](https://cdn-images-1.medium.com/max/720/1*CmoSA9fYoE5igR-5SK9R-g.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*CmoSA9fYoE5igR-5SK9R-g.jpeg)
 
 **33:100** Intriguing. I was thinking about turning 41 years old apparently.
 
-![](https://cdn-images-1.medium.com/max/720/1*FsejIeXQCy2_IyIiJhrJ_A.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*FsejIeXQCy2_IyIiJhrJ_A.jpeg)
 
 **34:100** More knives, fruit, and sex. Replete with a bra and a serpent. What was going on?
 
-![](https://cdn-images-1.medium.com/max/720/1*wzuXfCFbQh-Vci_mQdcRkg.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*wzuXfCFbQh-Vci_mQdcRkg.jpeg)
 
 **35:100** I return to the blocky tree (see 11:100), and scaling extremes (little house or person). But there’s a balance here I like.
 
-![](https://cdn-images-1.medium.com/max/720/1*ODZZK5IoA2dw6h8aDASpHA.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*ODZZK5IoA2dw6h8aDASpHA.jpeg)
 
 **36:100** And now for a different tree! This was a good recovery from the prior day. Weekend work for sure.
 
-![](https://cdn-images-1.medium.com/max/720/1*aWnQ8JCLI_9ZCVVHQr_V-w.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*aWnQ8JCLI_9ZCVVHQr_V-w.jpeg)
 
 **37:100 **Robot insect. With crown (or something). I return to this a bit later.
 
-![](https://cdn-images-1.medium.com/max/720/1*_pnz4VGV0fyTBcnxgtRR1A.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*_pnz4VGV0fyTBcnxgtRR1A.jpeg)
 
 **38:100** I really loved this. The bullet coffee actually works. I was in the zone for a while. It was like meditating. I discovered that messy dot work can be effective for contouring things.
 
-![](https://cdn-images-1.medium.com/max/720/1*MQ9gAMf7bNnuuv6N4zJsSQ.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*MQ9gAMf7bNnuuv6N4zJsSQ.jpeg)
 
 **39:100** And I lose it! After the joy of the prior day’s work — probably early in the work week — I lose focus. The fish is nice though.
 
-![](https://cdn-images-1.medium.com/max/720/1*XYFy7IsaH7KXMOHojboFHA.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*XYFy7IsaH7KXMOHojboFHA.jpeg)
 
 **40:100** Light nudity. Lizards. Bikes. Excel cell references. Octopus. Just another day I guess. This fits in the “lots of boxes / circles with little things mixed in” theme.
 
-![](https://cdn-images-1.medium.com/max/720/1*NTI-xlR6fwLdzJ8FhbK4bQ.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*NTI-xlR6fwLdzJ8FhbK4bQ.jpeg)
 
 **41:100** This was the first of the “matchstick” type drawings.
 
-![](https://cdn-images-1.medium.com/max/720/1*qeb2EGTE_tZZUGjp7mGfBw.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*qeb2EGTE_tZZUGjp7mGfBw.jpeg)
 
 **42:100** And … with the Cat Save! When in doubt make it a monitor and include a cat. Totally makes sense.
 
-![](https://cdn-images-1.medium.com/max/720/1*0I5hFAlYw7Qbi_lmjvZ1Sg.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*0I5hFAlYw7Qbi_lmjvZ1Sg.jpeg)
 
 **43:100** I was looking at Weather Underground and noticed the wind markers. That seemed like a cool thing to obsessively draw over and over. But I wanted to take a risk … on something “Real”. So I drew an arm and didn’t destroy it. See later for the Sperm Tree. I avoided that effect here.
 
-![](https://cdn-images-1.medium.com/max/720/1*-NdJI9xno_wRLsZg-CGeGw.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*-NdJI9xno_wRLsZg-CGeGw.jpeg)
 
 **44:100** Color by numbers?
 
-![](https://cdn-images-1.medium.com/max/720/1*OqxTSqjVUxn7n3Uni2AUJA.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*OqxTSqjVUxn7n3Uni2AUJA.jpeg)
 
 **45:100** Bolstered by my confidence drawing “people”, I tried to sprinkle some people in. Like Nigel Tufnell. And boys. But I’m most proud of the globs on globs.
 
-![](https://cdn-images-1.medium.com/max/720/1*IUw7EDXhnnzGs81oKGwL6g.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*IUw7EDXhnnzGs81oKGwL6g.jpeg)
 
 **46:100** Self-portrait. I was in a pretty angst mood that day. I was coming up with a ton of ideas … but all the ideas freaked me out.
 
-![](https://cdn-images-1.medium.com/max/720/1*fYJ0j7LAGJW_iY2sUbMjBQ.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*fYJ0j7LAGJW_iY2sUbMjBQ.jpeg)
 
 **47:100** And the hill slopes up to the right! There are birds and rocks. And patterns. And network drawings. Some classic themes with good line-work.
 
-![](https://cdn-images-1.medium.com/max/720/1*WnMu9CrUquS6sWHSUcyFBQ.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*WnMu9CrUquS6sWHSUcyFBQ.jpeg)
 
 **48:100** Why don’t we keep on this network drawing kick? Sure! It even looks like an animal. See later for the nude with tiny networks.
 
-![](https://cdn-images-1.medium.com/max/720/1*6kIqGpTnj456a6-tiy_2-A.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*6kIqGpTnj456a6-tiy_2-A.jpeg)
 
 **49:100** Weird hotel on a hill. Knives. Patterns!
 
-![](https://cdn-images-1.medium.com/max/720/1*9JSDGbvnWJccYcoZpMAo-Q.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*9JSDGbvnWJccYcoZpMAo-Q.jpeg)
 
 **50:100** Bolstered by my new pen purchases, I go completely ape-shit. There’s blood. And bones. And feathers.
 
-![](https://cdn-images-1.medium.com/max/720/1*hAAJSlEdALNl30mnNFAr-Q.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*hAAJSlEdALNl30mnNFAr-Q.jpeg)
 
 **51:100** These pens are great. Seriously, good tools — and having 50 drawings under my belt — made this a ton of fun. The dots, crosshatch, etc.
 
-![](https://cdn-images-1.medium.com/max/720/1*p6-feDn9O-jFRqK9uo_EgA.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*p6-feDn9O-jFRqK9uo_EgA.jpeg)
 
 **52:100** I go deep. This started as a network drawing. Incredibly detailed. But it started to take the form of a woman. I was excited. Did the red mess it up?
 
-![](https://cdn-images-1.medium.com/max/720/1*qorGMgXldyaggnSUZDp3uA.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*qorGMgXldyaggnSUZDp3uA.jpeg)
 
 **53:100** Maybe it is fatigue, but I return to something less arduous. I’m pretty sure this was a Monday. After the weekend of new pens and meditation, I go for something less busy.
 
-![](https://cdn-images-1.medium.com/max/720/1*Twsz3o5dQvg8kJX7W3BgGg.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*Twsz3o5dQvg8kJX7W3BgGg.jpeg)
 
 **54:100** As strange as it sounds, the “messy” branches on the upper left were a major win for me. I was really in the line-mode, and broke out of it with some happiness-producing results.
 
-![](https://cdn-images-1.medium.com/max/720/1*EjVTft8sKIwPA9RtmIl0Ug.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*EjVTft8sKIwPA9RtmIl0Ug.jpeg)
 
 **55:100 **Tunnels? More and more lines, but the “fuzziness” on the tubing was pleasing. It felt less linear.
 
-![](https://cdn-images-1.medium.com/max/720/1*L0hj9FLKZltqAMLSfc63hg.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*L0hj9FLKZltqAMLSfc63hg.jpeg)
 
 **56:100** Black Lives Matter news. I kept thinking about a person trying to scream, but nothing coming out.
 
-![](https://cdn-images-1.medium.com/max/720/1*OgPgCHDaR00SJGdHJ6Jp_Q.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*OgPgCHDaR00SJGdHJ6Jp_Q.jpeg)
 
 **57:100** And then follow that up with a completely unrelated sperm tree. I really didn’t want this to be the sperm tree. I doodled and doodled, and kept hoping it wouldn’t look like a sperm tree. But it ended up that way.
 
-![](https://cdn-images-1.medium.com/max/720/1*0MgbgKBU_BDn-AjqNSgSZQ.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*0MgbgKBU_BDn-AjqNSgSZQ.jpeg)
 
 **58:100** Shit! That was super lucky. A whale! A real whale. Once the form took shape, I found it hard to turn back. I learned with this drawing that you could also use light pen pressure for the line work. It was more like shading.
 
-![](https://cdn-images-1.medium.com/max/720/1*No4jdMvKHrs7CzSMZzxmXw.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*No4jdMvKHrs7CzSMZzxmXw.jpeg)
 
 **59:100** Weekday distraction. Oh well, it must be a vein. Let’s draw arrows to show the disease creeping in.
 
-![](https://cdn-images-1.medium.com/max/720/1*rL1Pym_MCEk0bw0YkIFdUQ.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*rL1Pym_MCEk0bw0YkIFdUQ.jpeg)
 
 **60:100** Feeling toxic. Like only bullshit is leaving my mouth! Self-portrait again.
 
-![](https://cdn-images-1.medium.com/max/720/1*FjImOU3csUVvfNQ-K9QvvA.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*FjImOU3csUVvfNQ-K9QvvA.jpeg)
 
 **61:100 **One of those days!
 
-![](https://cdn-images-1.medium.com/max/720/1*duN7Eu6qaBRY1RuX19VAAQ.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*duN7Eu6qaBRY1RuX19VAAQ.jpeg)
 
 **62:100** Thicker lines. Petals. Layers. A good reprieve from the day before.
 
-![](https://cdn-images-1.medium.com/max/720/1*1GoYDwQThgPDw6xSKhTkNA.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*1GoYDwQThgPDw6xSKhTkNA.jpeg)
 
 **63:100** And we’re back to little gazebos and walkways. Phew.
 
-![](https://cdn-images-1.medium.com/max/720/1*Womarhf97Le9lJhPJYtc0A.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*Womarhf97Le9lJhPJYtc0A.jpeg)
 
 **64:100** Lest we forget trees, little people, fruit, and all of that good stuff.
 
-![](https://cdn-images-1.medium.com/max/720/1*Kns4FvCapcvkuhLRI2cnGQ.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*Kns4FvCapcvkuhLRI2cnGQ.jpeg)
 
 **65:100** Today let’s draw a ton of squares! So I did. There was something challenging about drawing little squares, and not circles.
 
-![](https://cdn-images-1.medium.com/max/720/1*TxVSz4T31PIcl8kT1X_9Pg.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*TxVSz4T31PIcl8kT1X_9Pg.jpeg)
 
 **66:100** Let’s get angular! And draw lines. This is an oft repeated theme, but I went full screen for this picture.
 
-![](https://cdn-images-1.medium.com/max/720/1*hpnaG-YVg5O_O3FkcfdjVA.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*hpnaG-YVg5O_O3FkcfdjVA.jpeg)
 
 **67:100** Non-distinct. Mid week. I finished this at 11:30PM.
 
-![](https://cdn-images-1.medium.com/max/720/1*ZoxgRwrwl36UzX4TJtTt1w.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*ZoxgRwrwl36UzX4TJtTt1w.jpeg)
 
 **68:100** Little critters! In retrospect I didn’t like the fact that the critters were trapped by the tree. Looks uncomfortable.
 
-![](https://cdn-images-1.medium.com/max/720/1*S_CQfZZ-V_tJqYUVQBhiDg.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*S_CQfZZ-V_tJqYUVQBhiDg.jpeg)
 
 **69:100** No guilt! There was a creative malfunction here. So instead of just phoning it in, I called it out.
 
-![](https://cdn-images-1.medium.com/max/720/1*frVMKtBXtfYiSLBw77ixXA.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*frVMKtBXtfYiSLBw77ixXA.jpeg)
 
 **70:100** … a hill, up and to the right. Thorns. Apparently (see upper left) I had some to-dos on my mind. This is a facsimile of some earlier drawings (blog rocks).
 
-![](https://cdn-images-1.medium.com/max/720/1*sbhYRa14gRlojQ5CmyY9eA.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*sbhYRa14gRlojQ5CmyY9eA.jpeg)
 
 **71:100** Hurray for the weekend! Calm. Serenity. A tiny person, rain, and a tree. But seriously, I enjoyed the layering of the clouds on this one, and the obsessive square drawing. Win! Confidence regained.
 
-![](https://cdn-images-1.medium.com/max/720/1*KUfzjv4khOaiuTwwfUYHzQ.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*KUfzjv4khOaiuTwwfUYHzQ.jpeg)
 
 **72:100** Flexible fly swatters with arms. Of course!
 
-![](https://cdn-images-1.medium.com/max/720/1*Xzth3NI-ZfSpPHuf5ORnBA.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*Xzth3NI-ZfSpPHuf5ORnBA.jpeg)
 
 **73:100** Back to wordplay. Visited friends in LA. The sun. The West Coast cool. Pulled this off in the LAX lounge over beers, but that’s what you can do when you’re sketching and not drawing lines furiously.
 
-![](https://cdn-images-1.medium.com/max/720/1*xbLE-qUA29onYOmpp6gGrg.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*xbLE-qUA29onYOmpp6gGrg.jpeg)
 
 **74:100** Look at this thick pen. Patterns! Jet lagged to be honest.
 
-![](https://cdn-images-1.medium.com/max/720/1*pi8Cfowh2RiIm9w53J_fgg.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*pi8Cfowh2RiIm9w53J_fgg.jpeg)
 
 **75:100** This makes me angry, actually. It feels very phoned-in. Oh hey, let’s draw a human cat with triangle hair. Nothing feels right about it.
 
-![](https://cdn-images-1.medium.com/max/720/1*XgR-e7e8usQuXCwmdM3B6Q.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*XgR-e7e8usQuXCwmdM3B6Q.jpeg)
 
 **76:100** More distraction. Saving grace is the swimming pool.
 
-![](https://cdn-images-1.medium.com/max/720/1*1_5Dho6PmBE-HWxz0dpWkA.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*1_5Dho6PmBE-HWxz0dpWkA.jpeg)
 
 **77:100** And then faith is restored! Back to some flower-work. Tight lines. Petals. Good recovery.
 
-![](https://cdn-images-1.medium.com/max/720/1*HVCU_VzNaTJ40fUxKrGrtQ.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*HVCU_VzNaTJ40fUxKrGrtQ.jpeg)
 
 **78:100** I’m not stopping there! Let’s get the line ON! I was calm, caffeinated with good coffee, and ready to experiment (like with the fuzzy bird head). Guess what? It’s a Saturday! Maybe this is the living version of the bird in **50:100**.
 
-![](https://cdn-images-1.medium.com/max/720/1*Dho4S7hV4kaR72JMEtFEDw.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*Dho4S7hV4kaR72JMEtFEDw.jpeg)
 
 **79:100** And on Sunday I slow down a bit. Softer lines. Post bike ride. Some sinew.
 
-![](https://cdn-images-1.medium.com/max/720/1*R9y-_RcWBoWBAsQwWwz0CQ.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*R9y-_RcWBoWBAsQwWwz0CQ.jpeg)
 
 **80:100** **** this. I am going to draw Monday a bunch of times. Over and over.
 
-![](https://cdn-images-1.medium.com/max/720/1*na35kISSfSR1W7Aj70dtNA.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*na35kISSfSR1W7Aj70dtNA.jpeg)
 
 **81:100** Good recovery for a Tuesday. Not great. But not totally annoying.
 
-![](https://cdn-images-1.medium.com/max/720/1*TD8xOsPqfeKpb1HPMbg-Pw.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*TD8xOsPqfeKpb1HPMbg-Pw.jpeg)
 
 **82:100 **I love great pens. They make Wednesday awesome.
 
-![](https://cdn-images-1.medium.com/max/720/1*i7_jTUsnPgIp6SuIcyUTyA.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*i7_jTUsnPgIp6SuIcyUTyA.jpeg)
 
 **83:100** And this is what a Thursday feels like. Scribble scribble.
 
-![](https://cdn-images-1.medium.com/max/720/1*EHRqvy5Zm27pn-7dc-rfhg.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*EHRqvy5Zm27pn-7dc-rfhg.jpeg)
 
 **84:100** Keep pushing through. You can always fall back on matchsticks, connective lines, quasi-harps, and dark line bursts.
 
-![](https://cdn-images-1.medium.com/max/720/1*yTuZF3p4i8wYtKZbSx-BIw.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*yTuZF3p4i8wYtKZbSx-BIw.jpeg)
 
 **85:100** One continuous line. This one felt like I was just floating along. It probably took a couple hours but I was enjoying my coffee too much. Intestines?
 
-![](https://cdn-images-1.medium.com/max/720/1*P9Rn1sOAv50NHo7iRREWEA.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*P9Rn1sOAv50NHo7iRREWEA.jpeg)
 
 **86:100** Down the rabbit (intestine) hole.
 
-![](https://cdn-images-1.medium.com/max/720/1*D8RaV1YSE0tG6vfgb_GH5Q.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*D8RaV1YSE0tG6vfgb_GH5Q.jpeg)
 
 **87:100** The old bird and talon standby. Blood!
 
-![](https://cdn-images-1.medium.com/max/720/1*RzkjfWqBrBWcoAUQIJclcw.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*RzkjfWqBrBWcoAUQIJclcw.jpeg)
 
 **88:100** Remember that robot? 37:100. A gentler robot, with a bearded Grecian head. Makes perfect sense.
 
-![](https://cdn-images-1.medium.com/max/720/1*_hBJxUtss9QugJpgT4FQTg.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*_hBJxUtss9QugJpgT4FQTg.jpeg)
 
 **89:100** Waaaay different! I set out here to challenge myself with non-lines. This might have been mid-week as well, but the project suited the freneticism of the workweek.
 
-![](https://cdn-images-1.medium.com/max/720/1*P08nzZ85KgXWuNaUPPO9Qg.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*P08nzZ85KgXWuNaUPPO9Qg.jpeg)
 
 **90:100** Completely Kosher. No innuendo at all. It’s a flower.
 
-![](https://cdn-images-1.medium.com/max/720/1*eit3k52tfH9jJeetHLTkQA.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*eit3k52tfH9jJeetHLTkQA.jpeg)
 
 **91:100** The solid branches were a change here. It felt swampy and drippy.
 
-![](https://cdn-images-1.medium.com/max/720/1*d9_VBkmr3h_4JdoyAluVXA.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*d9_VBkmr3h_4JdoyAluVXA.jpeg)
 
 **92:100** The goat! This was a serious effort. I worked hard on the line-work. It started to take the shape of these aggressive rocks. It might seem stereotypical — Mountain Goat — but the idea of this goal being challenged by this maze of rocks was appealing.
 
-![](https://cdn-images-1.medium.com/max/720/1*iuatYaBi8A3sQq77IbiX7w.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*iuatYaBi8A3sQq77IbiX7w.jpeg)
 
 **93:100** Another hotel on a barren landscape. With two crystal balls for eyes. it is almost insect-like, and I was probably shooting for that initially.
 
-![](https://cdn-images-1.medium.com/max/720/1*jAR3rAycCl43bwBr93WNZg.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*jAR3rAycCl43bwBr93WNZg.jpeg)
 
 **94:100** This took on a fishy / kelpy vibe kind of early. But it wasn’t until I committed 100% to the scales that it took shape.
 
-![](https://cdn-images-1.medium.com/max/720/1*loKUPzl9h2hLBAkFLhjBhw.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*loKUPzl9h2hLBAkFLhjBhw.jpeg)
 
 **95:100** When in doubt … wait until 11:30PM when you’re fried from work and draw a tree.
 
-![](https://cdn-images-1.medium.com/max/720/1*0fmF3hsgA5slrGcUKfZc2Q.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*0fmF3hsgA5slrGcUKfZc2Q.jpeg)
 
 **96:100** Nice and simple and bursty!
 
-![](https://cdn-images-1.medium.com/max/720/1*YLkkcjmywS3-4UDCChGH1Q.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*YLkkcjmywS3-4UDCChGH1Q.jpeg)
 
 **97:100** If you’re a child of divorce (or don’t have kids and use Facebook) you know that feeling of seeing happy families together through a haze/static.
 
-![](https://cdn-images-1.medium.com/max/720/1*Z7S1CDR5J3_RZHKms32xaw.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*Z7S1CDR5J3_RZHKms32xaw.jpeg)
 
 **98:100** Life takes you on twists and turns sometimes.
 
-![](https://cdn-images-1.medium.com/max/720/1*arwaJ1RUYgoUyHe1i3scQA.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*arwaJ1RUYgoUyHe1i3scQA.jpeg)
 
 **99:100** First full day in Greece on Vacation! I was super proud of the ink-painting on this one. It took a couple hours. But it captured my sense of calm and contemplation.
 
-![](https://cdn-images-1.medium.com/max/720/1*Ow5XL-IHD070YAbwU44SiA.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*Ow5XL-IHD070YAbwU44SiA.jpeg)
 
 100:100 What’s next? Who knows!
 
@@ -8592,16 +8299,16 @@ This is a waterfall:
 
 This is a **waterfall**:
 
-![](https://cdn-images-1.medium.com/max/720/1*gD-WKbjHO5xMrfxmnUz4pQ.png)
+![](https://cdn-images-1.medium.com/max/800/1*gD-WKbjHO5xMrfxmnUz4pQ.png)
 
 In the Agile product development world, waterfalls are **bad**. The idea was
 to get away from things that look like **this**:
 
-![](https://cdn-images-1.medium.com/max/720/1*5W0GLhXeSlHADiINxAABdQ.png)
+![](https://cdn-images-1.medium.com/max/800/1*5W0GLhXeSlHADiINxAABdQ.png)
 
 … and move to something that looks more like ocean waves:
 
-![](https://cdn-images-1.medium.com/max/720/1*eo0RvfGL37fEJcHvowifRg.png)
+![](https://cdn-images-1.medium.com/max/800/1*eo0RvfGL37fEJcHvowifRg.png)
 
 <http://scrumreferencecard.com/scrum-reference-card/>
 
@@ -8616,7 +8323,7 @@ of monotonous rituals and meandering iterative development… like adding globs
 of wet sand to a sand sculpture at the beach. ‘Round and ‘round you go …
 introspecting in a hall of retrospective mirrors:
 
-![](https://cdn-images-1.medium.com/max/720/1*1VGTPTZOeBtA77_s5Av7sA.png)
+![](https://cdn-images-1.medium.com/max/800/1*1VGTPTZOeBtA77_s5Av7sA.png)
 
 Retros. Planning. Backlog grooming. Acceptance criteria. Standup. Rinse
 repeat.
@@ -8628,14 +8335,14 @@ releasing production-ready code, you start to wonder if anyone is using these
 “stories”. Is it working? Did you [eventually build the
 car](http://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp) …
 
-![](https://cdn-images-1.medium.com/max/720/1*uVuCJNYNcut-yAsN_kEGkQ.png)
+![](https://cdn-images-1.medium.com/max/800/1*uVuCJNYNcut-yAsN_kEGkQ.png)
 
 <http://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp>
 
 … or are you stuck in a perpetual MVP exercise wondering when the “business”
 will figure things out?
 
-![](https://cdn-images-1.medium.com/max/720/1*wdxdDe2qT5gl3a3iEdxH3w.png)
+![](https://cdn-images-1.medium.com/max/800/1*wdxdDe2qT5gl3a3iEdxH3w.png)
 
 Have you checked out the This American Life episode on the GM Nummi plant? If
 not, do so [here](http://www.thisamericanlife.org/radio-
@@ -8646,7 +8353,7 @@ a transformative experience. They were empowered to save their plant and
 experienced amazing success. In other plants, that wasn’t the case. Those
 efforts failed.
 
-![](https://cdn-images-1.medium.com/max/720/1*Ey03KtTIkoakcJhoW_iNmA.png)
+![](https://cdn-images-1.medium.com/max/800/1*Ey03KtTIkoakcJhoW_iNmA.png)
 
 > Before, when GM ran this place, I dreaded coming to the plant. Management
 was always screaming and hollering. Now it is so different! I look forward to
@@ -8659,7 +8366,7 @@ enjoy stories with a beginning, middle, and end. We like making a difference!
 
 There is a certain zen to iterative development …
 
-![](https://cdn-images-1.medium.com/max/720/1*WQi6B0dLvZlPfslcX2zDcQ.png)
+![](https://cdn-images-1.medium.com/max/800/1*WQi6B0dLvZlPfslcX2zDcQ.png)
 
 Esher Sisyphus or “Zen”?
 
@@ -8676,7 +8383,7 @@ achievable **without safety, diversity, and learning (**at least for a short
 period of time)**.** If you’re a big org and feel like some paint-by-numbers
 just [implement SAFe](http://www.scaledagileframework.com/).
 
-![](https://cdn-images-1.medium.com/max/720/1*NooB8547rZ7C6N6JQF6lPw.png)
+![](https://cdn-images-1.medium.com/max/800/1*NooB8547rZ7C6N6JQF6lPw.png)
 
 To get to a higher level you’ll eventually need the empathy, inspiration,
 creativity, humanity, and novelty:
@@ -8686,7 +8393,7 @@ creativity, humanity, and novelty:
 So, with that … think about ripples and impact. A powerful center, with power
 rippling outwards.
 
-![](https://cdn-images-1.medium.com/max/720/1*CKdjcpyB7xdLK4VfDiUBDw.png)
+![](https://cdn-images-1.medium.com/max/800/1*CKdjcpyB7xdLK4VfDiUBDw.png)
 
 Appreciate your comments!
 
@@ -8766,7 +8473,7 @@ product ownership ….
 #### _After reading the 745th blog post trying to define product management
 and product ownership …._
 
-![](https://cdn-images-1.medium.com/max/720/1*eDIjzk_g9KqqVw_hreIjFA.png)
+![](https://cdn-images-1.medium.com/max/800/1*eDIjzk_g9KqqVw_hreIjFA.png)
 
 <https://www.youtube.com/watch?v=uihgdgGBLKk>
 
@@ -8891,7 +8598,7 @@ Your product shows potential. But does it perform?
 
 Product/market fit is a slippery term. I think of it as follows (3Ps):
 
-![](https://cdn-images-1.medium.com/max/720/1*Q4ql8AqNvIIuGpKgDicMjw.png)
+![](https://cdn-images-1.medium.com/max/800/1*Q4ql8AqNvIIuGpKgDicMjw.png)
 
 #### Pain
 
@@ -8936,7 +8643,7 @@ Some quick coffee fueled snippets from a product coaching email exchange …
 
 ### 16 Quick Product Management Tips
 
-![](https://cdn-images-1.medium.com/max/720/1*RhRgIrTBI3EdGZiz6AYNRw.png)
+![](https://cdn-images-1.medium.com/max/800/1*RhRgIrTBI3EdGZiz6AYNRw.png)
 
 PM work isn’t easy ….
 
@@ -9210,14 +8917,14 @@ end up looking like a command prompt. Or that without Product cracking the
 whip, Engineering will re-factor their code a dozen times, and UX will polish
 every pixel (repeatedly, those wacky designers).
 
-![](https://cdn-images-1.medium.com/max/720/1*e-hzbTBlfuymmmZKioAaSg.png)
+![](https://cdn-images-1.medium.com/max/800/1*e-hzbTBlfuymmmZKioAaSg.png)
 
 Do you know what happens instead (in many cases)? Mediocrity and complacency.
 Green + Red != Christmas. No…. Green + Red = Brown (an “[icky mix that doesn’t
 bode well for your pigment/paint](https://www.quora.com/What-color-does-green-
 and-red-make)”).
 
-![](https://cdn-images-1.medium.com/max/720/1*rZDosDyq2H9xMr9ZB-aXwg.png)
+![](https://cdn-images-1.medium.com/max/800/1*rZDosDyq2H9xMr9ZB-aXwg.png)
 
 Instead of advocating (and healthfully debating) for the **_best idea, or the
 right way to deliver value to customers, _**you end up with bunch of people
@@ -9284,7 +8991,7 @@ scientists, and product managers/owners! And talk about…
 data scientists, and product managers/owners! And talk about building stuff
 humans value.
 
-![](https://cdn-images-1.medium.com/max/720/1*-WWivcBgwXizS1Sld8JBww.png)
+![](https://cdn-images-1.medium.com/max/800/1*-WWivcBgwXizS1Sld8JBww.png)
 
 Random stock photo from [here](http://www.onlineschoolscenter.com/30-high-
 paying-trade-school-degrees/) . Sadly, without this image, I’ll have about
@@ -9380,7 +9087,7 @@ The Messy World of Modern Software Product Development (With User Interfaces)
 #### The Messy World of Modern Software Product Development (With User
 Interfaces)
 
-![](https://cdn-images-1.medium.com/max/720/1*p-Xmpg3MFXo3Ie4G0LgGMw.png)
+![](https://cdn-images-1.medium.com/max/800/1*p-Xmpg3MFXo3Ie4G0LgGMw.png)
 
 In forward thinking product development organizations, **product management
 and UX have become increasingly overlapped**. Concurrently, we have seen a
@@ -9641,7 +9348,7 @@ How **effective are we at:**
   5. Helping our people and teams grow?
   6. Sensing changes to, and continuously improving on the the areas above?
 
-![](https://cdn-images-1.medium.com/max/720/1*QKJ5w5WS_zX7myiutqR4KQ.png)
+![](https://cdn-images-1.medium.com/max/800/1*QKJ5w5WS_zX7myiutqR4KQ.png)
 
 Talk about it. What have you observed? What is the delta since you last spoke?
 How do your individual biases impact your perception of what you have
@@ -9762,7 +9469,7 @@ This morning I woke up to this tweet from Jeff Patton:
 
 This morning I woke up to this tweet from Jeff Patton:
 
-![](https://cdn-images-1.medium.com/max/720/0*IqYsOliimYMyaoKB.)
+![](https://cdn-images-1.medium.com/max/800/0*IqYsOliimYMyaoKB.)
 
 I found this interesting on a number levels. First, it was a gimme punchline
 at a product conference. Well played! I’ve heard plenty of gimme PM jokes at
@@ -9842,7 +9549,7 @@ File this post under Listicles John Creates to Keep His Own Thinking Straight
 _File this post under Listicles John Creates to Keep His Own Thinking
 Straight_
 
-![](https://cdn-images-1.medium.com/max/720/1*6zCgxz_r1MTzEiPtPIjbzw.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*6zCgxz_r1MTzEiPtPIjbzw.jpeg)
 
 An actual set of notes … my spelling is atrocious
 
@@ -9905,7 +9612,7 @@ achieve? What must you optimize for?
 #### What do you need? What does your company need? Why? What are you trying
 to achieve? What must you optimize for?
 
-![](https://cdn-images-1.medium.com/max/720/1*_r3zVICDbrBWeXq0lPKTCg.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*_r3zVICDbrBWeXq0lPKTCg.jpeg)
 
 Doodling while thinking about the “real” org chart
 
@@ -9967,7 +9674,7 @@ What do I need? What do you need?It’s a good start.
 
 #### … because once you’ve lost it, you’re pretty screwed
 
-![](https://cdn-images-1.medium.com/max/720/1*X57glPnDN_hC08jWZQXn3A.png)
+![](https://cdn-images-1.medium.com/max/800/1*X57glPnDN_hC08jWZQXn3A.png)
 
 In [Chaos Monkeys: Obscene Fortune and Random Failure in Silicon
 Valley](https://www.amazon.com/Chaos-Monkeys-Obscene-Fortune-Failure-
@@ -10022,7 +9729,7 @@ and political. It’s like parents transitioning from command and control to
 [helicopter parenting](https://en.wikipedia.org/wiki/Helicopter_parent). In
 some cases it is downright Orwellian.
 
-![](https://cdn-images-1.medium.com/max/720/1*dL_2WWibLJkuIyN14qS7ow.png)
+![](https://cdn-images-1.medium.com/max/800/1*dL_2WWibLJkuIyN14qS7ow.png)
 
 Have you heard of _teal_ organizations? Teal is where it’s at (it is [humbly
 referred to](http://www.reinventingorganizationswiki.com/Teal_Organizations)
@@ -10184,7 +9891,7 @@ product management / product owner candidates. These 24 items are useful when
 can take a lifetime of shipping to max out your chops, so it is important to
 view all of these skills on a continuum.
 
-![](https://cdn-images-1.medium.com/max/720/1*KLOWWMNqgyt2RwjrhLbyQQ.png)
+![](https://cdn-images-1.medium.com/max/800/1*KLOWWMNqgyt2RwjrhLbyQQ.png)
 
 See [PDF
 here](https://drive.google.com/file/d/0B04yoW1JFDHGZExOaVpKVVBBOW8/view?usp=sharing)
@@ -10231,7 +9938,7 @@ This post is about fear and uncertainty, how we respond to that uncertainty,
 and how we accidentally perpetuate learned helplessness in software
 development.
 
-![](https://cdn-images-1.medium.com/max/720/1*gppqlsgZYxHoWPHyuKXDng.png)
+![](https://cdn-images-1.medium.com/max/800/1*gppqlsgZYxHoWPHyuKXDng.png)
 
 <http://lisapapineau.blogspot.com/2012/03/actresses-and-crystal-ball.html>
 
@@ -10334,7 +10041,7 @@ Product managers, here’s an easy way to see if you are wasting your own time,
 and the time of the people around you. First, buy a watch so you don’t get
 distracted by screens whenever you have to know the time.
 
-![](https://cdn-images-1.medium.com/max/720/1*74Y05eVGrXYfMBbe5wCkrw.png)
+![](https://cdn-images-1.medium.com/max/800/1*74Y05eVGrXYfMBbe5wCkrw.png)
 
 Next, ask yourself “**what am I _REALLY_ doing?**” This can be harder than it
 sounds, but go figure it out.
@@ -10372,7 +10079,7 @@ What did you come up with?
 
 **By golly yes!** Rock on. Keep it up, and reflect on whether it’s working with your team.
 
-![](https://cdn-images-1.medium.com/max/720/1*sCup3exMtcM853ABiYr1MQ.png)
+![](https://cdn-images-1.medium.com/max/800/1*sCup3exMtcM853ABiYr1MQ.png)
 
 
 # 10 Ways UX Research Is Changing
@@ -10390,7 +10097,7 @@ experimentation?
 
 It is Sunday, and the listicle (and doodle) instinct is strong ….
 
-![](https://cdn-images-1.medium.com/max/900/1*srLo60TVu2IaQWn3KcBJfg.jpeg)
+![](https://cdn-images-1.medium.com/max/1000/1*srLo60TVu2IaQWn3KcBJfg.jpeg)
 
 See #1, #2, and #4 below …
 
@@ -10418,7 +10125,7 @@ the comments. No judgement (I’ve fallen victim to many of…
 I figured I’d start the ball rolling here. I’d love if you could contribute in
 the comments. No judgement (I’ve fallen victim to many of these).
 
-![](https://cdn-images-1.medium.com/max/720/1*g_ZYVIBj2KWCjOiS2qumYw.png)
+![](https://cdn-images-1.medium.com/max/800/1*g_ZYVIBj2KWCjOiS2qumYw.png)
 
 <http://www.kera.org/2014/07/22/delusional-perspective/>
 
@@ -10484,6 +10191,29 @@ it for them anyway…
 48\. There are a lot of things users don’t like. Rather than fixing each one,
 we should just re-architect it.
 
+[![](https://cdn-images-1.medium.com/max/400/1*0hqOaABQ7XGPT-
+OYNgiUBg.png)](http://bit.ly/HackernoonFB)
+
+[![](https://cdn-
+images-1.medium.com/max/400/1*Vgw1jkA6hgnvwzTsfMlnpg.png)](https://goo.gl/k7XYbx)
+
+[![](https://cdn-
+images-1.medium.com/max/400/1*gKBpq1ruUi0FVK2UM_I4tQ.png)](https://goo.gl/4ofytp)
+
+> [Hacker Noon](http://bit.ly/Hackernoon) is how hackers start their
+afternoons. We’re a part of the [@AMI](http://bit.ly/atAMIatAMI) family. We
+are now [accepting submissions](http://bit.ly/hackernoonsubmission) and happy
+to [discuss advertising &amp;
+sponsorship](mailto:partners@amipublications.com) opportunities.
+
+> If you enjoyed this story, we recommend reading our [latest tech
+stories](http://bit.ly/hackernoonlatestt) and [trending tech
+stories](https://hackernoon.com/trending). Until next time, don’t take the
+realities of the world for granted!
+
+[![](https://cdn-
+images-1.medium.com/max/2000/1*35tCjoPcvq6LbB3I6Wegqw.jpeg)](https://goo.gl/Ahtev1)
+
 
 # Your Saas Company Is Like a Theme Park
 
@@ -10502,7 +10232,7 @@ suited to the non-linear nature of the system.
 
 How about a Theme Park?
 
-![](https://cdn-images-1.medium.com/max/720/1*M1_1hMw2Z-YoBE7w9TkkMg.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*M1_1hMw2Z-YoBE7w9TkkMg.jpeg)
 
 
 # 50 Questions I Ask PMs About Data and Their Teams
@@ -10685,7 +10415,7 @@ Your team ships a new feature. Something is not right.
 
 ### Cutting Corners and Electric Fences
 
-![](https://cdn-images-1.medium.com/max/720/1*0wdqFy2-c9zCBobJVoxZSQ.png)
+![](https://cdn-images-1.medium.com/max/800/1*0wdqFy2-c9zCBobJVoxZSQ.png)
 
 <http://www.grit.com/animals/electric-fencing-basics>
 
@@ -10825,7 +10555,7 @@ stuffy process? Below I share how I tackled this problem with decent results.
 Perhaps it can inspire an experiment within your large product development
 organization.
 
-![](https://cdn-images-1.medium.com/max/720/1*xBQpQAnUHrV6Ro3bdJsumw.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*xBQpQAnUHrV6Ro3bdJsumw.jpeg)
 
 #FTFL … blurred for confidentiality reasons, which has scaled to 20+ teams
 
@@ -10957,7 +10687,7 @@ when you stop reflecting and learning (see my post [Cutting Corners and
 Electric Fences](https://medium.com/@johnpcutler/cutting-corners-and-electric-
 fences-c8fbfaa4d91a)). The trick is to visualize the impact.
 
-![](https://cdn-images-1.medium.com/max/720/1*uyGVPNpn8GJ6EigIU6o6Kg.png)
+![](https://cdn-images-1.medium.com/max/800/1*uyGVPNpn8GJ6EigIU6o6Kg.png)
 
   1. If an engineer is battling technical debt to finish a story, then cut a ticket for that work
   2. If you ship a feature with obvious UX debt, then cut a ticket for this debt
@@ -11000,7 +10730,7 @@ two years. I started using the term when a software developer…
 
 ### 12 Signs You’re Working in a Feature Factory
 
-![](https://cdn-images-1.medium.com/max/1800/1*A9HaI7x2MdvkTn48D9a0wg.jpeg)
+![](https://cdn-images-1.medium.com/max/2000/1*A9HaI7x2MdvkTn48D9a0wg.jpeg)
 
 I’ve used the term _Feature Factory _at a couple conference talks over the
 past two years. I started using the term when a software developer friend
@@ -11057,7 +10787,7 @@ I recently posted about [Feature Factories](https://hackernoon.com/12-signs-
 youre-working-in-a-feature-factory-44a5b938d6a2#.kjhkgs7aj) ,which got me
 thinking about success theater.
 
-![](https://cdn-images-1.medium.com/max/720/1*yTlYkteVv_rV8wXqCY6Kmg.png)
+![](https://cdn-images-1.medium.com/max/800/1*yTlYkteVv_rV8wXqCY6Kmg.png)
 
 Up and to the right …
 
@@ -11174,7 +10904,7 @@ and creativity, and want to help you, the team, the product…
 
 ### Dear Product Managers …
 
-![](https://cdn-images-1.medium.com/max/720/1*s-ZwCwJVMPWQoodMRI42_A.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*s-ZwCwJVMPWQoodMRI42_A.jpeg)
 
 We know your job is hard, but you need to let us help you. We’ve got the chops
 and creativity, and want to help you, the team, the product, and our company
@@ -11223,48 +10953,29 @@ Thanks
 
 Engineers &amp; UX
 
+(start
 
-# Hi Lexi. I have a couple posts that probably answer your question. Off the
-top of my head:
+[![](https://cdn-images-1.medium.com/max/400/1*0hqOaABQ7XGPT-
+OYNgiUBg.png)](http://bit.ly/HackernoonFB)
 
-https://medium.com/@johnpcutler/the-evolving-product-manager-role-
-6f288bbc3cda#.4hom8nlnx
+[![](https://cdn-
+images-1.medium.com/max/400/1*Vgw1jkA6hgnvwzTsfMlnpg.png)](https://goo.gl/k7XYbx)
 
-* * *
+[![](https://cdn-
+images-1.medium.com/max/400/1*gKBpq1ruUi0FVK2UM_I4tQ.png)](https://goo.gl/4ofytp)
 
-Hi Lexi. I have a couple posts that probably answer your question. Off the top
-of my head:
+> [Hacker Noon](http://bit.ly/Hackernoon) is how hackers start their
+afternoons. We’re a part of the [@AMI](http://bit.ly/atAMIatAMI) family. We
+are now [accepting submissions](http://bit.ly/hackernoonsubmission) and happy
+to [discuss advertising &amp;
+sponsorship](mailto:partners@amipublications.com) opportunities.
 
-<https://medium.com/@johnpcutler/the-evolving-product-manager-role-
-6f288bbc3cda#.4hom8nlnx>
+> If you enjoyed this story, we recommend reading our [latest tech
+stories](http://bit.ly/hackernoonlatestt) and [trending tech
+stories](https://hackernoon.com/trending). Until next time, don’t take the
+realities of the world for granted!
 
-<https://hackernoon.com/10-ways-pms-can-earn-the-respect-and-trust-of-their-
-team-98353b693b4a>
-
-<https://medium.com/p/focus-on-these-8-things-to-build-better-products-
-f2344c19602d>
-
-<https://medium.com/p/as-product-managers-we-re-asking-ourselves-the-wrong-
-set-of-questions-badfcfc6eb20>
-
-In that last post, I list some things I look for …
-
-  * Show empathy **NOT** indifference
-  * Ask why and who **NOT** how and what
-  * Serve teams **NOT** agendas
-  * Be guided by principles **NOT** plans
-  * Be a team-member **NOT** a team-driver
-  * Focus on challenges and needs **NOT** titles
-  * Treat teammates like creative makers **NOT** resources
-  * Provide context and data **NOT** solutions and platitudes
-  * Have suggestions and opinions **NOT** demands and fiats
-  * Be curious and open **NOT** dismissive and stubborn
-  * Harness diversity **NOT** conformity
-  * Embrace simplicity **NOT** oversimplification
-  * Deliver outcomes and impact **NOT** features and output
-  * Build less **NOT** more
-  * Be transparent **NOT** opaque or manipulative
-  * Be accessible **NOT** elusive or overbearing
+![](https://cdn-images-1.medium.com/max/2000/1*35tCjoPcvq6LbB3I6Wegqw.jpeg)
 
 
 # Place Your Bets
@@ -11290,7 +11001,7 @@ I’m always on the lookout for more effective ways to talk about strategy
 (especially in a way that resonates with the front-line). In this post, I’m
 going to talk about the power of the word **_bet_**.
 
-![](https://cdn-images-1.medium.com/max/720/1*p1UPrbUm4vGGayVmMBTylQ.png)
+![](https://cdn-images-1.medium.com/max/800/1*p1UPrbUm4vGGayVmMBTylQ.png)
 
 Old-school roulette (Wikipedia)
 
@@ -11305,7 +11016,7 @@ use of the word _bet_. Over the years I’ve encountered Projects, Missions,
 Initiatives, Epics, Objectives, Rocks, Boulders, OKRs, Experiments, and Goals
 (and a bunch more I’m probably forgetting). But never Bets.
 
-![](https://cdn-images-1.medium.com/max/720/1*z2NgaFBKcJXJ_bXDCbL0qQ.png)
+![](https://cdn-images-1.medium.com/max/800/1*z2NgaFBKcJXJ_bXDCbL0qQ.png)
 
 Slide from Henrik’s presentation
 
@@ -11334,6 +11045,28 @@ Why does the word _bet _work?
 Check out Kniberg’s slides. Their framework may or may not be right for your
 company, but the word Bet might still prove to be useful.
 
+[![](https://cdn-images-1.medium.com/max/400/1*0hqOaABQ7XGPT-
+OYNgiUBg.png)](http://bit.ly/HackernoonFB)
+
+[![](https://cdn-
+images-1.medium.com/max/400/1*Vgw1jkA6hgnvwzTsfMlnpg.png)](https://goo.gl/k7XYbx)
+
+[![](https://cdn-
+images-1.medium.com/max/400/1*gKBpq1ruUi0FVK2UM_I4tQ.png)](https://goo.gl/4ofytp)
+
+> [Hacker Noon](http://bit.ly/Hackernoon) is how hackers start their
+afternoons. We’re a part of the [@AMI](http://bit.ly/atAMIatAMI) family. We
+are now [accepting submissions](http://bit.ly/hackernoonsubmission) and happy
+to [discuss advertising &amp;
+sponsorship](mailto:partners@amipublications.com) opportunities.
+
+> If you enjoyed this story, we recommend reading our [latest tech
+stories](http://bit.ly/hackernoonlatestt) and [trending tech
+stories](https://hackernoon.com/trending). Until next time, don’t take the
+realities of the world for granted!
+
+![](https://cdn-images-1.medium.com/max/2000/1*35tCjoPcvq6LbB3I6Wegqw.jpeg)
+
 
 # Safety, Discomfort, and the Art of Self-Service Un***king
 
@@ -11355,7 +11088,7 @@ According to Google research, [psychological safety is the key
 predictor](http://www.nytimes.com/2016/02/28/magazine/what-google-learned-
 from-its-quest-to-build-the-perfect-team.html?_r=0) of team success.
 
-![](https://cdn-images-1.medium.com/max/720/1*1BnJy3pTT-hrtx5tl53SJg.png)
+![](https://cdn-images-1.medium.com/max/800/1*1BnJy3pTT-hrtx5tl53SJg.png)
 
 <http://diving.about.com/od/forbeginners/a/getStarted.htm>
 
@@ -11384,7 +11117,7 @@ flow](https://en.wikipedia.org/wiki/Flow_%28psychology%29) when we are
 moderately challenged. In their quest for “harmony”, too many organizations
 accidentally eradicate positive levels of challenge and discomfort.
 
-![](https://cdn-images-1.medium.com/max/720/1*_q7oLu6E0TlOiU8Wk3GC7Q.png)
+![](https://cdn-images-1.medium.com/max/800/1*_q7oLu6E0TlOiU8Wk3GC7Q.png)
 
 A bit of brainstorming on high/low safety and high/low discomfort
 
@@ -11523,7 +11256,7 @@ of the Feature Factory. You know it’s wrong for your team, and…
 
 ### A 12-Step Program for Recovering Product Managers
 
-![](https://cdn-images-1.medium.com/max/1800/1*txyuPaVi0r2IALW3zjwUqA.jpeg)
+![](https://cdn-images-1.medium.com/max/2000/1*txyuPaVi0r2IALW3zjwUqA.jpeg)
 
 I frequently hear from Product Managers that want to break the vicious cycle
 of the [Feature Factory](https://hackernoon.com/12-signs-youre-working-in-a
@@ -11557,7 +11290,29 @@ principles](https://www.infoq.com/articles/modern-agile-intro) which dovetail
 nicely with these 12 points. They are worth checking out if you are sick of
 the “Agile industrial complex”.
 
-![](https://cdn-images-1.medium.com/max/720/1*6bMtyPUoA1h9y-8EBnglJw.png)
+![](https://cdn-images-1.medium.com/max/800/1*6bMtyPUoA1h9y-8EBnglJw.png)
+
+[![](https://cdn-images-1.medium.com/max/400/1*0hqOaABQ7XGPT-
+OYNgiUBg.png)](http://bit.ly/HackernoonFB)
+
+[![](https://cdn-
+images-1.medium.com/max/400/1*Vgw1jkA6hgnvwzTsfMlnpg.png)](https://goo.gl/k7XYbx)
+
+[![](https://cdn-
+images-1.medium.com/max/400/1*gKBpq1ruUi0FVK2UM_I4tQ.png)](https://goo.gl/4ofytp)
+
+> [Hacker Noon](http://bit.ly/Hackernoon) is how hackers start their
+afternoons. We’re a part of the [@AMI](http://bit.ly/atAMIatAMI) family. We
+are now [accepting submissions](http://bit.ly/hackernoonsubmission) and happy
+to [discuss advertising &amp;
+sponsorship](mailto:partners@amipublications.com) opportunities.
+
+> If you enjoyed this story, we recommend reading our [latest tech
+stories](http://bit.ly/hackernoonlatestt) and [trending tech
+stories](https://hackernoon.com/trending). Until next time, don’t take the
+realities of the world for granted!
+
+![](https://cdn-images-1.medium.com/max/2000/1*35tCjoPcvq6LbB3I6Wegqw.jpeg)
 
 
 # 110 Product Development Posts Later…
@@ -11699,7 +11454,7 @@ celebrate 110, here goes …
   109. 8 Trends Shaping Modern Product Management[ View story](https://medium.com/p/8-trends-shaping-modern-product-management-29953562e5f0)
   110. The System Thinking Change Agent Survival Guide[ View story](https://medium.com/p/the-system-thinking-change-agent-survival-guide-5ab8e7a8521f)
 
-![](https://cdn-images-1.medium.com/max/720/1*H80uguSE02b07LGLnHcs0w.png)
+![](https://cdn-images-1.medium.com/max/800/1*H80uguSE02b07LGLnHcs0w.png)
 
 
 # 140 Product Management Action Verbs
@@ -11735,7 +11490,7 @@ How can change agents and change participants make each other awesome ([see
 the Modern Agile first principle: Make People
 Awesome](https://www.infoq.com/articles/modern-agile-intro))?
 
-![](https://cdn-images-1.medium.com/max/720/1*SZw2Z7tnK2Q5qKxlbOS6Mg.png)
+![](https://cdn-images-1.medium.com/max/800/1*SZw2Z7tnK2Q5qKxlbOS6Mg.png)
 
 Come Into The Woods: Melonie King
 
@@ -11827,7 +11582,7 @@ reality. It is big, but that is what walls are for.**
 
 I break down the elements below, but here is the board in its loveliness:
 
-![](https://cdn-images-1.medium.com/max/1800/1*pFgqAU8yrpJ2xC3tXiLHsQ.png)
+![](https://cdn-images-1.medium.com/max/2000/1*pFgqAU8yrpJ2xC3tXiLHsQ.png)
 
 The Board. _A 1.3MB version of this imagine can be found
 _[_here_](https://drive.google.com/file/d/0B04yoW1JFDHGak0tR0xGYllFM0E/view?usp=sharing)_._
@@ -11910,7 +11665,7 @@ The Sunday, can’t sleep, had coffee after 2PM edition…
 
 #### The Sunday, can’t sleep, had coffee after 2PM edition…
 
-![](https://cdn-images-1.medium.com/max/720/1*qDSjH1hEIeCtnQm8jZchmw.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*qDSjH1hEIeCtnQm8jZchmw.jpeg)
 
 It’s often the little things that count…
 
@@ -11993,7 +11748,7 @@ a very, very stable domain).
 
 > We often address the symptom … “if only we had clearer roles and
 responsibilities”. And then a consultant comes in a writes a bunch of bullet
-points. And the problems persist. Why? R/R weren’t the problem. Having the
+points. And the problems persist. Why? R/R wasn’t the problem. Having the
 trust/safety to adapt and converse was the problem. Strict “contract
 negotiations” on bullet points broke in a matter of days.
 
@@ -12017,7 +11772,7 @@ What do you notice? Where does this team need more shared understanding? Where
 is there agreement and disagreement? How might you go about addressing those
 deltas? Is some disagreement _healthy_?
 
-![](https://cdn-images-1.medium.com/max/900/1*UeCBrWfBKc9N2ZKcYDkpOQ.png)
+![](https://cdn-images-1.medium.com/max/1000/1*UeCBrWfBKc9N2ZKcYDkpOQ.png)
 
 
 # 90 Problems You’ve Heard About Before
@@ -12034,7 +11789,7 @@ In software product development, problems are a constant. Teams everywhere are
 venting, ruminating, introspecting, experimenting, and searching. It isn’t
 easy, and that is what makes it fun.
 
-![](https://cdn-images-1.medium.com/max/720/1*wa6E9Y_SJ_iM5eOyC16AsQ.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*wa6E9Y_SJ_iM5eOyC16AsQ.jpeg)
 
 Every fix has side effects, and superheroes all have a weakness. The obvious
 invites the unexpected. Change is nonlinear, and rapid phase shifts can occur
@@ -12291,7 +12046,7 @@ Or just dance with them…
 
 #### Or just dance with them…
 
-![](https://cdn-images-1.medium.com/max/720/1*mct-FinIQlekRi-C29CQdQ.png)
+![](https://cdn-images-1.medium.com/max/800/1*mct-FinIQlekRi-C29CQdQ.png)
 
 <https://commons.wikimedia.org/wiki/File:Blind.JPG>
 
@@ -12573,7 +12328,7 @@ and models that work and transcend learning styles. This is fertile ground
 when considering your onboarding. One example is Gagne’s Nine Events for a
 learner approaching and retaining any new information:
 
-![](https://cdn-images-1.medium.com/max/720/1*R-k_a3w3TYQbDgtmZ2-qoQ.png)
+![](https://cdn-images-1.medium.com/max/800/1*R-k_a3w3TYQbDgtmZ2-qoQ.png)
 
 <http://check-n-click.com/pin-up-resource-gagnes-nine-events/>
 
@@ -12769,7 +12524,7 @@ feature bloat — and mold your tools and words around that.
 
 So much process. So little indication of the work working …
 
-![](https://cdn-images-1.medium.com/max/720/1*6GRdcIGsNC2O3V_UXBRTnQ.png)
+![](https://cdn-images-1.medium.com/max/800/1*6GRdcIGsNC2O3V_UXBRTnQ.png)
 
 
 # We Are What We Learn
@@ -12853,7 +12608,7 @@ in-progress questions into two potential workflows: one where the data is
 available and must be gathered and cleaned before analysis, and the other
 where some sort of experiment must be designed and run.
 
-![](https://cdn-images-1.medium.com/max/720/1*hxVhIjIir7aUKi-8TiB1Tg.png)
+![](https://cdn-images-1.medium.com/max/800/1*hxVhIjIir7aUKi-8TiB1Tg.png)
 
 3\. Engage a data-savvy coach from inside your organization. Ideally you’ll
 have someone with a strong data science background to act as a coach and
@@ -12885,7 +12640,7 @@ don’t use Trello for the “more complicated” workflows because…
 
 ### Trello, “Jira Sucks”, and Tool Dysfunction
 
-![](https://cdn-images-1.medium.com/max/720/1*ozKxyhUOeYpIigJjGtN9pg.png)
+![](https://cdn-images-1.medium.com/max/800/1*ozKxyhUOeYpIigJjGtN9pg.png)
 
 I love [Trello](https://medium.com/u/fb5dd2d116a1) because there are very few
 ways you can screw it up. You simply don’t use Trello for the “more
@@ -12898,7 +12653,7 @@ acquisition-means-for-atlassian-6a21ef7ac169#.mem6innxb)
 
 > But John, Jira sucks! Maybe the Trello pixie dust will rub off on Jira…
 
-![](https://cdn-images-1.medium.com/max/720/1*MhmjV3gNgZe383L0IUAUVA.png)
+![](https://cdn-images-1.medium.com/max/800/1*MhmjV3gNgZe383L0IUAUVA.png)
 
 I think that is a vast oversimplification, and shows very little sympathy to
 the challenges faced by Atlassian (and the advantages the Trello team
@@ -12970,6 +12725,28 @@ to work with a physical board to reflect on and tweak how they work. And THEN
 pick a tool. Instead, teams figure they’ll “do Agile”, figure everyone does
 Scrum to the book, and buy a tool to enforce said process. It rarely ends
 well.
+
+[![](https://cdn-images-1.medium.com/max/400/1*0hqOaABQ7XGPT-
+OYNgiUBg.png)](http://bit.ly/HackernoonFB)
+
+[![](https://cdn-
+images-1.medium.com/max/400/1*Vgw1jkA6hgnvwzTsfMlnpg.png)](https://goo.gl/k7XYbx)
+
+[![](https://cdn-
+images-1.medium.com/max/400/1*gKBpq1ruUi0FVK2UM_I4tQ.png)](https://goo.gl/4ofytp)
+
+> [Hacker Noon](http://bit.ly/Hackernoon) is how hackers start their
+afternoons. We’re a part of the [@AMI](http://bit.ly/atAMIatAMI) family. We
+are now [accepting submissions](http://bit.ly/hackernoonsubmission) and happy
+to [discuss advertising &amp;
+sponsorship](mailto:partners@amipublications.com) opportunities.
+
+> If you enjoyed this story, we recommend reading our [latest tech
+stories](http://bit.ly/hackernoonlatestt) and [trending tech
+stories](https://hackernoon.com/trending). Until next time, don’t take the
+realities of the world for granted!
+
+![](https://cdn-images-1.medium.com/max/2000/1*35tCjoPcvq6LbB3I6Wegqw.jpeg)
 
 
 # Product vs. Single Projects (and 8x Teams)
@@ -13061,7 +12838,7 @@ We ask: “If the in-app messaging was a person, what would that person’s job
 (or jobs) be?” In this post, we present twenty(!) possible personas for in-app
 messaging.
 
-![](https://cdn-images-1.medium.com/max/720/1*ztdvmPFk0F6yJMiDbXu0vg.png)
+![](https://cdn-images-1.medium.com/max/800/1*ztdvmPFk0F6yJMiDbXu0vg.png)
 
 Who does your product (and your users) need to hire?
 
@@ -13453,7 +13230,7 @@ team. Over my career (as a software product manager)I’ve wasted a ton of time
 doing things that felt high-leverage at the time, but didn’t produce lasting
 value. Below I’ve listed the top ten culprits …
 
-![](https://cdn-images-1.medium.com/max/720/1*KnQtBXoI1-CgVmtOSyPMlQ.png)
+![](https://cdn-images-1.medium.com/max/800/1*KnQtBXoI1-CgVmtOSyPMlQ.png)
 
 **1 . Setting up elaborate systems to collect, track and reply to customer feature requests**. I very rarely see this produce value for either customers or teams. I’m not talking specific feedback and research, where you cast a focused net for something you are currently working on. And I’m not talking about lightweight feedback channels that you can query for background info, and even use to recruit customers for research. Rather, I’m talking about the pipe-dream that you’ll somehow open up the forum for feature requests, allow voting, and that this will somehow be helpful in roadmap prioritization. In the end, you just waste everyone’s time (including, most importantly, your customers). The volume of feedback just overwhelms the team’s ability to organize and act on the information.
 
@@ -13473,9 +13250,31 @@ value. Below I’ve listed the top ten culprits …
 
 **9\. Communicating status when the status hasn’t changed**. This behavior is often beyond our control, but as PMs, we spent lots of time telling people how/why things are on track even when nothing has fundamentally changed. Worse yet, we spend far more time communicating status than actually communicating results and outcomes. If all you do is communicate status, then that is all people will expect out of you.
 
-![](https://cdn-images-1.medium.com/max/720/1*5Shd9Ebth2j-eQO_kIR0ww.png)
+![](https://cdn-images-1.medium.com/max/800/1*5Shd9Ebth2j-eQO_kIR0ww.png)
 
 **10\. Guessing and premature convergence**. Everyone is freaking out that they don’t have all the answers. You’re on the spot. What do you do … make shit up (consciously or unconsciously). We spend lots of time as PMs persuading people we have things figured out even when we don’t. That’s partially because they are risk averse. And that is partially because we create a conveyor belt of features and need to keep things rolling off the line. Instead of saying “hey, let’s get something in front of customers, and we can kill it if it doesn’t work” we say something like “ok, it looks like we all agree on the direction here, let’s ship it.” Consider how much time you invest keeping up the illusion that you know everything.
+
+[![](https://cdn-images-1.medium.com/max/400/1*0hqOaABQ7XGPT-
+OYNgiUBg.png)](http://bit.ly/HackernoonFB)
+
+[![](https://cdn-
+images-1.medium.com/max/400/1*Vgw1jkA6hgnvwzTsfMlnpg.png)](https://goo.gl/k7XYbx)
+
+[![](https://cdn-
+images-1.medium.com/max/400/1*gKBpq1ruUi0FVK2UM_I4tQ.png)](https://goo.gl/4ofytp)
+
+> [Hacker Noon](http://bit.ly/Hackernoon) is how hackers start their
+afternoons. We’re a part of the [@AMI](http://bit.ly/atAMIatAMI) family. We
+are now [accepting submissions](http://bit.ly/hackernoonsubmission) and happy
+to [discuss advertising &amp;
+sponsorship](mailto:partners@amipublications.com) opportunities.
+
+> If you enjoyed this story, we recommend reading our [latest tech
+stories](http://bit.ly/hackernoonlatestt) and [trending tech
+stories](https://hackernoon.com/trending). Until next time, don’t take the
+realities of the world for granted!
+
+![](https://cdn-images-1.medium.com/max/2000/1*35tCjoPcvq6LbB3I6Wegqw.jpeg)
 
 
 # Do You Ask For Story-Level Estimates?
@@ -13579,3 +13378,8203 @@ You have to make a big concerted effort!
 … basically, be disciplined in the face of the overwhelming tendency to do
 otherwise. Create rituals to keep you grounded. Dedicate time. Exercise the
 muscle.
+
+
+# Story Point Alternative: 1–3d Stories
+
+How about splitting all user stories until they’re likely to take three or
+fewer days to complete? Let’s forget story points. It’s worth a…
+
+* * *
+
+### Story Point Alternative: 1–3d Stories
+
+How about splitting all [user
+stories](https://www.mountaingoatsoftware.com/agile/user-stories) until
+they’re likely to take three or fewer days to complete? Let’s forget story
+points. It’s worth a try. If it doesn’t work, you can try something different.
+
+#### **Dev: Why?**
+
+Breaking larger problems down into smaller problems is a good practice. It is
+like [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) or the
+[single responsibility
+principle](https://en.wikipedia.org/wiki/Single_responsibility_principle).
+Plus, you’ll never worry about story points again.
+
+#### **Dev: But what if I get interrupted! How about meetings? We’re putting
+out fires every day!**
+
+Assume minimal interruptions (and multitasking) when scoping the story. If it
+takes longer because of interruptions, then that will be a cue to the team to
+make those interruptions go away. We’ll commit to removing those blockers, as
+they will inevitably come up. Good job! You found a blocker.
+
+#### **Dev: This will lead to shoddy work. We’ll rush it!**
+
+Don’t compromise on quality. Just make the problem smaller. My guess is that
+this will improve quality. And if it doesn’t, we’ll change how we work.
+
+#### **Dev: What about story points? What about estimates?**
+
+Focus on building the story-splitting discipline. That will trigger the
+“conversations” (one benefit ascribed to estimates). You’ve already got a
+small story (another benefit, as you’re supposed to “ask if you can break up
+the big stories”). When estimates/forecasts are important, there are other
+ways to achieve that.
+
+![](https://cdn-images-1.medium.com/max/800/1*zxrNvZpuSRAadSOUUK4c2w.png)
+
+#### Dev: Is this like that #NoEstimates thing I’ve read about?
+
+No. It is #SmallUserStories and losing the story point estimation.
+
+#### **Dev: But if we use “days”, people will think we’ll deliver in days!**
+
+Yes. T-shirt sizes and the Fibonacci series are wonderfully obtuse to the
+business. Days are scary. What if it takes longer? What if someone
+communicates a deadline? Don’t invent practices based purely on the expected
+dysfunctional behaviors of others. Days are nice and human. They correspond
+with our sleep cycle. Assume a functional situation.
+
+#### **Dev: I read **[**this quote**](http://www.agilebuddha.com/agile/agile-
+estimation-9-reasons-why-you-should-use-story-points/)**, and now I’m
+confused. Will this happen?**
+
+> If the team’s ability improves to the point that what used to take two days
+now takes only one, unimplemented stories with a “2 day” estimate should be
+changed to “1 day”. This problem largely goes away with points.
+
+No. Because we don’t care if it takes one day or three days. And we’re not
+trying some useless effort to generate “Agile metrics” to show a manager we’re
+going faster. That’s either obvious or it isn’t. We’re in the results game,
+and not the velocity game. We should measure progress towards creating
+positive outcomes from the business. If we need to measure anything about the
+flow of work (as opposed to the outcomes we create, which of course we
+measure), we’ll measure [cycle time, lead time, or cumulative
+flow](https://leankit.com/learn/kanban/lean-flow-metrics/).
+
+#### Dev: But we pair. What happens then?
+
+Cool. Sounds like it can still take three or less days.
+
+#### Dev: Do we still get “credit” for the points?
+
+Credit for what? Who in your business has set up this perverse game that gives
+you credit for weird fictional story points? And who punishes and DIScredits
+you? Don’t worry about getting faux-credit. Let’s focus on creating results
+for our customers and take credit for that.
+
+#### **Dev: Oh geez. That will be too many stories in Jira. What a pain.**
+
+Then use a physical board. It takes 60s to write an index card with some
+acceptance criteria. Don’t use tools that slow you down.
+
+#### **Dev: How many stories should we do each sprint? We used to add up the
+points.**
+
+Two (or three) per week sounds about right. Give it a try and we can adjust.
+If you have some slack, fix something that is bugging you that makes your work
+life less cool/productive/fun or working on a personal project.
+
+#### Dev: But what if one overlaps the end of a sprint?
+
+Good question. Maybe end the sprint a day or two later/earlier? Why are we
+doing sprints anyway?
+
+#### **Dev: But this story involves UX. They need another task, right?**
+
+Sounds more like a three-dayer. Pair with UX on day one. Maybe test some
+prototypes with a customer that afternoon. Is that difficult? Work on making
+that easier.
+
+#### **Dev: These small stories may not be independently releasable!**
+
+That’s a great point, and I’m psyched you’re referencing
+[INVEST](https://www.agilealliance.org/glossary/invest/). This touches “I”
+ndependent (of all others), and “S” mall (so as to fit within an iteration). I
+sincerely believe there is some as-of-yet named thing that is _bigger _than a
+task, but is _smaller _than a user story. It can be demoed. It includes tests,
+and meets acceptance criteria. It can be released in production behind a
+feature-flag without failing tests. It is ready to communicate with other
+services when the time comes. Anyway … point taken, but slice these _thing-
+stories_ to under four days if possible.
+
+#### **Dev: Nothing we do takes under four days!**
+
+OK. That’s a problem, and it is a big one. Why? It is not like you’re
+slacking. So … either you’re not factoring in your interruptions (see above),
+your tools are lacking, your stories are too big, or you are constantly
+juggling multiple stories because everything is blocked somehow.
+
+#### **Dev: What if I can’t break this one story down to under three days?**
+
+Don’t worry about it. This is a guideline and not a rule. Some things are big
+and defy all efforts at decomposition. At least this will send up the warning
+flare.
+
+#### **Dev: But what if it ends up taking longer than three days?**
+
+Don’t worry about it. We learn and adapt. And by all means “run with it” if
+you’ve had a breakthrough and want to tear it apart and start over.
+
+#### **Biz Person: People will always take three days! This will get abused.**
+
+“Abuse” is a big word. So is “game the system”. Maybe, just maybe, the problem
+is the system? Does your team look forward to showing up at work? Are you
+asking them to be professional firefighters? Are they tasked with things that
+deliver validate-able value to the business? Have you sucked the life out of
+their work with mind-numbing ritual, status checks, and whip-cracking? My
+observation is that people settle into gaming the system when they have no
+sense of impact and momentum. What would it take for someone to excitedly
+finish one story and pull the next one off the queue?
+
+#### **Biz Person: But, but … there’s a big difference between one and three
+days! If I add up all the stories I might get 30 days, or 90 days!**
+
+Don’t worry about it. You think that will make a difference, but it won’t.
+Figure 2.5d avg. and be surprised.
+
+#### **Dev: This seems like some stupid management trick to make us work
+faster.**
+
+No one is saying work faster. Just work on smaller stories. Actually, this
+“trick” is sort of pro-developer. First, I’ll never bother you with storypoint
+estimation again. Second, I’ll commit to removing the blockers that make 1–3d
+turnaround difficult, and get in your way. Faster isn’t the goal. Flow and
+delivering continuous (validated) value is the goal. Smaller batches work.
+
+#### **Dev: I’m not persuaded.**
+
+Come on. I know the team cares about craftsmanship. You’ve probably even told
+someone to break up classes and functions. That’s the discipline I’m talking
+about. The problem is that stories become the communication layer between the
+team and “the business”. That inspires all sorts of defensiveness and stress
+because, let’s face it, businesses often abuse them. You’re measured by this
+these things (which is stupid). They form the basis for velocity measurements
+(more stupid). Put all of that aside. This is how we break down our work to
+make our product great.
+
+
+# It Appears We Need More Individual Accountability
+
+Quick cartoon …
+
+* * *
+
+### It Appears We Need More Individual Accountability
+
+Quick cartoon …
+
+![](https://cdn-images-1.medium.com/max/800/1*NNZ0Rq56qFWHGabZvH4Afw.jpeg)
+
+[![](https://cdn-images-1.medium.com/max/400/1*0hqOaABQ7XGPT-
+OYNgiUBg.png)](http://bit.ly/HackernoonFB)
+
+[![](https://cdn-
+images-1.medium.com/max/400/1*Vgw1jkA6hgnvwzTsfMlnpg.png)](https://goo.gl/k7XYbx)
+
+[![](https://cdn-
+images-1.medium.com/max/400/1*gKBpq1ruUi0FVK2UM_I4tQ.png)](https://goo.gl/4ofytp)
+
+> [Hacker Noon](http://bit.ly/Hackernoon) is how hackers start their
+afternoons. We’re a part of the [@AMI](http://bit.ly/atAMIatAMI) family. We
+are now [accepting submissions](http://bit.ly/hackernoonsubmission) and happy
+to [discuss advertising &amp;
+sponsorship](mailto:partners@amipublications.com) opportunities.
+
+> If you enjoyed this story, we recommend reading our [latest tech
+stories](http://bit.ly/hackernoonlatestt) and [trending tech
+stories](https://hackernoon.com/trending). Until next time, don’t take the
+realities of the world for granted!
+
+![](https://cdn-images-1.medium.com/max/2000/1*35tCjoPcvq6LbB3I6Wegqw.jpeg)
+
+
+# Keep Features Off Your Roadmap
+
+I received some questions this week about mission/outcome driven roadmaps.
+I’ll write more in the coming weeks, but I took a quick stab…
+
+* * *
+
+### Keep Features Off Your Roadmap
+
+I received some questions this week about mission/outcome driven roadmaps.
+I’ll write more in the coming weeks, but I took a quick stab…
+
+#### **Why omit features from the roadmap?**
+
+  * Features alone are not outcomes
+  * We tend to fall in love with our ideas. What if a better solution exists?
+  * Once you’ve described and shared a specific feature in a roadmap, there are few opportunities to switch things up
+  * Shipping a feature is not the end of the story. Thinking in terms of features ignores challenges like adoption, validation, and iteration
+  * By listing features, you are positioning the product as the order-taker
+  * As the initiative progresses, you’ll be able to provide more specifics on the how/what
+
+**Bad:**
+
+> Add tags to work orders
+
+**Good:**
+
+> Help our ~7,000 in-house maintenance coordinators process work orders 50%
+faster. From submission to payment-received … make it effortless, and let them
+focus on finding new customers, not paperwork. No more “I’m overwhelmed, and
+can’t find anything! This takes hours!”
+
+#### **What do we do instead?**
+
+  * Enlist teams to tackle missions and create outcomes
+  * Describe roadmap as a series of missions and desired outcomes
+  * Reorient organization to think about [outcomes not output](https://hbr.org/2017/02/you-need-to-manage-digital-projects-for-outcomes-not-outputs). Take the lead and set a good example by how we communicate goals
+  * Move away from project terminology like Project _____, Phase, Version, etc.
+
+**Bad:**
+
+> User Permissions Phase 1
+
+**Good:**
+
+> Confident admins with an improved NPS (from 31 to 55).  
+> Unblock our land-and-expand strategy by making it safe for admins to let
+other internal departments start trial projects. For our 900 30+ seat
+customers, increase the number of read-only trial users by 150% by end of Q3
+2017
+
+#### **Inspire Creative Solutions**
+
+  * Avoid solutions in the roadmap. Don’t douse creativity
+  * Your developers (and the rest of the org) have creative ideas as well!
+  * You will learn a great deal in the early stages of the effort
+  * Or, perhaps, someone will figure out how to trigger the outcome without building anything!
+
+**Bad:**
+
+> New Login and Onboarding Flow
+
+**Good:**
+
+> From “that’s interesting” to “my first book sale” in 30 minutes or less for
+95% of new customers starting April 2017.
+
+#### **The Why**
+
+  * When someone reads the roadmap item, will they immediately grasp the why?
+  * Why are we doing this? Why are we making the investment? Why us? Why now?
+  * Try to encapsulate the Why in a short, tweetable blurb
+  * Will this mission capture the imagination of the team?
+  * Will people join you in the quest?
+  * Keep testing and tweaking your roadmap missions until everyone “gets it”. This is essential. You should be able to walk up to anyone in the company, show them the roadmap, and have them grasp where you are going
+
+**Bad:**
+
+> Launch WidgetCo Value-Added Service
+
+**Good:**
+
+> Reduce the time it currently takes our customers with in-house 4–7 person
+marketing departments to create and launch a campaign from 3d to &lt;1d. Move
+25% of first-month trials to paying plans. Brag about it at CampaignCon 2017!
+
+#### **The Who and New Realities**
+
+  * Whenever possible, reference a specific customer or user segment
+  * Use words that everyone will understand
+  * Be specific. How would someone query for those customers/users?
+  * How will their reality change? What outcomes will now become possible? What will you observe if you are successful? And no, “I’ll observing them using Feature X” is not a great answer
+
+**Bad:**
+
+> HopPredictor
+
+**Good:**
+
+> SMB beer retailer customers closing &gt;$450k in revenue, with users in our
+“savvy tech adopter” category (about 40% of those customers), can expand their
+businesses by an average of 8% by enhanced consumer outreach. Smarter
+recommendations and reminders!
+
+#### **Storytelling**
+
+  * You don’t have much room on a roadmap
+  * But, you can still tell short but powerful stories
+  * Think about conflict, resolution, and catalysts
+
+**Bad:**
+
+> Harden our deployment pipeline
+
+**Good:**
+
+> Faster feedback. Fewer sleepless nights. Deploy code with 100% confidence
+and be able to test new features with early-adopter customers in a matter of
+hours not days. Reduce pager duty alerts from an average of X weekly, to Y.
+
+* * *
+
+#### **Should you put it on a calendar?**
+
+  * It can be helpful to visualize the rough investment for the mission
+  * Then again, you can achieve that in other ways. Putting things on a calendar can inspire some dysfunctional behavior
+  * Can you extend the effort if you are seeing better than expected results?
+  * Can you stop early?
+  * Are you giving a false sense of “predictability” ?
+
+#### **What else?**
+
+  * Roadmap items should have a brief available internally
+  * Don’t try to cram all of the information on to the roadmap
+  * Anyone should be able to access the brief get up to speed quickly
+  * Importantly, include a [cost of delay estimate](http://blackswanfarming.com/cost-of-delay/). This, in my opinion, is more important than an duration estimate for the effort
+  * The brief might also cover things like: current state, success measures, how the effort will be funded, key assumptions to validate, key risks, key actors, etc. Tailor this to your situation
+
+> [Hacker Noon](http://bit.ly/Hackernoon) is how hackers start their
+afternoons. We’re a part of the [@AMI](http://bit.ly/atAMIatAMI)family. We are
+now [accepting submissions](http://bit.ly/hackernoonsubmission) and happy to
+[discuss advertising &amp; sponsorship](mailto:partners@amipublications.com)
+opportunities.
+
+> To learn more, [read our about page](https://goo.gl/4ofytp), [like/message
+us on Facebook](http://bit.ly/HackernoonFB), or simply, [tweet/DM
+@HackerNoon.](https://goo.gl/k7XYbx)
+
+> If you enjoyed this story, we recommend reading our [latest tech
+stories](http://bit.ly/hackernoonlatestt) and [trending tech
+stories](https://hackernoon.com/trending). Until next time, don’t take the
+realities of the world for granted!
+
+
+# Answer These 16 Questions About Your Roadmap Items
+
+When a PM presents a roadmap, I expect them to be able to answer the following
+questions about each initiative:
+
+* * *
+
+### Answer These 16 Questions About Your Roadmap Items
+
+When a PM presents a roadmap, I expect them to be able to answer the following
+questions about each initiative:
+
+  1. What _exactly_ will happen if we don’t solve this problem? What will happen if we simply don’t do anything about it?
+  2. How much money are we losing _each week _by not solving this problem? How does that compare to the money we are losing each week by not solving other problems?
+  3. How exactly will this benefit our customers? What becomes possible? What will they be able to do more quickly, enjoyably, profitably, efficiently, accurately, etc.?
+  4. Why now instead of one month, six months, or one year from now?
+  5. Why _this_ instead of something else? Compare it against 3+ other potential initiatives
+  6. Who will this benefit? I’m going to run a query on our user/customer list, pick up the phone, and do some research. What query do I use?
+  7. What assumptions must hold true for this initiative to remain the most important thing we can work on?
+  8. What could our competitors do that would render this work obsolete?
+  9. How will this added complexity impact future iterations of the product?
+  10. Have users adopted the last three things we have delivered? If not, why is this more important than making sure those things work?
+  11. What about our current product is leaking value? Why this new thing instead of fixing that?
+  12. Is this the lowest hanging fruit? If I asked your team to spend the next week fixing “small things with a big impact” would this top the list? Would it have a greater cumulative value?
+  13. Can this be broken down into a set of smaller problems? What is the soonest we can get something into the hands of our customers to validate our assumptions?
+  14. How do you intend to validate the direction you are taking? Can you commit to a “pivot/proceed” decision point? When will we stop iterating on this? Please draw a line in the sand
+  15. Describe what failure would look like for this effort. How do you plan to make sure this either 1) happens quickly or 2) doesn’t happen?
+  16. What would you try to fix if perceived blockers were not blockers? What are those blockers? If removed those blockers would you opt for that thing (the thing you believe is blocked) over this proposed initiative?
+
+
+# Coherence and “Best Practices”
+
+There are no shortage of ways. They’re everywhere.
+
+* * *
+
+### Coherence and “Best Practices”
+
+There are no shortage of _ways_. They’re everywhere.
+
+The problem is…
+
+You can take the exact same practice, tool, or methodology … and either
+bludgeon each other with it, or achieve a mutually healthy (and positive)
+outcome. In some cases the bludgeoning “works”, albeit with some cognitive
+dissonance and harm generated as a byproduct. But eventually you’ll need to
+pay the piper.
+
+Take a loaded word like _discipline _(and imagine some practices meant to
+instill discipline):
+
+#### **Team A:**
+
+> We take pride in taking a **disciplined** approach! It means delivering
+higher quality code, and less firefighting. When we promise something, we
+don’t let people down.
+
+#### **Team B**
+
+> This process is killing us. Management says we need more **discipline**, but
+how are we supposed to be more **disciplined** when we’re digging out from
+mountains of debt, they’re interrupting us constantly, and they won’t let us
+hire more people! How about their **discipline**?
+
+**Team B** may have “consistent output” and their work may be “predictable”, but eventually you’ll encounter some issues there. Most organizations intuitively understand that they need more Team As, but have a tough time putting the pieces together to make that a reality and reflecting on what is blocking that progress.
+
+I’m guessing you can find similar examples from your work-world for outcomes
+like _accountability, safety, estimation, deadlines, commitment, velocity,
+agility, engagement, continuous improvement, goal-setting_, and _compliance.
+_Things can, and do, go either way. Context is everything. Helicopter
+management vs. craft.
+
+Consider [this description](https://www.amazon.com/Software-Craftsman-
+Professionalism-Pragmatism-Robert/dp/0134052501) of Sandro Mancuso’s book
+**The Software Craftsman: Professionalism, Pragmatism, Pride:**
+
+> If you want to develop software with pride and professionalism; love what
+you do and do it with excellence; and build a career with autonomy, mastery,
+and purpose, it starts with the recognition that you are a craftsman. Once you
+embrace this powerful mindset, you can achieve unprecedented levels of
+technical excellence and customer satisfaction
+
+Sounds wonderful, right? If you’ve worked on the front-lines in software
+development, however, you would be excused for responding…
+
+> All that is well and good, but we are told to cut corners every day! We
+don’t have autonomy!
+
+The craft movement is interesting because, in my opinion, it is a response to
+a lack of coherence in our software development organizations. As Mancuso
+points out … “Agile isn’t enough!” Enough for what? Perhaps it is not enough
+to reconcile the mixed messages we send our teams, or to rationalize why we
+frequently cut corners. Perhaps Agile — as commonly practiced — isn’t enough
+to make people feel good about their work?
+
+And this, to me, is the central issue. It is a question of coherence. In an
+incoherent organization, no “best practice” or “good tool” can be perceived as
+safe or worthwhile. The front-line will be justifiably skeptical. And when it
+comes to embracing potentially positive things like discipline, care, quality,
+speed, etc., it will be difficult for teams to perceive these things as
+something as worthwhile. Instead, the response will be to build a protective
+shield and figure out how to coexist in an incoherent system.
+
+
+# Your Customers Don’t Care If…
+
+Your customers don’t care…
+
+* * *
+
+### Your Customers Don’t Care If…
+
+![](https://cdn-images-1.medium.com/max/800/1*UotwyMbFZS0LT1sEPs4pmg.png)
+
+Your customers don’t care…
+
+  * if you call it an epic, user story, task, subtask, or to-do
+  * if your ticket statuses are updated by end-of-day
+  * how (or if) you estimate your stories
+  * about your team’s “[Adherence to Scrum Rules or Actual Stories Completed](http://pragmaticmarketing.com/resources/9-scrum-metrics-to-keep-your-team-on-track)”
+  * about how you format your user stories
+  * about how your individual contributors receive “credit” for their work, or whether they meet their output commitments
+  * whether you scale with SAFe, or LeSS, or Nexus, or GROWS, or DAD, or “The Spotify Method”
+
+Your customers **DO CARE** about your ability to continuously deliver value,
+and to adapt to their changing needs.
+
+Oftentimes we put doing the method, practice, or tool ahead of delivering
+value to our customers. We strive to do “it” well, without asking whether “it”
+actually benefits our customers (and our teams). Consultants sell “it”,
+authors write about “it”, we implement “it” or do an “it” transformation, and
+then pat ourselves on the back for being kickass it-ilists. Mission
+accomplished.
+
+Don’t get me wrong, I’m feel blessed to have so many “its” at my disposal!
+However…
+
+We _should_ hire these methods, practices, and tools to help us deliver more
+value to our customers. Figure out what works, and do it. Yet often the needs
+we seek to fulfill are purely internal. The practices act as trust and safety
+proxies. They buffer departments and silos, let teams interface with the
+“business”, give the illusion of accountability, add a veneer of measurement,
+and temper the fear that things aren’t under control.
+
+So the next time you’re debating the details of a certain “it”, step back and
+think about your customers and your frontline teams. Is the “it” doing its
+job?
+
+
+# Kanban Method: Be Careful About Your Board’s Scope
+
+When using the Kanban Method, one of the toughest dilemmas is figuring out how
+far to the left and right to extend the board, and how to…
+
+* * *
+
+### Kanban Method: Be Careful About Your Board’s Scope
+
+When using the [Kanban Method](http://www.djaa.com/principles-general-
+practices-kanban-method), one of the toughest dilemmas is figuring out how far
+to the left and right to extend the board, and how to handle outside resource
+dependencies.
+
+In theory, you are supposed to “start with what you do now”. Where you are now
+might involve a broad sphere of interaction. Some examples might include:
+
+  * The availability of your UX resource is dictated by his involvement with other dev teams
+  * Your team requires Ops involvement to deploy features to production
+  * Far upstream, one of your team members is called on to provide an estimate
+  * A portfolio planning process “cues up” your next “project”
+  * UX “gets ahead” of some work
+  * Far downstream, a customer provides feedback. Turns out you missed the mark
+  * You need another team to review your PRs to their service
+  * Someone in procurement has to sign off on a contract for a new monitoring tool
+
+For the systems thinkers among us, it can be tempting to push to visualize
+everything. Try it, and you’ll soon figure out the risks involved.
+
+I remember the first time I walked over to an epic kanban board with a ball of
+string and some tape and added some portfolio planning steps to the left, a
+bunch of dependencies (with the string) to the middle, and some validation
+steps to the right culminating with “delivered desired outcome”.
+
+A shitstorm swept in from across the building. What I added was technically
+correct — I was starting with what we did now — but seeing it up on the wall
+inspired some heated arguments. Down came the board.
+
+Why? In this case, the kanban board inspired some cognitive dissonance. It was
+widely circulated that front-line teams were “autonomous” and in full control
+of their destiny. The reality was a little messier. For example, there was an
+upstream analysis/validation phase that lacked visibility, and meant that
+teams were frequently surprised with new projects. The fact that this was
+happening was not a secret. But seeing it in all its glory got people fired up
+(both managers and engineers).
+
+Organizations and individuals tend to assume a strange equilibrium around
+resource constraints, impediments, toxic people, inexperienced teams,
+handoffs, big batches, high utilization, and long feedback loops. There may be
+a gradual “drift into failure” ([see Sidney Dekker](https://www.amazon.com
+/Drift-into-Failure-Components-Understanding/dp/1409422216)), but for the most
+part people pragmatically absorb the challenge. After a certain point, you
+stop making a fuss and do your best.
+
+My advice is to be very, very cautious about boiling the ocean. Take small
+steps to indicate the dependencies while resisting the urge to visualize the
+work of other teams/individuals/resources. Figure out how to visualize points
+“off the board” (these can literally be nodes, lanes, stickies, etc.) without
+threatening people.
+
+
+# Tools: Complexity Enablers
+
+Tools and process can help you manage complexity. But they also can serve as a
+complexity enabler.
+
+* * *
+
+### Tools: Complexity Enablers
+
+Tools and process can help you manage complexity. But they also can serve as a
+complexity enabler.
+
+![](https://cdn-images-1.medium.com/max/800/1*TLNz6qPgVVl7WHHJJfnFjQ.png)
+
+<https://www.seriouspuzzles.com/krypt-silver-654pc-hard-jigsaw-puzzle-by-
+ravensburger.html>
+
+Take the ability in [Atlassian](https://medium.com/u/5aa6b9976187)’s Jira to
+add dependencies between tickets across projects. This allows you to create
+many interrelated projects, and to coordinate activities across teams, but it
+doesn’t answer whether having those dependencies is a good idea. And it
+certainly doesn’t put pressure on you to remove them.
+
+Consider the impact of having a team of project managers available to manage
+“complex projects” that span departments, locales, teams, silos, etc. Sure,
+this oversight might be important. But it also incentivizes the organization
+to take on complex projects when they might not be necessary, and to
+institutionalize hand-offs and larger batches. The projects may run
+“smoothly”, but it doesn’t mean the arrangement is ideal or resilient to
+future challenges.
+
+How could those efforts be mediated automatically / with technology vs. a
+human coordination layer? How could you have _mostly _autonomous, two pizza
+sized teams?
+
+Other examples come to mind like your org chart, reporting structures, scaling
+agile frameworks, tools for creating high fidelity prototypes/wireframes, and
+certain programming languages / development frameworks. Or something as simple
+as a having a team of on-call firefighters to keep your product from falling
+apart.
+
+Even continuous delivery can encourage the buildup of complexity beyond our
+ability to tame it.
+
+My point isn’t that these things aren’t effective. They are … to a point. But
+they can blind you to growing complexity, and lull you into not resolving the
+buildup of complexity in how you work or decoupling units of complexity.
+Before you know it you’re drowning in complexity, and your systems are ill-
+prepared to deal with it.
+
+So: always keep in mind how you can battle complexity, create team autonomy,
+and work down the various forms of debt (including learning, technical,
+organizational, etc.)
+
+
+# Destroy Your Product (Without Getting Fired)
+
+Can you destroy your product AND not get fired?
+
+* * *
+
+### Destroy Your Product (Without Getting Fired)
+
+Can you destroy your product AND not get fired?
+
+The reality is that you WILL NOT get fired or risk career advancement if you:
+
+  * Are “responsive” to the business
+  * Ship something quickly (provided things don’t blow up)
+  * Work around constraint and bottlenecks (instead of attacking them)
+  * Work within your scope of control and influence
+  * Represent the interests of your functional silo
+  * Raise the profile of your functional silo, increase reliance on your functional silo
+  * Deliver on a consensus driven initiative. Deliver on the HiPPOs silver bullet
+  * Hit a widely socialized goal or target. Or better yet beat the goal
+  * Add debt that is not immediately quantifiable
+  * Optimize for your individual performance plan
+  * Highlight the positives
+  * Demonstrate you are fulfilling your “side of the bargain”
+
+You can be _awesome_ at the above AND do harm to the global whole. Taking care
+of the global whole is a thorny business. The reality is that you risk getting
+fired (and risking your career advancement) if you:
+
+  * Tell the business “no”
+  * Delay shipping something due to quality or value concerns
+  * Take time to address the root cause of a constraint, or swarm the bottleneck
+  * Ruffle feathers outside of your immediate scope of influence
+  * Point out that the interests of your functional silo do not align with business goals
+  * Decrease reliance on your functional silo
+  * Challenge consensus driven decisions. Ignore the HiPPO’s silver bullet
+  * Ignore a goal that ceases to be helpful
+  * Challenge adding complexity to the product unless it adds a value multiple. Challenge the necessity for a project
+  * Highlight the negatives
+
+For an example, consider this quote from a Director of Engineering:
+
+> All we hear about is how engineering is slow, and how we need to be more
+predictable. At the end of the day I need to be responsive. That’s how I’m
+measured, even if we deliver a ton of crap. Of course I’m interested in
+business results, but I can always blame product for poor product decisions if
+we do our part.
+
+Note how doing “our part” comes before business goals. Can you blame them? Ask
+“what’s wrong” to a cross-section of employees at a company, and you’ll hear
+things like:
+
+  * Engineering is too slow
+  * Ops didn’t plan correctly
+  * Product is running a feature factory
+  * Sales is selling the roadmap
+
+It’s easy to isolate blame to a particular group, but in my experience the
+efforts of other groups to circumvent the constraints/bottleneck create
+problems that are equally as damaging. The “problem” is more one of how to
+approach global continuous improvement, and not the problem of an individual
+subsystem.
+
+How can you make it safe for your team to optimize for global health and
+outcomes over individual or group interests?
+
+
+# “Is My Dev Team Slacking?”
+
+If you can’t tell … you have no business asking.
+
+* * *
+
+### “Is My Dev Team Slacking?”
+
+![](https://cdn-images-1.medium.com/max/800/1*cEQmXTo8DetpCGjm-3UmXg.png)
+
+If you can’t tell … you have no business asking.
+
+If you can’t tell … no amount of story-point estimation, rigorous sprint
+planning, measuring velocity, comparing team velocities, or daily check-ins
+will give you the answer.
+
+Skilled developers know if their teammates are slacking. It’s there in the
+code, in the tests, and in the code reviews. Whether they share that
+information openly is another question.
+
+If you are _not_ a skilled developer, don’t bother trying to figure out if
+your team is slacking. Your data will be inconclusive. Work to create an
+environment where teammates 1) have a reason to be motivated, and 2) have the
+requisite safety to hold each other accountable for doing right by their
+fellow teammates.
+
+Ask “what is holding us back from doing our best work” and pay attention.
+There’s often a story there. Build trust.
+
+And/or learn to be a software developer.
+
+The End
+
+
+# PMs: Try This Thought Experiment
+
+The following question/though experiment is a great conversation starter for
+product managers and other stakeholders. The deeper you go…
+
+* * *
+
+### PMs: Try This Thought Experiment
+
+The following question/though experiment is a great conversation starter for
+product managers and other stakeholders. The deeper you go, the more valuable
+it gets.
+
+> What if the team simply stopped adding new complexity to your product? What
+exactly would happen? When?
+
+![](https://cdn-images-1.medium.com/max/800/1*C6OZwtnTYT6fVtzO3LHeJQ.png)
+
+<http://past1978.deviantart.com/art/Destroyed-factory-175203951>
+
+This is an interesting question for a couple reasons. First, you begin to
+realize how obsessed we are about output. The scenario itself makes us
+uncomfortable.
+
+Sadly, some teams are severely restricted in their ability to deliver value
+(because of debt, high utilization, fighting fires, lack of autonomy,
+dependencies, etc.) Teams often reply with “that is a batshit crazy,
+unreasonable scenario”, only to admit that they haven’t delivered anything of
+validateable value for months (or years).
+
+Other teams “build and release stuff”, but have a loose grasp on the economic
+impacts they generate. This is where the question is useful. The idea that
+you’d build less is anathema to product development teams, but keep in mind
+that this is a _thought experiment_.
+
+How would your organization be impacted financially as time passed?
+
+  * What would happen to your balance sheet and income statement? Why?
+  * When would customers churn? Why?
+  * How would your market share change? Why?
+  * What would happen to NPS scores? Why?
+  * How would your relationship with your investor(s) change?
+  * How would your marketing strategy change and adapt?
+  * How would your long term growth potential; change?
+
+You might end up with things like “well, by Q3 we will lose $1.2m in new sales
+because we don’t offer the Widget X feature”_. _That is a helpful data point,
+and something worth talking about (and exploring the assumptions linking the
+feature to the revenue). You’ll also hear remarks like:
+
+  * We will lose the confidence of our investors if we don’t innovate
+  * NPS scores would drift slightly downwards, hitting ## by Q1 2018. It would likely be because ___________, and would cost us $____________
+  * Competitor X will start stealing our customers, because _____________ The impact would be $____________ .
+  * We will miss an opportunity to create an ecosystem worth $2.5m if we don’t act before ____________ enters the market in Q2 2018
+
+With each item try to provide a date, an economic impact, and some possible
+causes. Test that story with other stakeholders. What are other ways you could
+mitigate/accentuate that impact (especially important when someone is stuck on
+a specific feature). This is a great exercise to fuel discussions about [cost
+of delay](http://blackswanfarming.com/cost-of-delay/).
+
+When you do this exercise with many teams, you’ll start to notice some
+similarities and patterns. Teams are …
+
+  * programmed to build, and obsessed with output … down to our project lists, backlogs, celebrations, reporting structures, etc.
+  * don’t consider the economic impact of their work
+  * talk about “value” in prioritization, but don’t quantify it
+  * nervous about estimating value for things like customer experience / satisfaction
+  * build features that don’t need to be built right now
+  * parallelize efforts, when there would be more economic benefit to focus
+  * teams build too much, and add too much complexity
+  * are bogged down in complexity
+  * have acclimated to a level of value delivery that is not economically viable
+  * don’t ask: “how could we achieve the same outcomes by building less”
+  * are frequently called in for “optics” work (investors, partners, etc.). This is very common in the startup world
+  * don’t talk about the economic impacts of technical debt
+
+Give it a try. What did you end up talking about? Once you’ve quantified your
+baseline economic impacts, how can you go about creating those impacts by
+adding as little complexity as possible to your product?
+
+
+# 5 Product Development Questions
+
+A little kanban with your morning coffee.
+
+* * *
+
+![](https://cdn-images-1.medium.com/max/2000/1*U-xzn_S4XcTcQZR2FX4hdw.jpeg)
+
+### 5 Product Development Questions
+
+#### A little kanban with your morning coffee.
+
+I like using kanban boards to think about product development questions. I
+like kanban boards because they are a complete blank slate. You can model
+Scrum with a kanban board, or you can model a typical d-thinking process. Or
+roll your own.
+
+And when it stops working — provided you aren’t knee deep in a digital tool —
+you can just change it.
+
+Here are a couple questions from this morning’s brainstorm.
+
+#### **Question #1: What is Done?**
+
+![](https://cdn-images-1.medium.com/max/800/1*LYbaaauE3re4ysBYiXJAbQ.png)
+
+Some systems help us track the _work_. Some systems help us visualize _value
+delivery_. Done is an elusive concept. Tools tend to be designed around
+tracking work, instead of tracking our progress towards outcomes. We have
+trouble visualizing these in parallel.
+
+How we solve this problem — who sees what and how often — has a profound
+impact on our product development teams.
+
+#### Question: Do Sprints obscure the actual work?
+
+![](https://cdn-images-1.medium.com/max/800/1*Nqypr4NRqJejtb1lhaSsXQ.png)
+
+What do we optimize for on the left? How about on the right? Why do these feel
+different when they _could_ be similar? The option on the right feels
+nebulous. Who owns what? How does this work with Sprints? The option on the
+left feels overly restrictive and too siloed.
+
+But in a quest for efficiency, many teams opt for the left option, yet track
+that work in a separate system. Why? Scrum focuses on the dev’s In Progress.
+Are you letting your tools and process run your team, or the other way around?
+
+#### **Question #3: Is this a pull system?**
+
+![](https://cdn-images-1.medium.com/max/800/1*2piaalX3reEq-7U3yVXzfQ.png)
+
+Work moves from left to right… right? Well not really. This is a pull system.
+An unmet need (a customer “order”), triggers the need to produce something
+until that need is met. Are you pushing or pulling? What constitutes an
+“order”?
+
+In a push system, we’ll focus on a big list of projects that have to be moved
+through the system (pushing features on to customers). In a pull system, we’ll
+focus on triggering work to deliver a specific customer need.
+
+#### Question #4: Should we include downstream steps? Why? Why not?
+
+![](https://cdn-images-1.medium.com/max/800/1*VWRpPQa_TwF624C8ECUV4w.png)
+
+Out of sight, out of mind! Right? Marking the item Complete in Jira does carry
+a certain sense of satisfaction, but there is more to go. At this point, the
+work has no value. No value has been exchanged. Consider why you do/don’t
+picture all of the downstream steps. It’s messy, for sure. But does it need to
+be that way?
+
+#### Question #5: What constitutes a team?
+
+![](https://cdn-images-1.medium.com/max/800/1*D1-e_0S4xFwZ64ErzLUEOA.png)
+
+Is this one or two teams? It might be more convenient to view this as two
+teams, but in reality it is one team. How does calling it two teams help us?
+
+[![](https://cdn-
+images-1.medium.com/max/400/1*iq0EKuOUS52AtOW_RSKNxA.jpeg)](http://eepurl.com/bBbrFX)
+
+[![](https://cdn-
+images-1.medium.com/max/400/1*sg1PGrUIRQvIDH7bb2OY0A.jpeg)](https://europe2017.eventbrite.com/?aff=mediumfooter)
+
+[![](https://cdn-
+images-1.medium.com/max/400/1*N1UpkDFpA5UrRxen2NHxtw.jpeg)](http://startupgrind.com/chapters)
+
+
+# Feedback Loops and “Done”
+
+Some teams just assume that fast feedback is impossible. It is more like
+build, build, build — maybe measure — learn eventually. Perhaps…
+
+* * *
+
+### Feedback Loops and “Done”
+
+![](https://cdn-images-1.medium.com/max/800/1*7bPqmYF457WD2gRRsDX_nQ.jpeg)
+
+Some teams just assume that fast feedback is impossible. It is more like
+build, build, build — maybe measure — learn eventually. Perhaps they deliver
+an enterprise product, and the thought of “experimenting” on their customers
+feels too risky and expensive. Or maybe they lack the tooling, autonomy, and
+schedule flexibility. The end result is that it feels very inefficient to
+“wait around” after the “project is complete”. So it is on to the next
+“project”, and the business (hopefully) commits to monitoring the impact of
+the work and prioritizing follow-up work should it be required.
+
+![](https://cdn-images-1.medium.com/max/800/1*KmGlOcCdRELK0a0kQEW1lA.png)
+
+This is where Agile — even when perfectly implemented on the delivery side —
+fails to address the bigger picture of fast feedback and iterative
+development. Imagine if someone said “and now we are going to have a five
+month sprint to get feedback” … the team would cringe! Yet that is exactly
+what happens when you ship work into the abyss. **We add complexity without
+validating that added complexity. **Yes, in theory you are delivering
+customer-facing value with each sprint…but are you getting feedback with each
+sprint?
+
+When teams talk about velocity, they rarely talk about the velocity of
+learning and/or feedback. If you think about lead time as the time from idea
+conception, to the customer “accepting the order” (or the work adding the
+desired value), you’ll typically see that the touch time for development is
+just a small fraction of the overall cycle.
+
+![](https://cdn-images-1.medium.com/max/800/1*y37ClzB4RNwhgmOQEMY41A.png)
+
+Let’s say that a CEO dreams up a silver bullet in January, teams obsess over
+planning and research between February and May, the dev team works on the idea
+between May and June (while doing three other things in parallel), and ships
+it July 1st. Six months later, the response from customers is tepid, and it
+looks like the work missed its mark. In terms of lead time, the feature is
+still pending. It has been a year and one month, and it is still “In
+Progress”.
+
+Since developer time is theoretically the limiter, what companies do is work
+hard to land work on this precious resource in the most efficient manner
+possible. They build incentives around this. They create department goals
+around this. They build complex dashboards and project plans around this. They
+obsess about relative prioritization. They enlist less precious resources to
+prepare the work beforehand.
+
+If there’s one thing that [the feedback to my feature factory
+post](https://hackernoon.com/12-signs-youre-working-in-a-feature-factory-
+44a5b938d6a2#.mgls9o4es) taught me, it is that organizations optimize around
+delivery (not validation) in very deep and complex ways. The approach becomes
+deeply rooted in the company culture, including how it celebrates and rewards
+people. The company literally runs in execution mode until things stop
+working, heads roll, they re-org, and the process repeats itself.
+
+And it is not just individual organizations. Whole industries exist to sell
+ways to “get it right” before shipping, and make sure teams “make their
+commitments”.
+
+There are, of course, powerful ways to reduce risk early in the product
+development cycle without pushing features live and measuring impact. This
+post is by no means an attack on those methods. Even still, [few plans survive
+first contact with the enemy](http://www.lexician.com/lexblog/2010/11/no-
+battle-plan-survives-contact-with-the-enemy/). Probably more important is that
+without feedback, teams are not able to meaningfully iterate and knock off any
+low hanging fruit that emerges from “first contact”. Months later the context
+has changed, the research is stale, and the cost of reengaging is high. **But
+this approach _feels _like the economically optimal decision given perceived
+constraints.**
+
+![](https://cdn-images-1.medium.com/max/800/1*qUSb3j0w6J43oVPSwC9xaA.png)
+
+And that’s the point of this post … to encourage you to question your
+constraints.
+
+  * Are your constraints around customer feedback set in stone? Are they non-negotiable?
+  * Do your competitors operate under the same constraints?
+  * How much money are you _losing_ by waiting to refine your work?
+  * How much money are you _making_ by moving on to new projects?
+  * Do you actually go back and close the loop with regards to the impact of your work?
+  * If so, how do you do that? How regularly? How rigorously?
+  * If so, what is your batting average? What are some good / bad product decisions you’ve made in the last two years?
+  * How could you speed up feedback loops such that it would make economic sense to let teams iterate based on feedback? Are there ways to reduce that risk?
+  * How could you take small steps to change the organization’s focus from output to outcomes? What’s working? Where?]
+
+Is this impossible?
+
+![](https://cdn-images-1.medium.com/max/800/1*mROLKJIcwR4qBPBnck1P6Q.png)
+
+[![](https://cdn-images-1.medium.com/max/400/1*0hqOaABQ7XGPT-
+OYNgiUBg.png)](http://bit.ly/HackernoonFB)
+
+[![](https://cdn-
+images-1.medium.com/max/400/1*Vgw1jkA6hgnvwzTsfMlnpg.png)](https://goo.gl/k7XYbx)
+
+[![](https://cdn-
+images-1.medium.com/max/400/1*gKBpq1ruUi0FVK2UM_I4tQ.png)](https://goo.gl/4ofytp)
+
+> [Hacker Noon](http://bit.ly/Hackernoon) is how hackers start their
+afternoons. We’re a part of the [@AMI](http://bit.ly/atAMIatAMI) family. We
+are now [accepting submissions](http://bit.ly/hackernoonsubmission) and happy
+to [discuss advertising &amp;
+sponsorship](mailto:partners@amipublications.com) opportunities.
+
+> If you enjoyed this story, we recommend reading our [latest tech
+stories](http://bit.ly/hackernoonlatestt) and [trending tech
+stories](https://hackernoon.com/trending). Until next time, don’t take the
+realities of the world for granted!
+
+![](https://cdn-images-1.medium.com/max/2000/1*35tCjoPcvq6LbB3I6Wegqw.jpeg)
+
+
+# Psychological safety: the secret weapon of awesome teams
+
+The other day I found myself fixating on the word discipline. An engineer
+friend and I were chatting about what made a great software…
+
+* * *
+
+### Psychological safety: the secret weapon of awesome teams
+
+![](https://cdn-images-1.medium.com/max/1000/1*m1vB-OyPvyKNmn_AhKuwyw.png)
+
+The other day I found myself fixating on the word _discipline_. An engineer
+friend and I were chatting about what made a great software developer. We
+agreed that discipline (along with dedication, skills, patience, etc.) was a
+key ingredient.
+
+However, I couldn’t shake a flashback from earlier in my career when an angry
+engineering director reamed his team for a lack of discipline (while
+simultaneously avoiding the fact that the team was getting peppered with
+distractions). Context is everything. Discipline can be something teams aspire
+to and take pride in. Or it can be an empty admonition.
+
+The key differentiator is [psychological
+safety](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-
+its-quest-to-build-the-perfect-team.html?_r=0) (and by extension trust).
+Without safety, concepts like accountability, continuous improvement, and
+goals are difficult to discuss. Safety unlocks the ability for the team to
+reflect, take on difficult challenges, and have difficult discussions.
+
+Below I look at words we throw around in product development through two
+different lenses:
+
+  * **Low Trust / Low Safety (LTLS)**
+  * **High Trust / High Safety (HTHS)**
+
+By looking at these side by side, I hope you’ll consider how you can create
+more psychological safety on your teams. It truly changes the game.
+
+#### Estimates
+
+> LTLS: Why can’t the team meet its commitments? Why are they always slacking?
+We need to spend more time **estimating**, apparently, and even then they game
+the system.
+
+> HTHS: We sat down and **estimated** the value of a couple efforts, and got a
+rough sense of how long they’d take. From there we put together a backlog
+folks were comfortable with
+
+#### Discipline
+
+> LTLS: The team needs more **discipline**! It’s like herding cats here!
+
+> HTHS: I appreciate Mary’s **discipline** when it comes to writing tests. It
+really helps me out. As a team we take pride in our discipline and
+craftsmanship.
+
+#### Accountability
+
+> LTLS: The team takes advantage of the system. No one is held
+**accountable**! If we could just do what we say we will do, things would be
+better.
+
+> HTHS: Everyone pulls their weight. I can trust my teammates to do their
+work. When the going is tough, I ask my teammates to hold me **accountable**.
+
+#### Improvement
+
+> LTLS: Unless the team **improves**, we’ll be in deep shit. Why don’t they
+take the initiative?
+
+> HTHS: We are always looking for ways to continuously **improve**. That’s
+part of the fun.
+
+#### Efficiency
+
+> LTLS: There has to be a way to eek more out of our teams. Why can’t they
+work more **efficiently**?
+
+> HTHS: If we automate that, it will let us deliver more **efficiently**, and
+be more confident. We are always looking for ways to streamline.
+
+#### Time Management
+
+> LTLS: I can’t believe you guys wasted time on trying to fix that! We need
+better **time management** here. Where are your hours actually going?
+
+> HTHS: I appreciate that our scrum master helps make our meetings worthwhile,
+and worth the time investment. I’ve never been great at **time management**
+
+#### Coaching
+
+> LTLS: If you can’t improve with some **coaching**, you’ll be at risk of not
+meeting your performance targets
+
+> HTHS: Our Agile **coach** has helped us build important skills. When we need
+something, they are there to help.
+
+#### Speed
+
+> LTLS: More velocity! I can’t understand why the team is so slow. If you
+can’t **speed** up we will never meet this deadline!
+
+> HTHS: We are able to get feedback quickly, which lets us move quickly. I’m
+proud of how fast we move and learn. **Speed** is an asset.
+
+#### Quality
+
+> LTLS: Another bug in product! What is up with all of these **quality**
+issues?
+
+> HTHS: The team takes pride in the **quality** of our work. Quality is very
+important. When something goes wrong, we drop what we’re doing and fix it.
+
+#### Teamwork
+
+> LTLS: Why aren’t you swarming on issues? Why don’t you act like a team?
+Where is the **teamwork** ? Why aren’t we faster?
+
+> HTHS: We pair, swarm, and help each other out when we need to. And measure
+ourselves based on how the team does as a whole. **Teamwork** is very
+important to us
+
+#### Flexibility
+
+> LTLS: I know we are short-staffed at the moment, and I know you are fire-
+fighting, but I need you to be more _f_**_lexible_**.
+
+> HTHS: When we are faced with new challenges, we have the freedom to be
+**flexible**. The process isn’t set in stone.
+
+#### Goals
+
+> HTHS: I have to create daily and weekly **goals** for the team, or they’ll
+just slack. We need to keep cracking the whip.
+
+> LTLS: Having personal and team** goals** helps us stay on track. I like how
+my teammates aren’t afraid to set stretch goals.
+
+The angry engineering director I mentioned in the introduction was never able
+to establish psychological safety on his team. This made it impossible for the
+team to discuss things like time management, accountability, and goal setting
+in a positive light. The mere mention of a word like _accountability — _even
+between team members, outside of the manager’s earshot _— _set off the alarm
+bells, and the team justifiably shut down.
+
+Meanwhile, my engineer friend I mentioned at the beginning of this story
+established a craftsmanship guild in his company, and the word discipline is
+elevated and discussed frequently.
+
+I’ll leave you with a handy cheat-sheet that summarizes the HTHS vs. LTLS
+comparisons I made above. Stay safe out there.
+
+![](https://cdn-images-1.medium.com/max/800/1*qQ2lKrHTdxR7O_a0RM9mrw.png)
+
+
+# So Why Are We Going So Slow? (Cartoon)
+
+In this cartoon, our intrepid manager is reviewing the output from a team
+retro. The business is wondering:
+
+* * *
+
+### So Why Are We Going So Slow? (Cartoon)
+
+In this cartoon, our intrepid manager is reviewing the output from a team
+retro. The business is wondering:
+
+> Why are we going so slow?
+
+Does she see the writing on the wall?
+
+![](https://cdn-images-1.medium.com/max/800/1*JKVN_XUuEmNzwdyTPSstJg.jpeg)
+
+[![](https://cdn-images-1.medium.com/max/400/1*0hqOaABQ7XGPT-
+OYNgiUBg.png)](http://bit.ly/HackernoonFB)
+
+[![](https://cdn-
+images-1.medium.com/max/400/1*Vgw1jkA6hgnvwzTsfMlnpg.png)](https://goo.gl/k7XYbx)
+
+[![](https://cdn-
+images-1.medium.com/max/400/1*gKBpq1ruUi0FVK2UM_I4tQ.png)](https://goo.gl/4ofytp)
+
+> [Hacker Noon](http://bit.ly/Hackernoon) is how hackers start their
+afternoons. We’re a part of the [@AMI](http://bit.ly/atAMIatAMI) family. We
+are now [accepting submissions](http://bit.ly/hackernoonsubmission) and happy
+to [discuss advertising &amp;
+sponsorship](mailto:partners@amipublications.com) opportunities.
+
+> If you enjoyed this story, we recommend reading our [latest tech
+stories](http://bit.ly/hackernoonlatestt) and [trending tech
+stories](https://hackernoon.com/trending). Until next time, don’t take the
+realities of the world for granted!
+
+![](https://cdn-images-1.medium.com/max/2000/1*35tCjoPcvq6LbB3I6Wegqw.jpeg)
+
+
+# Everything Is Fucked Up. And We Love It
+
+When it comes to our work, organizations, and teams…
+
+* * *
+
+### Everything Is Fucked Up. And We Love It
+
+When it comes to our work, organizations, and teams…
+
+Do we get attached to _drama_? Are we addicted to the _rush_? Does functional
+feel _boring_? Is the refrain “all companies are fucked up in some way” a
+_self-fulfilling prophecy_?
+
+> Drama causes the pituitary gland and hypothalamus to secrete endorphins,
+which are the pain-suppressing and pleasure-inducing compounds, which heroin
+and other opiates mimic. ([source](https://www.psychologytoday.com/blog
+/obesely-speaking/201411/excessive-attention-seeking-and-drama-addiction))
+
+What is your personal work mindset optimized for? How about your team and
+department? How about your company leaders? Are organizations, [as Craig
+Larmen points
+out](http://www.craiglarman.com/wiki/index.php?title=Larman%27s_Laws_of_Organizational_Behavior):
+
+> …implicitly optimized to avoid changing the status quo middle- and first-
+level manager and “specialist” positions &amp; power structures.
+
+Consider the following hits of adrenaline. Do they benefit the system as a
+whole?
+
+  * High stakes horse trading and the rush of getting a big project “funded”
+
+![](https://cdn-images-1.medium.com/max/800/1*w1Ldv_Z4uMgEs4P9IKl3nQ.png)
+
+  * Heroic firefighting and thwarting impending disaster
+  * Being right. Having the “best idea”
+  * Getting the headcount during the annual planning process
+  * Closing the deal. Winning the bakeoff
+  * Confirming our belief that “all companies are fucked up”
+  * Shipping the silver bullet, and the success theater that follows
+  * Being the first person to use sexy new technology in production
+  * Saving the day with your genius commit
+  * Having a problem to fix. Being a “critical part” of the solution
+  * Fixing the problem you identified (regardless of whether it was the actual problem)
+  * Reply all
+  * The “crazy startup life” … things are “literally breaking apart before our eyes”
+  * Having everything under control. Knowing exactly what is going on
+  * Rocking the boat. Shaking things up. Gutting it. Starting it over
+  * Rewriting someone’s “crappy code”
+  * Saying no, because you can
+  * Beating the odds. Making the risky bet
+  * Exposing the flaw in someone’s reasoning
+  * Watching something implode, saying “I told you so”, and then fixing it
+  * Letting someone fail, and then taking their job
+  * Always being in the loop
+  * Navigating political intrigue, and amassing political capital
+  * Taking credit for a change initiative. Doing it your way
+  * “Crazy hours”
+  * Crazy output, flying, moving fast
+  * Nailing the deadline on the nose. “It came down to the final hour …”
+  * Making yourself indispensable in the new process
+  * Raising the profile of your effort/team/domain
+  * Forming a bond around mutual discontent. Complaining about ineptitude. Plotting
+
+
+# Putting a Cost On Debt
+
+Dev teams often struggle with persuading the business to prioritize debt work-
+down and complexity/risk management. The shiny efforts with a…
+
+* * *
+
+### Putting a Cost On Debt
+
+![](https://cdn-images-1.medium.com/max/800/1*QzOJ6QxTmiUWQt7RK2WLxw.png)
+
+<http://www.bbc.co.uk/blogs/bbcinternet/2011/11/bbc_weather_design_refresh.html>
+
+Dev teams often struggle with persuading the business to prioritize debt work-
+down and complexity/risk management. The shiny efforts with a promised link to
+revenue win, and the maintenance work loses. This continues until some sort of
+embarrassing catastrophic failure, at which point — if it is not to late — the
+business loses time/money/marketshare trying to fix the issue retroactively.
+Some companies never regain their full health.
+
+What fascinates me is what happens _before_ this pivotal “oh shit” moment. In
+the trenches there is typically some awareness of the problem. Engineers
+struggle. Customers experience stability and quality issues. The pace of
+feature development and value delivery slows. But … nothing happens (or at
+least nothing that addresses the root cause). Even when there are some
+grumblings, it never seems to escalate in a meaningful way. Why?
+
+![](https://cdn-images-1.medium.com/max/800/1*Av_jv6UYzKlnUISc8DLbCw.png)
+
+<https://www.reference.com/science/causes-ocean-pollution-8626fe75f49962e>
+
+In addition to simply having higher priority (or seemingly higher priority)
+things to work on, there is a tendency to look elsewhere for a fix. Maybe it
+is the product/project management process? Maybe it is a question of staffing,
+team structure, or the development practices? Maybe some new silver-bullet
+technology or tool will save the day? Accumulated complexity is often the
+trigger for this common plea:
+
+> We have no predictability! We have no accountability! Things are out of
+control
+
+We go to great ends to persuade ourselves that we don’t need to slow down.
+I’ll always remember this CEO freakout moment:
+
+> Damnit team! Why can’t we fix these problems AND grow? Are we incapable of
+doing two things at once? Can’t we find _a way_?
+
+Unfortunately, these fixes — along with the requisite silver bullets to keep
+momentum — tend to just obfuscate the problem further. Companies will fire,
+hire, and even re-org, before stepping back and saying “shit, we need to spend
+some time working down debt”. And that’s one of the crazy twists here: the
+amount of money (and pain, and disruption) spent to avoid the problem
+typically far outweighs the cost of addressing the problem. Anything that
+detracts from the outward perception of forward progress and momentum is too
+unsavory to try.
+
+A common argument against the prioritization of debt work-down is as follows:
+
+> But it is so hard to put a price tag on this!
+
+I respectfully disagree. It is _easy to estimate and measure this_, and
+accurately describe how increased complexity is slowing down the team. The
+leading indicators are out there. You have N sensors working on the front-
+line, who will — given safety — let you know when flow is dropping. I have
+NEVER experienced a situation where there wasn’t a good deal of advance notice
+about an impending issue. The same goes for monitoring and visualizing system
+complexity. The data is available.
+
+Or backing up even further… the assumptions around cost of delay/cost of
+addressing debt are typically as robust and solid as our assumptions about new
+revenue/new features. PMs are routinely 2–4x off their impact estimates. So
+you only need to be as accurate
+
+What is _hard_ is the following:
+
+  1. Build the trust and discipline among front-line teams to measure lead time, touch time, cycle time, dependencies, etc.
+  2. Trust the front-line teams, and create a safe environment for them to raise the red-flag. When they do raise the red flag… do something about it!
+  3. Swallow your pride and admit that something is “broken” (even when you were expressly asked not to focus on fixing it)
+  4. Put a dollar figure on it.
+
+How do you put a dollar figure on it? Imagine that your company wants to keep
+releasing new features at a rapid pace. Complexity is increasing non-linearly.
+Adding people to the problem costs money (and doubling resources doesn’t
+create 2x the velocity). What would it cost you to _simply maintain_ your
+value delivery rate assuming you don’t battle back complexity? That cost will
+go up non-linearly.
+
+Now, imagine you hit the wall and have to essentially _stop_ new feature
+development. What would that cost your business? How about a conservative 3x
+lead time increase (not unheard of)? How about the cost of simultaneously
+running a big refactor / debt work-down alongside your current new feature
+development efforts?
+
+Assume you are struggling with debt now. What would you spend **RIGHT NOW** if
+you could increase your new feature velocity by 3x (_without new hires_) AND
+prevent that cost from increasing non-linearly? Of course, this isn’t how we
+typically see the problem. We increase our spending on new resources, new
+processes, new tools, and shiny new efforts because that _feels_ more
+proactive, and is easier to swallow.
+
+So, in closing I’d like to leave you with a couple key points:
+
+  1. Battling back complexity is a business-altering challenge
+  2. We’re programmed to gloss over the issue (behavioral economics FTW)
+  3. We frequently miscast the issue as another set of problems. Solving those problems simply distracts us from the core issue
+  4. Figuring out the cost of complexity is on par with making revenue projections. It is possible. You don’t need to be terribly accurate, either.
+  5. You will need to create a safe/trusting environment for your front-line contributors. They’ll sense the problem early, but will be hesitant to push back if there’s a penalty for “going slow”
+  6. The key impact is that lead time will slow. This is easier to wrap your head around than, let’s say, the impact of quality issues (unless customers are leaving in droves). So drive that impact home
+
+
+# Roots of the Feature Factory (1/n)
+
+What are the roots of the feature factory approach?
+
+* * *
+
+### Roots of the Feature Factory (1/n)
+
+What are the roots of the [feature factory](https://hackernoon.com/12-signs-
+youre-working-in-a-feature-factory-44a5b938d6a2) approach?
+
+You can often trace it back to how efforts are funded, and how managers/team
+members are incentivized…
+
+* * *
+
+#### Executive
+
+I expect everyone to advocate passionately for their ideas! What should we do?
+What should we build? Where should we go? If you want your project funded, you
+better be ready to make the pitch! We need a bias for action here.
+
+![](https://cdn-images-1.medium.com/max/800/1*NKvT9Oehdh_uRelqjRb5UA.png)
+
+#### PM
+
+I’m not sure we actually agree on the desired outcome here. I advocate for us
+exploring what success would look like and building a shared understanding of
+the problem. How would we know if things were working? How will we inspire
+novel solutions from the team? Ideas are kind of cheap…
+
+#### Executive
+
+But what does that get us? I need to report to the board on what we plan to
+do, and how we will spend their money. Face it, people want solutions and they
+love a good plan. If we don’t get our annual project list done soon, we’ll
+look completely unprepared. You’re up against some big players here in terms
+of finding resources and funding. So what’s your plan? Just high level please
+… I don’t need the nitty gritty.
+
+#### PM
+
+Well, we’ve got a list of things that have a decent shot of driving the
+outcome you and I discussed. Some are small, so we’d like to try those first.
+Some are bigger and riskier. Again, I’m not sure we all agree on the desired
+outcome…
+
+#### Executive
+
+What about the machine learning one? That was really good…
+
+#### PM
+
+Um, yeah, well that one is pretty big. But …
+
+#### Executive
+
+But if you want the resources, you’ll need to be think big and be bold. “Just
+trying stuff” doesn’t really resonate. And you’ve got to consider optics as
+well. Sales has been chomping at the bit for something new. It’ll give you a
+chance to build some bridges with the data science team as well … and everyone
+knows they are in demand. A partnership!
+
+Unless there’s a story, I’m not sure we can get you the engineering resources
+you need. You need a win here to advance your case…
+
+#### PM
+
+Of course I want the team to win, but sales having something new is a
+different outcome, right? What about our current product makes it hard to
+sell?
+
+We had discussed the outcome of reducing churn, and very few people are
+churning because we aren’t using ML here. I don’t want to add all of that
+complexity either… ops will get killed trying to maintain it all.
+
+#### Executive
+
+Oh, you have a lot to learn! You have to figure out which game you’re playing.
+OK, so the machine learning thing… we discussed that after the offsite last
+week and…
+
+* * *
+
+Sound familiar? How many issues can you spot?
+
+There’s no silver bullet to defeat this kind of thinking. You have to be
+prepared to fight and show results. In my experience, the only way to change
+this mindset is to show that the alternative “works”. Elaborate planning and
+big batches are frequently a proxy for trust and confidence. Perhaps…
+
+  * Propose experimenting with incremental outcome-based funding
+  * Stay on message. Continuously report on outcomes. It will put pressure on other teams to do the same
+  * Use projects as a trojan horse for missions. Remove feature names from project titles. Stick with the desired outcome
+
+If you are a leader/executive and you’re reading this, take a hard look at how
+you incentivize your team, and the degree to which your current planning
+process promotes batch sizes and silver bullets.
+
+> [Hacker Noon](http://bit.ly/Hackernoon) is how hackers start their
+afternoons. We’re a part of the [@AMI](http://bit.ly/atAMIatAMI)family. We are
+now [accepting submissions](http://bit.ly/hackernoonsubmission) and happy to
+[discuss advertising &amp; sponsorship](mailto:partners@amipublications.com)
+opportunities.
+
+> To learn more, [read our about page](https://goo.gl/4ofytp), [like/message
+us on Facebook](http://bit.ly/HackernoonFB), or simply, [tweet/DM
+@HackerNoon.](https://goo.gl/k7XYbx)
+
+> If you enjoyed this story, we recommend reading our [latest tech
+stories](http://bit.ly/hackernoonlatestt) and [trending tech
+stories](https://hackernoon.com/trending). Until next time, don’t take the
+realities of the world for granted!
+
+
+# When Your Head Hurts
+
+Your head hurts. It’s hard to understand all of the moving parts. Meetings go
+in circles. You feel like you are playing a game of three…
+
+* * *
+
+### When Your Head Hurts
+
+Your head hurts. It’s hard to understand all of the moving parts. Meetings go
+in circles. You feel like you are playing a game of three-dimensional chess on
+a rocking boat, jet-lagged, with your hands tied behind your back. There’s
+progress, but it is extremely painful.
+
+![](https://cdn-images-1.medium.com/max/800/1*N4jl46UFv6nC85q-HxVMrg.png)
+
+<https://en.wikipedia.org/wiki/Three-dimensional_chess#Star_Trek_Tri-
+Dimensional_Chess>
+
+The interesting thing here is that with great cognitive force and fortitude we
+can “manage” these situations. Throw enough people and process at the problem
+and you can, at least for a short period of time, establish some sense of
+“control”. When this state starts to pervade how we conceive of our work (“how
+things work”), you simply stop noticing. It manifests as low/mid level
+institutionalized anxiety.
+
+Contrast this with situations that are challenging, but feel invigorating and
+energizing (frequently referred to as [flow
+states](https://en.wikipedia.org/wiki/Flow_%28psychology%29)). These
+situations aren’t _easy_ but the sensation is different. Most product
+development teams know that sense of confusion at the start of an initiative.
+You go in circles, make mistakes, and struggle for shared understanding. But
+there’s still movement. The way forward emerges from the fog, and you find
+your groove (until the next big challenge).
+
+One mode feels like being a member of a [Co Op board in
+NYC](https://www.habitatmag.com/Publication-Content/2010/2010-May/Web-
+Exclusives/Bad-Boards-Co-op-Horror-Stories). The other mode feels like
+climbing Everest. “Hey people this is insane. People climb ****ing Everest,
+and we can’t figure this co-op shit out?!!?”
+
+![](https://cdn-images-1.medium.com/max/800/1*R7TpmJCS-0BC4e-jOKlKMA.png)
+
+<http://www.nationalgeographic.com/adventure/everest/gear-edmund-hillary-
+hilaree-oneill/#/49925.jpg>
+
+When I hear people complain about a lack of process, ownership,
+accountability, predictability, or discipline, I immediately suggest taking a
+step back and thinking about flow. In our quest for certainty we tend to adopt
+layers of process/control that, while providing a safety blanket, do little to
+forward our end goal(s). Worse still is that we equate “real” business (or
+“real world business”) with these impediments.
+
+In this mindset, the quest for execution, accountability, and predictability
+supersedes actual outcomes. This kicks off a wicked cycle where outcomes are
+lacking, and more management/complexity is added to solve the problem. We try
+to cure the symptoms.
+
+I always ask teams:
+
+  * What is the wedge we could drive into this problem such that we could stop talking, and start doing?
+  * What constraints are we actually operating under? Why? Can these be removed?
+  * How does this experience compare to your most rewarding work-related flow states ? Why can’t it be like that?
+
+These days it is common to describe our environments as “complex”. But it is
+important to remember that complexity does not doom us to cognitive overload
+or a _complicated_ approach. Complexity is not an excuse. It is an opportunity
+for innovation.
+
+When your head hurts …. that’s a sign. You’re not addressing the root cause.
+Take a step back. Observe. Save yourself from burnout. Speak up. Figure out
+how to achieve flow. Figure out how to climb a mountain, instead of navigate a
+maze.
+
+![](https://cdn-images-1.medium.com/max/800/1*jZKeLvB24rRjoBJMLERYUw.png)
+
+<http://www.mcescher.com/>
+
+
+# “I Hate Kanban…”
+
+Wandering the conference halls I overhear…
+
+* * *
+
+### “I Hate Kanban…”
+
+Wandering the conference halls I overhear…
+
+> Yeah. Kanban sucks. I hate it! Didn’t change anything …
+
+Forget for a moment that you can model anything with Kanban (it is “way”
+agnostic)…
+
+I’ve been fascinated by something lately. When given the path to visualize
+work and make working agreements explicit, so many many organizations balk.
+Why? Why would we opt _against_ continuous improvement? Why, if given an
+option, would we adopt the most complicated and heavy processes (and hire
+droves of project managers), but hesitate to make work visual?
+
+![](https://cdn-images-1.medium.com/max/800/1*GHOK9W2JZBJzWI-rGXbkdg.png)
+
+By visualizing work on a Kanban board (for example), you are able to visualize
+…
+
+  * The pet hippo projects and fast-track. The side-channel work requests. Cost of maintaining/servicing delivered capabilities
+  * The bottlenecks. Which brings up all sorts of questions about skills, resources, employee engagement (or lack thereof), discipline, output etc.
+  * The difference between where we need resources vs. where we’d like to hire resources
+  * The stuff we do to hold shit together, but that we’re too embarrassed to admit
+  * Perpetual over-utilization and the difference between business and flow
+  * Heroics, and the dark side of heroics (errors, rework, burning out)
+  * What actually constitutes done? More importantly … who owns that? Who defines that?
+  * The dependencies we don’t want to admit or claim don’t exist. “We only rely on them _sometimes”. _“That is fully automated now, just like we promised”
+  * The delta between estimates and actual lead time / cycle time
+  * What it actually takes to get things done … the rework, back and forth, swarming etc.
+  * The cost of multitasking vs. our desire to be proactive and responsive
+  * The impact of increased complexity. No one wants to admit that what they are doing is slowing down the whole ship
+
+The trepidation make sense.
+
+Shining the mirror back on an organization is painful. It very quickly exposes
+all sorts of human issues. It is these human issues that typically block
+change.
+
+You end up returning to the same “problems” over and over. There are _never
+_enough resources. There is _always_ a jockeying for resources. There will
+_always_ be tension between local and global optimization. We are human: we
+over-promise and are eager to please, and fall victim to all sorts of
+cognitive biases. So at the core you have two mindsets at either end of the
+spectrum:
+
+  * Work can be a low-drama, evidence-driven, safe, humane, and intellectually honest pursuit, or
+  * Work is a struggle against human frailty … a controlled, political train-wreck that we can somehow harness for profits
+
+… and then a bunch of variations across that spectrum. What you find very
+quickly is that controlled change is often a battle of mindsets. It becomes a
+fight for who will own and take credit for the change. A Kanban board is a
+blank slate. It is a simple tool … that can be used to model _anything_. But
+it is also a trigger:
+
+> Well, you know we’re overworked. Everyone can see that. We’ve complained
+about it, but have been told we just need to deal. What will making it visible
+do for us?
+
+> I’d prefer not to put that ops work on the board. Because then it will be
+micro-managed, and we will need to explain everything
+
+> David is not pulling his weight. But I don’t want to be the person to call
+that out. Plus, management has lost hope in us anyway. They are working around
+us with that top-secret project.
+
+> We will never get resources if we make a fuss.
+
+So I’ve been asking myself lately: how can we create environments that are
+safe enough to make continuous improvement possible? How can we make a simple
+visualization of work less threatening. Thoughts? Please reply in the comments
+
+[![](https://cdn-images-1.medium.com/max/400/1*0hqOaABQ7XGPT-
+OYNgiUBg.png)](http://bit.ly/HackernoonFB)
+
+[![](https://cdn-
+images-1.medium.com/max/400/1*Vgw1jkA6hgnvwzTsfMlnpg.png)](https://goo.gl/k7XYbx)
+
+[![](https://cdn-
+images-1.medium.com/max/400/1*gKBpq1ruUi0FVK2UM_I4tQ.png)](https://goo.gl/4ofytp)
+
+> [Hacker Noon](http://bit.ly/Hackernoon) is how hackers start their
+afternoons. We’re a part of the [@AMI](http://bit.ly/atAMIatAMI) family. We
+are now [accepting submissions](http://bit.ly/hackernoonsubmission) and happy
+to [discuss advertising &amp;
+sponsorship](mailto:partners@amipublications.com) opportunities.
+
+> If you enjoyed this story, we recommend reading our [latest tech
+stories](http://bit.ly/hackernoonlatestt) and [trending tech
+stories](https://hackernoon.com/trending). Until next time, don’t take the
+realities of the world for granted!
+
+![](https://cdn-images-1.medium.com/max/2000/1*35tCjoPcvq6LbB3I6Wegqw.jpeg)
+
+
+# Service Machines and SaaS Robots
+
+Step back and think of your product as a swarm of service-delivering robots.
+Serve your customer, and not the product.
+
+* * *
+
+### Service Machines and SaaS Robots
+
+#### Step back and think of your product as a swarm of service-delivering
+robots. Serve your customer, and not the product.
+
+Some late night rambling…
+
+![](https://cdn-images-1.medium.com/max/800/1*ZC9N7pVmcJDv85wQ6pS6yg.png)
+
+SaaS companies are service ecosystems. By “service” I am not talking about
+_professional_ services (though SaaS companies can certainly offer these). I’m
+talking about service as:
+
+> the production of an essentially intangible benefit … which through some
+form of exchange, satisfies an identified need
+([source](https://www.archives.gov/preservation/products/definitions/products-
+services.html))
+
+Imagine a restaurant with robot chefs and waiters. Your code is basically
+scripted service design and delivery. You can pay an accountant for tax
+“services”. Or you can pay Intuit for tax “services”. Intuit uses code (as
+well as humans) to orchestrate the service delivery.
+
+When we “ship a feature” we are adding some sort of service delivery
+capability. It is only valuable when it “satisfies an identified need”. The
+code itself is like a recipe for robot chefs. If the food sucks, or people
+don’t eat the food, the recipe is not valuable. There needs to be an exchange.
+Yes people buy on the items on the menu, but they renew on the quality of the
+exchange.
+
+Robots? Sure. Consider the increasing use of AI and machine learning in B2B
+SaaS products. Often we refer to SaaS products as “tools”. Consider that we
+perceive of these products as tools because we (the user) USE the tool. It
+feels like a hammer, darkroom, nail gun, or calculator. Fair enough. But we
+use these tools to achieve an outcome. What if the outcome was delivered by
+our code-drive-robot virtual assistant? The photo is retouched, or math
+problem calculated. Hmm … that feels like a service.
+
+The context for our SaaS service delivery machine is constantly evolving. The
+actors in the system — prospects, customers, employees, technology touch
+points, partners, the broader competitive landscape — are not motionless. They
+are all “the product”. Our engineers are the product. HR is the product. The
+distinctions between engineering and the product team are imaginary.
+
+As SaaS product managers we don’t ship product like a shoe company ships
+shoes. Rather, we oversee the emergence of a service delivery ecosystem. You
+can view Apple as a product and/or design company (and they certainly do both
+very well). Or you can view them as master service designers providing a
+lifetime of touch-point enabled experiences. Apple Care! Apple Store!
+Geniuses!
+
+I frequently hear UX designers complain about agile software development. It
+causes us to cut corners! When can never “get it right”. I think that these
+things are vestiges of shipping wrapped/fixed/tangible products. And if you
+view it like that, an agile approach to software development will always feel
+shitty. It’s like design-by-a-thousand-cuts or building a grand sand castle
+one grain at a time … it feels incomplete and clumsy
+
+But step back and think of your product as a swarm of service-delivering
+robots (and your human staff as a team of smart, warm, breathing service
+delivery agents), and suddenly the ability to change course, evolve, and adapt
+— like a restaurant evolving its menu and service — makes sense.
+
+Consider all customer interactions with your company. Serve the customer, and
+not the product.
+
+
+# Best Practices, Games, and Game Changing
+
+I was pondering various Twitter debates (e.g. #NoEstimates, agile vs. Agile,
+the dangers of incremental thinking, Scrum vs. Agile) over the…
+
+* * *
+
+### Best Practices, Games, and Game Changing
+
+I was pondering various Twitter debates (e.g. #NoEstimates, agile vs. Agile,
+the dangers of incremental thinking, Scrum vs. Agile) over the weekend. These
+exchanges leave me pretty frustrated, and I was wondering why. I also got most
+of the way through [Jeff Gothelf](https://medium.com/u/94a2a063be85) and [Josh
+Seiden](https://medium.com/u/7f786c230ca9)’s book [Sense and
+Respond](https://www.amazon.com/dp/B01HLN0QGQ/ref=dp-kindle-
+redirect?_encoding=UTF8&btkr=1) which offered up some new angles.
+
+Here’s the best I can come up with (re: my frustration). These various debates
+lack context. At any given point, you should keep the following questions in
+mind about your particular situation:
+
+  1. **The Game**. What game are we playing? What are the “rules” (self-imposed, external, etc.) ?
+  2. **Disruption**. How can we change the nature/rules of the game?
+  3. **Evolution**. How will the game change without our intervention(s)?
+  4. **Best Practices**. How do the best players play the game?
+  5. **Training**. How can we become better game players? How can we can eventually outperform the best players?
+
+These questions are obviously related. For example, one might use best
+practices (#4) to identify the game (#1), and train people to become better at
+it (#5). Or even use best practices to shift games (#2), and render other best
+practices less effective. Or the iPhone might get released (#3) triggering a
+shift in how we think about the game (#1). Etc.
+
+People use expertise, tools, and methodologies to help:
+
+  * **Understand**. Answer these questions
+  * **Act**. act/execute based on our answers to these questions
+  * **Reflect**. reflect on/reassess our answers to these questions
+  * **Improve**. Get better at answering, executing, and reflecting
+
+And this gets super meta … you can think of these points as games.
+
+**Some things that seem to hold true:**
+
+  * Some games change very slowly. Most dominant actors play the game in a similar way**. **Other games are in a state of flux. The rules are loose. Approaches to playing the game vary widely. There are only so many ways you can fulfill government contracts for missile guidance systems (for example)
+  * You can be playing many games at once (e.g. broad games like “software development” or “design”, and narrower games like “cloud analytics providers” or “consumer fitness wearables”)
+  * Innovation often involves changing games that were previously considered unchangeable, acting on knowledge of a changing game, or pretending to play one game, while really playing a different game
+  * Sometimes you win by consistently playing a known game perfectly. Sometimes your key strength is rule changing and game identification. Sometimes you win by learning new games quickly
+  * Best practices in a highly constrained game may not be applicable to a less constrained version of the game. Practices can be “first principles” — applicable to a whole class of games — or offer more specific guidance for a narrower game
+  * “Transformation” involves understanding the current game, possibly changing the game, predicting external changes to the game, understanding what skills remain applicable in the new game, and adopting new skills where applicable. Transformation is _not _about playing the existing game better (which can be very important, as well)
+
+**What to watch out for…**
+
+  * When you find yourself saying “it can’t work here” … what are you basing that on? Is the game truly different? Are you referring to internal rules or external rules? What are the “best” people doing who play your game?
+  * Debating tools and practices without discussing these questions (1–5) is a waste of time
+  * High level manifestos and principles are helpful, but it is important not to conflate these with the practice/tools they inspire (e.g. Agile and Scrum). The problems that Scrum solves may not be applicable for the game you are playing
+  * Scrum is cited as something for beginners. Yet it doesn’t resemble what more advanced teams are doing. Is that smart? This relates heavily to how the best people are playing the game (#4) and the best way to get them there (#5). If you take a step back, you might be in the business of software product development. Scrum is a small part of that game.
+  * We frequently cite compliance and the “existing culture” as a blocker. Why do we start first with the front-line teams (#5) and the generic game of software development (#1) ? It would seem that the first step would be to start playing a different game (#2). But that’s hard because it is a lot harder to get executives to do something different (#5). Devs are easy in comparison
+  * Depending on who you ask about NoEstimates, you’ll discover that someone is trying to solve dysfunction and shift the game (#2), the next person feels they have a better way to play a particular game (#4), and most people aren’t clear about the game in question (#1). That’s confusing
+
+There’s nothing groundbreaking (or original) about these questions. I’m sure
+game theorists would eat my for lunch. My point is that people should 1)
+question their own assumptions, and 2) try to build shared understanding. Most
+of the “debates” I participate in are lacking any sort of shared context.
+Let’s fix that.
+
+
+# Learned Helplessness and the Ops Death-Spiral
+
+Are you in Ops? Do you deal with Ops teams? Does this sound familiar?
+
+* * *
+
+### Learned Helplessness and the Ops Death-Spiral
+
+Are you in Ops? Do you deal with Ops teams? Does this sound familiar?
+
+![](https://cdn-images-1.medium.com/max/800/1*DIw5krqGhmHZBTBYHv1F7g.png)
+
+#### The Cycle
+
+  * Business grows. The focus is on growth drivers: new products, new features, and shiny objects. Cost of maintaining the increased complexity is routinely underestimated. Ops drops some balls…
+  * In light of above-mentioned dropped balls, the business asks Ops to be “more responsive”. This responsiveness is achieved by taking on more work (high utilization) and taking on different streams of work (multitasking / context switching). There’s a willingness to please. But cracks form, and more balls are dropped…
+  * The problem is identified! It’s a management problem! Project management is brought in to act as human load balancers. Capacity is essentially auctioned to the rest of the organization during periodic planning activities. The focus still remains on the “new”, and the cost of maintaining the existing infrastructure/services continues to grow (and to be underestimated…)
+  * This eagerness (and newfound accountability and track-ability) is rewarded in the short term. However, things begin to slip behind the scenes. Lead times increase (but are more “predictable”). Quality slowly slips. Work feels more controlled and business-like, but degradation in overall capabilities is constant. Entropy increases. Heroic efforts rewarded…
+  * The Ops front-line team members feel the strain. They sense quality slipping. They’ve been viewed as a lame duck for a while now — lesser developers / firefighters — but the willingness to please is still strong (almost a reaction to feeling marginalized). Shadow work becomes the norm, meaning that the maintenance work is made invisible because exposing it would destroy the veneer of control. Complexity increases further, increasing the complexity of maintenance vs. the allure of new projects.
+  * From the outside, Ops is viewed as passive and not strategic. A sense of inevitable struggle sets in — both inside Ops, and from the “customers” of the team. Low morale makes it easy to identify the problem as one of lack of engagement, poor management, and shoddy discipline (“why can’t they get estimates right”). Learned helplessness sets in. The business will never understand Ops, it is thankless work, and all they can do is keep the sinking ship afloat.
+  * Due to lack of Ops responsiveness, feature development teams continuously “work around” operations … using new greenfield technologies, and managed services, and circumventing controls. This creates a technology soup, further complicating Ops life, but creating temporary traction. Of course, the new providers are “so robust” and “so easy to implement”, which is bad PR for Ops (who have been tasked with the HARD work of un-fucking legacy decisions).
+  * And the business grows ….
+  * On and on. Until something really explodes, at which points consultants are brought in, and everyone is at the water-cooler saying “I told you so”. The embattled team members who were saying “I told you so” the longest are the first to go. They were both right, and ineffective at being right (which is a hard place to be). The managers are able to spin some “we warned you about this” into roles in the new structure. Until ([a la Larman’s Laws](http://www.craiglarman.com/wiki/index.php?title=Larman%27s_Laws_of_Organizational_Behavior)) the “change initiative will be reduced to redefining or overloading the new terminology to mean basically the same as status quo”
+  * And the business grows…
+  * Repeat, at ever increasing scale…
+
+#### So what can you do about this?
+
+  * Become a broken record about Ops impacting the fundamental economics of the business. Connect Ops to revenue (and speed to discover new revenue sources). Fight being attached to proxy metrics like project completion
+  * Get beyond the DevOps hype and understand that [there are many topologies that work (and don’t work)](http://web.devopstopologies.com/). You don’t need to run your whole company in one model. Focus on the why, iterate, and repeat
+  * Be forceful about adding headcount to accommodate added complexity. Establish resourcing model that correctly accounts for the increased overhead of managing complexity
+  * Visualize the true cost of matrixing your team members. This often involves making _all _the work visible, which is especially hard when team absorbs a ton of invisible work. Use data to demonstrate the impact of the matrix. Lead time and rework can be powerful here
+  * Say No! Being customer-centric can be your achilles heel. It is your responsibility to call out efforts that will be, by their very nature, difficult to support with existing resources
+  * Speak more about capabilities (vs. IT “projects”). Your job is to zero in on the capabilities required for success, not passing projects through the pipe. Encourage your team to build capabilities with a minimal amount of complexity
+  * Hire technical product managers your team TRUSTS (instead of project managers). Once you view your infra/tools as a product, you’ll start taking a longer term strategic view
+  * Limit work in progress and utilization rates. Your team wants to “kick ass”, but you have to slow down to speed up. Sure you’ll feel more responsive if you can “commit” to parallel projects, but in the long run it’ll be better to focus on flow and capabilities
+
+That’s it for now. Comments appreciated….
+
+[![](https://cdn-images-1.medium.com/max/400/1*0hqOaABQ7XGPT-
+OYNgiUBg.png)](http://bit.ly/HackernoonFB)
+
+[![](https://cdn-
+images-1.medium.com/max/400/1*Vgw1jkA6hgnvwzTsfMlnpg.png)](https://goo.gl/k7XYbx)
+
+[![](https://cdn-
+images-1.medium.com/max/400/1*gKBpq1ruUi0FVK2UM_I4tQ.png)](https://goo.gl/4ofytp)
+
+> [Hacker Noon](http://bit.ly/Hackernoon) is how hackers start their
+afternoons. We’re a part of the [@AMI](http://bit.ly/atAMIatAMI) family. We
+are now [accepting submissions](http://bit.ly/hackernoonsubmission) and happy
+to [discuss advertising &amp;
+sponsorship](mailto:partners@amipublications.com) opportunities.
+
+> If you enjoyed this story, we recommend reading our [latest tech
+stories](http://bit.ly/hackernoonlatestt) and [trending tech
+stories](https://hackernoon.com/trending). Until next time, don’t take the
+realities of the world for granted!
+
+![](https://cdn-images-1.medium.com/max/2000/1*35tCjoPcvq6LbB3I6Wegqw.jpeg)
+
+
+# You Can’t Be All Things…
+
+Beyond the hype and rhetoric, what is your organization optimized for? Every
+strength is a potential weakness. Trying to be good at…
+
+* * *
+
+### You Can’t Be All Things…
+
+Beyond the hype and rhetoric, what is your organization optimized for? Every
+strength is a potential weakness. Trying to be good at everything is a losing
+proposition. So when the chips are down, what are you betting on? What do you
+need to be…right now, and in the future. And “everything” is a copy out
+answer.
+
+![](https://cdn-images-1.medium.com/max/800/1*1WiOLXgeum1Cf4CKk29JpA.png)
+
+
+# Why Do We Estimate?
+
+I recently asked a group of engineers, product managers, UX, and QA this
+question. Here’s how they replied:
+
+* * *
+
+### Why Do We Estimate?
+
+![](https://cdn-images-1.medium.com/max/800/1*JHB6gTAeQ8jThEuZJL3q6A.png)
+
+I recently asked a group of engineers, product managers, UX, and QA this
+question. Here’s how they replied:
+
+We use estimates to/so/because _____________________
+
+  * To force a conversation about each story … especially the complex ones
+  * So we can fill up our sprint with a certain number of story points
+  * To keep our work sustainable, and not commit to doing too much (in a sprint)
+  * So we can tell someone when the project will be done
+  * So I can communicate the current status of the project
+  * So I can point out how scope creep will impact the delivery date of the project
+  * So I know when the team will be ready to pick up a new project, and I can work with the project stakeholders to clarify requirements
+  * So we can measure the team’s effectiveness
+  * To prevent a shared resource from getting overloaded
+  * So we can measure individual contributor effectiveness
+  * To aid us in prioritization. We want to find small / valuable features
+  * Because that’s what you do in Agile, right?
+  * To hold people accountable. With a velocity goal they’ll be more motivated
+  * To add them all up, and figure out what is possible or not possible by a certain date
+  * To divvy up the costs for individual projects. Time tracking was too difficult so we used the estimated points instead
+  * So that we can measure the ROI for particular projects
+  * To calculate project risk. It is all about risk vs. reward
+
+How many of those feel like “good fits” for estimation? How many are bad fits?
+Might there be other ways to achieve the same end goal(s)?
+
+In reading this list, consider these recurring themes:
+
+  * batch sizes (“large” vs. “small” projects)
+  * the Scrum methodology, and fixed iteration lengths
+  * External team dependencies and stakeholder needs
+  * The role of deadlines in your business model
+  * Performance management practices
+  * Level of trust and safety
+  * Accounting practices
+  * How teams are assigned to projects. Team autonomy in terms of selecting/pursuing solutions
+
+![](https://cdn-images-1.medium.com/max/800/1*vmGOGEjn2TXlmaIoj0wQNg.png)
+
+Team 1: “When will you be ready for us?” Team 2: “When will YOU be ready?”
+
+Depending on your context, you may be leveraging estimates to address multiple
+goals. Many of those goals are context dependent. If you can control certain
+variables in your environment, you can narrow the “job” you are hiring
+estimation to do. And frankly, some of these things are best served/achieved
+through other approaches. In those cases, estimates aren’t the best (or even a
+barely acceptable) tool for the job.
+
+Given the list above, I can pick out 5–7 that have nothing to do with
+estimates or estimation.
+
+Context matters. Let me pick a context from the last five years of my career
+(B2B SaaS):
+
+  * In optimization mode, we were releasing 5–10 improvements weekly (mini projects)
+  * We didn’t work in fixed iterations
+  * The work culture valued sustainable habits
+  * Teams were aligned around moving a particular metric. Many of the “projects” failed (we aborted the experiments early) while we doubled down on other efforts when they moved the needle
+  * We had minimal external dependencies
+  * Teams were measured in terms of outcomes produced, not code shipped or projects finished
+
+Or course #NoEstimates critics will tell me I don’t live in the real world,
+that I’m irresponsible, and that this is not how real business happens. Let me
+go hide in my imaginary cave and cower. But wait … we were still estimating.
+
+In my context, estimates had a narrow job. The efforts were small. We didn’t
+need to thread the dependency needle. No customers were expecting things by
+specific dates. No marketing people needed to be informed months in advance of
+a release (a week’s notice was fine). You could calculate costs easily just by
+looking at the cost of the team. And the nature of the SaaS model meant that
+we were always adding/removing functionality from the product. There was very
+rarely a definitive done….as we were _always_ adding/removing. We’d be pretty
+safe to answer “10–15d” for anything we were currently working on, and we’d be
+pretty close.
+
+So stepping back, the “cost” was fixed, and the ROI was measured by looking at
+how the team tracked against improving specific metrics (and some agreed upon
+value for moving those metrics). And even still we estimated — albeit
+implicitly — when we thought about “small experiments”.
+
+This is a very rare environment (more of a service ecology). It is probably an
+“extreme” environment compared to other domains, though it was a publicly
+traded company. Big projects, fixed dates, and lots of dependencies are more
+common. And many teams cannot connect their work directly to customer outcomes
+and get feedback so quickly.
+
+One of the problems with the #NoEstimates movement is that it (very
+unintentionally, as expressed by certain practitioners) lacks empathy. It
+makes the blanket statement that estimates are bad for ALL uses. Which
+translates into them being bad for people trying to operate in their current
+circumstances/context. They’re basically saying … “So what if your marketing
+team needs to know what will be included in the next release!” Or “So what if
+you have a poor shared service that has to auction off its capacity!”
+Estimates become the bad guy instead of singling out the truly dysfunctional
+things they’re hired to do — e.g. “improve accountability”.
+
+And then there is the class of estimation jobs where the outside context can
+be changed (e.g. dependencies removed, work delivered in smaller batches, more
+flow, tighter feedback loops, etc.) This doesn’t remove the need for
+estimation as a fundamental concept, but it very much changes the estimation
+emphasis. Here I think it is best to focus on the levers. “What could we do to
+work in smaller batches, and incorporate customer feedback more quickly?” “How
+could we do a better job at prioritizing based on cost of delay?” I see this
+as a continuous improvement effort.
+
+Finally, In some environments I would argue that these levers (e.g.
+dependencies, overutilization) are a far greater problem than the need to
+estimate. No amount of estimation will help the company unravel its massive
+dependency issues or bloated planning process. Because of this, you can safely
+remove the practice until those problems are resolved. It is one less thing
+you’ll need to be worried about, and might even help focus the discussion. At
+some later point you, when the other issues are resolved, you can worry about
+estimates again, and figure out what you’ll hire them to do.
+
+So the tl;dr of all this is:
+
+  * Context, context, context.
+  * What job are you hiring estimation to do?
+  * Is it the right tool for the job? Is it working? If it isn’t working, why?
+  * What levers do you have at your disposal that might impact the “job” of estimation?
+  * When does the process add value, and when does it act as dead weight?
+
+Cheers! Comments appreciated.
+
+[![](https://cdn-images-1.medium.com/max/400/1*0hqOaABQ7XGPT-
+OYNgiUBg.png)](http://bit.ly/HackernoonFB)
+
+[![](https://cdn-
+images-1.medium.com/max/400/1*Vgw1jkA6hgnvwzTsfMlnpg.png)](https://goo.gl/k7XYbx)
+
+[![](https://cdn-
+images-1.medium.com/max/400/1*gKBpq1ruUi0FVK2UM_I4tQ.png)](https://goo.gl/4ofytp)
+
+> [Hacker Noon](http://bit.ly/Hackernoon) is how hackers start their
+afternoons. We’re a part of the [@AMI](http://bit.ly/atAMIatAMI) family. We
+are now [accepting submissions](http://bit.ly/hackernoonsubmission) and happy
+to [discuss advertising &amp;
+sponsorship](mailto:partners@amipublications.com) opportunities.
+
+> If you enjoyed this story, we recommend reading our [latest tech
+stories](http://bit.ly/hackernoonlatestt) and [trending tech
+stories](https://hackernoon.com/trending). Until next time, don’t take the
+realities of the world for granted!
+
+![](https://cdn-images-1.medium.com/max/2000/1*35tCjoPcvq6LbB3I6Wegqw.jpeg)
+
+
+# Have You Heard That One About SAFe?
+
+And why I’m going to stop telling SAFe jokes (for now)
+
+* * *
+
+### Have You Heard That One About SAFe?
+
+#### And why I’m going to stop telling SAFe jokes (for now)
+
+_(Note: If you don’t know about SAFe, please learn more
+_[_here_](https://en.wikipedia.org/wiki/Scaled_Agile_Framework)_. “SAFe
+synchronizes alignment, collaboration, and delivery for large numbers of agile
+teams.” )_
+
+[SAFe](http://www.scaledagileframework.com/) is an easy target. It’s like
+laughing at sunburnt package tourists on the beach, saying
+[Velveeta](https://en.wikipedia.org/wiki/Velveeta) isn’t [artisanal
+cheese](https://en.wikipedia.org/wiki/Artisan_cheese), ridiculing friends with
+Cross-Fit injuries, and grumbling about
+[autotune](https://en.wikipedia.org/wiki/Auto-Tune) in popular music. SAFe is
+the Creed of the Agile echo chamber (it’s trendy to hate Creed. It’s like
+Nickleback. You’re _supposed_ to hate them).
+
+![](https://cdn-images-1.medium.com/max/800/1*sEtIejXkPOW5pMPRvFKoRQ.png)
+
+“How can anyone fall for this bloated, over-processed, and overly-prescriptive
+bullshit?” “You’ll never become Agile by doing SAFe!” “[[It] avoid[s] the very
+basics of agility and complexity!](http://cognitive-edge.com/blog/safe-the-
+infantilism-of-management/)”.
+
+![](https://cdn-images-1.medium.com/max/800/1*va62jDIdD2zk2dD20es_iw.png)
+
+Velveeta ad with guys who look like they work at my local coffee shop
+
+I’ve cracked a couple of my own SAFe jokes, and chatted about SAFe with
+unwinding speakers at the conference hotel (evangelism requires sustenance).
+Here’s a question and challenge — to myself, as well as others. Why do we even
+care? Why do we waste our breath? What does this sniping say about us? Some
+pondering for the consultants:
+
+  * How good is the service design for your alternative “way” ? Is it accessible? It is actionable? Can it be taught? Outcomes?
+  * So what? Is it our job to save _all _companies? Why expend the energy? Ever act of creation is an act of destruction, no?
+  * Imagine you were hired as CEO for a large organization (as an alternative to them adopting SAFe). What exactly would you do?
+  * So what if the bagel store down the street doesn’t make real bagels. People will discover your store and buy real bagels. Right?
+
+Some introspection. Every minute I spend steaming and sniping is a minute NOT
+spent on offering an alternative. There will always be autotune, industrial
+farm-to-table, paint-by-numbers, and [David
+Hasselhoff](https://en.wikipedia.org/wiki/David_Hasselhoff) albums. And maybe
+these things need to exist to enable alternatives. The instinct of any
+craftsperson is to freak out when someone butchers the craft — OMG, that is
+NOT fucking al dente Pasta! But, then it is back to work.
+
+![](https://cdn-images-1.medium.com/max/800/1*XW2E3W-TiNnREsCuWddOtw.png)
+
+This may be a stretch, but I also wonder whether the current state of Agile is
+unsettling to longtime practitioners, and that SAFe represents the most
+convenient scapegoat. It’s easy to blame corporatization, packaging, and
+pyramid schemes, but perhaps more difficult to ponder the accessibility and
+fracturing of the movement itself. Yep, the Manifesto is still there, so
+there’s that… as _perfect_ as ever _of course_. “Uncovering better ways” is
+the Try…Catch that lets us claim Agile lineage to anything tried in software
+development since 2001 (and earlier, during a 30 year Agile gestation).
+
+But still, _something _feels a bit adrift.
+
+Whenever I read “that’s not Agile” or “you don’t do Agile” or “lowercase vs.
+uppercase Agile” or “DevOps IS Agile” … I feel like I’m stuck in that nebulous
+end of Part 1 in a three part trilogy … where the merry band is drifting and
+bickering, the path forward is obscured, some want to turn back, and some want
+to swallow the magic potion. Or arguing over [80s music](https://www.quora.com
+/What-decade-is-considered-the-worst-decade-for-music-in-the-
+past-70-years/answer/David-Stewart-8?srid=h0Eh) with friends. I really applaud
+[Joshua Kerievsky](https://medium.com/u/28229c304ac9) ‘s work on Modern Agile…
+for at least trying to move the conversation forward.
+
+Maybe it is the echo chamber?** **There are very few people voicing the
+perspective of non-consultant full-timers. The narrative is primarily driven
+by consultants and “thought leaders”… all with something to sell, and with
+some vested interest in guiding the perception of the market, closing deals,
+and getting their foot in the enterprise door. This isn’t bad but it is what
+it is. Thoughtful comparisons of approaches would benefit everyone.
+
+(Side note. OH: _“The real money is in the enterprise, doing org-design, and
+dealing with scaling. Just do the math. That’s why everyone is jumping on
+that.”_)
+
+Here in Hamburg (I spoke at Mind the Product Engage, which was great fun) I
+had the pleasure of speaking to someone about their multi-year effort to scale
+their organization. It was wonderful, detailed, rich, story-filled, and
+informative (and lacking any pretentious jargon). We desperately need more of
+these stories.
+
+There’s something weird about the sniping and joking, and I can’t exactly put
+my finger on it.
+
+I think for now I’m going to shut up about SAFe, “that’s not Agile”, “you
+can’t just copy Spotify”, and “Scrum is childish” (this one will be hard).
+There’s more I have to learn here … both about myself, and this crazy domain I
+find myself in. I can be more humble and outcome focused.
+
+
+# Product Development Team Self-Assessment
+
+For my current context (B2B SaaS) I think this is a good self-assessment for
+product development teams. I’m sure it somewhat resembles…
+
+* * *
+
+### Product Development Team Self-Assessment
+
+For my current context (B2B SaaS) I think this is a good self-assessment for
+product development teams. I’m sure it somewhat resembles other assessments,
+but interestingly it was created by a product development team (I facilitated
+the activity and tried to help with word-smithing). They “owned” the approach,
+which went a long way towards the team using the tool (they created).
+
+The team committed to take the assessment quarterly as part of their organic
+continuous improvement approach. The detailed results were kept private within
+the team, and were not used for any kind of performance management scheme, or
+management oversight. Changes in the “health score” (the average of the
+individual team member scores) served as the catalyst for conversations and
+experiments.
+
+It is not appropriate for all environments. You’ll notice it has a bit more of
+a “product tilt”, which correctly represents this team, but will not represent
+all teams. With their permission I am sharing it here to inspire others to
+develop similar self-assessments.
+
+* * *
+
+  * 1 — Strong Disagree
+  * 2 — Disagree
+  * 3 — Neither agree nor disagree
+  * 4 — Agree
+  * 5 — Strongly Agree
+
+  1. **Customer Access**. The team has direct access to customers/users/partners/stakeholders and can contact them directly to do research, discovery, testing, and validation. The team knows who they are building for and why
+  2. **Measure and Act On Impact**. The team measures the impact of what they deliver to customers, has direct access to that data, and regularly uses that qualitative and quantitative data to guide their product development efforts. Poorly performing “features” are routinely eliminated or improved
+  3. **Aligned With Business Outcomes**. The team aligns its work directly to business outcomes (e.g. new revenue, upsell, churn, customer satisfaction, adoption), and not to proxy variables (e.g. time to project completion, velocity, etc.) When business outcomes are potentially counterbalancing (e.g. revenue growth vs. churn), that balance is represented to avoid adverse impacts
+  4. **Context and Focus**. The team stays aligned with value streams and initiatives for long enough to develop meaningful familiarity with the problem space and technology options/stack. We are not playing whack-a-mole and project-hopping. We iterate to achieve great outcomes
+  5. **Limited External Dependencies**. The team is unhindered by external dependencies. Examples of external dependencies might include: operations/IT, quality assurance, external UX and design dependencies (we prefer these dedicated to the team), sales and marketing, stakeholder approvals, limited meeting space, other feature development teams, etc.
+  6. **Tools and Resources**. The team has timely and consistent access to the tools and resources it needs to do its work. If these tools are provided by outside resources, they are done so with minimal friction
+  7. **Continuous Improvement**. The team regularly conducts safe retrospectives with a skilled and unbiased facilitator. The team holds itself accountable for continuous improvement experiments, and regularly updates (and self-enforces/adapts) its working agreements.
+  8. **Funding**. The team understands their funding model, and avoids delivering complexity/capabilities/value streams that they will have difficulty maintaining and improving due to lack of resources. Team is adequately resourced to deliver on its commitments and initiatives
+  9. **Standards**. The team sets and **_self-enforces_** quality, craft, and collaboration standards
+  10. **Complexity and Risk Management**. The team monitors the accumulation/emergence of technical “debt”, has an economic model for prioritizing this debt based on current capability gaps, and regularly prioritizes debt “work-down” to limit adverse economic effects (e.g. rapidly lengthening lead times, reliability issues, lost opportunities)
+  11. **Flow**. The team measures lead time (from some early point of commitment to actual value delivery), limits work in progress, and avoids high utilization rates. All work is visualized on a physical or virtual board, including “small stuff”, maintenance activities, rework, and fixing defects
+  12. **Sustainable**. The team has sufficient time (and space) set aside for focused, thoughtful work without disruptions. Meetings are well run and valuable. The work schedule is sustainable
+  13. **Safety**. The team fosters a safe work environment: safe to learn, safe to fail, safe to take risks, safe to have diverse interests, safe to push back and dissent, safe to onboard new team members etc. Environment features a high level of [psychological safety](https://en.wikipedia.org/wiki/Psychological_safety) (and [this source](https://rework.withgoogle.com/blog/how-to-foster-psychological-safety/))
+  14. **Celebration**. The team celebrates its wins (meaningful wins, not success theater) and learns from its failures. The team is encouraged to experiment to find better solutions, and discover better ways of working given their current context
+  15. **Coaching and Facilitation**. Team members have access to coaching (for hard and soft skills), career development guidance, and conflict resolution assistance for challenging interpersonal situations
+
+Contact me directly (@johncutlefish on Twitter, or
+[LinkedIn](https://www.linkedin.com/in/johnpcutler/)) if you’d like to chat
+about doing this with your own team.
+
+Are you headed to [Mind the Product](http://bit.ly/2oYDFnE) in June? Let me
+know! Coffee?
+
+> [Hacker Noon](http://bit.ly/Hackernoon) is how hackers start their
+afternoons. We’re a part of the [@AMI](http://bit.ly/atAMIatAMI)family. We are
+now [accepting submissions](http://bit.ly/hackernoonsubmission) and happy to
+[discuss advertising &amp; sponsorship](mailto:partners@amipublications.com)
+opportunities.
+
+> To learn more, [read our about page](https://goo.gl/4ofytp), [like/message
+us on Facebook](http://bit.ly/HackernoonFB), or simply, [tweet/DM
+@HackerNoon.](https://goo.gl/k7XYbx)
+
+> If you enjoyed this story, we recommend reading our [latest tech
+stories](http://bit.ly/hackernoonlatestt) and [trending tech
+stories](https://hackernoon.com/trending). Until next time, don’t take the
+realities of the world for granted!
+
+
+# Thanks for the comment and link Sarah.
+
+* * *
+
+Thanks for the comment and link Sarah.
+
+
+# Why Do Things Get Worse (With Teams) ?
+
+The goal of this post is to inspire discussion. I pose a question, and I’d
+love to hear your thoughts. Links to articles and books are…
+
+* * *
+
+### Why Do Things Get Worse (With Teams) ?
+
+The goal of this post is to inspire discussion. I pose a question, and I’d
+love to hear your thoughts. Links to articles and books are appreciated.
+
+Imagine you get together with a couple good (motivated) friends and embark on
+a challenging, temporary mission together. The mission requires expertise,
+discipline, collaboration, and continuous improvement. You’ve done something
+_somewhat similar_ before. And there are a number of moving parts — many
+beyond your control, and some only marginally within your control.
+
+Everyone wants to see this _thing _happen. The team is humble and open minded,
+and is open to reflecting on how things are going, and making tweaks when
+necessary. Perhaps most importantly for this thought exercise, the team is
+“flat” in the sense that no one is responsible for managing other people.
+
+Now, I’d like you to consider some things the team might want to do:
+
+  * Figure out where everyone is spending their time to collectively make sure they’re focusing energy in the right direction
+  * Critique each other’s work
+  * Change direction when something isn’t working
+  * Sit through an extended collaboration session (aka “meeting”)
+  * Visualize “small stuff” work that might be getting in the way
+  * Do a rough back-of-napkin estimate for some piece of the puzzle
+  * Tweak working agreements
+  * Call someone out for being a jerk (and then move on)
+
+All seems pretty reasonable for a day’s work in this scenario. Let’s assume
+that in the case of your merry band … all of this is “OK”.
+
+Now consider what happens when you do these things with “normal” software
+development teams (I’m speaking _very_ stereotypically here, but you get the
+idea). Tracking time is micro-management personified. Team members are
+cautious about providing feedback. There is writing on the wall that something
+is doomed, but politics makes it difficult to disengage. Meetings “suck”.
+There’s hidden work, because people don’t want to waste their time surfacing
+it, or are scared to. Estimation is a game. Direct interpersonal conflict is
+avoided at all costs, and instead gets lodged as complaints to management
+during 1:1s. I’m sure you can list more…
+
+**This is the question I’m mulling over today.** What exactly happens to turn #1 into #2? Is it a function of …
+
+  * scale and dependencies?
+  * caliber of team members?
+  * trust and safety?
+  * hierarchal reporting relationships?
+  * who is held accountable for making decisions?
+  * distance to decision makers?
+  * skin in the game?
+  * expertise?
+  * accumulated gripes and awkward stalemates?
+  * the desire for people to keep their full-time jobs?
+  * local optimization by middle managers?
+  * other?
+
+
+# 7 Abilities You Must Defend (and Improve)
+
+What is the right way to scale your company? How do you know whether a process
+is the right process? Here’s an idea … ask yourself whether…
+
+* * *
+
+### 7 Abilities You Must Defend (and Improve)
+
+What is the _right_ way to scale your company? How do you know whether a
+process is the _right_ process? Here’s an idea … ask yourself whether the
+action you are considering **will improve or harm** your ability to do the
+following:
+
+  1. Exploit learning quickly and effectively
+  2. Understand causality between actions and responses
+  3. Probe environment for new information
+  4. Synthesize and draw insights from new information
+  5. Preserve existing knowledge
+  6. Integrate new information with existing knowledge
+  7. Maintain and grow system awareness
+
+These items can apply to how we work, who we hire, what we build, who we
+target, how we structure our organization, and how we respond to change (among
+other things).
+
+![](https://cdn-images-1.medium.com/max/800/1*CfIH6JeVz9axBxjGYdy-8g.png)
+
+“Exploit learning” (#1) refers to the act of converting learning into value.
+That value might be external customer value, value to the organization, or
+value to the team/individual. Every action is an opportunity to learn, which
+is covered under #3.
+
+A friend read a draft of this post, and remarked “you didn’t mention just
+plain old execution!” I countered by explaining that #1 can refer to
+exploiting existing knowledge (e.g. “we know what we need to know, and just
+need to execute”). I also asked how she _knew _that they were in an execute-
+only mode, and how she’d _know_ when/if the situation had changed enough to
+warrant a new approach (#2, #3, #4, #6, #7)
+
+System awareness (#7) is focused on systems thinking, sensing changes, and
+understanding the movement of information and energy inside systems. I see
+this is more of a “glue” for the other items, as it is important to understand
+that applying energy in one area tends to have an impact in another area
+(sometimes violent and unexpected). It also covers classification of the
+system (see the [Cynefin
+framework](https://en.wikipedia.org/wiki/Cynefin_framework) to understand
+simple, complicated, complex, and chaotic systems), and how well we understand
+the [fitness landscape](http://complexityacademy.io/fitness-landscapes/) for
+our current challenge.
+
+Scaling up a company always involves some risk of loss. We make sacrifices in
+the hope that more cumulative energy will pass through the system. But when
+some of these capabilities are lacking, it is very easy to overshoot. For
+example, we might impose too much structure, dictate too much homogeneity,
+encourage too much specialization, or grow too quickly … and then get stuck
+trying to claw ourselves out of a hole. Why? We were too slow to sense the
+negative impact and/or our sense of the system lead us down the wrong path in
+the first place.
+
+What happens when we boost or dampen these abilities? Consider these examples:
+
+**Spotify** (the music service) is frequently cited as an example of how to “scale software development”. I’d argue that Spotify is an example of how a team of empowered agile coaches iterated on the scaling challenge, and helped the company resist numerous premature optimization traps. To copy it you would need to create a system conducive to that kind of reflection and experimentation, and the output might not represent what Spotify ended up doing.
+
+When **psychological safety** is lacking, no one speaks up to smooth over
+conflicts within teams, which makes it hard to gauge overall system health.
+Failure is stigmatized, making it difficult to probe the environment for new
+information. Passionate individuals leave the company, bringing with them
+important situational knowledge. Layers of management emerge to smooth over
+the lack of trust, thereby making it harder to change course quickly.
+
+**Experience**. A skilled product development team is more effective at exploiting information and avoiding architecting themselves into a corner. Experience in a domain lets you build on existing knowledge. You’ve “been there, done that” so you know where to find the signal in the noise when looking at data. Experience from an old domain applied to a new domain can have the opposite effect: close-mindedness, and resistance to learning new things.
+
+**Measurement Debt and Data Silos. **Lack of data makes experimentation very difficult. Data silos impact system awareness, which encourages local optimization over global optimization. If the data is hard to get at, it makes it difficult to leverage historical knowledge.
+
+**Incremental Delivery and Cross-Functional Teams. **We frequently probe the environment for new information, and can exploit these learnings quickly. Different perspectives drive interesting insights. Fewer handoffs means less signal loss.
+
+* * *
+
+A series of small, intuitive, pragmatic sacrifices can have a massive impact
+down the road. Once the structures, incentives, commitments, and dependencies
+are in place in a system, it can be very difficult to back out. This isn’t to
+say that all rules and structure are _bad — _they may be exactly what you need
+to battle a particular challenge (or to defend the seven capabilities) — but
+they are risky when too rigid.
+
+Give this a try. Create a checklist based on the seven points at the top of
+the post. When you are considering making a change, ask if it will improve or
+hurt your ability to sense and respond.
+
+
+# SaaS and Value Stream Soup
+
+Quick SaaS product lesson …
+
+* * *
+
+### SaaS and Value Stream Soup
+
+Quick SaaS product lesson …
+
+Offering new “stuff” is relatively easy.
+
+The challenge is continuing to improve on those value streams.
+
+When customers enter into a relationship with a SaaS startup, they do so
+knowing that things will be rough around the edges at first. The expectation
+is continuous improvement and innovation. You could consider it as more of a
+service relationship. Customers — especially those open to adopting new, and
+relatively untested products — expect you to keep making things better on
+their behalf (“your team is always innovating!”)
+
+Customer needs and expectations evolve, competitors arrive on the scene, and
+new technologies become available for building and consuming services. To make
+matters even tougher, you need “plumbing” that coordinates across these
+offerings, and that becomes an ongoing concern unto itself as dependencies and
+complexity multiply. So you’re being hit by multiple angles and it is not
+easy. This is exactly why startups thrive in dynamic contexts, and why hyper-
+optimized-for-one-domain enterprises have trouble shifting gears. The fitness
+landscape is constantly changing, providing opportunities for new players who
+can sense and exploit the gaps that big players cannot fill.
+
+The temptation early on is to shotgun blast features at different personas,
+and value streams. This 1) helps close more deals (“hey, we do that!”), 2)
+gives the outward impression of a dynamic, responsive company, and 3) let’s
+the startup explore potential pivots. _Everything _is greenfield, and there is
+_so much to build!_ This results in a minimally _viable_ product skeleton, but
+in no way guarantees that you’ll be able to iterate on the distinct value
+streams from an economic standpoint.
+
+![](https://cdn-images-1.medium.com/max/800/1*Aiutq6x5KxsX0HkLkjY4jQ.png)
+
+Phases of product development team organization
+
+Speed has a cost. A “10x” team is capable of delivering far more initial
+functionality and complexity than it can reasonably service on an ongoing
+basis. To adequately move the needle across multiple value streams, you’ll
+eventually need to hire a multiple of your current headcount (hint: it’s not
+linear). And this is the basis of the scaling challenging. The important
+question is: what will your business _really_ need to be when/if it grows up?
+
+![](https://cdn-images-1.medium.com/max/800/1*efT-TFm_X_wk7SeQTRsC-w.png)
+
+When thinking about value streams I focus on the Who, Why, What, and How (see
+[Impact Mapping](https://www.impactmapping.org/)). For example, at a prior gig
+we targeted Product Managers, Marketers, Customer Success, and Content
+Managers/Writers (so four Whos). We addressed multiple “Whys” for some of
+these personas. Once you got down into the How, things really exploded … with
+multiple touch-points, “features”, and technologies. What this told me was
+that down the road we’d need a _big _team (split into multiple teams) to
+actual move the needle across the value streams in question.
+
+![](https://cdn-images-1.medium.com/max/800/1*Vec7tjwUXrdgFISAOUSbmw.png)
+
+There’s no right or wrong here, except that the temptation to go broad is
+strong (especially if you have strong developers and vocal customers). Once
+you go broad, you start rationalizing a platform or all-in-one solution
+(because its tough to go narrow once you’ve gone broad). Once you go all-in-
+one, you have to start thinking big … more capital, bigger team, more value
+streams, and a more complex sales environment.
+
+So here’s the tip. Even if you are in a project factory / feature factory
+model at the moment, it is important to think about what your startup might
+look like in a mission-based model. You’ll need to map out the various value
+streams (each combination of Who, Why, What, and How), and then gut check what
+your business would look like if you were adequately moving the needle on
+those value streams. This is easier than you think. I use my Tweet exercise …
+
+Imagine 3–5 people walking into work each day. They are motivated around a
+mission. What is their mission in a Tweet? I’m not talking about a high
+minded, pie in the sky mission statement. I’m talking about something a bit
+more pedestrian and more actionable. Something like:
+
+  * Improve Help Center search relevance for end-users. Raise ticket deflection rates!
+  * Insights for staff accountants. Fewer ad-hoc reports.
+  * Helping Customer Success teams doing awesome quarterly business reports. Lower time to prep.
+  * Churn detection for our SMB business. Lower churn rates.
+
+You can size these up/down as you see fit, but the general idea is to answer
+the question “if someone told me N number of people were supporting that
+business goal, would I be surprised?” This will take some tweaking — sometimes
+the missions feels a little big, or a little small — but keep iterating until
+it feels right.
+
+What you find when you do this exercise is that many startups are trying to
+solve WAY TOO MANY value streams. There’s no way they’ll move that many
+needles without very considerable scaling up. This is the curse of the MVP
+idea (when not viewed as a minimally viable experiment). It is way too easy to
+build a product skeleton of something that will be _way bigger _than you
+expected.
+
+So … starting thinking less about features, and more about value streams. It
+may seem trivial to add another who — oh sure, it seems to work for them TOO!
+— but with every Who/Why, you’ll open up a new can of worms. Open that can!
+
+
+# Why We Write Tickets
+
+Shared with my team the other day in Slack …
+
+* * *
+
+### Why We Write Tickets
+
+Shared with my team the other day in Slack …
+
+**Why we write tickets**
+
+  * So if we get sick, a teammate can help us out
+  * To help us decompose our work into small pieces
+  * As a placeholder for a real-life conversation
+  * To keep track of how we resolved the issue
+  * To make our standups effective
+  * To point out dependencies
+  * To reflect on the mix/makeup of our work during retros
+  * Self-discipline. Don’t take on too much. Try to do one thing at a time
+
+**Why we DON’T write tickets**
+
+  * To track our time
+  * To compete with other team members
+  * To show managers we’re busy
+  * To make managing people possible
+  * To report status, or % complete
+  * Because Jira is fun to use
+  * External discipline
+
+![](https://cdn-images-1.medium.com/max/800/1*OF0R5473NbZxCwLGXh5j2g.png)
+
+[![](https://cdn-images-1.medium.com/max/400/1*0hqOaABQ7XGPT-
+OYNgiUBg.png)](http://bit.ly/HackernoonFB)
+
+[![](https://cdn-
+images-1.medium.com/max/400/1*Vgw1jkA6hgnvwzTsfMlnpg.png)](https://goo.gl/k7XYbx)
+
+[![](https://cdn-
+images-1.medium.com/max/400/1*gKBpq1ruUi0FVK2UM_I4tQ.png)](https://goo.gl/4ofytp)
+
+> [Hacker Noon](http://bit.ly/Hackernoon) is how hackers start their
+afternoons. We’re a part of the [@AMI](http://bit.ly/atAMIatAMI) family. We
+are now [accepting submissions](http://bit.ly/hackernoonsubmission) and happy
+to [discuss advertising &amp;
+sponsorship](mailto:partners@amipublications.com) opportunities.
+
+> If you enjoyed this story, we recommend reading our [latest tech
+stories](http://bit.ly/hackernoonlatestt) and [trending tech
+stories](https://hackernoon.com/trending). Until next time, don’t take the
+realities of the world for granted!
+
+![](https://cdn-images-1.medium.com/max/2000/1*35tCjoPcvq6LbB3I6Wegqw.jpeg)
+
+
+# Low Effort / High Value? Think Again…
+
+A frequent way to prioritize work is to rank work items by effort and value.
+This falls flat for a couple reasons:
+
+* * *
+
+### Low Effort / High Value? Think Again…
+
+A frequent way to prioritize work is to rank work items by effort and value.
+This falls flat for a couple reasons:
+
+  * High, medium, low value … does not reflect your confidence level. Some things have a **low** probability of being **big** winners. What’s the value in that case?
+  * High, medium, low value … does not reflect urgency/depreciation. The item might be extremely valuable, but it will be equally valuable in a year. Or it will lose value immediately after a particular date (like a new landing page for a Superbowl ad)
+  * Some efforts are amenable to incremental value delivery, and others are not. Incremental delivery lets us deliver some % of the value quickly, thereby reducing risk and extracting information to inform future efforts. We’re also free to make partial progress, and stop. What is that worth?
+  * In a similar vein, some items have a lot of optionality while others require a leap of faith. What is that flexibility worth? Is that reflected in Value?
+  * When prioritizing, it can be tempting to “project-ify” missions so that you can estimate effort. That turns the discussion into “how valuable will it be to ship this feature and how long will it take?” vs. “how valuable will it be to solve this problem and how can we incrementally fund this?” These two questions can yield very different answers (one is bounded by the particular solution)
+  * Value is relative to _all _other efforts that share dependencies. If you ask 10 product managers to rank their priorities, you’ll get high priority items from everyone. This is fine if you have ten autonomous teams. But if those teams share a resource — Ops, infrastructure, UX, for example — then you need to compare the items apples-to-apples. When you do that, you’ll get some teams that can work autonomously on low priority items. Which is fine until you realize those low priority items add complexity and overhead.
+  * Effort…does not reflect the cost of maintaining added complexity. Building something quickly may introduce technical debt that has longterm, non-linear costs. Or, the cost of supporting the feature may be huge (and we often ignore this effort). You could also consider this as negative value or a liability
+  * Effort rarely accounts for muti-tasking costs. What is the effort in the context of _other work_ that will be occurring?
+  * What is information worth? When thinking about value, we frequently limit ourselves to cost savings and revenue. But information can be extremely valuable (e.g. revealing customer needs)
+
+I suggest learning more about [cost-of-delay](http://blackswanfarming.com
+/cost-of-delay/) for an alternate prioritization approach.
+
+
+# Doers and Managers
+
+Some Saturday morning coffee rambling.
+
+* * *
+
+### Doers and Managers
+
+Some Saturday morning coffee rambling.
+
+![](https://cdn-images-1.medium.com/max/800/1*OOsLGE6o87ZyhujH5Mb5Rg.png)
+
+What does the front-line doer see? Doers see “the work”.
+
+The code and interface hold the history of shiny objects, hires, fires, and
+crunch time. Coherence gaps and manager-pragmatism manifest in “the work”. And
+that’s where the doer’s “work” happens … navigating those peaks, and valleys.
+
+What happens when the doers speak up?
+
+_“You have to focus on what you can change and control” … “no one likes the
+complainer” … “things could be a lot worse” … “thanks for the feedback, I’ll
+get back to you”._
+
+Which all makes sense. Because that is the manager’s world. The manager has a
+keen sense of organizational inertia, whirlpools, and grinding tectonic
+plates. It’s all about the dollars, cents, influence, and headcount. These
+elements are no less “real”, but they still feel abstract and frustrating to
+the doer. The doer laments …
+
+_“But you’re making silly sacrifices” … “why not wrap the management stack
+with tests, and run it like code?” … “why don’t we judge ideas by their merit
+instead of executive-buy in and proxy metrics?”._
+
+Imagine a developer optimizing a program. They find a memory leak or a poorly
+implemented pattern. What do they do? Fix it. Deploy it. Now imagine the toxic
+relationship between executives that is sinking two departments (but somehow
+is at a stalemate), or the fall-out from the recent acquisition, or the steep
+price paid for rapid growth. These things assault the doer’s senses. If you
+were to draw these things in an architectural diagram, or view them in the
+output of a memory profiler, you’d silence a tech review audience in an
+instant.
+
+The doer-developer is “dinged” immediately for errors, bugs, and slipped
+projects, while an organization can go years/decades without purging itself of
+systemic issues. To doers that seems _massively_ unfair. To managers, that is
+to be expected, and equates to focusing on what you can control. “Stay
+practical and deal with today’s problems” they say. Doers see bad and
+irrational behavior “all the time” on the part of managers and leadership (the
+cat-herders), while managers see reticence, stubbornness, and laziness (the
+cats). And both are right, somehow.
+
+One thing I know for sure … the doers experience cognitive dissonance and poor
+coherence at the source: “the work”.
+
+Assuming the job market is good, both the manager and the doer have some
+agency when it comes to deciding whether they should stay. Which means, of
+course, that those remaining in the system are either 1) choosing to remain in
+the system because it benefits them, 2) are locked in the system, 3) are
+hoping that things will somehow change over time (the long game), or 4)
+waiting for their stocks to vest. When you join and organization, it is
+extremely important to keep that in mind. Things are the way they are for MANY
+reasons.
+
+At the intersection of craft and commerce you will always see these eddies and
+whirlpools. Knowledge/craft workers are problem solvers, systems thinkers,
+game theorists, and explorers. Asking “why” and “what if” are in our blood.
+We’re stubborn and defiant by design (cats?). Now task a manager with being a
+teacher, a coach, a sounding board, a whip-cracker, a context builder, a
+facilitator, [on and on]. Sandwich them into the white-space of the
+organization. Not easy, huh? Easy to fail, right?
+
+If you peel back a lot of the debates about software product development,
+you’ll end up at this tension. How much autonomy is given to the doers? Is the
+role of management to serve the doers, or serve “the business” ? What is the
+role of craft ? Who — managers or doers — are dispensable ? What is oversight?
+What happens when managers behave badly? Who decides if something is “good
+enough”? What does “moving up” mean, if you are a doer? Are we optimized for
+the middle-manager status quo, or for outcomes?
+
+To the cat-herders, cats, inmates, guards, coaches, players, crafters, and
+merchants … happy Saturday morning coffee.
+
+[![](https://cdn-images-1.medium.com/max/400/1*0hqOaABQ7XGPT-
+OYNgiUBg.png)](http://bit.ly/HackernoonFB)
+
+[![](https://cdn-
+images-1.medium.com/max/400/1*Vgw1jkA6hgnvwzTsfMlnpg.png)](https://goo.gl/k7XYbx)
+
+[![](https://cdn-
+images-1.medium.com/max/400/1*gKBpq1ruUi0FVK2UM_I4tQ.png)](https://goo.gl/4ofytp)
+
+> [Hacker Noon](http://bit.ly/Hackernoon) is how hackers start their
+afternoons. We’re a part of the [@AMI](http://bit.ly/atAMIatAMI) family. We
+are now [accepting submissions](http://bit.ly/hackernoonsubmission) and happy
+to [discuss advertising &amp;
+sponsorship](mailto:partners@amipublications.com) opportunities.
+
+> If you enjoyed this story, we recommend reading our [latest tech
+stories](http://bit.ly/hackernoonlatestt) and [trending tech
+stories](https://hackernoon.com/trending). Until next time, don’t take the
+realities of the world for granted!
+
+![](https://cdn-images-1.medium.com/max/2000/1*35tCjoPcvq6LbB3I6Wegqw.jpeg)
+
+
+# Standup!
+
+I make clip-art cartoons about software product development. Here are a few
+from the last couple months…
+
+* * *
+
+### Standup!
+
+I make **clip-art cartoons** about software product development. Here are a
+few from the last couple months…
+
+![](https://cdn-images-1.medium.com/max/800/1*8o2immoGkpUz5TjUb3EycQ.png)
+
+Phil chats with Dante regarding the new reporting module…
+
+![](https://cdn-images-1.medium.com/max/800/1*ZDZS0D5-nYLqaOVjRQTUSQ.png)
+
+Scrum Master Charlize challenges Alex. Those pesky story points…
+
+![](https://cdn-images-1.medium.com/max/800/1*GFHOZCuBVU0qaj6Ng_n_7w.png)
+
+When in doubt, ask if you can parallelize the work. Marie-Claire is not amused
+
+![](https://cdn-images-1.medium.com/max/800/1*nBzNWDc63lx0gl5JHyWsvA.png)
+
+Pigeons herding cats
+
+![](https://cdn-images-1.medium.com/max/800/1*Uk2NYuaAK2IXgix_e9s-Cg.png)
+
+For Myra, being the top dog has its challenges
+
+![](https://cdn-images-1.medium.com/max/800/1*G7R3ZR4FsTy-f5hl7HT8UA.png)
+
+Stanley and Patricia imagine a new future. A DevOps future
+
+![](https://cdn-images-1.medium.com/max/800/1*BwJqLytt_KuDm3QCZAac7w.png)
+
+CEO Pauline is off to the airport. She needs a roadmap
+
+[![](https://cdn-images-1.medium.com/max/400/1*0hqOaABQ7XGPT-
+OYNgiUBg.png)](http://bit.ly/HackernoonFB)
+
+[![](https://cdn-
+images-1.medium.com/max/400/1*Vgw1jkA6hgnvwzTsfMlnpg.png)](https://goo.gl/k7XYbx)
+
+[![](https://cdn-
+images-1.medium.com/max/400/1*gKBpq1ruUi0FVK2UM_I4tQ.png)](https://goo.gl/4ofytp)
+
+> [Hacker Noon](http://bit.ly/Hackernoon) is how hackers start their
+afternoons. We’re a part of the [@AMI](http://bit.ly/atAMIatAMI) family. We
+are now [accepting submissions](http://bit.ly/hackernoonsubmission) and happy
+to [discuss advertising &amp;
+sponsorship](mailto:partners@amipublications.com) opportunities.
+
+> If you enjoyed this story, we recommend reading our [latest tech
+stories](http://bit.ly/hackernoonlatestt) and [trending tech
+stories](https://hackernoon.com/trending). Until next time, don’t take the
+realities of the world for granted!
+
+![](https://cdn-images-1.medium.com/max/2000/1*35tCjoPcvq6LbB3I6Wegqw.jpeg)
+
+
+# Vacation: Product, Project, or Portfolio?
+
+Is a vacation a product, a project, or a (product/project) portfolio? Let’s
+ponder…
+
+* * *
+
+### Vacation: Product, Project, or Portfolio?
+
+![](https://cdn-images-1.medium.com/max/800/1*CYRBz1rAzOH73CnapfrG1w.jpeg)
+
+The sun cleared in Dublin. So I took the train down the coast and went for a
+hike.
+
+Is a vacation a **product, **a **project, **or a **(product/project)
+portfolio? **Let’s ponder…
+
+  * **Varied:** Vacations can be cheap, expensive, short, long, open ended, risky, chill, structured, loose, adventurous, etc.
+  * **Value:** Vacations deliver value in different ways. Sometimes you have to wait until the end of the adventure to get the big payoff. Perhaps you measure hours on the beach, time with friends/family, number of “next level, epic” Facebook images shared, or items checked off the bucket list.
+  * **Optionality:** You can find deals by booking early. And you can find deals by booking late. Purchasing early buys certainty. Purchasing late or at the register, buys you options. You can buy all-inclusive package tours, self-guided itineraries, or just mix-match-wing-it.
+  * **Expensive Options:** It is possible to pay too much money to keep your options open, and also pay too much money for complete certainty (which is sort of the same thing). If we bring a ton of gear we can do “anything we want”. But traveling with a lot of luggage costs money, storing gear costs money, and traveling light gives us flexibility. Same goes with paying crazy rates for a last minute hotel in a major city during the annual herding of the goats (though maybe your wins justify this loss)
+  * **Cheaper Options:** There are “cheap” ways to keep your options open … like convertible pants/shorts, buying flex-tickets and rails passes, a good travel abroad data plan, making multiple restaurant reservations, and not pre-purchasing tickets when you can walk onto the bus. Rental cars are a tough call. They provide mobility, but also keep us from drinking too much wine over dinner. Insider knowledge — privileged knowledge — can give you an edge in terms of optionality
+
+Little did we know … we had to drive DOWN a different road
+
+  * **Budgeting:** How do you budget for your vacation? Is there a cap? Have you budgeted so that you can take advantage of serendipitous situations? Do you do a per-day food and adventure budget, or just unfreeze the credit card and live it up?
+  * **Planning:** Some people know _exactly_ where they will go every day. Other people plan around food and drink, and leave the rest up to hangovers and the weather. My friend Andy plans “a full one week on a beach not having to think about anything” and then “plays it by ear depending on how relaxed I feel”. My friend Sith “reads Lonely Planet front to back on the plan and highlights the cool things” because he is “incredibly busy”, and doesn’t like to “stress with the planning”.
+  * **Information:** How do you plan: books, travelogues, novels, TV shows, YouTube, the advice of friends, Tourist Kiosks … or not at all (you bought the package OR completely wing it) ? How much information do you gather based on your experiences “on the day”, or from people you meet along the way?
+  * **Time:** Most of us need to travel between fixed dates and fixed locations. But what about an open-ended vacation? I remember traveling to Buenos Aires and hanging out until it “got old”. Then I traveled down to Patagonia and (because I brought some gear) trekked for a week +/- a couple days.
+  * **Skills:** How are your travel skills? Some people I know always seem to end up stumbling into the best situations. Other people are map-challenged, and end up eating the fake local food. Can you sleep on a plane? Are you comfortable with the discomfort of not knowing the language? How about train/bus travel in foreign countries … is that your thing?
+  * **Dependencies:** What about constraints and dependencies? Are you a vegetarian, scared of water, afraid of heights, or committed to visiting an old friend for a day before you fly out? Do you need a visa? Did you need shots? If we travel with friends we gain some things — it’s safer, we can share the driving, and we can divide and conquer when it comes to planning — in exchange for some downsides (hard to please everyone, coordination challenges, etc.)
+  * **External Funding:** How does your attitude change if somebody else is funding the vacation? For example, my friends did a bucket-list wedding registry. They were so absolutely grateful, but it also meant that they were forced to do everything on their bucket list while traveling through Australia and New Zealand. It “got tiring”, but they felt indebted to get the Instagram shots (yay, bungee jumping). Or maybe, after spring break, you had to answer to your parents about why there were liquor store charges on your jointly held credit-card and a room cleaning charge. How irresponsible of you!
+
+So what is it? Product, project, product portfolio, or project portfolio?
+
+
+# Hard Systems, Soft Systems, and “It Depends”
+
+A random walk through the SEBoK glossary…
+
+* * *
+
+### Hard Systems, Soft Systems, and “It Depends”
+
+#### A random walk through the SEBoK glossary…
+
+Have you checked out the [Guide to the Systems Engineering Body of Knowledge
+(SEBoK)](http://sebokwiki.org/wiki/Guide_to_the_Systems_Engineering_Body_of_Knowledge_%28SEBoK%29)?
+I suggest you do. In this post, I am going to take a semi-random walk through
+the SEBoK glossary. Why? It’s an awesome resource, especially when you find
+yourself pondering the principles underpinning how we grapple with software
+development.
+
+_Note: I’ve likely butchered a bunch of SE concepts. Oh well! Gotta start
+somewhere._
+
+What system do we have in mind?
+
+Are we thinking about a [hard
+system](http://sebokwiki.org/wiki/Hard_System_%28glossary%29) that can be
+“solved” solely with engineering methods, or a [soft
+system](http://sebokwiki.org/wiki/Soft_System_%28glossary%29) “which
+require[s] learning in order to make improvements”? Most of us are operating
+in [sociotechnical
+systems](http://sebokwiki.org/wiki/Sociotechnical_System_%28glossary%29)
+featuring “a combination of technical and human or natural elements”. In
+[service systems](http://sebokwiki.org/wiki/Service_System_%28glossary%29), we
+maintain a “dynamic configuration of resources (people, technology,
+[organizations](http://sebokwiki.org/wiki/Organization_%28glossary%29) and
+shared information)”. The question is… how quickly must we re-configure
+([adapt](http://sebokwiki.org/wiki/Adaptability_%28glossary%29)) those
+resources for our specific [system
+context](http://sebokwiki.org/wiki/System_Context_%28glossary%29)? A
+commercial service enterprise such as a bank..
+
+> …sells a variety of products as services to their customers; for example,
+this includes current accounts, savings accounts, loans, and investment
+management. These services add value and are incorporated into customer
+systems of individuals or enterprises. The service enterprise’s support system
+**will also likely evolve opportunistically, as new infrastructure
+capabilities or demand patterns emerge**.
+([link](http://sebokwiki.org/wiki/Life_Cycle_Models))
+
+To what degree is the system exhibiting [emergent
+behavior](http://sebokwiki.org/wiki/Emergent_Behavior_%28glossary%29) that
+_could not_ be predicted beforehand? For example, customers might
+[use](http://sebokwiki.org/wiki/Use_Case_%28glossary%29) our product in
+unexpected ways or partners might form unexpected alliances and create new
+ecosystems. The [history of AirBnb](http://www.businessinsider.com/how-airbnb-
+was-founded-a-visual-history-2016-2) is filled with unexpected twists. If we
+expect no new behaviors to emerge, we can take a different approach to
+hardening the solution. Constructing a skyscraper might exhibit less emergent
+behavior than offering a new cloud computing service. Building a bridge might
+be “easier” than trying to design a new compensation structure in a
+[coercive](http://sebokwiki.org/wiki/Coercive_%28glossary%29)
+[culture](http://sebokwiki.org/wiki/Culture_%28glossary%29), or starting a
+crowd-sourced dog walking service. Weird right?
+
+One of the challenges of
+[project](http://sebokwiki.org/wiki/Project_%28glossary%29)-centric thinking
+is that it frequently hinges on a “defined start and finish criteria”. The
+assumption is that [scope](http://sebokwiki.org/wiki/Scope_%28glossary%29) is
+pinned to a set of known capabilities, fitness can be
+[verified](http://sebokwiki.org/wiki/Verification_%28glossary%29) upon
+delivery, and that the [design
+life](http://sebokwiki.org/wiki/Design_Life_%28glossary%29) has a known
+duration. “A [viable](http://sebokwiki.org/wiki/Viable_%28glossary%29) system
+is any system organised in such a way as to meet the demands of surviving in
+the changing environment”, so the question really boils down to the
+[environment](http://sebokwiki.org/wiki/Environment_%28glossary%29) and how
+quickly it is changing. If we cannot forecast the demands of the changing
+environment ahead of time, then we must take a more [evolutionary
+approach](http://sebokwiki.org/wiki/Evolutionary_%28glossary%29). If
+forecasting is feasible, then we can take a more linear/sequential approach.
+Your environment will dictate how projects are
+[competently](http://sebokwiki.org/wiki/Competency_%28glossary%29)
+[governed](http://sebokwiki.org/wiki/Governance_%28glossary%29), scoped,
+managed, and executed.
+
+The debate over #NoEstimates and #NoProjects tends to ignore context like:
+
+> type of systems involved, their longevity, and the need for rapid adaptation
+to unforeseen changes, whether in competition, technology, leadership, or
+mission priorities ([link](http://sebokwiki.org/wiki/Life_Cycle_Models)).
+
+A commercial service enterprise is not playing the same game as a defense
+contractor. Chips are played in both games, but played in different ways.
+“Estimates” and “Projects” are not the actual problem. My guess is that the
+real problem is not correctly sensing the environment, and therefore selecting
+the wrong [life-cycle model](http://sebokwiki.org/wiki/Life_Cycle_Models). Or
+there’s low [safety](http://sebokwiki.org/wiki/Safety_%28glossary%29), poor
+[drift correction](http://sebokwiki.org/wiki/Drift_Correction_%28glossary%29),
+[entropy](http://sebokwiki.org/wiki/Entropy_%28glossary%29), and absent
+[critical systems
+thinking](http://sebokwiki.org/wiki/Critical_Systems_Thinking_%28glossary%29).
+If the argument is that “practice X isn’t working”, why was the organization
+unable to see that or sense that?
+
+In my current [domain](http://sebokwiki.org/wiki/Domain_%28glossary%29) (B2B
+software-as-a-service help desk), customers pay rent to access our hosted
+product. The customer does not hand over their hard-earned cash in one go,
+grab the pair of shoes, and leave the store. 100,000 customers (and millions
+of _their _customers) access the same product suite. There is an expectation
+that we will continuously improve service delivery, and for the most part keep
+prices stable. [Iterating](http://sebokwiki.org/wiki/Iteration_%28glossary%29)
+on and optimizing existing capabilities is the norm. Often, the fastest way to
+learn is to deliver small
+[increments](http://sebokwiki.org/wiki/Increment_%28glossary%29) to our
+customers and conduct [in-process validation](http://sebokwiki.org/wiki/In-
+Process_Validation_%28glossary%29) and [acceptance
+sampling](http://sebokwiki.org/wiki/Acceptance_Sampling_%28glossary%29). But
+my domain is one of many. It is altogether different than a 1:1 SAP
+implementation, for example.
+
+It is very hard to claim “% complete”.
+
+One challenge with project planning and funding, is that it has the tendency
+to encourage premature convergence on a
+[design](http://sebokwiki.org/wiki/Design_%28glossary%29), a fixed set of
+[requirements](http://sebokwiki.org/wiki/Requirement_%28glossary%29), and an
+end-date. The customer — internal or external — wants to know what they’re
+“going to get” and “by when”. A better question is “what capabilities will be
+possible, and on what schedule”.
+[Capabilities](http://sebokwiki.org/wiki/Capability_%28glossary%29) are the
+antithesis to premature solutioning. They represent…
+
+  * “current and future needs independent of current solution technology”
+  * “outcomes a user needs to achieve which connect the systems feature to the business or enterprise benefit”
+  * “describe current and future needs independent of current solution technology”
+
+In SaaS we may do a first pass design to 1) learn more about user needs, and
+2) deliver an early “scaffolding” for a capability. Achieving the outcome is
+possible, but there are a lot of bells and whistles missing. Then we add more
+features, and enrich the design. And often, months or years later, we go back
+and change the delivery mechanism altogether. A great example is our use of
+machine learning to proactively answer support tickets (the capability) for
+some benefit (cost savings, increased customer satisfaction). For my current
+company, this is an [ongoing
+mission](http://sebokwiki.org/wiki/Mission_%28glossary%29). And it is possible
+because we can deliver, at scale, to all customers, whenever we want.
+
+Finally we have attributes like
+[agility](http://sebokwiki.org/wiki/Agility_%28glossary%29),
+[adaptability](http://sebokwiki.org/wiki/Adaptability_%28glossary%29),
+[resilience](http://sebokwiki.org/wiki/Resilience_%28glossary%29),
+[robustness](http://sebokwiki.org/wiki/Robustness_%28glossary%29), and
+[reliability](http://sebokwiki.org/wiki/Reliability_%28glossary%29). The
+business world is littered with companies that were purpose built for one
+environment, and then things changed
+([disrupted](http://sebokwiki.org/wiki/Disruption_%28glossary%29) and
+[threatened](http://sebokwiki.org/wiki/Threat_%28glossary%29)). But that
+doesn’t mean that all enterprises need the same brand of agility,
+adaptability, reliability, etc. Reliability means something different to
+Google, than it does to an oil rig. In his notes about Google SREs, [Dan Luu
+writes](https://danluu.com/google-sre-book/):
+
+> Goal of SRE team isn’t “zero outages” — SRE and product devs are incentive
+aligned to spend the error budget to get maximum feature velocity. if a user
+is on a smartphone with 99% reliability, they can’t tell the difference
+between 99.99% and 99.999% reliability
+
+So with that I close. It is all about the nature of the environment, and our
+ability to make some sense of, and thrive, in that environment.
+
+Have fun on the [SEBoK
+site](http://sebokwiki.org/wiki/Guide_to_the_Systems_Engineering_Body_of_Knowledge_%28SEBoK%29)!
+A neat overview….
+
+![](https://cdn-images-1.medium.com/max/800/1*mPJB1HMfE4vFYraRdhVyLA.png)
+
+[http://sebokwiki.org/wiki/Guide_to_the_Systems_Engineering_Body_of_Knowledge_(SEBoK)](http://sebokwiki.org/wiki/Guide_to_the_Systems_Engineering_Body_of_Knowledge_%28SEBoK%29)
+
+
+# 21 Questions for Your PM Role Interviewer
+
+After a couple heavy posts, I get practical…
+
+* * *
+
+### 21 Questions for Your PM Role Interviewer
+
+#### After a couple heavy posts, I get practical…
+
+![](https://cdn-images-1.medium.com/max/800/1*H7hiyHUsilS8NVcD1beRRw.png)
+
+Interviewing for a PM (product management) job? Anxious for the “do you have
+any questions” part of the interview? My advice…stick to the things that will
+have a big impact on your day-to-day work. Some ideas:
+
+  1. Will I have direct access to users and customers? Can I arrange my own calls and meetings? How much time will I spend weekly interacting with customers/users?
+  2. Is the team dependent on any other team(s) to ship product?
+  3. Is there a UX person dedicated to the team? If so, what are the expectations around that relationship?
+  4. Can you describe the various customer value streams, user personas, and touch-points addressed by the team’s work? Does this remain constant? Would you regard the team’s focus as “broad’ or “deep”? Can I view the current backlog?
+  5. Describe the engineering culture. Can you share any engineering team blog posts or conference talks? What are the internal tech talks (if any) about?
+  6. What is the team’s approach to quality and reliability? How often do you have issues in production? What happens when issues are discovered/reported? Do you “test” by shipping and waiting for customers to complain?
+  7. Does the team practice test driven development? Do they regularly refactor the codebase? Who is the chief architect ? Does the team have access to this person?
+  8. Describe the team’s deployment pipeline.
+  9. Is there an Agile Coach assigned to the team? Scrum Master? Facilitator?
+  10. Do you use feature flags / feature toggles? How would the team go about testing new features in production with a small % of customers?
+  11. Describe the people I might be meeting with on a daily, weekly, and monthly basis. What % of my week will be spent on meeting with internal stakeholders vs. customers?
+  12. Who decides what ends up on the team’s roadmap? Describe the decision hierarchy, approvals (if any), governance, and reporting requirements (e.g. % complete, or % to outcome goal).
+  13. Does my team conduct regular retrospectives right now? What is the general attitude towards retrospectives? How does the team celebrate?
+  14. Is the team assigned to any service / troubleshooting related queues? How much of their weekly time is occupied with those activities?
+  15. How will my performance be measured? How will the team’s performance be measured?
+  16. How frequently do company priorities change? What was the last big shift?
+  17. Describe some recent outcomes delivered by the team (not the features, the outcomes). Can you connect the team’s work to the company’s bottom line? What was the backstory for those initiatives (from idea through execution)? How regularly does the team deliver validated outcomes to customers?
+  18. Describe the tools you use for insights and analytics. Will I have access to those tools? Are they regularly maintained? What is currently missing in terms of customer / product insights?
+  19. What is the biggest dud shipped recently? What did you learn from that? Have you killed any poorly performing features recently?
+  20. What is the most surprising thing I’ll discover in the first couple weeks of working here?
+  21. How does the product team (your fellow product managers) approach training and career development? What is the career development budget per product manager?
+
+
+# To be a team
+
+Product development teams are a fun bunch. When it clicks and there’s flow
+across the team….that is super special. I always love going back…
+
+* * *
+
+### To be a team
+
+![](https://cdn-images-1.medium.com/max/1000/1*XVJg3i1j5fhPDx961bbsvQ.jpeg)
+
+Product development teams are a fun bunch. When it clicks and there’s flow
+across the team….that is super special. I always love going back to old team
+working agreements, team values, and team principles. Sometimes they don’t
+stand the test of time. And sometimes they still ring clear!
+
+Old team “reminders”. I really like these (even in retrospect):
+
+* * *
+
+#### Team Reminders
+
+_Note: This is a living document. Nothing is set in stone_
+
+  * It’s OK to get angry and say stupid shit. Don’t be a permanent asshole
+  * Think about what you actually want (and why you want it)
+  * We all have something to teach. We all have something to learn
+  * Try not to leave work angry. Work it out if you can
+  * Cutting corners is almost never worth it. Don’t leave booby traps
+  * Outcomes over output. Impact over quantity and speed.
+  * If we were all replicas of each other, work would be really boring
+  * Take care of yourself! Eat well. Stay home when you’re sick. Pace yourself
+  * Whenever possible, show don’t tell. Specificity beats platitudes
+  * Respect each other’s time, and respect each other’s energy
+  * Sometimes we all get together and work in the same room (referred to as “meetings”)
+  * If we’re not proud of our work, something is wrong. Speak up!
+  * Discipline, responsibility, and accountability are part of the craft. Make sure these words don’t get abused and polluted
+  * Before thinking “more process” check for trust
+  * Laugh and have fun. We’re making stuff! How cool is that?
+
+![](https://cdn-images-1.medium.com/max/800/1*Cj7A6ATH_veXnBQ0qvgWYA.png)
+
+
+# Great Burgers
+
+I open a burger joint. Here is my sign:
+
+* * *
+
+### Great Burgers
+
+I open a burger joint. Here is my sign:
+
+![](https://cdn-images-1.medium.com/max/800/1*rLIYm9OYcDWFQh_Wlwwpyw.png)
+
+Everyone _loves_ burgers, right? But the crowds aren’t materializing. After
+talking to some close friends, I know why… BEER.
+
+![](https://cdn-images-1.medium.com/max/800/1*SdccdLeEJHyWpgq-TawT-Q.png)
+
+Does “normal” beer cut it anymore? My friends are beer snobs, but so is
+everyone else these days. Hmmm. We need some unique beers. It’s expensive to
+set up the tap system but every bar needs a tap system eventually right? I
+find a distributor I can trust.
+
+![](https://cdn-images-1.medium.com/max/800/1*CWtMDdD_45dOiA_tOlBO0A.png)
+
+The microbrews flow and my friends start inviting their friends. My friend is
+having an office party. Office parties! That’s good! Add it to the sign.
+
+![](https://cdn-images-1.medium.com/max/800/1*0EzjcIH0P33VDunEzko8uA.png)
+
+A couple nights go by with no customers. And I find out why! At first you
+think it might be the food. Maybe the burgers aren’t that great. That can’t be
+…. sports. That’s worth five TVs for sure…
+
+![](https://cdn-images-1.medium.com/max/800/1*Z26qpvx8rwXR9qn6z5VWTQ.png)
+
+Things are going well. I run a burger joint with good beer. And Sports! One
+thing bugs me… there’s a patio for rent adjacent to the bar. It’ll be a
+stretch to expand, but in the spring and summer that could be a big draw. I
+pony up the cash for the rent, licensing, and frequent pigeon poop cleaning
+(unexpected):
+
+![](https://cdn-images-1.medium.com/max/800/1*GI0fZCMwIve-tOomY6tzPw.png)
+
+Trivia. Super easy way to bring in a crowd on a Wednesday…
+
+![](https://cdn-images-1.medium.com/max/800/1*ltzcB4kX1BTjlx0Yvhut3g.png)
+
+Pool. I’m skeptical at first, but my buddy will rent us the tables.
+
+![](https://cdn-images-1.medium.com/max/800/1*R9EEpoadS-5V9NixPZ_jFw.png)
+
+Something weird starts to happen. The quality of the food starts to drop. I’m
+not sure why. I’ve been getting more complaints lately. We need a real manager
+to cover prime shifts. Someone has to do the cat herding. A couple staff
+members leave when the new manager arrives. But that’s natural…
+
+![](https://cdn-images-1.medium.com/max/800/1*nC7BbqbAJzDeukLBEb25MQ.png)
+
+We’re running a big operation now. The food quality rebounds a bit. But I’m
+getting complaints about the pricing. “Why should I pay $14 for a burger to
+sit at a noisy sport’s bar!” We need some discounts…
+
+![](https://cdn-images-1.medium.com/max/800/1*_3BnMYfwAhv71f3sH7LfoA.png)
+
+More discounts via a bar menu…
+
+![](https://cdn-images-1.medium.com/max/800/1*5J2yoZrEqYEsytGxvvuCoA.png)
+
+And then I turn around and realize that I have a sports bar. There’s nothing
+all that special about my sports bar. The location is decent, but not great.
+It makes some money, but there are cashflow issues (damn patio). A
+consultant/investor tells me that I can leverage the brand name at another,
+better location (which his connection is selling). I coral the investors and
+give it a go:
+
+![](https://cdn-images-1.medium.com/max/800/1*06A-hjXh_5PpUCDAZJJqrQ.png)
+
+And then realize I’m in a commodity business. Bail. Have to answer questions
+about how I could hire 50 people and not make any money. So I open a food
+truck:
+
+![](https://cdn-images-1.medium.com/max/800/1*Xo3ecJQtVx6BbzRJdDt4Ew.png)
+
+
+# To the Drifters, Makers, Why-Askers, and Systems Thinkers…
+
+I’m looking for my extended tribe. I know you’re out there! I want to connect
+( @johncutlefish on Twitter). There’s not a lot of career…
+
+* * *
+
+### To the Drifters, Makers, Why-Askers, and Systems Thinkers…
+
+![](https://cdn-images-1.medium.com/max/800/1*gp_OZtn_lsmZvVb3bRggzQ.png)
+
+I’m looking for my _extended tribe_. I know you’re out there! I want to
+connect ( [@johncutlefish](https://twitter.com/johncutlefish) on Twitter).
+There’s not a lot of career advice out there for us, and I really wish that
+could change. I think we have a ton to offer.
+
+What’s the name of our tribe? Drifting Systems Thinkers? “Creatives” ? Jack-
+of-all-trades (masters of _some_)? White-space Dwellers? Org Designers?
+Builders, crafters, tinkerers? Why-askers?
+
+We haven’t taken the traditional path in tech (if there is such a thing).
+We’ve drifted, explored, tested, failed, and very occasionally “won”. We are
+“technical” AND “creative” (and empathetic/stubborn, strategic/tactical,
+makers/sellers, problem definers/solution pitchers etc.). Getting work isn’t
+difficult, but finding the right fit (for us, not them) is difficult. We lack
+the hardened political savvy of managers, but think in systems and have
+empathy and perspective. Disorder, uncertainty, and fluidity is comfortable
+(hey, we’re drifters), but hindered sense-making _is not_ comfortable (we are
+natural sense-makers and systems thinkers).
+
+I’m not saying this is “special”. Rather I’m pointing out that it can be hard
+to put us in a neat and tidy box. Those who pick the management track have
+certain goals. Those who stay deep in the trenches have certain goals. But
+we’re sort of stuck somewhere in the middle.
+
+If you’re like me you relish that amazing rush when a team of creative people
+get flow and have impact. But I also see (and feel, deeply) the impact of the
+larger picture on the team. I can’t ignore the big picture. Unnecessary
+hierarchy bothers me. Intimidation bothers me. Perverse incentives bother me.
+Lack of transparency and coherence bothers me. Safety and diversity _is
+extremely important to me_. But that’s just me — I just sense this stuff. It’s
+me, not you.
+
+It is precisely this “white-space” that can be hard for others to navigate.
+And this _is_ where we thrive and where we can provide value. But we need to
+support each other with opportunities, feedback, and learning opportunities.
+We’re a diverse lot! Let’s capitalize on the bundle of contradictions!
+
+Does this ring true with anyone? How do you balance your interests? Which
+environments do you thrive in? How do you find your fit?
+
+[![](https://cdn-images-1.medium.com/max/400/1*0hqOaABQ7XGPT-
+OYNgiUBg.png)](http://bit.ly/HackernoonFB)
+
+[![](https://cdn-
+images-1.medium.com/max/400/1*Vgw1jkA6hgnvwzTsfMlnpg.png)](https://goo.gl/k7XYbx)
+
+[![](https://cdn-
+images-1.medium.com/max/400/1*gKBpq1ruUi0FVK2UM_I4tQ.png)](https://goo.gl/4ofytp)
+
+> [Hacker Noon](http://bit.ly/Hackernoon) is how hackers start their
+afternoons. We’re a part of the [@AMI](http://bit.ly/atAMIatAMI) family. We
+are now [accepting submissions](http://bit.ly/hackernoonsubmission) and happy
+to [discuss advertising &amp;
+sponsorship](mailto:partners@amipublications.com) opportunities.
+
+> If you enjoyed this story, we recommend reading our [latest tech
+stories](http://bit.ly/hackernoonlatestt) and [trending tech
+stories](https://hackernoon.com/trending). Until next time, don’t take the
+realities of the world for granted!
+
+![](https://cdn-images-1.medium.com/max/2000/1*35tCjoPcvq6LbB3I6Wegqw.jpeg)
+
+
+# Safety In Silos
+
+What you if you “rewarded” cross-functional product development teams when
+they delivered validated outcomes for customers (vs. rewarding…
+
+* * *
+
+### Safety In Silos
+
+![](https://cdn-images-1.medium.com/max/800/1*r8FAvV8Iz16s9gg2uXplmQ.png)
+
+Insert picture of silos here ….
+
+What you if you “rewarded” cross-functional product development teams when
+they delivered validated outcomes for customers (vs. rewarding them for
+feature velocity)?
+
+Oh there are a lot of reasons not to….
+
+  * Oh goodness, how can you measure that?
+  * By the time we can measure that, the team will have moved on to something else!
+  * Who will be responsible for measuring? Will they game the numbers?
+  * We do our part… focusing on velocity and quality!
+  * That’s not the current criteria we use for someone to move up from junior to senior in engineering.
+  * All of that is validated before we even start coding.
+  * People in our team report to three different departments. How would that work?
+  * What if engineering moves too slowly? Who takes responsibility?
+  * But there’s so much technical debt. We’ve got our hands tied. I’m not sure we can create outcomes. Just shipping is hard.
+  * It is really about the optics. Our investors are looking at our output!
+  * We are just trying to add bullet points to the feature list. That is what will make us competitive.
+  * By the time the work reaches us, it is already pretty prescriptive. We control the technical solution (the “how”), but don’t really have a say in the “what”.
+  * The outcome is already decided! The customer agreed to buy if we built this. So our only job is to build it quickly.
+  * The comp structure is already fucked as it is. Do you mean bonuses?
+  * Oh then we’d take on all kinds of technical debt because the incentives would be out of whack.
+  * I can see product being measured like this. But why engineers?
+
+When you read these answers, do any themes stand out? And did you assume that
+by “rewarded” I meant a financial reward vs. what the org celebrates and tells
+stories about?
+
+The reality is that the biggest force keeping us locked into the [feature
+factory](https://hackernoon.com/12-signs-youre-working-in-a-feature-factory-
+44a5b938d6a2) is structure and local optimization. It is hard… not because the
+tools and practices are particularly hard, but because we structure our
+organizations around trust proxies, hand-offs, and mini-kingdoms.
+
+Engineering is asked to be “responsive” and to “build it right”. Which then
+pushes the burden to UX and Product to define the “it” beforehand. Which then
+incentivizes _them _to stake their incentives on “predictability” and
+“shipping the roadmap”. “Do your part”… and everything will be OK.
+
+So. When decrying the [feature factory](https://hackernoon.com/12-signs-youre-
+working-in-a-feature-factory-44a5b938d6a2), make sure you look deeply at how
+your own department might be structured. What are the incentives? In my
+experience, the front-liners care about impact and outcomes. But something
+along the way divides up that sense of responsibility.
+
+
+# 40 Ways to Invest in More Resilient Teams
+
+You can’t build muscle without breaking down muscle and recovering. You can’t
+build resilience and strength without some discomfort and…
+
+* * *
+
+### 40 Ways to Invest in More Resilient Teams
+
+You can’t build muscle without breaking down muscle and recovering. You can’t
+build resilience and strength without some discomfort and repair. You can’t
+learn if you are always focused on efficiency (and if you aren’t open to
+feeling a bit dumb sometimes). You can’t expect teams to show “initiative and
+autonomy” if you smother them in helicopter management and process.
+
+There are no silver bullets. When people harp on about “10x teams” they very
+rarely consider the _cost_ of creating that environment and fostering the
+[psychological safety](https://www.nytimes.com/2016/02/28/magazine/what-
+google-learned-from-its-quest-to-build-the-perfect-team.html?_r=0) required
+for risk taking. It is an **investment and commitment**, and not something you
+can simply install (despite what consultants will sell you).
+
+Short-term growth will always be more alluring. But a sound economic framework
+will always respect/understand the cost of that growth. Again … it is an
+investment. Stress the system too hard with growth (vs. investing in
+“positive” stressors to build resilience) and the system collapses.
+
+![](https://cdn-images-1.medium.com/max/800/1*oUg8EcVu4LsIrtaqVo3yjA.png)
+
+  1. Rotate who “runs” standup
+  2. Explore new retrospective formats
+  3. Extended new hire onboarding. All new hires work the support queue, sit with sales, and listen in on customer success calls
+  4. Run developer exchange programs with other teams
+  5. Monitors with real-time customer feedback from support/feedback channels
+  6. Anything that involves a team stepping away from their normal setting (an activity, trip, exercise, etc.)
+  7. Voluntary facilitation and conflict resolution training. [Non-violent communication](https://www.cnvc.org/)
+  8. Enforce a “Zero known defects in production” policy. All work stops, across all teams, if there is a bug in production
+  9. Kill-A-Feature days
+  10. Limit work in progress in situations where there are cross-team dependencies. Don’t “work around” other teams. Swarm to fix. Limit work in progress in general
+  11. Step away from digital tools for worfklow. Use a wall, cards, and tape when you are figuring out better ways of working
+  12. Figure out a way to have all team members use the product to do actual work! Or at a minimum be onsite with a customer and observe them for a _couple hours_ working naturally
+  13. Shorten iteration lengths. Implement continuous integration and continuous deployment
+  14. Feature toggles to test features with new customers
+  15. Work through bottlenecks and not around them. Even if it means slowing down in the short term
+  16. Standing “bounties” for product development teams. For example, any team, at any time, is free to deliver something that moves Metric X without moving Metric Y
+  17. Large-scale “Map the Debt” activities. Visualize current capability gaps
+  18. Conduct [premortems](https://hbr.org/2007/09/performing-a-project-premortem)
+  19. Have all team members present when collaborating across teams (instead of just team managers or project managers … see [Unproject Culture](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwiv06rYp__TAhVJwWMKHVKzBuEQFggnMAA&url=http%3A%2F%2Fblog.crisp.se%2Fwp-content%2Fuploads%2F2014%2F03%2Funproject.pdf&usg=AFQjCNE5gsI2maM8S9gEWaiPRUcDEXmapw&sig2=eiC_Fo3UN5Ww4ndRwHMCEQ))
+  20. Peer mentorship programs
+  21. Ask teams to write up [their own health check framework](https://hackernoon.com/product-development-team-self-assessment-c3707f065069)
+  22. Desk-swap days across whole company
+  23. Have multiple teams attempt parallel solutions. Do a bake-off based on actual outcomes delivered to customers
+  24. Create an internal podcast bringing in guests from across the org
+  25. Pairing and [mob programming](https://en.wikipedia.org/wiki/Mob_programming)
+  26. Optional meetings. Leave if you aren’t adding value
+  27. Customer visits involving the whole team. Get in a van
+  28. Avoid extensive pre-planning and designing. Accept some messiness as the team wraps their head around the problem. Consider a multi-day co-design type activity
+  29. [Crowd-source status updates and team stories.](https://medium.com/@johnpcutler/case-study-from-the-front-lines-43513ccf8fb2) Make them public and accessible to everyone
+  30. Cross-team craft guilds (e.g. security, UX patterns, etc.)
+  31. [Open-space](https://en.wikipedia.org/wiki/Open_Space_Technology) Kaizen events
+  32. Public call schedules, so any developer/UX can jump on a customer call (sales, support, or otherwise)
+  33. Workshops days. Reserve all conference rooms, and conduct workshops with volunteer teachers/facilitators
+  34. Value-stream and capability mapping _across teams_ to explore potential overlaps and opportunities
+  35. [Design sprints](http://www.thesprintbook.com/) away from keyboards
+  36. Lunch roulette across different functional areas
+  37. Vision exercises with multi-disciplinary groups. What would awesome look like across all departments within the company?
+  38. CEO/C-level open office hours. Or better yet, the CEO visits teams in their environment
+  39. Workshops on how the company `_actually makes money_`. Explain the fundamental economics to everyone
+  40. You get the idea … learning in a safe situation, pushing the limits, focusing on long term growth over short term efficiency, and building resiliency
+
+
+# 175 Posts On Product Development! Thanks!
+
+I hit a goal of sorts today: 175 posts on product development. Actually… the
+goal was 150, but I was having so much fun I forgot about the…
+
+* * *
+
+### 175 Posts On Product Development! Thanks!
+
+![](https://cdn-images-1.medium.com/max/800/1*a6olV-DzYZBLL03qwcuUyw.png)
+
+Obligatory image … so that Medium recommends the post.
+
+I hit a goal of sorts today: 175 posts on product development. Actually… the
+goal was 150, but I was having so much fun I forgot about the challenge to
+myself in my notebook.
+
+A big thanks to the folks who check out the posts. Your comments,
+recommendations, and reads have kept me motivated. Over the last 18 months of
+writing, I have learned a ton about myself. Some recent posts — [The Product
+Of You](https://medium.com/p/the-product-of-you-d672fb22eb6e), and [To the
+Drifters, Makers, Why-Askers, and Systems Thinkers…](https://hackernoon.com
+/to-the-drifters-makers-why-askers-and-systems-thinkers-d6bf4991dd9) — have
+represented shifts for me personally. I have come to accept more about who I
+am, where I thrive, and how I’d like to create impact. And that is due in no
+small part to the awesome product development community here on Medium, and on
+Twitter (@johncutlefish). Thanks again!
+
+#### Questions?
+
+Have questions about product development, product management, UX research,
+specific posts, or blogging? I’ll dedicate the next couple posts (or possibly
+video) to questions. Please [fill out this form with your
+question](https://goo.gl/forms/fxmjbWcuz1rPB2XY2).
+
+The posts …
+
+  1. [The Product Of You](https://medium.com/p/the-product-of-you-d672fb22eb6e)
+  2. [40 Ways to Invest in More Resilient Teams](https://hackernoon.com/40-ways-to-invest-in-more-resilient-teams-c2ac7d008591)
+  3. [Safety In Silos](https://medium.com/p/safety-in-silos-cee4eb3c2f82)
+  4. [To the Drifters, Makers, Why-Askers, and Systems Thinkers…](https://hackernoon.com/to-the-drifters-makers-why-askers-and-systems-thinkers-d6bf4991dd9)
+  5. [Great Burgers](https://medium.com/p/great-burgers-49706354a40b)
+  6. [To be a team](https://medium.com/smells-like-team-spirit/to-be-a-team-bc8a6ced9718)
+  7. [21 Questions for Your PM Role Interviewer](https://medium.com/p/21-questions-for-your-pm-role-interviewer-70827b21a85)
+  8. [Hard Systems, Soft Systems, and “It Depends”](https://medium.com/p/hard-systems-soft-systems-and-it-depends-781b3f02b82e)
+  9. [Standup!](https://hackernoon.com/standup-b30ab2f0d43d)
+  10. [Vacation: Product, Project, or Portfolio?](https://medium.com/p/vacation-product-project-or-portfolio-32f5973e1c44)
+  11. [Doers and Managers](https://hackernoon.com/doers-and-managers-c966f71a4abc)
+  12. [Low Effort / High Value? Think Again…](https://medium.com/p/low-effort-high-value-think-again-da941eb3bf6a)
+  13. [Why We Write Tickets](https://hackernoon.com/why-we-write-tickets-689c45b57607)
+  14. [SaaS and Value Stream Soup](https://medium.com/p/saas-and-value-stream-soup-da58af45acc5)
+  15. [7 Abilities You Must Defend (and Improve)](https://medium.com/p/7-abilities-you-must-defend-and-improve-c1fe18ab62b5)
+  16. [Why Do Things Get Worse (With Teams) ?](https://medium.com/p/why-do-things-get-worse-with-teams-be630ad08621)
+  17. [Product Development Team Self-Assessment](https://hackernoon.com/product-development-team-self-assessment-c3707f065069)
+  18. [Have You Heard That One About SAFe?](https://medium.com/p/have-you-heard-that-one-about-safe-7a567177b806)
+  19. [Why Do We Estimate?](https://hackernoon.com/why-do-we-estimate-6839ba295e9e)
+  20. [You Can’t Be All Things…](https://medium.com/p/you-cant-be-all-things-4eb581e5f77)
+  21. [Learned Helplessness and the Ops Death-Spiral](https://hackernoon.com/learned-helplessness-and-the-ops-death-spiral-b0fff7d916b1)
+  22. [Best Practices, Games, and Game Changing](https://medium.com/p/best-practices-games-and-game-changing-83c3379d6673)
+  23. [“I Hate Kanban…;”](https://hackernoon.com/i-hate-kanban-2c3abb235915)
+  24. [Service Machines and SaaS Robots](https://medium.com/p/service-machines-and-saas-robots-b0de26e0166b)
+  25. [When Your Head Hurts](https://medium.com/smells-like-team-spirit/when-your-head-hurts-1c3272190752)
+  26. [Roots of the Feature Factory (1/n)](https://hackernoon.com/roots-of-the-feature-factory-1-n-e2646c3452de)
+  27. [Putting a Cost On Debt](https://medium.com/p/putting-a-cost-on-debt-d3a0ae0877f6)
+  28. [Everything Is Fucked Up. And We Love It](https://medium.com/p/everything-is-fucked-up-and-we-love-it-25337744a26c)
+  29. [So Why Are We Going So Slow? (Cartoon)](https://hackernoon.com/so-why-are-we-going-so-slow-cartoon-be2e349da5cd)
+  30. [Feedback Loops and “Done”](https://hackernoon.com/feedback-loops-and-done-72d62b410f5c)
+  31. [Psychological safety: the secret weapon of awesome teams](https://medium.com/smells-like-team-spirit/safety-makes-awesome-possible-97acb601ff59)
+  32. [5 Product Development Questions](https://medium.com/startup-grind)
+  33. [PMs: Try This Thought Experiment](https://medium.com/startup-grind/5-product-development-questions-6111c5a4faf2%3E%0A%3Cp%3E%3Ca%20href=)
+  34. [“Is My Dev Team Slacking?”](https://medium.com/pendo-io/pms-try-this-thought-experiment-9b831e3a1e5e%3E%0A%3Cp%3E%3Ca%20href=)
+  35. [Destroy Your Product (Without Getting Fired)](https://medium.com/p/destroy-your-product-without-getting-fired-2be189c97a90)
+  36. [Tools: Complexity Enablers](https://medium.com/p/tools-complexity-enablers-b6c4de08c6aa)
+  37. [Kanban Method: Be Careful About Your Board’s Scope](https://medium.com/p/kanban-method-be-careful-about-your-boards-scope-43e686e5c856)
+  38. [Your Customers Don’t Care If…](https://medium.com/p/your-customers-dont-care-if-bf9c0b82a040)
+  39. [Answer These 16 Questions About Your Roadmap Items](https://medium.com/p/answer-these-16-questions-about-your-roadmap-items-717bb9e7978f)
+  40. [Coherence and “Best Practices”](https://medium.com/p/coherence-and-best-practices-4daa1507c1d0)
+  41. [Keep Features Off Your Roadmap](https://hackernoon.com/keep-features-off-your-roadmap-b14543340881)
+  42. [It Appears We Need More Individual Accountability](https://hackernoon.com/it-appears-we-need-more-individual-accountability-31fd2ba2d67a)
+  43. [Story Point Alternative: 1–3d Stories](https://medium.com/p/story-point-alternative-1-3d-stories-77ef818c5e44)
+  44. [Outcomes? We’re Programmed to Get into the Weeds](https://medium.com/p/outcomes-were-programmed-to-get-into-the-weeds-15728439817)
+  45. [Do You Ask For Story-Level Estimates?](https://medium.com/p/do-you-ask-for-story-level-estimates-1f84b0ec6431)
+  46. [10 Big Software PM Time Wasters](https://hackernoon.com/10-big-software-pm-time-wasters-5dd5f238bc5)
+  47. [Unvalidated Complexity is a Liability](https://medium.com/p/unvalidated-complexity-is-a-liability-46aac0130a30)
+  48. [Usability Principles and Onboarding](https://medium.com/p/usability-principles-and-onboarding-e3611ca9e0b)
+  49. [The 20 Jobs Of In-App Messaging](https://medium.com/p/the-20-jobs-of-in-app-messaging-5f36f470e7ba)
+  50. [Product vs. Single Projects (and 8x Teams)](https://medium.com/p/product-vs-single-projects-and-8x-teams-328271acc295)
+  51. [Trello, “Jira Sucks”, and Tool Dysfunction](https://hackernoon.com/trello-jira-sucks-and-tool-dysfunction-e80c8000a431)
+  52. [We Are What We Learn](https://medium.com/p/we-are-what-we-learn-795a8d1646d7)
+  53. [Completed != Validated](https://medium.com/p/completed-validated-or-valuable-8d75363748f5)
+  54. [#NoEstimates. Two Different Problems](https://medium.com/p/noestimates-two-different-problems-b4f37d29ce5d)
+  55. [The Learning Styles Myth and User Onboarding](https://medium.com/p/the-learning-styles-myth-and-user-onboarding-8a5cd8c83fd2)
+  56. [Play Your Own Game](https://medium.com/p/play-your-own-game-78c4192f1552)
+  57. [Talking Product: Running Themes from a Year of Conversations](https://medium.com/p/talking-product-running-themes-from-a-year-of-conversations-82605dd31b7f)
+  58. [20 Ways to Kill Elephants (In Rooms)](https://medium.com/p/20-ways-to-kill-elephants-in-rooms-b798e457b34e)
+  59. [90 Problems You’ve Heard About Before](https://medium.com/p/90-problems-youve-heard-about-before-25633bbe25f2)
+  60. [PM “Responsibilities” ?](https://medium.com/p/pm-responsibilities-75c4ac9dbb95)
+  61. [50 Things I’ve Learned About Product Management](https://hackernoon.com/50-things-ive-learned-about-product-management-300cc67ca6ee)
+  62. [Untangling OKRs with a Big, Visual Board](https://medium.com/p/untangling-okrs-with-a-big-visual-board-6153afa12213)
+  63. [What We Can’t See](https://medium.com/p/what-we-cant-see-79b2ee5400c0)
+  64. [Evangelist/Consultant Myopia](https://medium.com/p/evangelist-consultant-myopia-646fb86ebb1a)
+  65. [140 Product Management Action Verbs](https://medium.com/p/140-product-management-action-verbs-df295f107761)
+  66. [A 12-Step Program for Recovering Product Managers](https://hackernoon.com/a-12-step-program-for-recovering-product-managers-cd02fb2b6709)
+  67. [Startups and the Enterprise Vortex](https://medium.com/p/startups-and-the-enterprise-vortex-df6006af0ae1)
+  68. [Safety, Discomfort, and the Art of Self-Service Un***king](https://medium.com/p/safety-discomfort-and-the-art-of-self-service-un-king-3d04089ef25)
+  69. [Place Your Bets](https://hackernoon.com/place-your-bets-4022b732ba4c)
+  70. [Dear Product Managers …](https://hackernoon.com/dear-product-managers-c488ba6386ea)
+  71. [Beat the Feature Factory — With Biz Chops](https://medium.com/p/beat-the-feature-factory-with-biz-chops-dfc7cf6309ae)
+  72. [Success Theater …](https://medium.com/p/success-theater-b60a1666fe67)
+  73. [12 Signs You’re Working in a Feature Factory](https://hackernoon.com/12-signs-youre-working-in-a-feature-factory-44a5b938d6a2)
+  74. [Visualizing Debt, Rework, Cut Corners, and Frustration](https://medium.com/p/visualizing-debt-rework-cut-corners-and-frustration-8b1195fb67ea)
+  75. [Case Study: From The Front Lines](https://medium.com/p/case-study-from-the-front-lines-43513ccf8fb2)
+  76. [Cutting Corners and Electric Fences](https://medium.com/p/cutting-corners-and-electric-fences-c8fbfaa4d91a)
+  77. [Acute vs. Chronic Product Issues](https://medium.com/p/acute-vs-chronic-product-issues-a4aa6a4e606)
+  78. [50 Questions I Ask PMs About Data and Their Teams](https://medium.com/p/50-questions-i-ask-pms-about-data-and-their-teams-cda49e5d56f7)
+  79. [Your Saas Company Is Like a Theme Park](https://medium.com/p/your-saas-company-is-like-a-theme-park-fe24f610abef)
+  80. [40+ Lies PMs Tell Themselves](https://hackernoon.com/40-lies-pms-tell-themselves-20be00570dc)
+  81. [10 Ways UX Research Is Changing](https://medium.com/p/10-ways-ux-research-is-changing-62fde944672)
+  82. [PMs: How To Make Sure You Aren’t Wasting Everyone’s Time](https://medium.com/p/pms-how-to-make-sure-you-arent-wasting-everyone-s-time-f152feeef99)
+  83. [SaaS and the Impostor Clairvoyant PM](https://medium.theuxblog.com/saas-and-the-imposter-clairvoyant-pm-fa910eb7b4d0)
+  84. [24-Point Checklist for PM/PO Candidates](https://productcoalition.com/24-point-checklist-for-pm-po-candidates-fb54291124d5)
+  85. [Should We Do [ Agile, Kanban, Design Thinking, LeanUX, …;]](https://medium.com/p/should-we-do-1b5d0a1af092)
+  86. [Helicopter Management, Teal, and Stirring The Soup](https://shift.newco.co/helicopter-management-teal-and-stirring-the-soup-19b11c910f0)
+  87. [10 Ways PMs Can Earn The Respect and Trust of Their Team](https://hackernoon.com/10-ways-pms-can-earn-the-respect-and-trust-of-their-team-98353b693b4a)
+  88. [What Do You Need? What Do We Need?](https://medium.com/p/what-do-you-need-what-do-we-need-2222ca33f4e)
+  89. [30 Things I Think about When Meeting a Product Dev Org for the First Time](https://medium.com/p/30-things-i-think-about-when-meeting-a-product-dev-org-for-the-first-time-98ba215ebe4e)
+  90. [#agilebrandproblem](https://medium.com/p/agilebrandproblem-e57f3aba46a1)
+  91. [To the 40+ Year Old PMs](https://medium.com/p/to-the-40-year-old-pms-1d76fca3e1e6)
+  92. [6 Questions to Guide Continuous Improvement](https://medium.com/p/6-questions-to-guide-continuous-improvement-4b220da713e)
+  93. [The Overlap](https://medium.com/p/the-overlap-puxeng-56dcfd33875b)
+  94. [Product Development Nerds Unite](https://medium.com/p/product-development-nerds-unite-1b9f5741cc95)
+  95. [The Healthy Tension Trap](https://medium.com/p/the-healthy-tension-trap-92727d23e37c)
+  96. [PMs/POs: 25 Things You Can Try Now](https://medium.com/p/pms-pos-25-things-you-can-try-now-9790356aff87)
+  97. [It’s All Good. Until You’re Screwed](https://medium.com/p/its-all-good-until-you-re-screwed-fe944e6e9a74)
+  98. [The CynAgileanUXanbanicrumify Method](https://medium.com/p/the-cynagileanuxanbanicrumify-method-f9fdd6bf4bc2)
+  99. [Why Startups Need 3rd Party Accountability Coaches](https://medium.com/p/why-startups-need-3rd-party-accountability-coaches-a6c450ca276d)
+  100. [16 Quick Product Management Tips](https://medium.com/p/16-quick-product-management-tips-292373151e7d)
+  101. [Explaining Product/Market Fit in 60 Seconds](https://medium.com/p/explaining-product-market-fit-in-60-seconds-80a0b46638b3)
+  102. [Do We Need Product Managers?](https://medium.com/p/do-we-need-product-managers-9841b2749531)
+  103. [Maybe You’re Just Bored. And It’s Your Fault](https://medium.com/personal-growth/maybe-youre-just-bored-and-it-s-your-fault-46810dc57437)
+  104. [Agile: Don’t Exchange Waterfalls for Whirlpools](https://medium.com/p/agile-dont-exchange-waterfalls-for-whirlpools-798c50c08457)
+  105. [10 Things I Learned By Doodling For 100 Days Straight](https://medium.com/personal-growth/10-things-i-learned-by-doodling-for-100-days-straight-a802753c5a25)
+  106. [Startups: Be Awesome At Something](https://medium.com/p/startups-be-awesome-at-something-8f9344aa09d3)
+  107. [Complexity Is a Startup Killer. Don’t Grow Up](https://medium.com/p/complexity-is-a-startup-killer-dont-grow-up-fd3a6883480)
+  108. [Beat the Feature Factory: Run Pre-cap Design Studios](https://medium.com/p/beat-the-feature-factory-run-pre-cap-design-studios-725d1c83ecd7)
+  109. [company culture is…](https://medium.com/p/company-culture-is-44592c36958c)
+  110. [The Evolving Product Manager Role](https://medium.com/the-creative-founder/the-evolving-product-manager-role-6f288bbc3cda)
+  111. [Pain, Potential, and Outcomes](https://medium.com/p/pain-potential-and-outcomes-35e1a68cacdd)
+  112. [The Tease](https://medium.com/p/the-tease-a7ce9053de4b)
+  113. [Chasing Revenue Growth (and Hidden Costs)](https://medium.com/p/chasing-revenue-growth-and-hidden-costs-b63374bcf988)
+  114. [5 Simple Questions to Drive Validated Learning](https://medium.com/p/4-simple-questions-to-drive-validated-learning-548a51a70ee5)
+  115. [35 B2B SaaS Tips and Gentle Reminders](https://medium.com/p/35-b2b-saas-tips-and-gentle-reminders-789e039d1323)
+  116. [Be the Laziest Team and Win](https://medium.com/p/be-the-laziest-team-and-win-cad598aced34)
+  117. [7 Product Manager / Product Owner Archetypes](https://medium.com/p/7-product-manager-product-owner-archetypes-db4b484e134d)
+  118. [44 Signs You Are Becoming a “Real” PM/PO](https://medium.com/p/44-signs-you-are-becoming-a-real-pm-po-b463bc60c849)
+  119. [That B2B SaaS Savvy Thing](https://medium.com/p/that-b2b-saas-savvy-thing-ae56917e33c3)
+  120. [Focus on These 8 Things to Build Better Products](https://medium.com/p/focus-on-these-8-things-to-build-better-products-f2344c19602d)
+  121. [*Just* a Lifestyle Business …](https://medium.com/p/just-a-lifestyle-business-40ab8f20e005)
+  122. [Is It Safe for Your Team to Get “Real”](https://medium.com/p/is-it-safe-for-your-team-to-get-real-843f297aeda9)
+  123. [Where Do We Put The UX Tasks?](https://medium.com/p/where-do-we-put-the-ux-tasks-2581eb04a04b)
+  124. [12 Traits of a Powerful Product Vision](https://medium.com/p/12-traits-of-a-powerful-product-vision-df3dd4b61072)
+  125. [Focus is the Ultimate Process](https://medium.com/p/focus-is-the-ultimate-process-1c1749c20eed)
+  126. [Is Agile Dead?](https://medium.com/p/is-agile-dead-b34745c69837)
+  127. [You Don’t Need A “Great Product”](https://medium.com/p/you-dont-need-a-great-product-611c14343aa9)
+  128. [The Unseen Product is Still The Product](https://medium.com/p/the-unseen-product-is-still-the-product-8e720c98a556)
+  129. [Enter Through The Narrow Gate (Go Deep)](https://medium.com/p/enter-through-the-narrow-gate-go-deep-c2d6528e380a)
+  130. [Quit Planning Ahead and Keeping People Busy](https://medium.com/p/quit-planning-ahead-and-keeping-people-busy-937e74d5a1fb)
+  131. [45 Posts On Product Development](https://medium.com/p/45-posts-on-product-development-d395174f8505)
+  132. [Before You Join A Startup …](https://medium.com/p/before-you-join-a-startup-2ca1fae490cf)
+  133. [What Does “Sales-Driven” Even Mean?](https://medium.com/p/what-does-sales-driven-even-mean-7a6ee976f1ef)
+  134. [Real World Kanban (A Cartoon)](https://medium.com/p/real-world-kanban-a-cartoon-116fd37f14ac)
+  135. [Your Product is a Service…](https://medium.com/p/your-product-is-a-service-f70d92b7e992)
+  136. [Go Towards The Discomfort (It’s A Sign)](https://medium.com/p/go-towards-the-discomfort-its-a-sign-21ce4b1a8cc5)
+  137. [100 Product Development Hats](https://medium.com/p/100-product-development-hats-7fabbded6b8d)
+  138. [The Killer Sales Instinct vs. Startup Validation](https://medium.com/p/the-killer-sales-instinct-vs-startup-validation-da705b93c40d)
+  139. [Product! Stop Whining About Sales!](https://medium.com/p/product-stop-whining-about-sales-dcd10640ded4)
+  140. [10 Common PM Intuition Traps](https://medium.com/p/10-common-pm-intuition-traps-5a1ec5b3bdaf)
+  141. [Opening Your Eyes to Real Customer Delight](https://medium.com/p/opening-your-eyes-to-real-customer-delight-80e3a883bd93)
+  142. [Stop Setting Up Product Roadmaps To Fail](https://medium.com/p/stop-setting-up-product-roadmaps-to-fail-3189452360a3)
+  143. [A SaaS Startup Cautionary Tale](https://medium.com/p/a-saas-startup-cautionary-tale-dcf7eabd6402)
+  144. [How Much Does A New Feature Cost?](https://medium.com/p/how-much-does-a-new-feature-cost-f93c82bf638f)
+  145. [Time Management: Tips for Product Managers](https://medium.com/p/time-management-tips-for-product-managers-925e4ac5efa9)
+  146. [Your Startup: Food Truck or Buffet?](https://medium.com/p/your-startup-food-truck-or-buffet-e619c818c190)
+  147. [Decision Making Transparency (The Why)](https://medium.com/p/decision-making-transparency-the-why-7f90e48fded)
+  148. [12 Core Competencies For Product Managers](https://medium.com/p/12-core-competencies-for-product-managers-8d5744f91bd)
+  149. [What Startup Sales Can Learn From UX](https://medium.com/p/what-startup-sales-can-learn-from-ux-7742bcc6a6cb)
+  150. [How To Tame Engineers, Be A Rockstar, and Ship ****ing Product](https://medium.com/p/how-to-tame-engineers-be-a-rockstar-and-ship-ing-product-f24f059d4a7)
+  151. [Team Health: A Daily Checkup](https://medium.com/p/team-health-a-daily-checkup-2acebe65f6da)
+  152. [A Better Roadmap | Mind-Map | Mousetrap](https://medium.com/p/a-better-roadmap-mind-map-mousetrap-cdbacaaa664b)
+  153. [Getting The All-Hands Right](https://medium.com/p/getting-the-all-hands-right-fadc53f8317c)
+  154. [Talking The Talk: 32 Conversation Prompts for Product Development Teams](https://medium.com/p/talking-the-talk-32-conversation-prompts-for-product-development-teams-9af024a1ac5)
+  155. [To Experiment Is Human. Reality is a **cker. And The Law Of Two Feet](https://medium.com/p/to-experiment-is-human-reality-is-a-cker-and-the-law-of-two-feet-639ade01396a)
+  156. [Focus Until It Hurts](https://medium.com/p/focus-until-it-hurts-923ddab03e71)
+  157. [The Iron Triangle Is Dead](https://medium.com/p/the-iron-triangle-is-dead-4cbb2aecd71d)
+  158. [Persona(s) Non Grata](https://medium.com/p/persona-s-non-grata-5587cb46409c)
+  159. [50 Interview Questions For B2B SaaS Customer Research](https://medium.com/p/50-interview-questions-for-b2b-saas-customer-research-ecdc093c5127)
+  160. [As Product Managers We’re Asking Ourselves The Wrong Set Of Questions](https://medium.com/p/as-product-managers-we-re-asking-ourselves-the-wrong-set-of-questions-badfcfc6eb20)
+  161. [This PM Hack Saved Me 1 Hour A Day](https://medium.com/p/this-pm-hack-saved-me-1-hour-a-day-and-helped-me-connected-with-more-customers-fbbb76c2ba2d)
+  162. [The Way Of The Product Whatchamacallit](https://medium.com/p/the-way-of-the-product-whatchamacallit-9929a78d6694)
+  163. [Hidden Costs of the Sales-Driven Roadmap](https://medium.com/p/hidden-costs-of-the-sales-driven-roadmap-81b847da3452)
+  164. [10 Questions For Your (Product Role) Interviewer](https://medium.com/p/10-questions-for-your-product-role-interviewer-8fd90983049a)
+  165. [User Stories and Data](https://medium.com/p/user-stories-and-data-32057117fc7b)
+  166. [Juggling Growth and Usability: A UX Debt Primer](https://medium.com/p/juggling-growth-and-usability-a-ux-debt-primer-af92d7a08c35)
+  167. [104 Questions For Product Development Teams](https://medium.com/p/104-questions-for-product-development-teams-5bc2dbae690e)
+  168. [Product Ownership: 10 Core Principles](https://medium.com/p/product-ownership-10-core-principles-28e68e5c7622)
+  169. [Good Process, Bad Process](https://medium.com/p/good-process-bad-process-c5d6a6a828b5)
+  170. [Sticky Love — Choosing Between Physical Boards and Online Tools](https://medium.com/p/sticky-love-choosing-between-physical-boards-and-online-tools-874a457ebc80)
+  171. [Life, Death, Continuous Improvement, and Continuous Disruption](https://medium.com/p/life-death-continuous-improvement-and-continuous-disruption-fd1de8aad6d4)
+  172. [Dr. Obvious, Startup Validation, and Failure](https://medium.com/p/dr-obvious-startup-validation-and-failure-63709d1779ec)
+  173. [Inside My Kindle: 100 Books For PMs, UX, Entrepreneurs, Systems Thinkers, Design Thinkers, and…](https://medium.com/p/inside-my-kindle-100-books-for-pms-ux-entrepreneurs-systems-thinkers-design-thinkers-and-7a1a6cf05ec3)
+  174. [7 Tips For Better Prototypes](https://medium.com/p/7-tips-for-better-prototypes-336c09296271)
+  175. [8 Trends Shaping Modern Product Management](https://medium.com/p/8-trends-shaping-modern-product-management-29953562e5f0)
+
+
+# The Product Of You
+
+Applying product thinking to your work and personal mission
+
+* * *
+
+### The Product Of You
+
+#### Applying product thinking to your work and personal mission
+
+Do you think of yourself as a product? Lately, I have been experimenting with
+thinking of myself as a product, and it has been a rewarding experience. I’ll
+be the guinea pig here, but I’d love to hear more about the product of You!
+
+![](https://cdn-images-1.medium.com/max/800/1*6rCyl-0XnGtCiBo6M6Pskg.png)
+
+#### What &amp; Who
+
+What are the outcomes and capabilities I’d like to continuously deliver as
+product John Cutler? At the high level, I want to **1)** inspire more
+rewarding work experiences for individual contributors, **2)** create better
+products and services, and **3)** generate positive, long-term economic
+outcomes for organizations and their customers.
+
+#### The How Overlap
+
+There are many “hows” available to drive those outcomes. I’m never going to be
+an organizational psychologist or a technical coach (unless I have a big win
+and can go back to school). But the circles in the venn diagram _do overlap_
+around understanding team dynamics, relating to individual contributors,
+outcome-driven product development, UX research, and systems thinking. So that
+is where I have decided to do my work.
+
+#### Operating How Assumptions
+
+Over the years I’ve built up some convictions based on my albeit biased work
+experiences, reading, researching, and talking to thinkers in the space. I’m
+operating on the assumption that the outcomes below will drive the higher-
+level outcomes above. It’s important to challenge those assumptions and keep
+looking at the data ([as Google did with their Project
+Aristotle](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-
+from-its-quest-to-build-the-perfect-team.html?_r=0)).
+
+So when it comes to the How/What (in my current role, with my
+writing/speaking, and all future roles), I am striving to move the following
+needles:
+
+  * Increase [psychological safety](https://en.wikipedia.org/wiki/Psychological_safety) across organizations
+  * Increase team member time spent in flow ([“in the zone”](https://en.wikipedia.org/wiki/Flow_%28psychology%29))
+  * Increase trust in frontline teams to deliver outcomes (vs. manage by proxy metrics)
+  * Increase ability for front-line teams to connect their work to core business metrics
+  * Increase sense-making abilities, and ability to fully understand changing fitness landscapes
+  * Decrease cognitive dissonance, feeling “stuck”, and weak coherence issues
+  * Decrease complexity added to products relative to value delivered to customers
+  * Increase agency and autonomy among front-line individual contributors
+  * Decrease process complexity that does not directly contribute to customer outcomes
+  * Increase [awareness of neuro-diversity](https://hbr.org/2017/05/neurodiversity-as-a-competitive-advantage) on teams, and ability to leverage that diversity
+  * Increase organizational resilience and ability to adapt to/benefit from uncertainty
+  * Decrease impact of local optimization on global system health and outcomes
+
+#### Why
+
+The Why is that I see so many crappy products out there (and wasted effort),
+and I see so many builders and designers working on the front-lines feeling
+disconnected from the impact of their work. I also see so many companies
+falling into the trap of over-fitting for short-term economic gains vs. long
+term economic outcomes. They may limp along, but in the process they become
+crappy places to work. And I believe there are better ways to approach this.
+That’s where my passion is.
+
+So that’s the product of John…warts and weirdness and all. How about the
+product of You?!
+
+For the next post … the UX of the product of You!
+
+
+# Crack The WIP (Work In Progress)
+
+Limiting WIP (work in progress) is hard.
+
+* * *
+
+### Crack The WIP (Work In Progress)
+
+![](https://cdn-images-1.medium.com/max/800/1*cchtubTtswzR-GrOhc1VBw.png)
+
+Limiting WIP (work in progress) is hard.
+
+It makes _so much_ sense. But it is still hard.
+
+It’s hard because we’re terrified when we don’t look busy.
+
+It’s hard because no one wants to look like a slacker. Adults should be able
+to “juggle priorities”. When one thing stalls, we’re taught to “do what we
+can”. Roadblocks call for pragmatic and dexterous detours. “Idle hands are the
+devil’s workshop” (Proverbs 16:17). The CEO mumbles “you’re kidding me … you
+are saying we can’t scratch our heads and skip at the same time!”
+
+> We take on a lot of work because stuff gets blocked by other teams.
+
+Oh interesting, maybe you should help them out?
+
+> Management asked how much work we could take on. I didn’t really know… but
+who wants to be a buzzkill? So we loaded up.
+
+Why did management need to know that upfront?
+
+> You’re not seeing half the work. But if put the work in Jira, then someone
+will tell us it isn’t a priority. So we do it all … half off the books.
+
+Why wouldn’t they trust you that it is important?
+
+> The sprint was going great until we got thrown off by that issue in
+production. And then everything just went to shit. Totally unlucky.
+
+Was it? Why didn’t the team have more slack to deal with it?
+
+> Why don’t we have Jackson do some of those lower priority, but small items
+while we wait?
+
+What is stopping Jackson from doing a high priority item?
+
+> I’m worried that if we aren’t proactive…that another team will get the
+project!
+
+Why? Are projects assigned on how busy you appear?
+
+The reality is that low-drama “flow” doesn’t look like progress to most
+people. There aren’t the burnouts and the tantrums. Supporting casts have less
+to do, less to coordinate, and less to “unblock”. You run the _terrible _risk
+of having someone idle for a bit (god forbid the code editor is closed). Or of
+having to shuffle people around to tame the real blockers and bottlenecks
+(with all the politically intrigue that entails).
+
+It is possible to find optimal WIP and utilization points. But we routinely,
+intuitively set these points too high — both in our personal lives, and work
+lives (and as individuals and as groups/teams). Which means that the optimal
+level is probably a tad uncomfortable. It feels _too focused, _or _a bit like
+we are slacking_. But somehow the work happens. You know when you are on the
+right track when there are _fewer _visible heroics, and _more _low drama flow.
+There is more finishing, and less starting.
+
+So lower WIP. Lower utilization rates. Now!
+
+
+# Order-Takers vs. Value-Builders
+
+Front-line individual contributors touch the machine, and they care about
+impact. They’ve survived silver bullets, rush-jobs, the sting of…
+
+* * *
+
+### Order-Takers vs. Value-Builders
+
+Front-line individual contributors touch the machine, and they care about
+impact. They’ve survived silver bullets, rush-jobs, the sting of being asked
+to cut corners, and the scourge of shiny objects. They know what it is like to
+work for months on something, only for the effort to be canned, or perhaps
+worse for the work to get shipped and go unused by customers.
+
+At the core you have questions of individual agency, autonomy, craft, and a
+desire to create impact. Passionate problems solvers don’t want to be order-
+takers. Unless the problem is solved (in the near and long term), they don’t
+feel satisfied. In my career, I have heard this over and over ….
+
+> It is like a conveyor belt. We are rewarded for output. It is unclear
+whether any of this stuff even work! I didn’t get into this business to be a
+ticket-machine.
+
+This isn’t just a front-liner thing. You hear the same thing from managers,
+and VPs who are measured on their responsiveness and output vs. the value they
+create and maintain. We sometimes call this “getting a seat at the table”, but
+plenty of people I know who sit at the “table” have the same struggles.
+
+I don’t have a magic point here. Just thinking out loud and making clip-art
+cartoons. I think the “point” is that at the root of many debates about
+software development you have humans and their need to create impact (vs.
+other needs for control, certainty, and credit-taking).
+
+Consider these power dynamics …
+
+![](https://cdn-images-1.medium.com/max/800/1*JAjsRCknNFMMY1E1PzvNzw.png)
+
+The ticket-machine.
+
+![](https://cdn-images-1.medium.com/max/800/1*6CvSUZGHzbOP8FbGm6I7wg.png)
+
+A problem is presented …
+
+![](https://cdn-images-1.medium.com/max/800/1*KiXN3oylGTDvPakyyKj4DQ.png)
+
+More autonomy to achieve those goals …
+
+![](https://cdn-images-1.medium.com/max/800/1*Bgo3n1yzk1WEE4iGTWFT_w.png)
+
+Projects create complexity that must be managed.
+
+![](https://cdn-images-1.medium.com/max/800/1*rfg9lBs0FjPi2_FjrpPaFA.png)
+
+Some autonomy and guard rails.
+
+![](https://cdn-images-1.medium.com/max/800/1*27XxQqppRLAaiqLbr65ALw.png)
+
+“Size” can play a role in prioritization. But value is the key ingredient …
+
+![](https://cdn-images-1.medium.com/max/800/1*wNzUhQFAWZ5aVn9K9kyyMg.png)
+
+When customers “rent”, the challenge shifts to measuring impact …
+
+![](https://cdn-images-1.medium.com/max/800/1*-ewQqNWF826zTLs5vEVzMA.png)
+
+Rejected! Rightmost fish doesn’t understand the game.
+
+![](https://cdn-images-1.medium.com/max/800/1*KEVYhMnOW-0NnkcnllXf_w.png)
+
+Engaged employees care if the work had any impact.
+
+![](https://cdn-images-1.medium.com/max/800/1*9dRxkmCTzJsvpBFcTQZwbA.png)
+
+Customer pays on delivery. Value delivery is binary, not continuous …
+
+![](https://cdn-images-1.medium.com/max/800/1*Yp7bdj9uCZ1p8Je2aT6mBw.png)
+
+One person’s goal, is another person’s proxy metric.
+
+![](https://cdn-images-1.medium.com/max/800/1*9eQXk3-Ap1DMMNE29ZDvGg.png)
+
+If people don’t give us estimates, how will we hold them accountable?
+
+[![](https://cdn-images-1.medium.com/max/400/1*0hqOaABQ7XGPT-
+OYNgiUBg.png)](http://bit.ly/HackernoonFB)
+
+[![](https://cdn-
+images-1.medium.com/max/400/1*Vgw1jkA6hgnvwzTsfMlnpg.png)](https://goo.gl/k7XYbx)
+
+[![](https://cdn-
+images-1.medium.com/max/400/1*gKBpq1ruUi0FVK2UM_I4tQ.png)](https://goo.gl/4ofytp)
+
+> [Hacker Noon](http://bit.ly/Hackernoon) is how hackers start their
+afternoons. We’re a part of the [@AMI](http://bit.ly/atAMIatAMI) family. We
+are now [accepting submissions](http://bit.ly/hackernoonsubmission) and happy
+to [discuss advertising &amp;
+sponsorship](mailto:partners@amipublications.com) opportunities.
+
+> If you enjoyed this story, we recommend reading our [latest tech
+stories](http://bit.ly/hackernoonlatestt) and [trending tech
+stories](https://hackernoon.com/trending). Until next time, don’t take the
+realities of the world for granted!
+
+![](https://cdn-images-1.medium.com/max/2000/1*35tCjoPcvq6LbB3I6Wegqw.jpeg)
+
+
+# 15 Shared Service Tips &amp; Gotchas
+
+AKA: Seduced By Economies of Scale…
+
+* * *
+
+### 15 Shared Service Tips &amp; Gotchas
+
+#### AKA: Seduced By Economies of Scale…
+
+What’s not to like? It’s the BEST OF BOTH WORLDS!
+
+![](https://cdn-images-1.medium.com/max/800/1*WxOIbVOZb6OkJdJtXb9E6g.png)
+
+Insert random sell-piece here …
+
+First a definition:
+
+> A shared service is a capability that is centralized within an organization
+or group. The capability is wrapped in a service with a well defined service
+contract with the expectation that all teams use the service unless they can
+justify a reason to go their own way. Shared services are a common operational
+strategy designed to reduce costs by eliminating repetition of effort. By
+providing a service in one place, there is an opportunity to optimize and
+standardize it at scale. ([source](http://simplicable.com/new/shared-
+services))
+
+Some pondering and tips (with a bias towards software oriented shared services
+and product managers):
+
+  1. **Why shared service?** Is the working model delivering the expected value to the business, internal customers, and end-customers? The decision to move something to a shared service is based on many assumptions. It’s important to regularly re-validate those assumptions. You can get ten stakeholders in a room who “agree” the shared service is a valuable idea, but disagree about _why_ it is valuable, and disagree about whether it is living up to that promise. We often assume it’s the _only way_, and that’s rarely the case. The interesting thing is that shared services are a Nested How. We assume we’ll deliver more end-customer value by leveraging:  
+ — Consistency and control, centralized business logic  
+ — Interoperability and standards  
+ — Safety and risk prevention  
+ — Distributed specialization  
+ — Requires cross-concern visibility/access  
+ — Cost savings. Economies of scale  
+ — Accelerate growth. Jump-start or kick-start initiatives  
+So … what outcomes are you expecting? Where’s the data? Is the shared service
+working? Is that end-customer value and business value materializing?
+
+  2. **What’s working? How do we amplify _that_? **Too often, shared services are based on some vague forecast of economies of scale, some Excel voodoo, a team making a power grab, or a resourcing constraint amid rapid growth. What’s missing are clear and focused wins to amplify. Start with something that works before trying to solve a problem with the org-chart. Stick to the simple question: “is it working right now?” Can we amplify what’s working? Validate something works BEFORE shifting the org-chart.
+  3. **Product Traps!** Shared services can fall victim to all of the traps that plague external products: the platform trap, premature optimization, going too broad, unvalidated complexity, accumulating technical debt too quickly, faulty business models, etc. We tend to forget this because the market is “internal”, but the rules all still apply. Something can be great for end-customers, but terrible for the provider. Or vice versa. Validate product / market fit early and often. Beware the Franken-Service that wouldn’t last a day in the “real world” as a product. It probably won’t be viable in the long term internally either.
+  4. **Seductive Assumptions**. When you find yourself confidently saying “we should only solve IT once”, remember that you need to understand that ITs are rarely as simple as they seem. Five different types of customers using IT represent five potential paths for the shared service. The IT needs to eventually deliver end-customer value.
+  5. **Divergent solutions** are a way to avoid premature optimization, and to keep your options open. The divergent solution approach may be preferable, as long as you can converge when you need to. Oftentimes, you see a bias for shared services because the organization lacks the ability to converge when it needs to.
+  6. **Internal Medicine**. While susceptible to all of the standard product traps, shared services have some unique gotchas. It can be hard to say “No” to internal customers. You can’t fire internal customers. There are pressures to be responsive and pragmatic in the face of unrealistic demands. You often don’t get to pick your “ideal customer”, or shape your roadmap for long term viability over short-term gains. Lastly, even if your work can be directly linked to revenue, it can be hard to break out of the “less is more” / operating cost bucket. Startups are hard. Startups inside of companies — with internal teams as customers — are harder.
+  7. **Consulting-to-product** _is _a viable startup model. But it is a hard thing to pull off. You have to be super disciplined and incorporate the learnings from each consulting “job” into a viable product. Consulting-to-product is very common for shared services, which is funny because it is literally one of the hardest things to get right in the “real world”. This would be fine if the assumptions surrounding a shared service didn’t rely on some massive economy of scale (likely unachievable in a consulting model). When someone talks about a “consultative” focus … step wisely.
+  8. **Cash on Delivery**. Do your internal customers leave with the work-product in hand? Or do you maintain the product for them? Internal teams have a nasty habit of doing things that would absolutely destroy a startup. If each successive project adds complexity to “the product”, then you’ll need enough person-power to keep that added complexity at bay. Which means you’ll need a funding model built on the continuous delivery of capabilities instead of the completion of individual projects.
+  9. **Take A Ticket**. Watch out for working agreements that bias you to premature convergence around solutions. This is a hallmark of the “take a ticket” or auctioneer approach. Instead of focusing on the value side — the outcomes we’d like to create — there’s a tendency to slip into a prescriptive feature assembly line. Startups have the same challenge when they attempt to auction off their roadmaps to new customers. The end result is feature-soup and a nonlinear (non-economically-viable) increase in complexity.
+  10. **Refactor**. As a shared service, are you doing custom and/or experimental work? Are the requirements 100% known from now until eternity? Here’s the trouble … as a shared service you absorb all of the risks for doing custom/experimental work and delivering incremental value, and none of the reward. When stuff goes wrong, and you need to do a big refactor, where are the resources? Worse yet, you get blamed for not being clairvoyant. Be very diligent about communicating risks and forging time for refactoring.
+  11. **Autonomy Hit**. Shared services make _so _much sense. Economies of scale FTW. But we rarely take into account the hit on autonomy for all involved. Dedicated resources leveraging a narrow shared service with smaller scope can outperform a “take a ticket” / heavy-dependency shared service 5:1. Once someone / somewhere feels there’s a chance in hell of getting away with fewer resources, it can be hard to change their mind … even when it’s obvious that something isn’t working. Be ruthless about exposing the hit on autonomy. Always ask “can you deliver the desired consistency without centralized control?” Resist the temptation to install rigid control structures when the same outcome can be achieved with a less heavy hand.
+  12. **The “generic platform trap”** is as real for shared services as it is for startups. Customers will do magical things with your extensible set of tools! As with startups, this is a big, big assumption. Startups end up having to prop up professional services teams to “teach” people how to use the platform, and to develop case studies and white-papers that demonstrate validated solutions to real-world business problems. Or, they get stuck trying to serve too many personas. My advice: solve actual problems. Resist the platform trap. Worry about platform-izing later.
+  13. **Don’t be the boiled frog**. Lead time starts to slip. Maintenance overhead increases. Internal customers stop having confidence in your work. Things aren’t _terrible, _but they aren’t at their best. This _drift into failure _can go on for a long time before you hit a wall. Don’t let this happen. Pivot early. Like any business there is a chance that the shared service simply isn’t viable. Don’t beat a dead horse. It is tempting to see failure in shared services as an individual failure, or a planning failure. But sometimes the business model for the shared service is simply not viable.
+  14. **Real Value (Not Proxies)**. Link your shared service to capabilities and core business metrics … not proxy metrics. Otherwise you will be forever viewed as an operating expense, with all the headcount gymnastics that entails. Capabilities always require care, attention, and iteration. If you assume a project factory approach (aka “take a ticket and wait” or “the auctioneer”), you run the risk of letting the capabilities falter. Get funded based on value delivered. You _must_ tie in your work to end-customer / end-user value. All too often, shared services trigger forms of local optimization. Up go the defenses and the rigid boundaries. Again, the challenge becomes making the org chart work, instead of delivering value. Flip the script … value, value, value.
+  15. **Learn the responsible “No”**. Sure the customer may be someone you interact with frequently. They might even be your friend. But for the health of the overall product, sometimes you need to say “No”.
+
+#### Where does your shared service fit on the following ?
+
+There’s no right or wrong here, but this list might be helpful for further
+teasing out assumptions …
+
+  * Emergent vs. mandated
+  * Pushed to customers vs. pulled by customers
+  * Reduces local variability vs. facilitates local variability
+  * Transactional vs. integrated
+  * Shared service and customer retain autonomy vs. teams are highly dependent
+  * Scale with minimal cost increases vs. scale with linear cost increases
+  * Distributed ownership vs. centralized ownership
+  * Custom product vs. commodity product
+  * Broad service offering vs. narrow service offering
+  * Touches end-users vs. far from end-users
+  * Linked to revenue vs. viewed as operating expense
+
+
+# PMs: Say “I Don’t Know” More Often!
+
+As PMs, we’re programmed to have an answer for every question.
+
+* * *
+
+### PMs: Say “I Don’t Know” More Often!
+
+![](https://cdn-images-1.medium.com/max/800/1*NofM19vw_FzX0o40bhPurg.png)
+
+As PMs, we’re programmed to have an answer for every question.
+
+> What’s the problem? What’s the solution? What exactly does the customer
+want? Did it work? What’s next? What is the competition doing?
+
+It can become part of our identity. And that’s dangerous. Because we start
+fooling ourselves that we have all the answers. We stop being curious, we stop
+listening, and we stop being humble. This is made more complicated by the fact
+that we’re rewarded for decisiveness, instincts, mapping the road, and putting
+together “killer decks”. Just Ship It!
+
+So here is your goal for the next 7 work days. Repeat 3x per day. Say **“I
+don’t know”**. And then say, **“I think we can learn more by [some next
+step].”**
+
+What you’ll quickly learn is that often your real value as a PM is having a
+good guess about where to go for context and answers … not _having_ all of the
+answers. And the strongest teams aren’t the one’s that pretend they bat 1.000
+(success theater), but bat .388 … and humbly double-down on what works.
+
+[![](https://cdn-images-1.medium.com/max/400/1*0hqOaABQ7XGPT-
+OYNgiUBg.png)](http://bit.ly/HackernoonFB)
+
+[![](https://cdn-
+images-1.medium.com/max/400/1*Vgw1jkA6hgnvwzTsfMlnpg.png)](https://goo.gl/k7XYbx)
+
+[![](https://cdn-
+images-1.medium.com/max/400/1*gKBpq1ruUi0FVK2UM_I4tQ.png)](https://goo.gl/4ofytp)
+
+> [Hacker Noon](http://bit.ly/Hackernoon) is how hackers start their
+afternoons. We’re a part of the [@AMI](http://bit.ly/atAMIatAMI) family. We
+are now [accepting submissions](http://bit.ly/hackernoonsubmission) and happy
+to [discuss advertising &amp;
+sponsorship](mailto:partners@amipublications.com) opportunities.
+
+> If you enjoyed this story, we recommend reading our [latest tech
+stories](http://bit.ly/hackernoonlatestt) and [trending tech
+stories](https://hackernoon.com/trending). Until next time, don’t take the
+realities of the world for granted!
+
+![](https://cdn-images-1.medium.com/max/2000/1*35tCjoPcvq6LbB3I6Wegqw.jpeg)
+
+
+# “That’s A Great Idea!”
+
+Don’t assume people are aligned when they agree on a solution or next step.
+
+* * *
+
+### “That’s A Great Idea!”
+
+Don’t assume people are aligned when they agree on a solution or next step.
+
+They might not agree on the Why. Which means a couple things …
+
+  1. When/if the solution fails, you’ll be stuck
+  2. If the solution “wins”, you might not agree why it is a winner
+  3. You won’t know what to dampen (negative byproducts)
+  4. You won’t know what to amplify (positive byproducts)
+
+Junior PMs often think “stakeholder Alignment” is the process of getting
+people to agree on a what to do next. It _feels _like the right thing to do
+(and is frequently rewarded). Great job!
+
+> Hey. Everyone agreed it was the right thing to do!
+
+Over the years I’ve learned that alignment around solutions is rarely a _deep
+_alignment. It is transient and short-lived.
+
+Figure out the Why. Why is everyone excited about this idea? Are participants
+excited for different reasons? Build shared understanding and alignment around
+the Why. Then invite your team to propose other solutions that meet those
+Whys. Rinse. Repeat.
+
+
+# Agile Didn’t Eat Your Homework…
+
+A bit of a vent here …
+
+* * *
+
+### Agile Didn’t Eat Your Homework…
+
+![](https://cdn-images-1.medium.com/max/800/1*vJ5F3ZmNyG7q9xMQeGl_bQ.png)
+
+A bit of a vent here …
+
+I’m tired of reading articles that blame Agile for [insert org dysfunction
+here]. I’ve heard it all. Agile is about short-term thinking. Agile creates
+bad design. Agile is micromanagement. Agile sends you into iteration hell.
+Agile inspires [some thing you don’t like].
+
+And it is not because Agile is my gospel or pays my personal bills.
+
+Yes, Agile has become a bit polluted by consultants, certifications, and the
+promise of “transformation”. Same with DevOps. Same with Sun Tzu. Same with
+the Stoics. Same with the Gospel. Same with any [insert idea here] that graces
+book covers, and gets bandied about boardrooms as a quick fix. Or gets joined
+with every part of the org chart to form new buzzwords … Agile [insert
+functional silo here]. This is inevitable. Good things get abused.
+
+Agile is what it is … some interesting (and timely, and inspired) ideas that
+inspired a community, which inspired more ideas (repeating, until you get some
+really, really good ideas, and people who are passionate about sharing them).
+Those ideas — and that community — is “Agile”. And it is a prolific and
+interesting community. The word feels cargo-cultish and vapid, but the
+community is (largely) not. The image of an exec snorting “we need to be
+Agile!” is a little sickening, but so is the word “synergy”.
+
+A good chunk of the software developing world has experienced Agile via
+crappily implemented Scrum. But that is not really the point. [Agile !=
+Scrum](https://stackoverflow.com/questions/11469358/what-is-the-difference-
+between-scrum-and-agile-development).
+
+The point is … Google and Wikipedia is your friend. There are many, many
+traditions wrapped up in what we know as Agile. As individuals involved in
+product development, it is your responsibility to do your homework and know
+your history (hint, the history extends way before Snowbird, Utah). It pisses
+me off when the product or UX community rattles on about Agile, and then can’t
+describe its OWN tradition, or how their tradition translates into the current
+context.
+
+So this isn’t about defending an overblown word (turned community, turned
+hashtag, turned invoice line-item). It is about thinking beyond the simplistic
+— we “do Agile”, we don’t get results, therefore it must be Agile — thinking.
+I’d say the same for any “way”, or hoping any “way” will solve all of your
+problems. Stop looking for the silver bullet for your org. Learn, roll your
+own, rinse, repeat.
+
+Become a student and learn. Do your homework. And then write blog posts.
+
+Most roads wont start and end with Agile. But most will pass through it.
+
+![](https://cdn-images-1.medium.com/max/800/1*Pw3v-tlWk0OAB24UTA8dIQ.png)
+
+![](https://cdn-images-1.medium.com/max/800/1*xoROYGSktfhqEsugkcGrgQ.png)
+
+<http://modernagile.org/>
+
+![](https://cdn-images-1.medium.com/max/800/1*dGEkFLR4rM6e7Icutv36dA.png)
+
+![](https://cdn-images-1.medium.com/max/800/1*tdKPDC19m9nPTRowYWZUiQ.png)
+
+<http://www.brighthubpm.com/agile/45157-using-lean-thinking-in-agile-project-
+management/>
+
+![](https://cdn-images-1.medium.com/max/800/1*i-UIobSyJPS2nOlXfdyVkw.png)
+
+<https://hbr.org/1986/01/the-new-new-product-development-game>
+
+![](https://cdn-images-1.medium.com/max/800/1*eKg9VfjY6IW5d14FaUmn8A.png)
+
+<http://www.leanprimer.com/downloads/lean_primer.pdf>
+
+![](https://cdn-images-1.medium.com/max/800/1*7-rkpCzmlNOMBBGbGle1Yw.png)
+
+<https://www.slideshare.net/TommyLiu3/design-thinking-history-methodology>
+
+![](https://cdn-images-1.medium.com/max/800/1*2ZwmsgyPI3PKpvq3PcUgBg.png)
+
+<https://www.invisionapp.com/blog/5-years-lean-ux-jeff-gothelf/>
+
+![](https://cdn-images-1.medium.com/max/800/1*qTLS8YAjXZcPEip3x7K8_Q.png)
+
+[![](https://cdn-images-1.medium.com/max/400/1*0hqOaABQ7XGPT-
+OYNgiUBg.png)](http://bit.ly/HackernoonFB)
+
+[![](https://cdn-
+images-1.medium.com/max/400/1*Vgw1jkA6hgnvwzTsfMlnpg.png)](https://goo.gl/k7XYbx)
+
+[![](https://cdn-
+images-1.medium.com/max/400/1*gKBpq1ruUi0FVK2UM_I4tQ.png)](https://goo.gl/4ofytp)
+
+> [Hacker Noon](http://bit.ly/Hackernoon) is how hackers start their
+afternoons. We’re a part of the [@AMI](http://bit.ly/atAMIatAMI) family. We
+are now [accepting submissions](http://bit.ly/hackernoonsubmission) and happy
+to [discuss advertising &amp;
+sponsorship](mailto:partners@amipublications.com) opportunities.
+
+> If you enjoyed this story, we recommend reading our [latest tech
+stories](http://bit.ly/hackernoonlatestt) and [trending tech
+stories](https://hackernoon.com/trending). Until next time, don’t take the
+realities of the world for granted!
+
+![](https://cdn-images-1.medium.com/max/2000/1*35tCjoPcvq6LbB3I6Wegqw.jpeg)
+
+
+# Developer on Fire Podcast (w/Dave Rael)
+
+A couple weeks ago, I had the pleasure of doing the Developer On Fire podcast
+with Dave Rael . The audio is about 45m. I figured that…
+
+* * *
+
+### Developer on Fire Podcast (w/Dave Rael)
+
+A couple weeks ago, I had the pleasure of doing the [Developer On
+Fire](http://developeronfire.com/episodes) podcast with Dave Rael . The audio
+is about 45m. I figured that reading it might (and that is a huge might) be
+interesting. It isn’t a great transcription. And sometimes I read like 3rd-
+grader. Anyhow …
+
+[**Episode 240 | John Cutler - Making Value**  
+_John Cutler is keenly focused on user experience and evidence-driven product
+development. He mixes and matches
+various…_developeronfire.com](http://developeronfire.com/podcast/episode-240
+-john-cutler-making-value "http://developeronfire.com/podcast/episode-240
+-john-cutler-making-value" )[](http://developeronfire.com/podcast/episode-240
+-john-cutler-making-value)
+
+**Dave: Why are you so lit up about making stuff for people?**
+
+**John:** I think that part of it is the experience of working with other weirdos and makers and other people. I obviously take a lot of pleasure out of building something that someone uses and gets value out of, but it’s the whole process that I like. I like the challenge of it. I like the fact that things are often sort of unclear and I like all the weird banter from the people on my team and the characters that we have. I think it’s the variety of people and you’re not really battling this corporate stuff when you’re in the zone as a team, and that’s what I really like about it.
+
+**Dave: Cool. That really paints a picture. You emphasize something there of enjoying the journey. It’s not all about a destination. It’s not all about some finished product. That you are getting something out of the actual experience of interacting with team mates and I think that’s something we can really take something away from.**
+
+**John:** I don’t spend a lot of time writing code, but I usually ask my teams, if you controlled the budget, would you hire me? I feel that the product manager’s role is often misunderstood, or it’s stereotyped, just like the engineering role is often stereotyped.
+
+> If you controlled the budget, would you hire me?
+
+When you peel it away and you boil back to the people involved, there’s a lot
+more diversity than we make it out to be. I like being there in the trenches
+and adding value where I can and adding context where I can. Something that
+I’ve noticed about a lot of engineers is that … I don’t think people outside
+of engineering truly understand what it’s like to have to show up and make
+those types of cost benefit decisions all day. Being deep in the code and then
+thinking about it or rolling back their chair and having to ponder something
+for a while.
+
+> I don’t think people outside of engineering truly understand what it’s like
+to have to show up and make those types of cost benefit decisions all day.
+
+People from the outside look and say, if you don’t see hands on keyboard
+there’s no work happening. When you’re there working with people, you
+understand how reflective the work is. I like being part of that because I
+think that adding context, helping people solve problems by giving them more
+data and more information, is the number one way that you can help the other
+makers and people on the team. That’s why I like the role and the role’s often
+misunderstood, but I have my own version of it basically.
+
+**Dave: Certainly, I think it is definitely misunderstood when somebody says product manager, I think that’s a different kind of a role in every organization I’ve been in. You mentioned that you don’t do a lot of coding. Can you tell me a little bit about your background just so that listeners get familiar with? Are you a coder?**
+
+**John: **No. Developers on my team nicknamed me Sudo. That’s my nickname. I did have a startup or two startups where I got pretty decently into Rails. I could get through to the end myself, but I kind of knew the limits of … The limit wasn’t … It’s kind of hard to admit. The issue I had with coding is how deep I got into it as a personality, and I think that’s because there’s a certain point when you have a problem solving mindset, but there’s just part of the guts that you don’t quite understand. When I got heavily into Rails it was like a big eye opener. If you understood where you needed to get, there were nouns and verbs that you could make work. I would go so deep man.
+
+> The issue I had with coding is how deep I got into it as a personality
+
+I wouldn’t go to sleep for days on end, and I built like a personal challenge
+site called, ‘Go for 30’. The whole idea is very Meta because my goal was to
+relaunch the thing in 30 days. My personal 30 day challenge was building my
+own product in 30 days. That was my challenge, to spend all day doing it. I
+did that, I did some other prototypes for people, but it was mostly in Ruby on
+Rails and then I got into some Python stuff for doing analysis. That’s the
+extent of my background there, but it’s something about … I don’t know how the
+great engineers I know do it, because you’ve got to solve the problem. There’s
+a binary way to solve that problem and you can just hit your head against it.
+I flirted with that, realized I had other things to add to this, some other
+types of ways of thinking.
+
+> I don’t know how the great engineers I know do it, because you’ve got to
+solve the problem. There’s a binary way to solve that problem and you can just
+hit your head against it.
+
+My background was music and just figuring out my 20s. I had a post recently on
+about people being drifters and I think that especially those of us in tech,
+there’s the stereotypes and that’s how a lot of people got to it. I worked
+with a great engineer who had discovered engineering a lot later in life, and
+they took a whole different path with their life. That’s me. I don’t know if I
+answered the question, but I’m all over the place and I don’t care.
+
+**Dave: What is the role of a product manager?**
+
+**John:** You could take the Meta perspective. The role of the product manager is to find out what the system needs and then apply yourself to that part of the system. That’s a little weak.
+
+I have my version of it, which is you are a context builder. You are bringing
+information to the team. You’re bringing system’s thinking, you’re bringing
+decision making frameworks, you’re bringing valuable things. You’re not there
+to control the team. You’re not there to rush the team. You’re not there to
+tell them to cut corners. You’re there to help them with data and facilitation
+and other things to move along the process. I think also you bring a big
+library of interactions with businesses and users and other things like that.
+It’s that sixth sense like, ”Hey guys, this seems like I’ve been here before.”
+
+> You are bringing information to the team. You’re bringing system’s thinking,
+you’re bringing decision making frameworks, you’re bringing valuable things.
+You’re not there to control the team.
+
+They want a custom field but they don’t want a custom field. They really don’t
+want that. Or, they say they’ll pay for that once we deliver that, they’re not
+going to pay for that once we deliver that.
+
+I think that you bring experience in these interactions with users and
+customers, and also just knowing that surprises happen. I remember when we had
+the bartending game. We were demoing it and someone took the mouse and then
+picked up the shaker and then started shaking their mouse, and we were like,
+“That’s genius. Wouldn’t that be so cool? Wouldn’t that be so funny if people
+play the game and you see them shaking the mouse back and forth?” I think as a
+product person you understand too, where to look for happy accidents and
+opportunities and stuff.
+
+Not all PMs are the same. Some people work in very transactional environments
+where their responsibility is to show up in a meeting once a week, tell people
+what status is and go back to the teams and what they call herd cats. That’s
+not my background, but I could see environments maybe where that role’s
+required. It’s just not my thing.
+
+**Dave: Yeah, that doesn’t sound so appealing. It’s not having the impact on the product in the way that you talk about and the way your blog depicts. I think that’s the contrast. You had a blog post about the evolving role of the product manager and that very contrast there, right. Kind of the old way of looking at it, so the command and control, they’re pushing the team in certain directions versus being a part of the team. Being somebody who brings that interaction. I think that’s really a big thing there is that a lot of … It’s a stereotype. A lot of engineers have some difficulty with understanding what it is that somebody else wants, and that role to try to bring out the thing that is really needed. The thing that’s going to truly deliver value, not necessarily just the thing that’s being explicitly requested, but that thing that’s going to actually solve the problem.**
+
+**That’s a unique talent, and that’s something that not a lot of people have.**
+
+**John:** It’s also something you have to spend time on. This is where the balance with teams. Literally one hour ago I’m talking with an engineer before this podcast about particular … We had a couple support requests sitting around and in an environment where someone’s responsibility is to sit there and triage them and then give the team permission to work on one of them or the next one, you do this and you do that. We were talking about it and he made a point. He said, “That thing you were working on until 10 o’clock last night, where you were talking about the big missions we need to solve, and how you were making sense of the problem, is 10 times more valuable than coming in and trying to help us project manage ourselves to do these things.”
+
+That meant a lot. It shows that we have respect for those things. We all wear
+hats. Sometimes you need that i-dotter and t-crosser because just doing those
+things could take a whole day for someone. There’s never a solid answer for
+this about what someone should do or shouldn’t. It’s like a contract with the
+team. Like how do we want to split what we’re really good at here? Then also
+knowing the difference between a project manager and product manager.
+Sometimes you need someone with that amazing skill, which I actually don’t
+have. I’m not a great i-dotter t-crosser.
+
+> We all wear hats. Sometimes you need that i-dotter and t-crosser because
+just doing those things could take a whole day for someone.
+
+**Dave: Sure. That’s totally great. We’ve mentioned your blog a few times here, you’re a prolific blogger, you’re getting a lot of attention. Some of the things that you put out there really resonate with people, especially with application developers. Tell me a little bit about that experience. Why do you write the blog and what’s the ultimate objective?**
+
+**John:** I think that a little bit of me thinking out loud. I’ve joked that if I had this conversation with the people around me all day at work and loved ones at home, that I would annoy the crap out of them. I mean literally. It would annoy the shit out of everyone.
+
+Sometimes it’s because I had a really good day and it forced me to understand
+what something happened a decade ago in my life or with teams, like what was
+wrong about that situation. I’m constantly pattern matching, I’m constantly
+reflecting and this is just my way to get it out there.
+
+I had an engineer friend who said one day, “Look, I write test driven
+development. What does test driven product management look like?” That hit
+home in a big way. I was, “Oh, you live in a world where there’s right and
+wrong and I’m just telling you to just do stuff.” I think that was an eye
+opener. The couple of posts that had engineer attention really hammered home
+for me. That we all want to create impact. I think that some people are in
+environments where they just kind of give up on the business. They’re just
+like, “You know what? This is just going to play its course. Same old BS,
+whatever. We have a tight team. We’re hacking away. This is a good thing and
+we enjoy this.”
+
+> I had an engineer friend who said one day, “Look, I write test driven
+development. What does test driven product management look like?” That hit
+home in a big way.
+
+I just think especially as engineers get older and more … over time, that
+stops becoming something they can just forget about. Because the technical
+challenges become more common as your career develops, but the impact
+challenge becomes something that digs into you as you get into your 30s or
+40s.
+
+**Dave: Yeah, definitely. One of my biggest experiences was that I designed a system from the ground up to make life a lot better for this company that was an amalgamation of different companies that had been acquired, and replacing all of the legacy systems with this new thing. It over time started to gain traction. Everybody started buying into the architecture and it started to … Some of the emphasis that I had put there on autonomy and teams being able to do their own thing and test and deploy independently and all of these stuff, it took hold and then the company shifted priorities and wound up blowing up the whole organization. All of that effort just went up in smoke. There’s just such a punch in the gut on that.**
+
+> All of that effort just went up in smoke. There’s just such a punch in the
+gut on that.
+
+**I’m not quite sure what my question is, it really resonates with me that that impact is so important, so vital in our experience.**
+
+**John:** I see some movements like craft movements, like code craft movements and things. I’m really psyched about those movements, but I think that there’s a little bit of a retrenching back into the silos of it. It’s a little bit like, I don’t feel that my work has impact but if I join this craft community, at least I know there’s craft for work that I can do. When I think about product development, I think of an overarching development craft that we all participate in.
+
+> It’s a little bit like, I don’t feel that my work has impact but if I join
+this craft community, at least I know there’s craft for work that I can do.
+
+A great example there is how you build a machine has as much impact on the
+ability of that company to scale and do what it needs to do and achieve new
+other opportunities, then the UX of that thing. Thinking about code as a way
+to also scale the organization in a smart way, those things are massive. When
+you look at a lot of companies that are “successful”, but they’ve let all that
+stuff fall by the way side. They have their hands completely tied. They go out
+and start to buy other companies. They go out and start … Because the only way
+… It’s not a problem of cash. They’ve got the cash but they can’t apply the
+cash to the problem internally, so they’re going to spend the cash outside to
+get that result.
+
+> When you look at a lot of companies that are “successful”, but they’ve let
+all that stuff fall by the way side. They have their hands completely tied.
+
+I think every person has been in a situation like that where you knew that
+this was going to happen as an engineer. You knew that at some point they were
+all going to hit the wall because you weren’t thinking about the thing. People
+don’t pay their money and walk out with a pair of shoes. It’s much more like a
+service ecology. We all come into work like coming in to work in a restaurant,
+we all can make the restaurant work better. Sometimes we pull things off the
+menu, we add to the menu, we figure out how to prep dishes better. For that
+reason, I think it’s really exciting because I think the engineers on the team
+and how you architect the product, has as much to do with the long term
+viability of the company as these other things.
+
+I know we got way off topic there, but I’m thinking about that sense of
+impact. That all engineers should know that they have the ability to create
+immense impact in their companies. Even with what are considered more “back
+end decisions” or architectural decisions.
+
+**Dave: I think that’s a lot of what you say with the blog and from the things you’ve said here. Not to the detriment of building the system right, because that does set you up. If you leave that, if you have rocked in the quality of what’s below, then that’s ultimately you’re going to pay a price for that as well. Both of those are things that matter.**
+
+**John:** One thing I actually… I think I started a blog post about it, but then I stepped back from it. I think the dichotomy of build the right thing and build the right thing right, what you see in organizations is you see that create silos in the organization. You see it basically, the CTOs saying, “Well, you got to figure out what the right thing is and then I’ll be able to build it right.”
+
+Product is saying like, “Well, we might need to build to figure out what that
+right thing is.” Sometimes you need to build it right for right now and so
+what you see in organizations, instead of focusing on resiliency and the
+ability to change course. Instead we get obsessed with building “an extensible
+platform that blanket-y, blanket-y, blanket-y, blanket-y, blank, blank, blank”
+
+> Instead we get obsessed with building “an extensible platform that
+blanket-y, blanket-y, blanket-y, blanket-y, blank, blank, blank”
+
+That’s kind of true on a level, but there’s a platform myth. The point instead
+of feeling like you’ve got to get everything right, right now or you’re never
+going to come back and change it. I ask product managers, “When was the last
+time you pulled a feature?” If I ask that to 100 PMs at a conference, only
+three will raise their hand. Engineers are being perfectly rational to assume
+that none of their architectural decisions have any kind of tweak-ability to
+it. Because they understand that they don’t get the time to go back and fix
+it. We’re caught in this terrible cycle. Now, if we could just say, “No, we’re
+always going to refactor this, we’re always going to think about the current
+state of the system and if you need time to do that, we’ll let you do that.”
+It changes the game completely.
+
+> I ask product managers, “When was the last time you pulled a feature?” If I
+ask that to 100 PMs at a conference, only three will raise their hand.
+
+You don’t create divisions around doing build it right, build a right thing.
+You work together as partners in that. If that makes any sense.
+
+**Dave: I totally like that vision and I think it’s a shame that more organizations aren’t like that. How can the engineer out there who feels like they are turning out features. How can they go about trying to move their organization towards something a little more like that?**
+
+**John:** There’s this great book called ‘The Phoenix Project’, that I would recommend that anyone reads. It’s really, really good and if you haven’t read it, it follows this fictional IT team’s effort in their organization. At a certain point, they were very stuck in reactive work and all the things that we see. For example, invisible work.
+
+Any engineer understands this idea of invisible work. Where if you actually
+told everyone about the work you were doing, they would say don’t do it or why
+are you doing it? So you take on the invisible work and it sits back there.
+You have to create the trust that you can talk about what you’re actually
+working on. The turnaround in the Phoenix Project is about someone from the IT
+organization going straight to the CFO of the company and understanding how
+that company prints money.
+
+> So you take on the invisible work.
+
+Then, it talks about how instead of thinking about engineering as a resource
+that you think about, they thought about it as a way to create money or save
+money. Or add learnings in that thing. This is where the product thinking for
+engineers is critical. If you spend a month on something it costs 10 X that
+amount to maintain the complexity you’ve added. The cost of engineers working
+for two months is not the cost. It’s in the complexity you’ve added to the
+thing that you’ve built. What I would say to an engineer caught in this
+situation is, it’s tough to do from the bottom up but it’s to try to change
+the mindset from your manager or their manager from one of  
+“our job is to be responsive to the business” and instead to think about, our
+job is to partner with the business.
+
+> The cost of engineers working for two months is not the cost. It’s in the
+complexity you’ve added to the thing that you’ve built.
+
+I’ve known engineers who in five hour hack days saved the company a couple
+million dollars. That is awesome. You don’t notice, especially teams that
+don’t have a product manager or maybe have a more technical product manager,
+you don’t have that team put that up on the banner for the company.
+
+Is it saving money, making money or adding learning which is valuable? Then
+thinking about that instead of thinking about how many things are in our
+backlog and just checking them off the list or something. I don’t know. A
+little bit of product thinking can go a long way for an engineer and a little
+bit of engineering thinking can go an incredibly long way for any product
+manager.
+
+**Dave: I like that, totally. You mentioned that term empathy and it goes both ways. I guess it’s something really important that we can learn something from each other, but that idea of shifting from, I have something that you have directed me to do, to, I’m an autonomous creature who can make suggestions for how we can turn this thing in the right direction. That’s a pretty powerful shift there.**
+
+**John:** Just start with the leadership of the engineering organization too. Because one thing I’ve noticed is usually a company will be going great and then will go through a tough time. The engineering leadership gets put on the spot about execution. We just need to execute. If the engineering leadership thinks they’re primary responsibility is to just execute. If you tell us exactly what to build, we can build it when you need to build it by at this particular point.
+
+The reality is you get rewarded for it. All the incentives fall into being a
+great order taker instead of creating business outcomes.
+
+> The reality is you get rewarded for it. All the incentives fall into being a
+great order taker instead of creating business outcomes.
+
+I think that that’s a … It’s a really complex discussion, but if you can think
+about the whole system, you begin to see little chinks in the armor. Recently
+actually I went to an executive and I said something like, “If we could give
+you all this right now, how much money would you pull out of your pocket to
+solve this, to just get the solution to this?” Then they were like, “Oh no, no
+how much is it going to cost?” I’m like, “No, that’s not what I’m asking you
+about.” “Well, are you saying compared to what I think another team could do?”
+I’m like, “No. What is the value if you could get this problem solved right
+now? You wake up tomorrow morning and this problem is solved.”
+
+What was fascinating is that was an incredibly scary question for some of the
+executives but not for other executives. Some other executive was like,
+“$25,000,000 if you could solve it right now. I would buy that for
+$25,000,000.” Think of how different that conversation is from an engineering
+organization that said, “How many weeks will that take you? How many weeks
+will that take you? How many weeks will that take you?”
+
+That’s a completely different … That’s not a value based decision. Someone
+else is trying to decide that. This obsession with estimates. I think that
+estimates can be important as partnership and as discussion about value, but
+if all of it is a client server relationship with the team and what’s going
+on, I think things begin to breakdown. That’s the other trick, think about
+value, think about dollars, think about solutions like that and then that
+doesn’t get into the how.
+
+> I think that estimates can be important as partnership and as discussion
+about value
+
+It’s getting into the what. It’s getting into the why and the who is going to
+get the value. Again, basic product thinking can go a long way.
+
+**Dave: That’s great. I like that view of it’s important to know what it is the … What is the outcome that you are trying to achieve? And without that it’s just going through motions. You said, order taker. That you become just an order taker. I think that also, I’ve talked to a lot of software developers about that in a role as a software developer, there is a ceiling on what you can earn. I think a lot of it is related to what you’re talking about there. That if you get into this mode of being an order taker, then you’re labor. You’re really not a valued part of the organization. You’re somebody who turns hours into features.**
+
+**John:** Actually, it’s way more structural than anyone wants to admit. If you think about a company as operating expenses, and then they have capital expenses, and they’re buying assets and they’re doing different things. For a software as a service company, there’s rules that relate to what you can book as a capex expense or an opex expense. It’s like 42 person weeks is some investment we’re making in our technology that’s innovative or something like that. The other operating expenses, you actually go into separate … When you report to your investors or do whatever, that goes in a different spot. From that super high level, especially with the systems we’re creating there these days which are much more iterative, if you take a step back you think it’s actually easier for your company to go and buy another company in some ways. Because of where it’s going to book that cost.
+
+I think that this is getting super deep with it, but engineers too, to break
+out of that type of thinking. Again we have to think about what is that
+problem they’re solving and thinking about that they’re enhancing the … That
+by innovating they’re enhancing the value delivery capacity of their company
+and then trying to advocate for the right line item that your bosses are
+booking what you’re doing.
+
+The funny thing about that is that when engineers are asked to track time on
+something, almost all the time in a larger organization the time tracking is
+going about allocating those costs. When we resist that, because it’s like
+who’d want to track their time, it actually has the perverse end product of
+not being able to put that time towards the innovative activities and getting
+booked as an operating expense. There’s all these games.
+
+Figure out how companies work, figure out how their accounting works and then
+to your point I think that promulgates that order taker thing. It’s super big,
+it’s bigger than all of us.
+
+**Dave: How did you realize that this was something … I can just see your whole expression light up, that this is really … It’s just, you’re on fire about these stuff. How did you get to this point?**
+
+**John:** I just really love the idea of people making things and getting together and doing it. If you saw me you light up about talking about these systemic issues, I love stuff like that. I love it for a perverse reason. Because so many of these things we get down in the weeds about in our company. I think especially with engineers. You show up at a retrospective every week, and everyone’s talking about what’s working and what’s not working. There’s so much burden on us to continuously improve on a team level. What I love about what we were just talking about is that, there are bigger forces at play here in the software industry and how we make things, and what are some left over things from other by gone eras for how we build software.
+
+> You show up at a retrospective every week, and everyone’s talking about
+what’s working and what’s not working. There’s so much burden on us to
+continuously improve on a team level. What I love about what we were just
+talking about is that, there are bigger forces at play here in the software
+industry and how we make things, and what are some left over things from other
+by gone eras for how we build software.
+
+I’m excited by the possibilities that I think we have the chance to elevate
+the makers and nerds and stuff. That’s what I get really excited about. It’s
+less that I’m excited that it’s kind of messed up, but I’m more excited by the
+possibilities that we could create if we understood how these economics were
+working.
+
+> I’m excited by the possibilities that I think we have the chance to elevate
+the makers and nerds and stuff.
+
+**Dave: A lot of opportunity. I just pictured you’re climbing up this hill and working really hard to do that, only to realize it’s the wrong hill. That there’s another hill you could be going up. That makes a lot of sense. In your experience I think, we can learn a lot about the times that things went well, but there’s probably even more during those down times. Could you just share a story? Tell us about a time that you failed, fell flat on your face or things just fell apart.**
+
+**John: **Going way back in my early 20s making a game, we developed all kinds of adversary relationships with our publisher and all kinds of … Maybe I won’t go back that far, because it’s just all the classic things, but you’re just very … I think that the lesson there that I learnt is that when it’s your thing, you will never see things clearly when it is completely your thing. When it’s your thing, when you’re on the ground floor of something, the ability to stay unbiased and nurturing for that open source community versus who plays the evangelist role, who plays the facilitator role and those things, it plays a big part.
+
+> you will never see things clearly when it is completely your thing
+
+When it’s your thing, you’ve got blinders on and you almost have to realize
+that. You almost have to do that. Those are those older stories. I’ve been at
+startups that raised a ton of money and based on market research, like the
+marketing did a quick focus group and their company raised $50,000,000 bucks
+and then fell completely flat on its face.
+
+There are some lessons there about you’ve got to get your … Two lessons
+really. You’ve got to get it out there. The measure of success is someone
+taking money out of their pocket and handing it to you for what you’re working
+on, and that it fills a role. You can fool yourself on your projects or your
+efforts that it has traction, but you’ll know it when you see it. If you find
+yourself saying, “ Well, I wonder if, I wonder if, I wonder if, “all the times
+I’ve been in where it’s just working, you could just say it’s just working.
+
+I’ve had startups that have failed too, falling in love with writing, my 30
+day challenge thing instead of … I just got so deep. I fell in love with the
+machine which is okay, but I wasn’t opening my eyes up for the problem.
+Because you know why? No one has … Like 1% of the population has the gumption
+to do something for 30 days. I got so obsessed with doing it for 30 days and
+building the model that these 30 day calendars and you do these things. At no
+point was I like, “Wait, let’s make the length of the challenge variable.” I
+was all in for 30 days. There’s stuff like that. I would say that on a
+personal level, the mistakes I’ve made often have to do with not … I’d say
+that a lot of us who fall on the category of who pride ourselves on calling it
+like it is, and I know a lot of engineers fall in this role too.
+
+It just that we feel that it’s our mission to just tell it as it is. There is
+a right and there is a wrong and this is what it is. This is the situation and
+this is how it works. Is I feel a kinship with a lot of the engineers, and I
+know because we think the same way about that thing. I’ve made mistakes where
+I definitely wasn’t empathetic to the other people in the business that that
+is not how they think sometimes. I’ve put myself out there in ways that
+backfired.
+
+I would say that for a lot of engineers …. I have a couple of engineering
+friends who’ve also fallen for that. They could have waited a week or two to
+really form this thought together, but it was much more about, you’re wrong,
+I’m right, this is how it’s supposed to be. Everything’s messed up, we’re not
+doing it the right way. I think that that is, for some of us, that’s just how
+we think and I think bringing in a little bit of the skills of reflection, to
+say, “What is the 1% of truth missing?” Or, “The 10% truth missing.”
+
+Also, I think a lot of engineers and myself too, we think in terms of systems
+too. One trick for engineers that’s been helpful for me is to … If you imagine
+the system around you is being highly political, unnavigable, overly
+emotional, not logical, a good way is to get your head in the systems thinking
+and thinking about distributed systems and thinking about complex systems.
+Thinking about that, because you can actually help yourself. You can step back
+and say, “No, this is not a room filled with people, just who aren’t cutting
+it in the logic department.” There is a reason why this system exists like it
+does, and see it more as a refactoring problem instead of a replacement
+problem. You’re going to have to strangle the code sometimes.
+
+You’re going to have to do cuts through the code. You need to integrate the
+thing. If your idea is not seeming to take hold, it hasn’t integrated. The
+test did not pass on what you’re trying to say. I’m just thinking that it can
+be comforting to think that you can address the problems around you in your
+natural zone, but not have to quote unquote play the game or be highly
+political.
+
+**Dave: Multiple processes running in this space with communications protocols between them that sometimes break down, yeah all those [crosstalk 00:40:14]. That’s cool. Tests against the system. You mentioned being asked the provocative question about test driven product management. I think you said, that there’s this realm of right and wrong in the engineering, but that’s not necessarily always the case. There is a lot of trying to figure out what this thing does and m I asking the right questions, and a lot of back and forth and is the test wrong? Or is the code that’s failing wrong and all of those kinds of things. Could you flesh about a little bit more? What are some of those commonalities? How can you do a little more of an approach of starting with the end in mind, which is I guess to me really the gist of test driven development.**
+
+**John: **Yeah, totally. I think it can be … I have a very specific example that we do an exercise with teams sometimes, where we look at the data we have right now. A lot of teams get a little pissed off if you do something and then you just get shifted to some other project. What I would do with teams is to say, “Look, five months from now we’re going to present back to the organization, engineers as well as product people. We’re going to make a commitment to do that. We’re going to do tech talk, we’re going to do something about some work we did. What we’re going to do right now is we’re going to write the presentation right now. We’re not going to do it five months from now. We’re going to write the presentation right now, and we’re going to put the data we have now in the slide presentation and we’re going to leave the other charts empty. Or we’re just going to draw squiggle lines on them at the moment.”
+
+> A lot of teams get a little pissed off if you do something and then you just
+get shifted to some other project.
+
+We’re going to get together and we’re going to do that as a team. Because
+we’re all going to be on stage when we do it. So we all have to have pride in
+what we show and we all have to think it passes master for the engineers, and
+for the business people who are in the audience. So it’s setting a pretty high
+bar. Before we even get started, we do that activity. In a way, it’s exactly
+like creating a test. It is exactly like … But it’s not exactly like it, it’s
+sort of you’re setting yourselves by, I think that what you see there is that
+agreeing to talk about it later, is like agreeing that that test will run
+every time you work on it. You put a stake in the ground that you will reflect
+on whether the test does. Then you can also look at it periodically during
+those five months.
+
+If you have a … The thing that’s great about that is that is, even that team
+was a temporary team and got shifted off to another effort in that company,
+you still come back together as a team, and everyone wanted to know. Everyone
+wanted to know whether it would work. I think that that can be … I’m just
+giving an example to demonstrate the point, but I think that that’s an example
+of how it can work. Put some emotion into it and start with the end point that
+you’re willing to expose yourself to for the organization. Then work and agree
+to come back to it later.
+
+**Dave: That’s brilliant. I like it a lot. I like the idea of here’s the presentation and does it match reality. If not, why? Is reality better than this vision that we had before, and then … There’s lots of sources of feedback there. You’re figuring out whether you’ve hit the target and all of those things and what are the next steps. I think there’s a lot of meat in that. How do you stay current of what you need to know?**
+
+**John: **Oh, men. That in itself … I just try to time box it. I have on my calendar every week time to try to reflect on the new stuff and read the stuff. I think that time management is incredibly difficult for product folks in a way that’s different than … Engineers are battling for their time in a different way. Keep us out of meetings. Keep us on this thing. For product, it is about getting shuffled between meetings all the time. Actually career development for product people is really challenging. I wanted to talk about that briefly. Because I think it’s something that engineer’s experience. I’ve been to conferences with engineers, or coaches or scrum masters or whatever and it’s always the product person’s fault.
+
+It’s always, they’re not this genius, they’re not this fortune teller, they’re
+not a super hero. And why can’t they tell us exactly what we need to build, we
+feel like we’re … Actually and maybe that’d be even be good for some
+situations. Sometimes you’re not even being told in that highly prescriptive
+way what to build.
+
+I think the challenge at the end of the day is that you really might have
+unskilled product people on your team. They might have come from a project
+environment and so I would say that trying to keep up with this is like a
+lifelong thing, and you have to make time for it. Because otherwise … And you
+have to spend time on your teams, because if you get pulled into a lot of low
+leverage tasks as … If you’re all your acting as is, oh I went to the other
+end of the building and they said we needed this, and so we got this and then
+here is this thing.
+
+If all you’re doing is you’re just like a … You’re just a part of the
+communication network, that’s just a relay. If all you are is just a relay in
+the organization, then you’re not adding value to that information that gets
+passed through if you’re not amplifying it, or filtering it, or doing
+whatever, you’re not adding value. The reason why it’s coming back to learning
+is that, trying to figure out how to manage your time as a PM is the critical
+thing to unlock staying current. Because the reason why people don’t stay
+current is that they claim they just have no time at all.
+
+It’s interesting that there’s a direct path to being an engineer. Computer
+science grads or other paths. There are people who have been trained in this
+and it’s obvious that they’re coming here, and product is much more of, we’re
+pulling people in from different parts of the business and it’s not really as
+much that you’ve got a formal background in it. That’s really interesting.
+
+I think that this is one thing that I tell teams to do too is, there’s great
+exercises that you can do. One is just called the hats exercise. You just
+decide what hats you need and you give them funny names and you just
+understand that on a team sometimes, you’ll be wearing different hats. It
+doesn’t mean that that person needs to be wearing that hat all the time. You
+always need a devil’s advocate. You always need someone who’s the unbiased
+facilitator. You always need these things and I think that that’s an important
+thing that product people can do to help define the role that they’re doing.
+Because I don’t think that engineers understand how many hats we’re juggling
+sometimes.
+
+And just facilitate. Facilitate that product management just like product
+development is a team game and everybody helps out. That’s great. I want to
+wrap up by asking you my final question, to provide three tips for delivering
+more value. They don’t have to be programming or product management related
+but it certainly can be. Three things you do and recommend to really make sure
+you deliver.
+
+Figure out a way in your organization to pick up a phone and call a customer
+directly right to the team. Even if it seems like not so fun thing to do, and
+for a lot of people it’s fun. Get them on the phone, get working software in
+front of them, get feedback directly from the source about the people who are
+using what you’re using and don’t just ask them what they want. Really try to
+… If you can bring that voice to the team, it’s a game changer for people.
+Even if initially they say, “Well, is that really our responsibility or
+whatever.” When you do it, you see people’s eyes light up. I would say that
+that would be one very important thing. I think the second thing I alluded to
+earlier is just stop, think about a world where you’re not the order taker,
+where you’re the value maker and apply that to what you’re working on.
+
+Ask questions that relate to that. Because I think that if you can take that
+leap as a team, it just maps literally to your question. The main shift there
+is that you have to think about economics, you have to think about how the
+business makes money or saves money, and one thing I’ve noticed about that is
+that I’ve never seen an organization that when a team actually gets up there
+and reflects on their work from an economics standpoint. The problem is
+usually middle management layer. If you can get a situation where you get the
+upper, like a C level or VP level person who sees, here are the engineers
+talking about the money they saved or the value that they created, and here’s
+the data, oh my God the VP loves that.
+
+It’s the people in between those that tend to want to run their little
+territory. The reason why I say that in terms of creating value is the more
+you can do that, the more autonomy you’ll get to create value. Because people
+will be much more psyched about it. Those are the dollars and cents and
+visibility thing. Then I think the final thing would be, resist premature
+optimization in terms of process on your team. Every process you have is like
+a hypothesis about how you’re going to work. It’s like any systems design. If
+you over optimize around one factor dimension initially, it means that by
+nature you don’t have flexibility. For example, things that are fun sometimes,
+like pairing or mob programming or taking the day off to go and visit a
+customer, feel wrong at the time.
+
+They feel like a waste of time, but you think about your teams as building
+resiliency on your team. The reason I say that is to create lasting value and
+to get out of the order taker mindset, you need to have resiliency as your
+team. If you’re fly by night, these are like distributed systems. It’s the
+exact same thing we’re talking about. If you need the human load balance or
+A.K.A project manager to function as a team, it will always be a limiting
+factor on the success of your team. If you can figure out the minimal amount
+of process necessary to solve the problem you need right now, and resist that
+temptation, you can go a lot further towards creating value. Otherwise you’re
+just going to play the part of the order taker. Those are the three I’d leave
+you with.
+
+**Dave: When parts of your distributed system are susceptible to flu, then you’ve got a chaos monkey that’s out there and knocking [crosstalk 00:50:41] all the time. That’s a great way to look at that. Thank you for those. Before we go, how can our listeners follow you and keep up with what’s going on in your world?**
+
+**John:** Back to that time management thing, all I can have bandwidth for is Twitter. If you want to reach over on twitter, it’s @johncutlefish. It’s probably good, even LinkedIn, I can’t stand that thing. It’s twitter or you can email me. It’s my name, my middle initial is P at the place that starts with G, and then just email me there and we can chat.
+
+**Dave: All right, great. I’m sure that twitter links up the medium blog, so they can go check out all that stuff too. Thank you John for your presence today. It’s been really great connecting.**
+
+John: Cool. Yeah, I had an awesome time.
+
+**Dave” You’ve just heard the amazing and inspiring story of top notch geek. Thank you for listening. Go and find these show notes on developeronfire.com. Support this show on developeronfire.com/support. Join the team and engage at facebook.com/groups/developeronfire.**
+
+
+# You’re Doing [Method] Wrong
+
+I enjoy Twitter. I enjoy talking shop on Twitter. I love how Twitter threads
+about software product development follow some very…
+
+* * *
+
+### You’re Doing [Method] Wrong
+
+#### I enjoy Twitter. I enjoy talking shop on Twitter. I love how Twitter
+threads about software product development follow some very predictable
+patterns…
+
+  1. You’re doing [method] wrong
+  2. You are applying [method] to the wrong problem
+  3. You are practicing a watered down version of [method]
+  4. You are practicing a beginner’s version of [method]
+  5. That’s not how we practice [method]
+  6. You can’t do [method] until you have [some prerequisite]
+  7. It’s not the [method]s fault. You are attacking a symptom
+  8. You can’t blame [method] for [some dysfunction]
+  9. No one said [method] was easy. It’s not a quick fix
+  10. You need to hire an expert [method] consultant
+  11. That’s not what it says in the [method] guide
+  12. You need to apply the [method] to the whole organization
+  13. You can’t apply the [method] so broadly
+  14. Without a cultural shift, the [method] won’t work
+  15. Most people start with [method] and significantly adapt it
+  16. You aren’t doing the [method] as designed
+  17. These days, [method] has become so commercialized and watered down
+  18. Certifications for the [method] are a waste of time
+  19. Without certifications for [method] you’ll get fly-by-night operations
+  20. Experts just mix in the [method] with a bunch of other [methods]
+  21. IT managers just think they can install [method]. You can’t
+  22. [method] is a bit outdated
+  23. You’re ignoring the timeless principles of [method]
+  24. [Method] doesn’t work in the real world
+  25. That’s not how people practice [method] in the real world
+  26. Google does [method] this way
+  27. You aren’t Google, so don’t try [method]
+  28. The [method] invites adapting the [method]
+  29. We’ve been doing [method] since before it was a thing
+
+> [Hacker Noon](http://bit.ly/Hackernoon) is how hackers start their
+afternoons. We’re a part of the [@AMI](http://bit.ly/atAMIatAMI)family. We are
+now [accepting submissions](http://bit.ly/hackernoonsubmission) and happy to
+[discuss advertising &amp; sponsorship](mailto:partners@amipublications.com)
+opportunities.
+
+> To learn more, [read our about page](https://goo.gl/4ofytp), [like/message
+us on Facebook](http://bit.ly/HackernoonFB), or simply, [tweet/DM
+@HackerNoon.](https://goo.gl/k7XYbx)
+
+> If you enjoyed this story, we recommend reading our [latest tech
+stories](http://bit.ly/hackernoonlatestt) and [trending tech
+stories](https://hackernoon.com/trending). Until next time, don’t take the
+realities of the world for granted!
+
+
+# The Value of “Non Feature” Work
+
+As a PM, I spend a lot of time talking to engineers about product and
+prioritization.
+
+* * *
+
+### The Value of “Non Feature” Work
+
+As a PM, I spend a lot of time talking to engineers about product and
+prioritization.
+
+A common question looks something like this:
+
+> We want to spend more time refactoring, re-tooling, and working down debt.
+But it doesn’t generate revenue. How do you build a business case for this
+type of work?
+
+  * What would your company pay to double its current throughput?
+  * How would a 50% reduction in throughput (less output) impact your company financially?
+  * Assume you’ll need to “hire up” in a non-linear fashion to continue your current growth trajectory. How much would that cost?
+  * How is the unmanaged complexity impacting you today? Is it lowering your ability to deliver quality product? Is it slowing you down? By how much? What opportunities are you currently foregoing due to current throughput? What are you spending to “make up” for the fact that you have trouble delivering validated impact?
+  * How long does it take to onboard new developers? What might happen if you could halve that time? What would happen if it doubled?
+  * How would a major production issue impact brand loyalty, renewals, and upsells?
+  * Etc.
+
+What you find — when you take these questions seriously — is that refactoring
+is extremely valuable. There IS a business case, and it is basically
+fraudulent to ignore those risks/opportunities. Product managers tend to be
+better at pitching the value of new work, but that’s because they spend all
+day pitching the value of new work.
+
+What you also find (and engineers will hate me for this) is that without
+carefully collecting data on throughput, defects, and the impact of your work,
+you’ll have no data to back you your business case. Almost all problems
+manifest initially as lengthening lead times and/or defect rates. New “stuff”
+(unquantified shiny objects, even) will always beat nebulous “maintenance”
+when that maintenance is not quantified. A great example here is documenting
+unplanned side-work … if you don’t make this work “real”, there is no way to
+discuss it.
+
+And then there is pride and ego. We tend to be pretty defensive about past
+architectural decisions. Admitting that some past decision is impacting the
+business today can be a tough pill (even when the decisions were perfectly
+valid at the time). Transparency requires safety, empathy, and humility. If
+teams are punished for “pulling the cord”, they’ll stop pulling the cord.
+
+When the transparency, safety, empathy, and humility is missing, the tendency
+is to gloss over the drag. Which makes the “hit” — when the trouble really
+starts — all the more difficult to process, and difficult to manage.
+
+So… build the business case. Do it. Measure and reflect. Pitch the value of
+craftsmanship.
+
+P.S.: Product Managers! Encourage and teach your teams to think in economic
+terms. Take them seriously. Prioritize apples to apples. Foster a safe
+environment that’s friendly to discussing the economic impact of unmanaged
+complexity.
+
+> [Hacker Noon](http://bit.ly/Hackernoon) is how hackers start their
+afternoons. We’re a part of the [@AMI](http://bit.ly/atAMIatAMI)family. We are
+now [accepting submissions](http://bit.ly/hackernoonsubmission) and happy to
+[discuss advertising &amp; sponsorship](mailto:partners@amipublications.com)
+opportunities.
+
+> To learn more, [read our about page](https://goo.gl/4ofytp), [like/message
+us on Facebook](http://bit.ly/HackernoonFB), or simply, [tweet/DM
+@HackerNoon.](https://goo.gl/k7XYbx)
+
+> If you enjoyed this story, we recommend reading our [latest tech
+stories](http://bit.ly/hackernoonlatestt) and [trending tech
+stories](https://hackernoon.com/trending). Until next time, don’t take the
+realities of the world for granted!
+
+
+# Is Your Data Science Team An Island?
+
+I thought it might be interesting to use Search inside a multi-product SaaS
+provider— my current product domain — to explore some…
+
+* * *
+
+### Is Your Data Science Team An Island?
+
+I thought it might be interesting to use Search inside a multi-product SaaS
+provider— my current product domain — to explore some interesting topics
+around shared resources and complex internal service domains like data
+science. The topic came up a couple times during conversations at MTP 2017
+(especially among companies with complex offerings), so I’d like to continue
+the conversation.
+
+Here’s my simple overview of Search Relevance and UX. A user actively
+searching provides a “hint” (and there are some Search-specific challenges),
+but this is fairly similar to other data science problems.
+
+![](https://cdn-images-1.medium.com/max/800/1*kAHzTxmH28RTXx1RSlOQVQ.png)
+
+At my current job, Search partners with other internal teams who understand
+our various **User** personas and their **Goals. **We also partner with folks
+who have a deep understanding of how to **Help** users achieve their goals in
+certain contexts and while visiting certain touch-points (e.g. web-widgets,
+Mobile SDKs, APIs etc.) And finally, we collaborate with individuals who are
+experts in certain types of **Information**: things like support tickets, chat
+threads, and knowledge content. Sometimes — when we’re lucky — this expertise
+is embodied in a single person or team. And in other cases we need to cast a
+wide net within the company.
+
+For a complex business these distinctions are vital. The word _Product (_or
+even _Multi-Product)_ is too simplistic. A single user persona may access many
+touch-points, with multiple goals, and with access to various chunks of
+information … all in a single day. It’s more of a service ecology.
+
+Search teams (and other data science teams) cannot exist as remote tropical
+islands. Nor can they exist as islands connected to the mainland solely by
+Jira tickets, the promise of “extensible platforms”, heavy project management,
+and prescriptive feature requests. There will always be some skills — Search
+is a good example — where it is not feasible to hire dedicated resources. But
+that does not preclude teams from deeply partnering and embedding for the full
+duration of a “mission”… to the extent that for some period of time there is
+only one big, cross-functional team. At the end of the day … if it touches UX
+and the User, it can’t be done in a vacuum.
+
+Deep integration of the teams, lessens the risk of:
+
+  * Building **shiny objects** in isolation, that while shiny don’t really integrate well with the complete experience (ignores good UX) and/or leverage domain expertise
+  * A **spray and pray** approach that adds a lot of bells and whistles, but introduces unmanageable and unsustainable complexity
+  * Forcing **premature convergence** for the sake of “efficient” and well-coordinated (temporary) “projects”. And never really moving the needle. Once the effort really get’s going, the teams disperse
+
+If the technology is “left behind” with our internal partners we’re lucky, but
+most data science teams maintain certain tools, services, and infrastructure
+that exist in a dynamic state. There’s a spectrum … some services are very,
+very specific to certain emerging/novel use cases, other services are generic,
+and there’s a host of stuff in the middle. To make matters even more
+complicated, we might partner with other infrastructure / data engineering
+teams to keep the ship afloat. The BIG danger here is assuming economies of
+scale that may or may not exist, or assuming the technology stack (your stack,
+and the extend internal partner stack) is static. It isn’t.
+
+> The BIG danger here is assuming economies of scale that may or may not
+exist, or assuming the technology stack (your stack, and the extend internal
+partner stack) is static. It isn’t.
+
+In the best case, the service evolves organically around actual problems (with
+regular refactoring):
+
+![](https://cdn-images-1.medium.com/max/800/1*K-2lpeC5CoSp6LC9NMd7GA.png)
+
+What’s interesting for me personally, is that this dynamic is not that
+dissimilar from my prior work as a UX Researcher. The temptation with UX
+Research is to do big-batch upfront research and “land” that research on a
+team. This doesn’t really work. I’ve had much better results fully embedding
+with teams, and taking the team along for the journey. Frequently, what we
+thought was the problem (or would solve the problem) at first, proves to only
+play a bit-part in the big picture. You can’t just jump ship at this point.
+
+So some tips:
+
+  * Work out an internal funding model that takes into account 1) the complexity you are maintaining (not just the “new stuff”), 2) the fragility of assumptions around economies of scale, 3) the maturity of your various engagements, and 4) the actual VALUE you are delivering vs. what you cost.
+  * Keep your team extremely fluid and resist pre-optimizing around structure or process. Boundaries must be flexible.
+  * Focus on actual problems not building platforms. Let the platform emerge as a result of a disciplined loop of iteration, converging generic components, and tackling new problems.
+  * Know what constitutes your problem space, and make sure you have direct access to domain experts (for us it is Users, Goals, Touch-points, and Information). Don’t skimp, and get their full attention when it counts.
+  * Embed deeply. Consider you and your collaborators as a single team. Resist the pull to multi-task and matrix simultaneously
+  * Avoid premature convergence or adopting a “ticket-taker” / feature request / team Tetris.
+  * Boil up the objective to the highest level possible. For example, Search exists as one component in an interface. Ask … “what makes the WHOLE interface effective for the User and their Goal (with the available Information)?” You might find that advanced data science approaches aren’t even required.
+
+
+# Don’t Blindly Copy Ways
+
+Why can’t you just copy [insert tech company here] and be successful? Why can
+you know something is wrong, but be unable to improve the…
+
+* * *
+
+### Don’t Blindly Copy Ways
+
+Why can’t you just copy [insert tech company here] and be successful? Why can
+you know something is wrong, but be unable to improve the situation? Why is
+the “superstar” exec successful in one domain, but falters in the next (or the
+opposite … she gracefully adapts)? What forces must an internal change agent
+marshal to catalyze change?
+
+![](https://cdn-images-1.medium.com/max/800/1*6fCHS-DV3UzYOviHyV3OdA.png)
+
+There are seven key abilities/capabilities/concepts at play:
+
+  1. The **Way **to go from one **Way** to another **Way**
+  2. The **Way** to discover the right **Wa**y (for right now, and adapt accordingly)
+  3. Why a **Way** is working (or not working)
+  4. The **Way** it is (what are we actually doing?)
+  5. How to make the current **Way** work
+  6. Awareness that another **Way** is necessary
+  7. The principles guiding all **Ways** for a particular domain (and ability to identify that domain)
+
+You can have someone who is awesome at a particular Way (#5) … but lacks the
+other skills (#1-#4,#6,#7). They may have a vague idea something is wrong
+(#6), but perceive it to be poor execution of the current Way (#5). Or, they
+self-identify with doing things a particular Way and they’re fearful— their
+career and training depends on it — so they resist learning about first
+principles (#7), and embracing change.
+
+Similarly, you can have a situation where everyone is motivated to change
+(#6), but no one knows how to discover that new Way (#2), how to get there
+(#1), and exactly what is broken about the current Way (#3). So they “shop”
+for new Ways to copy, without deeply understanding applicability for their
+domain (#7) and Why that particular Way works (#3). Or an org that knows
+exactly where it needs to go (#2, #3, #4, #6, #7), but has a very, very hard
+time changing and adapting (#1).
+
+Finally, you find “midas touch” leaders who have an incredible knack for
+instilling #2 on their teams (discover the right way for right now),
+understand first principles (#7), and are able to inspire the people on the
+front lines to measure what’s working (#3), and own the change (#1). As long
+as the domains are reasonably similar, they (and their orgs) excel.
+
+You get the idea…combinations abound. Another way I’ve described this is as
+follows. To “win” you need:
+
+  1. Craft
+  2. Ability to sense the demands of your environment
+  3. Know how to adapt based on changes in your environment
+  4. The leverage to adapt (time, money, resources, safety, etc.)
+
+So when you find yourself wondering why something isn’t working … ask yourself
+if all of these abilities are present and are functioning correctly. Also,
+challenge yourself to think beyond roles, titles, and the current management
+structure. Who can you involve in the activity that has the information you
+need? How can you discover the Way as a team? How can you bake these skills
+into your org culture?
+
+
+# Product Management Must Adapt
+
+I put together this leave-behind for a talk/training session. Medium doesn’t
+do tables, so the best I can offer is this image (and this…
+
+* * *
+
+### Product Management Must Adapt
+
+I put together this leave-behind for a talk/training session. Medium doesn’t
+do tables, so the best I can offer is this image (and this [link to a
+pdf](https://drive.google.com/file/d/0B04yoW1JFDHGUTk2eTVuTU9vcDg/view?usp=sharing)).
+
+What was the motivation for this compara-listicle? I keep seeing the same
+practices/approaches/words/ideas that “worked” for wrapped products being used
+for SaaS (Software as a Service). Considering that SaaS is almost geriatric by
+tech standards, this is highly disconcerting. Throw in IoT, ML, AI, Zero
+Interface … and that every service company is now a technology company … and
+you’ve gotta wonder “can we evolve?”. We’re driving the feature factory, and
+we have to stop.
+
+Anyway … very busy the last two weeks, so apologies for not posting more.
+
+![](https://cdn-images-1.medium.com/max/1000/1*d6FyfHRsf13jiCByj7KSAQ.png)
+
+[![](https://cdn-images-1.medium.com/max/400/1*0hqOaABQ7XGPT-
+OYNgiUBg.png)](http://bit.ly/HackernoonFB)
+
+[![](https://cdn-
+images-1.medium.com/max/400/1*Vgw1jkA6hgnvwzTsfMlnpg.png)](https://goo.gl/k7XYbx)
+
+[![](https://cdn-
+images-1.medium.com/max/400/1*gKBpq1ruUi0FVK2UM_I4tQ.png)](https://goo.gl/4ofytp)
+
+> [Hacker Noon](http://bit.ly/Hackernoon) is how hackers start their
+afternoons. We’re a part of the [@AMI](http://bit.ly/atAMIatAMI) family. We
+are now [accepting submissions](http://bit.ly/hackernoonsubmission) and happy
+to [discuss advertising &amp;
+sponsorship](mailto:partners@amipublications.com) opportunities.
+
+> If you enjoyed this story, we recommend reading our [latest tech
+stories](http://bit.ly/hackernoonlatestt) and [trending tech
+stories](https://hackernoon.com/trending). Until next time, don’t take the
+realities of the world for granted!
+
+![](https://cdn-images-1.medium.com/max/2000/1*35tCjoPcvq6LbB3I6Wegqw.jpeg)
+
+
+# You Won’t BELIEVE These 14 Cray Cray Developer/Designer Retention Hacks…
+
+Or what not to do ….
+
+* * *
+
+### You Won’t BELIEVE These 14 Cray Cray Developer/Designer Retention Hacks…
+
+#### Or what not to do ….
+
+**_Note: _**_Sarcasm warning. I had some particularly strong coffee.   
+_**_Note:_**_ See
+_[_here_](http://neologisms.rice.edu/index.php?a=term&d=1&t=9024)_ for
+definition of Cray Cray  
+_**_Note_**_: Check _[_my other posts_](https://hackernoon.com/@johnpcutler)_
+for some actionable help on the topic_
+
+![](https://cdn-images-1.medium.com/max/800/1*ZtHatIe8R4dR7AnLBwMWcA.png)
+
+<https://permissiontokill.wordpress.com/2011/10/03/the-phantom-movie-
+serial-1943/>
+
+* * *
+
+  1. Hire smart, analytical problem solvers  
+… many with advanced degrees, high EQ, diverse interests, and systems thinking
+chops  
+… who are highly accustomed to making cost/reward decisions in their work
+
+  2. Sit them down at a desk in a noisy, public space so they are under constant scrutiny
+  3. Ask them to deliver an executive’s investment ideas
+  4. Measure those problem solvers and their managers by the _successful delivery _of those ideas
+  5. Apply poor rigor at connecting those investments to business outcomes. Better yet, fast-track silver bullets to gloss over poor outcomes
+  6. Rally them with success theater (that holds no water under the scrutiny of people who understand causation vs. correlation)
+  7. Run them through a gauntlet of process, rituals, and cultural manifestos. Award shwag
+  8. Make symbolic gestures to encourage diversity. Describe sexual harassment as an HR problem
+  9. Pamper them with good coffee, gourmet food, “healthy” high-calorie snacks, and hackdays
+  10. Optimize for keeping team busy, being responsive to the business, hitting deadlines, and adding complexity to the software that they must in turn refactor/support
+  11. Celebrate technical excellence and craft (to keep them focused on “what they can control”)
+  12. Send the ornery (but brilliant) ones off to solve big problems that let them be alone
+  13. Encourage the less brilliant, but more moldable ones to ascend/descend into management
+  14. Keep the others at their desks until they move on to the next gig (helps if they are single)
+
+
+# It’s A Wonder Some Teams Get Anything Done
+
+Or, why you should visualize ALL work and use Cost of Delay
+
+* * *
+
+### It’s A Wonder Some Teams Get Anything Done
+
+#### Or, why you should visualize ALL work and use Cost of Delay
+
+Let’s review two (scarily common) examples.
+
+#### Examples
+
+**Exhibit #1**. This team is working on two **initiatives**. Initiative 1 is “costing” the company $100,000 per month. Initiative 2 is “costing” the company $1,000,000 per month.
+
+![](https://cdn-images-1.medium.com/max/800/1*kqO7SqQtzcyNYFYv5vcKYg.png)
+
+Work breakdown for a singe team
+
+Cost of Delay (COD) is the “[partial derivative of the total expected value
+with respect to time](https://en.wikipedia.org/wiki/Cost_of_delay)”. ~30% of
+the team’s capacity is being dedicated to those two value-add initiatives. The
+rest of the team’s capacity is being “spent” on unplanned work (stemming from
+unmanaged complexity), planning for future efforts, and task switching. Why
+would any rational person work this way? Easy…to be responsive, stay busy,
+show some progress on the CEO’s pet project, and pragmatically deal with tech
+debt. What should they do instead? Something like…
+
+![](https://cdn-images-1.medium.com/max/800/1*XizTcNXRDQ-w9qBNNhBFsw.png)
+
+Working down the technical debt to limit the amount of unplanned work
+
+Since the unplanned work saps capacity almost equal to the two value-add
+initiatives combined, it might be wise to knock that out as quickly as
+possible, especially given the non-linear nature of unmanaged complexity. It
+could get gnarly fast. Unfortunately, this will be unpopular because “not
+doing new stuff” is a psychological hit for a team.
+
+**Exhibit #2**. Now let’s take a “shared” team (Team B). Maybe they’re a tools or infrastructure team. Lucky for them, they don’t have the same debt hanging over their head, but they do have to service two “high priority” projects (Team A swears this is high priority, and it literally may be their highest priority). There’s just one problem: one of the efforts (I2) is addressing 10x the cost of delay ($1,000,000 vs $100,000).
+
+![](https://cdn-images-1.medium.com/max/800/1*PXZw9ZfTSSXWFJRm-qRAeQ.png)
+
+Shared team (Team B) is splitting its capacity between two projects. Why?
+
+Is this bad? Of course! It’s terrible. Initiative 2 accounts for 10 Initiative
+1s. If doing both adds one month to the completion of Initiative 2, then the
+company will have “lost” $1,000,000. Why does this happen? I can think of many
+reasons:
+
+  * Team B has a specialized resource who can’t work on Initiative 2, so instead of training that person, they opt to keep those people busy on something else.
+  * Team B didn’t push back on Team A because they were worried about being called unresponsive.
+  * Someone promised a demo of Initiative 1. And in their spare time, a designer cranked out a mockup that everyone _loves_.
+
+#### Discussion
+
+Why is focus so difficult? Why is it so hard to slow down to speed up? Why are
+these teams making unsound decisions?
+
+  1. **Cost of Delay.** Notice how we used Cost of Delay to expose the folly of splitting work across two projects in Exhibit 1, and two shared projects in the case of Exhibit 2. Without an Apples-to-Apples way to prioritize work, this insight would be impossible. Cost of Delay allows us to make smart prioritization decisions when combined with a rough sense of initiative duration.  
+**To Do**: Start estimate cost of delay and prioritizing with CD3 ([see here](http://blackswanfarming.com/cost-of-delay-divided-by-duration/)).
+  2. **Invisible Work**. In my examples, all of the work is visible. That is rarely the case and this is a thorny topic for teams. Exposing “ticket duty” and unplanned work to the world can feel embarrassing. In some cases they’ve asked for the leeway to work down the debt, and have been denied. Or they’re dependent on another team to unblock them, and the help never arrives. Or worse still they don’t want the PM to shoot down their work (even when they know it is necessary). So they battle the unplanned work in secret. I talk more about this in my [Ops Death Spiral post](https://medium.com/@johnpcutler/learned-helplessness-and-the-ops-death-spiral-b0fff7d916b1). Teams doing Scrum are not immune to this.  
+**To Do**: Make it safe enough to visualize all work. Engage the team, and explain the upside.
+  3. **Task Switching**. We chronically underestimate the impact of task-switching (both in our personal lives, and our work lives). Imagine a day that starts at 9AM. Emails. At 9:30 there’s a half an hour standup. After some interruptions, you’re able to get an hour of focused work in before lunch. From 1pm to 3pm you’re stuck in meetings. More unplanned work. And finally from 4pm-5pm you get to crank on a story. Consider the cost of getting started after each interruption. Folks in the trenches frequently talk about “days that get away”.  
+**To Do**: Limit work-in-progress (WIP). Block uninterrupted time.
+  4. **Staying busy**. We are naturally geared to keep busy. When something is blocked, we are programmed to pick up the next task. Product Managers constantly ask “can we parallelize this?” The thought of someone having nothing to do — or god forbid coaching another team member, or knocking out some tiny UX debt tasks — is deeply troubling. High Utilization is dangerous.  
+**To Do**: It can be difficult and unreasonable to limit utilization, but the same effect can be achieved by implemented conservative WIP and watching queues.
+  5. **Teams just need more discipline**. It is tempting to attribute long lead times to a lack of team discipline. So more process is introduced (thereby increasing planning time). You can see from these examples that the problem is one of multi-tasking and unmanaged complexing. Ideally you’re measuring lead times — the time from initiative conception to actually delivered the expected value to customers — so you’ll be able to get an early indicator of when more resources (or more focus) may be needed. But even then … the tendency is to ascribe delays to team behavior/discipline, and not the system.  
+**To Do**: Make work visible and be honest about resource allocation. Demonstrate the team is working hard, but is struggling with multiple tasks.
+  6. **The need to please.** You’d think that optimizing for the company’s economic well-being would be priority #1. But it isn’t. Managers and teams want to be helpful, and add all sorts of dependencies and constraints that need not exist. Leaders want to claim they’re firing on all cylinders and moving on all of their promises. Maybe Team B promised Team A that they’d get started in Q3 (before Initiative 2 hit the scene). Team A may literally be idle without Team B’s help, and no one likes an idle team.  
+**To Do**: Hmmm. Frame things in economic terms and commit to the global economic outcomes?
+  7. **Uncomfortable decisions**. Note the number of tough discussions baked into those examples. We tend to shy away from the tough conversations, or jump in trying to defend our turf to the detriment of identifying the best way forward.   
+**To Do**: Read the book [Crucial Conversations](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/1469266822). Use Cost of Delay to keep things grounded in economics.
+
+That’s it. Nothing earth shattering.
+
+[![](https://cdn-images-1.medium.com/max/400/1*0hqOaABQ7XGPT-
+OYNgiUBg.png)](http://bit.ly/HackernoonFB)
+
+[![](https://cdn-
+images-1.medium.com/max/400/1*Vgw1jkA6hgnvwzTsfMlnpg.png)](https://goo.gl/k7XYbx)
+
+[![](https://cdn-
+images-1.medium.com/max/400/1*gKBpq1ruUi0FVK2UM_I4tQ.png)](https://goo.gl/4ofytp)
+
+> [Hacker Noon](http://bit.ly/Hackernoon) is how hackers start their
+afternoons. We’re a part of the [@AMI](http://bit.ly/atAMIatAMI) family. We
+are now [accepting submissions](http://bit.ly/hackernoonsubmission) and happy
+to [discuss advertising &amp;
+sponsorship](mailto:partners@amipublications.com) opportunities.
+
+> If you enjoyed this story, we recommend reading our [latest tech
+stories](http://bit.ly/hackernoonlatestt) and [trending tech
+stories](https://hackernoon.com/trending). Until next time, don’t take the
+realities of the world for granted!
+
+![](https://cdn-images-1.medium.com/max/2000/1*35tCjoPcvq6LbB3I6Wegqw.jpeg)
+
+
+# Building Shared Understanding Is Hard
+
+We were aligned last week. And now we are not. What gives? Correct. Building
+shared understanding is hard. And fleeting. You have to keep…
+
+* * *
+
+### Building Shared Understanding Is Hard
+
+![](https://cdn-images-1.medium.com/max/800/1*mB7S3wypuD9so6peD084mA.png)
+
+**We were aligned last week. And now we are not. What gives?**  
+Correct. Building shared understanding is hard. And fleeting. You have to keep
+at it.
+
+**Why are the on-boarding docs in Confluence out of date?**  
+Because building shared understanding is hard. It takes work. If we can’t keep
+them updated maybe they are not important. Do you care?
+
+**Do we really need another whiteboard session?**  
+Yes. Building shared understanding is hard. It takes time.
+
+**Why do we keep having to revisit the mission goals?**  
+Because building shared understanding is hard. Especially when we’re gathering
+new learnings and information.
+
+**Why didn’t they thoroughly read my Slack message?  
+**Because Slack is a fire-hose. Building shared understanding is hard. Go for a walk and figure it out. Or advocate for a team agreement to read and comment on important Slack messages.
+
+**The team is super busy. But we can’t seem to get anything done!**  
+Right. Because the stuff that matters requires shared understanding. And
+building shared understanding is hard. When we sidestep the hard work, we end
+up doing the less consequential work.
+
+**I can get so much done alone. People just slow me down.**  
+There are certainly times for that. But if a team of five is to operate as a
+team (and not five teams of one each), then you have to build shared
+understanding. And that’s hard.
+
+**Can we just write our standup updates in Slack each day?**  
+Conversations are important. Building shared understanding takes cadence,
+adding new information, and confirming our understanding. Can you do that in
+Slack? Give it a try…
+
+**What’s up with all the stickies? Can we get back to work?**  
+Sure. Just make sure you are walking out of the meeting for the right reasons
+and not because building shared understanding is hard.
+
+**I can’t get through to people.**  
+Yup. Building shared understanding is hard.
+
+**No one understands me.**  
+I can relate. It’s hard. Start trying to build bridges. Build shared
+understanding.
+
+**Why isn’t that [shared artifact] enough?**  
+____ is Hard. You may need more artifacts. Or more pairing on artifacts, and
+then throw them away once you’ve built shared understanding and captured that
+shared understanding in code and a usable product.
+
+**But …**  
+Building shared understanding is hard.
+
+**…**  
+Hard
+
+### So ….. Do the work!
+
+
+# Chalk Talk: Mapping the Why, Assumptions, and Solutions
+
+Video and Transcript
+
+* * *
+
+### Chalk Talk: Mapping the Why, Assumptions, and Solutions
+
+#### Video and Transcript
+
+![](https://cdn-images-1.medium.com/max/600/1*ZOcpMYUhWtzDqqaTjQ2f0A.png)
+
+One of the central roles of a product manager is to drive shared
+understanding. With shared understanding, a team is more effective, resilient,
+and creative. Alignment without shared understanding is temporary and short-
+lived. The best teams find a way to break down complexity and speak the same
+language. They row relentlessly in the right direction, even when that point
+on the horizon shifts.
+
+In my chalk talk, I share a framework for building shared understanding with
+your team and other stakeholders. You can either watch my chalk talk or read
+the transcript below. Enjoy!
+
+### Transcript …
+
+### The Problem: Context is Always Changing
+
+We all know that one of the big challenges of product management is sharing
+context. You don’t only have to share it with your team, or across your team,
+but you also have to share it across the entire organization. You’re basically
+sharing context all the time. And the challenge is that the context is always
+changing. The context of yesterday is not the context of today.
+
+In my chalk talk, I’m going to frame that problem, and give you some
+strategies to make sure that the context you share is the most current
+context, and is deep enough for your teams to be able to take action.
+
+### Direction vs. Destination
+
+Think about some of the words that we use, and think about how we communicate
+strategy as product managers. Let’s say you’ve got a horizon, and you’re in a
+boat. Now for a lot of knowledge work, you’re just generally sailing west,
+like Columbus. You’re sailing to a point on the horizon. You’re going
+somewhere. That’s a direction.
+
+Now think about how people frequently state goals. They state a series of
+unique points along a line, that you need to be able to hit in order to get to
+a specific endpoint. And that’s what we call a destination. Think about those
+two words: One is _direction_, and that’s a lot more applicable to knowledge
+work, and the other is a very linear, deterministic goal that you’re trying to
+hit. Direction versus destination.
+
+Let’s take a real-life situation: You have a friend and they say, “I want to
+lose five pounds.” You have another friend that says, “I want to eat healthy.”
+Those are two different perspectives. One is a destination-based perspective
+(“I want to lose five pounds”). And the other one is a more systems-based
+perspective (“I want to eat healthy”).
+
+Now, we all know there are many unhealthy ways that you could lose five
+pounds. The idea is by eating healthy, one of the things we might notice is
+losing weight. But we might also live longer, we might be happier, and we
+might be less stressed. So that’s more of a systems approach.
+
+Now, the third example is this idea of cascading goals. Dividing one goal into
+a sub-goal, into many sub-sub-goals, into many sub-sub-sub-goals, into sub-
+sub-sub-sub-sub-goals. We see this in practices like OKRs, or management by
+objectives.
+
+The idea is that everything cascades up and connects with a higher level goal.
+Teams are told to focus on their individual goal. Now, that might be good in
+some situations. But in a lot of the environments that we’re working in, the
+teams that are on the front lines actually need to be able to see the big
+picture. They need to do this so that they can take course corrections as
+they’re moving along. Think about a person who’s working right there [points
+at lower level goal]. If they know that’s the goal and they see the context
+changing, what if they could circumvent all these steps and just achieve that
+goal in another way? What if the context changes for this goal, or if they
+could take a shortcut?
+
+I tried to lay these out here as we’re understanding the problem. You have
+destinations versus directions. You have goals versus systems. And then you
+have the need for teams to be able to see the big picture in knowledge work to
+make sure that they can take the course corrections necessary to move in the
+right direction.
+
+### The Reality: Context is a Moving Target
+
+But the reality in product management is, we’ll do a kickoff, and at that
+point, shared understanding is at an all-time high. Or we _think_ it’s at a
+high. But over time, we’re always fighting the downward pressure on shared
+understanding.
+
+The context is changing. And at the same time, we’re learning, and we’re
+improving our shared understanding. We might be iterating and getting more
+shared understanding. It’s always this push and pull on what we’re learning
+and the degree to which our learning is depreciating that really dictates the
+situation.
+
+That’s one problem. We’re always losing shared understanding and gaining
+shared understanding. And even when we have a new, better, shared
+understanding, we still have trouble communicating that.
+
+A second reality is that different people on your team have different needs.
+You might have someone who is more junior, who’s new at this, who may just not
+care all that much about the big picture, and they’re looking down here [draws
+line downward]. They’re looking for things right in front of them: “Can you
+tell me what needs to be done next, please, so that I can do my job?”
+
+Meanwhile, you have the people who are asking why all the time and the people
+who need to understand the big picture. And these sometimes are your most
+valuable employees. They want to understand the big picture, how things are
+fitting together, and how things relate to each other. You’ve got both of
+these personalities on your teams.
+
+And the third part of the reality is, the problem-solution dichotomy that
+everyone talks about, where we’ll specify the problem and you specify the
+solution, is a lot more intricate than that. Because every problem has a
+solution to some higher-level problem. Even something like hitting quarterly
+goals, or a new round of funding, that’s a solution towards maybe reaching a
+higher-level goal for your company. When people are talking about problems and
+solutions, it’s a lot more complicated than that.
+
+Talk to an engineer for example, even the slightest interface change is a
+problem to solve. You have nested problems and solutions and people with
+different needs. And you have the fact that shared understanding is always in
+a dynamic state, and you’re always having to communicate it.
+
+### The Solution: Mapping Context
+
+I’ve found the following technique to be an extremely helpful tool to help you
+get your own head straight about things, and for communicating context to your
+team. I also recommend doing this exercise with your team. It’s a great way to
+develop a shared vocabulary.
+
+And this is an issue with roadmaps as well; it’s really about having a
+conversation. It’s really about sharing the same vocabulary and having the
+conversation that yields the best results. Let me show you this method for
+mind mapping.
+
+### 1\. A Fuzzy Goal
+
+You start with some fuzzy goal. And fuzzy goals like we’re talking about
+aren’t the most prescriptive goals, and they’re not the big pie-in-the-sky
+goals. They’re something that is actionable and directional.
+
+### 2\. Because, We Know, And We Assume
+
+Now, everyone wants to know the why. Why are we trying this? Why are we doing
+this? To answer this question, we use the word _because_. Everyone can relate
+to the word because. And we throw on two other phrases: ‘we know’, and ‘we
+assume’. And this is absolutely essential. How many times have you gotten two
+months into a project, and someone says, ‘why are we doing this’? And someone
+said, ‘well, I guess we assumed that this was true’. And the person says, I
+know that’s not true. So by saying this, we know and we assume, you really
+make it clear why you’re doing it, and what’s the underlying rationale.
+
+### 3\. While And Without
+
+And the next two words are ‘while’ and ‘without’. This can be a little tricky
+to wrap your head around. In your quest to achieve this fuzzy goal, what are
+the boundaries? What resources are you playing with? A great example that I
+can think about is that you’re doing something that might potentially damage
+the user experience. You might want to create a boundary there. You know what?
+No matter what we do in our effort to try to improve this fuzzy goal, we don’t
+want to mess up the user experience. So we use these words, ‘while’ and
+‘without’. And I’ll give you an example of all of this together in a bit.
+
+### 4\. By Trying
+
+And then finally, we have what people commonly call solutions, but I just call
+it ‘by trying’. We’re going to try something to attempt to move this fuzzy
+goal. But the most important point here is that you can nest these. And by
+nesting, you can start having another ‘because’ for this, and another ‘while’
+or ‘without’, and another ‘by trying’.
+
+### 5\. Example
+
+Let me give you an example that everyone can relate to, something like eating
+healthy.
+
+_Because_ we know that eating healthy might help you live longer. Maybe that’s
+an assumption, but I think commonly, people know that. And we _assume_ that
+our relationship might be better if we eat healthy and we’re less stressed
+out. _Because_ we _assume_ that eating healthy reduces stress.
+
+We’ll do this _without_ breaking the bank. We’ll _try_ to eat healthy, but you
+know, we’ve got a budget. And we’ll do this _while_ making sure that, we have
+fun sometimes. We’re going to go out and eat with our friends.
+
+And we’re going to do this _by trying_ what? We’re going to do this _by
+trying_ to cook in six nights a week. _Because_ we think that by cooking in
+six nights a week, just by the nature of cooking in, we’re going to eat
+healthier. We’re going to do that _without_ annoying our kids, _because_ they
+watch TV at a certain time. And then we’re going to do that _by trying_ to
+have a set menu ahead of time that we shop for at Whole Foods, for example.
+
+What you see here is that if you can start to state your goals this way,
+instead of just having a big cascade of goals that just say things like ‘meet
+this revenue goal’, ‘or ‘this is this metric’, or this is this other aspect of
+your goal’ you’re explaining your rationale.
+
+What I would like to encourage you to do is to try this mind mapping method as
+a way to just get your heads straight before jumping into a roadmap or another
+strategic document.
+
+### In Summary: Resist Prescriptive Goals
+
+First we talked about the difference between a destination and a direction, or
+systems and goals. And next we talked about the challenges of shared
+understanding. That we’re always trying to grow shared understanding, but it’s
+always degrading, too. There’s always that dynamic happening.
+
+And then, I talked about a mind mapping method to help you develop a common
+vocabulary. And that conversation is critical because if you have that
+conversation, you can constantly get context.
+
+When you think about it from a product manager’s point of view, it is always
+tempting to have prescriptive goals. That is a temptation that always exists.
+And If you take a step back, that is too fragile for most knowledge work. If
+you just create those destinations that people must hit, then the context
+changes, they’re not going to be able to change course. You’re going to lose
+that shared understanding very quickly.
+
+What I’d like you to do is to think about direction instead of destination as
+you’re putting together your roadmaps. Make sure that you’re communicating the
+why, the data that you have behind that, the boundaries that you’ve created
+around your particular goal, and also encourage people to try new things.
+
+Maybe one thing won’t work, but if they can understand what your rationale is
+in your thought process, then they might creatively come up with other
+solutions that might achieve that goal even faster.
+
+
+# I Need To Fix This
+
+Note: This post isn’t my normal tech/product fare, although it does relate to
+work. It talks about growing up with addiction, and later…
+
+* * *
+
+### I Need To Fix This
+
+_Note: This post isn’t my normal tech/product fare, although it does relate to
+work. It talks about growing up with addiction, and later that transferring to
+work situations. I’ll be back to tech/product in the next post. Hang tight._
+
+At age eight, I wrote [working
+agreements](https://www.uvm.edu/sites/default/files/working-agreements-
+defined.pdf) for my family. I wanted the fighting (and drinking) to stop. My
+contract — written in loopy cursive, dull pencil, and red ink underline — is
+packed away somewhere in a Neiman Marcus Christmas sweater box near the
+mothballs. Every couple years, I’ll stumble across it while looking for the
+happy-looking photos, of which there are plenty. These situations aren’t
+binary and clearcut. Wonderfully loving people can do self-destructive things.
+And things can, and do, improve.
+
+As a certain brand of [adult
+child](http://www.michaelsamsel.com/Content/Individuals/adult_child_syndrome.html),
+you hold a core belief — fantasy, almost — that if everyone can just get on
+the same page you’ll be OK.
+
+![](https://cdn-images-1.medium.com/max/800/1*Utx8yUk_bDIIliF1A-UoKQ.png)
+
+There’s hypervigilance and overthinking. At work, you pick up on shifts in the
+flow of energy, the turning tide, the disappointed coworker, the elephant in
+the room, and the snarl of politics. You develop a keen sense of “the system”,
+and tend not to blame individuals (because individuals are good, of course,
+but do bad things). You need, on some level, a battle to fight, or — as a
+teacher once told me — a wolf behind every tree. Perhaps this is why adult
+children often gravitate to the helping professions.
+
+> **Overthinking Things**. Adult children start thinking ‘too early’ because
+they are not able to proceed in early life by _‘going-on-being’_ Often they
+are precocious intellectually and this leads to intellectual attainment that
+is valuable as an adult. However there is a tendency to misuse cognition to
+try to sort out matters of emotion or preference
+([source](http://www.michaelsamsel.com/Content/Individuals/adult_child_syndrome.html))
+
+![](https://cdn-images-1.medium.com/max/800/1*e9IJuPOAi5Qh0_lFvm24ZA.png)
+
+These traits are rewarded and prove to be valuable in some contexts, but also
+come at a deep cost. Work environments can be particularly challenging.
+
+We are in our element when there is tension, a nut to crack, and a system to
+unravel. “If only _________ could see how much this is impacting others!” “Why
+can’t other people see what I see?” “I have to cover all of the angles!” “This
+all flows down from THAT dysfunction!” I remember putting small bits of tape
+(and later pen marks) on wine bottles hoping that I could “prove” that
+something was wrong, and then everything would be better.
+
+Ironically, what can appear as externally focused — helping others, fighting
+for others, bringing peace, empowering people— is itself an act of self-
+preservation. “Fixing” feels safe, but you get so focused on fixing, that you
+don’t notice the progress you’re making, or whether you actually feel good!
+
+> **Excessive Altruism** This is often vicarious nurturing. The adult child
+does for others what he or she down deep wants to receive. It usually leads,
+however, to self-impoverishment (which puts a de facto ceiling on how much
+others really could be helped anyway)
+([source](http://www.michaelsamsel.com/Content/Individuals/adult_child_syndrome.html))
+
+Cognitive dissonance and coherence issues appear in almost all companies.
+There’s almost _always _some baggage there…just like any family. I don’t think
+“all companies are fucked up”, but I think they’re always working through some
+sort of challenge (hopefully with some degree of psychological safety).
+
+![](https://cdn-images-1.medium.com/max/800/1*_WyVOoaKFO60jjNqz9ys4A.png)
+
+At the water cooler you’ll find coworkers who _look and sound _frustrated. And
+they are _at that moment._ But you have to remember that they aren’t
+internalizing the information like you may be internalizing the information.
+They’re likely playing a longer game…a game you find difficult to play because
+you’re not used to sustained happy endings. They _expect _healthy outcomes. If
+it gets to be too much, they’ll hit healthy limits and leave. They’re not
+bringing home the angst. So as much as you might want to help and champion the
+cause (deep down, _your_ cause)…you have to remember _your_ core needs.
+
+The same goes with leaders and managers. Trust me, I’ve been that guy writing
+the “shit is fucked up, we need to fix it” email to bosses and CEOs. In many
+cases I’ve been rewarded for that — the guy who calls it like it is, and
+doesn’t sugar coat. One even said:
+
+> I like having you around because you challenge things. You’re the only
+person willing to challenge me. You make me think. But how are you? Are you
+happy?
+
+Bless that guy. Smooth as silk, while the castle was burning!
+
+The personal toll can be large. Burnout and workaholism are a real threat.
+
+![](https://cdn-images-1.medium.com/max/800/1*C9fE6clKqGjCgp9bGWXnOQ.png)
+
+I’m not an expert in this (obviously). I’m talking about my experiences, which
+may not be like your experiences. I just wanted to share a bit and encourage
+others to share. Doing so has helped me. I’ve benefited from support groups,
+reading, meditation, and the support of my family and significant other. I’ve
+come to grips with the fact that some of this “legacy code” is pretty damn
+effective for certain tasks. And that occasionally I need to do some
+refactoring. Gotta get some product dev in there :)
+
+So, excuse the cliche, but know there are other people out there who might
+share your experiences. To truly help others, we need to help and protect
+ourselves.
+
+Back to our original programming on the next post. These drawings are from my
+[100 Doodle project](https://medium.com/personal-growth/10-things-i-learned-
+by-doodling-for-100-days-straight-a802753c5a25).
+
+![](https://cdn-images-1.medium.com/max/800/1*5QwOZxKi2TFmjDcSq4-YKw.png)
+
+
+# 40 Twitter Doodles, Lists, and Diagrams
+
+In prepping for a future Medium post, I found myself culling through old
+tweets. I enjoy doodling, listicles, and diagrams. And I like The…
+
+* * *
+
+### 40 Twitter Doodles, Lists, and Diagrams
+
+In prepping for a future [Medium](https://medium.com/u/504c7870fdb6) post, I
+found myself culling through old tweets. I enjoy doodling, listicles, and
+diagrams. And I like The Twitter.
+
+![](https://cdn-images-1.medium.com/max/800/1*nsxfB9NVDfF0aMcOogWMiA.jpeg)
+
+Occasionally these drawings and lists end up as
+[Medium](https://medium.com/u/504c7870fdb6) posts, but most often they stay
+tweets. I’ve shared a couple below that caught the attention of the software-
+product-nerd-o-sphere.
+
+I view Twitter as a wonderful constraint. One tweet, one image. Which means
+that a lot is left unsaid, and misunderstandings are common. So take it all
+with a grain of vague-salt.
+
+> [](https://twitter.com/johncutlefish/status/883913465592659968)
+
+![](https://cdn-images-1.medium.com/max/800/1*ezE9M6LWl-B0JjzcFHockg.png)
+
+> [](https://twitter.com/johncutlefish/status/883161295406551040)
+
+> [](https://twitter.com/johncutlefish/status/883874470212927488)
+
+> [](https://twitter.com/johncutlefish/status/878875414982086656)
+
+> [](https://twitter.com/johncutlefish/status/878761027814346752)
+
+> [](https://twitter.com/johncutlefish/status/881276133328658432)
+
+> [](https://twitter.com/johncutlefish/status/880179993719881728)
+
+> [](https://twitter.com/johncutlefish/status/876522852802887680)
+
+> [](https://twitter.com/johncutlefish/status/883161295406551040)
+
+> [](https://twitter.com/johncutlefish/status/882837198231359488)
+
+> [](https://twitter.com/johncutlefish/status/878467603580059648)
+
+> [](https://twitter.com/johncutlefish/status/877597197675642881)
+
+> [](https://twitter.com/johncutlefish/status/881933328655425536)
+
+> [](https://twitter.com/johncutlefish/status/874004684825952256)
+
+> [](https://twitter.com/johncutlefish/status/873797258566787072)
+
+> [](https://twitter.com/johncutlefish/status/870558042655346689)
+
+> [](https://twitter.com/johncutlefish/status/859914711797604352)
+
+> [](https://twitter.com/johncutlefish/status/860896664566902785)
+
+> [](https://twitter.com/johncutlefish/status/864353521117798405)
+
+> [](https://twitter.com/johncutlefish/status/866545851006541824)
+
+> [](https://twitter.com/johncutlefish/status/862737569603174400)
+
+> [](https://twitter.com/johncutlefish/status/852629447098236928)
+
+> [](https://twitter.com/johncutlefish/status/841057371862384640)
+
+> [](https://twitter.com/johncutlefish/status/832354644454051840)
+
+> [](https://twitter.com/johncutlefish/status/836060224314171392)
+
+> [](https://twitter.com/johncutlefish/status/816732089802330112)
+
+> [](https://twitter.com/johncutlefish/status/821136021932781568)
+
+> [](https://twitter.com/johncutlefish/status/804193217369534464)
+
+> [](https://twitter.com/johncutlefish/status/810590672898002944)
+
+> [](https://twitter.com/johncutlefish/status/795279988056473600)
+
+> [](https://twitter.com/johncutlefish/status/790226858495225856)
+
+> [](https://twitter.com/johncutlefish/status/789479338261577728)
+
+> [](https://twitter.com/johncutlefish/status/792862440388046848)
+
+> [](https://twitter.com/johncutlefish/status/759858875600408576)
+
+> [](https://twitter.com/johncutlefish/status/752112832435646464)
+
+> [](https://twitter.com/johncutlefish/status/759695918924959744)
+
+> [](https://twitter.com/johncutlefish/status/756623476958466048)
+
+> [](https://twitter.com/johncutlefish/status/741927058218098688)
+
+
+# Project Team vs. Product Team
+
+In this diagram, I try to work out some of the differences between a more
+narrowly focused project team, and a more broadly focused product…
+
+* * *
+
+### Project Team vs. Product Team
+
+In this diagram, I try to work out some of the differences between a more
+narrowly focused project team, and a more broadly focused product team.
+
+Projects _can_ be outcome, and benefits focused (not just output focused).
+[Benefits realization is a
+thing](https://en.wikipedia.org/wiki/Benefits_realisation_management). A
+product team embarks on initiatives, and makes bets and investments (aka
+Projects). At least in theory, project/program/portfolio governance cares
+about expected benefits AND actual benefits. So, I dunno, I’m not irked by the
+word project.
+
+I frequently encounter debates about Projects (and estimates). When you step
+back, you see it really doesn’t have much to do with the word Project (which
+is rather open and malleable). Rather, you see that it is about scope of
+responsibility, who does what, and who decides what. That’s what I wanted to
+dig into here.
+
+![](https://cdn-images-1.medium.com/max/2000/1*pBQEhZLXzsPBAyaJJ38nFw.png)
+
+
+# Devs! Don’t Outsource Continuous Improvement!
+
+Here’s some advice to developers. Take continuous improvement into your own
+hands. Don’t rely on a manager or a Scrum Master. Take pride in…
+
+* * *
+
+### Devs! Don’t Outsource Continuous Improvement!
+
+![](https://cdn-images-1.medium.com/max/800/1*jsqcwnau087Qmd8oBhnmHA.png)
+
+Here’s some advice to developers. Take continuous improvement into your own
+hands. Don’t rely on a manager or a Scrum Master. Take pride in doing it
+right.
+
+Visualize your work. Measure lead times. Be disciplined in your retros.
+Surface impediments and blockers. Measure defects that get through to
+production. Call out areas where you need additional expertise. Get deeply
+involved in hiring. Keep track of how much [flow
+time](https://en.wikipedia.org/wiki/Flow_%28psychology%29) you experience as a
+team. Write run-books. Do RCA when applicable. Don’t toss things over the wall
+to another group. Do lunch and learns for other developers in your org. Do
+diligent group code reviews. Consider practices like mobbing and pairing. Hold
+effective meetings. Continuously refactor. Go to conferences together.
+
+Own it. Don’t outsource it.
+
+Push folks like me (PMs) to show you data for the work you’ve finished. Agree
+to meet with customers. Take an interest.
+
+If you do all this, and your organization can’t…
+
+  * remove blockers
+  * resource the effort accordingly
+  * let you practice your craft
+  * overburdens you with work (keeps you busy)
+  * disrespects you
+  * asks you to cut corners that make no economic sense
+
+…then leave. That’s it. Not worth your time. You’re a pro and you deserve
+better.
+
+All too often teams and management play a little dance. There’s a trust issue.
+So the teams resist continuous improvement (because it always flops).
+Management ups the process because there’s a lack of discipline and trust.
+Process is used to “prove whether the team is doing its best”. All the wind
+for any meaningful change is taken out of the team’s sails.
+
+You end up with a weird bad parent / rebellious child syndrome.
+
+At some point, someone has to try to break the cycle. Let that be you.
+
+
+# So You Want Predictability…?
+
+In fiction: we find the predictable boring. In real life: we find the
+unpredictable terrifying. ― Mokokoma Mokhonoana
+
+* * *
+
+### So You Want Predictability…?
+
+> In fiction: we find the predictable boring. In real life: we find the
+unpredictable terrifying. ― Mokokoma Mokhonoana
+
+I’ve been thinking lately about the word _predictability_.
+
+Individual teams often have very little control over their ability to generate
+_predictability_. Predictability is a function of the team, the work, and the
+system surrounding the team. If work at a particular organization has an
+average flow efficiency of 20% (values typically range between 10% and 40%),
+then the team could go 2x over their estimate, and the lead time would
+increase by only .2x. Predictability is gained through perseverance, and a
+strong culture of continuous improvement EVERYWHERE.
+
+Now… a stakeholder might say “despite these factors, all we ask is for you to
+do your part! Given all of these headwinds, just let us know when you’ll be
+done!” Hmmm. OK then, I’ll just bundle up all of the variability and drag,
+double the lead time, and give you a mediocre, but achievable target. Good for
+me (and maybe you), but bad for the business.
+
+To prepare you for your next predictability conversation, I have prepared this
+handy list. I’m sure they’ll understand.
+
+_Note: Joke aside, I do believe it is the job of the team to quantify these
+impacts in a disciplined way._
+
+* * *
+
+Dear ____________ . I 100% respect your need for predictability. I’d like
+predictability as well! Predictability is a two way street. My team needs
+discipline, craft, and passion. That’s a given. But to get to that elusive
+level of predictability, we’ll also need you to….
+
+  * Let us focus 100% on the effort
+  * Colocate everyone (the capital “T” Team). Remove all dependencies
+  * Give us the tools we need, and provision consistent environments
+  * Allow us to pick the right tools for the challenge at hand
+  * Establish a psychologically safe environment for the team
+  * Provide instant and direct access to customers for research/validation
+  * Provide access to meaningful data and insights
+  * Begin the measure of predictability _after_ technical debt work-down
+  * Begin the measure of predictability _after_ we have improve test coverage
+  * Let us hire people who have solved this _exact _problem in a _perfectly similar_ context (technology, competitive, organizational)
+  * Give us control over who we hire, and don’t constrain hiring by forcing us to fill requisitions prematurely with subpar talent
+  * Let us use the software development methodology that suits us, and ideally let us complete similar efforts and collect data
+  * Make meeting rooms and soundproof rooms available at all times
+  * Remove all approval/review steps, or make those resources instantly available to the team whenever required
+  * Give the team time to get to know each other, and establish trust
+  * Remove all extraneous, non-value-add processes
+  * Eliminate any managerial sub-optimization, politics, and bureaucracy
+  * In lieu of all this, we’ll do what we can on our end. We’ll do our best
+
+
+# 42 Things Non-Front-Liners Misunderstand
+
+It is unfair to expect people who haven’t worked on the front lines in
+software development to just get it. Just as, I’m guessing, it is…
+
+* * *
+
+### 42 Things Non-Front-Liners Misunderstand
+
+![](https://cdn-images-1.medium.com/max/800/0*hilXTtHO1RQm5DxY.png)
+
+It is unfair to expect people who haven’t worked on the front lines in
+software development to _just get it_. Just as, I’m guessing, it is hard for
+developers and UXers to grok sales and marketing, being a CEO, and working in
+HR. Assuming malice is a big mistake. We all want great outcomes for our
+respective businesses, but have a hard time bridging the divide.
+
+I’ve offered up 40 or so based on my conversations with developers, designers,
+UXers, data scientists, customer support, and product managers. Of course …
+“it depends”, and none of these apply everywhere.
+
+#### **Please add more!**
+
+* * *
+
+### **Non-Front-Liners routinely …**
+
+  1. **Underestimate** the cost of multitasking and context switching
+  2. **Underestimate** the cost of increasing complexity (adding use-cases, capabilities, etc.)
+  3. **Underestimate** the benefits of regular refactoring, investing in tooling, and allocating time for unstructured research/experimentation
+  4. **Underestimate** the investment required to build (and maintain) a meaningful level of shared understanding
+  5. **Underestimate** the value of iterating immediately (not months later) based on actual customer usage and feedback
+  6. **Overestimate** the value of “divide and conquer” models whereby individual teams have limited contact with other teams that are contributing to the same initiative
+  7. **Overestimate** the value of having managers/proxies communicate between teams (vs. having the teams communicate directly)
+  8. **Overestimate** the value of centralizing/sharing certain functions (e.g. QA, DevOps, UX)
+  9. **Underestimate** the value of committing later to work (e.g. acting on new information, not pre-committing resources)
+  10. **Underestimate** the value of more unstructured hacking/spiking to fully grasp the magnitude of a new challenge
+  11. **Underestimate** the cost of isolating individual team members on distinct “projects” to boost utilization rates (vs. having more slack time, and focusing on fewer initiatives)
+  12. Underestimate the cost of having single architects who “decide everything” in isolation, thereby removing front-liners from the decision making process
+  13. **Overestimate** the value of segregating front end and back end developers
+  14. **Overestimate** the value of using artificial deadlines to motivate employees
+  15. **Underestimate** the cost of leaving known bugs/defects active in product
+  16. **Overestimate** the value of extensive pre-planning without individual contributors (the people who will do the work) present
+  17. **Underestimate** the value of spending time “away from keyboards” (e.g. visiting customers, team white-boarding, etc.)
+  18. **Underestimate** the cost of preventing developers from using their tools of choice. The flip-side might be overestimating the value of consistency in tool selection.
+  19. **Overestimate** the ability for customers to describe what they need, and what they might find valuable
+  20. **Underestimate** the value of connecting new developer hires with the broader business context (e.g. invite them to sales calls, the customer support queue, etc.)
+  21. **Underestimate** the cost of becoming emotionally attached to high-fidelity mock-ups
+  22. **Underestimate** the value of unbiased coaching and facilitation
+  23. **Underestimate** the value of co-location and underestimating the cost of mixed-location (having some people co-located, but others remote)
+  24. **Overestimate** the value of adding process when an environment features low trust/low safety
+  25. **Overestimate** the value of having experience in a specific language/domain (of course, sometimes this is very valid)
+  26. **Underestimate** the value of working horizontally across a problem space (vs. going deep component by component)
+  27. **Underestimate** the value of live pattern libraries
+  28. **Underestimate** the cost of celebrating silver bullets when the work required corner cutting and is obviously “for show”. **Overestimate** the value of success theater
+  29. **Underestimate** the value of giving a team autonomy over its work environment and providing dedicated spaces to meet/work
+  30. **Underestimate** the cost of having a system that is too complicated for any one person to understand/explain
+  31. **Overestimate** the value of measuring a team solely based on story point velocity
+  32. **Underestimate** the interest developers have in understanding the business/customer problem (and the value that might afford to the company)
+  33. **Overestimate** the value of addressing team conflict via 1:1s (vs. coaching the team to resolve its issues publicly)
+  34. **Overestimate** the ability for a single product manager to correctly predict the future
+  35. **Underestimate** the value of connecting work to high-level business outcomes
+  36. **Underestimate** the cost of having inconsistent environments for QA, Staging, etc.
+  37. **Underestimate** the cumulative drag created by a “brilliant” executive who exhibits toxic behavior. Underestimate the costs required to insulate that behavior from the rest of the organization (and the efficacy of those efforts)
+  38. **Underestimate** the degree to which certain incentive structures can create conflict between team members
+  39. **Underestimate** the cost of coherence issues (e.g. actions running counter to stated company culture or goals)
+  40. **Underestimate** the value of divergence early in an initiative. Our tendency is to prematurely converge and “get moving”
+  41. **Underestimate** the cost of making individual promises to customers around compliance and security (vs. global policies)
+  42. **Overestimate** the degree to which developer “touch time” impacts the total lead time for initiatives (a value of 40% is good, 10–15% typical)
+
+Here’s what would be awesome… if together we could amass a compendium of
+“**things Non-Front-Liners routinely underestimate and overestimate when
+thinking about software product development**”. I think this format works, and
+would help us stay consistent:
+
+  * Underestimate the cost of ____________________
+  * Overestimate the value of __________________
+
+My goal here isn’t to rant, but rather to build bridges and shared
+understanding. Let’s keep comments short and concise, with a focus on benefits
+to the business.
+
+
+# 12 Bottom-Up Change Hints
+
+Email is a terrible way to advocate for change. Too much can go wrong.
+
+* * *
+
+### 12 Bottom-Up Change Hints
+
+![](https://cdn-images-1.medium.com/max/800/1*K5CYeh-Ou6OB5QttCHGhwg.jpeg)
+
+Sometimes you need to wear rose colored glasses ….
+
+  1. Email is a terrible way to advocate for change. Too much can go wrong.
+  2. Don’t assume that someone who complains about something in private, is prepared to advocate for change in public. Pick your agitators wisely.
+  3. Craft the change you want in terms accessible to the business. How will this improve/create business outcomes? This is a no-brainer, but I always amaze myself by how often I leave out the Why, and connect that to my proposed How/What/Who. I assume the connection is self-evident.
+  4. Remember that the system is perfectly optimized for _something_. That something may be the perfect balance of two opposing agendas. It is tempting to identify that tension as instability (and a situation ripe for disruption), but the butting of heads can be perfectly predictable, and intractable. Put another way, don’t assume discord equates to an opportunity for change, and don’t assume “this makes no sense” means it truly makes no sense. Also, realize that a single goal — a promise to grow at a certain rate, for example — can obliterate and overshadow all other needs. Nothing else is important, even when people say it is. Ask yourself … what is this system truly optimized for?
+  5. Be prepared to leave. Some things aren’t worth fixing. And some things are fixable in ways that will be dissatisfying to you personally. Speaking for your own needs can be far more powerful than “speaking for” others.
+  6. Understand that 95% of all conversations with executives involve someone 1) complaining about someone/something, and/or 2) advocating for a pet project and asking for resources. Advocating for bottom-up continuous improvement is problematic because it implicitly suggests 1) something is broken, and 2) you are advocating for a scary and unpredictable “way” involving empowering the plebeians and cutting out managers. It feels non-actionable …the typical reply is “I want solutions, goddammit, not problems!” As an alternative, don’t ask for permission. Say “we’re trying [some thing] to see if [some outcome], and we’ll measure success by [some benefit].”
+  7. Go as high up the ladder as possible, but keep it brief. In line with the point above, understand that most senior executives are sick and tired of the political mayhem below them (even when they are the key reason it exists). They’re just waiting for someone to speak straight with them (even when their response to straight talk is to crush it into oblivion). Use this to your advantage, and make it count. Give them a back channel to what is “really happening” without overwhelming them or coming off as overly vested.
+  8. Remember that executives are being peppered with new/shiny “ways” 24–7. Why aren’t we doing [some fancy way]? This 1) implies the company is behind the times, and 2) implies that you think that by merely adopting a “way”, everything will be OK. Execs hate the idea that similar companies are absolutely kicking their ass by adopting simple practices (and creating the trust/safety to try new things). So…de-buzz-word everything. Don’t mention that Google has had success ___________________.
+  9. Realize that you will be accused of trying to “convert” people. It is critical to let a movement build steam organically and to avoid becoming a figurehead. Distributed and decentralized works best.
+  10. Keep in mind that any given time there are various leader/manager change initiatives in the works. In fact, you could argue that the status quo is a function of competing change initiatives. Bottom-up change initiatives compete with the established “long games” played by executives, and are therefore viewed as a threat/distraction. The desire to take credit for change, and to cast change in one’s particular image, is somewhat universal…and very common among executives (to the point of sacrificing overarching business objectives). As a start, map who is trying what (and why), and realize that you’ll likely need _someone _to perceive gain/advantage by supporting you, or, at a minimum, by not stopping you. Also, be honest with yourself. Are you advocating for change selfishly, or would you be happy if an expected behavior emerged?
+  11. As an extension of #10, respect the degree to which execs fashion a professional self-image that REQUIRES them to come up with this stuff. This — these big bold changes — are why they are there … not stuff a bunch of front-liners can do by regularly inspecting/adapting. Tread lightly. Your motive might be to improve the working conditions of our fellow contributors. But your whole career doesn’t hinge on the perception of control.
+  12. Make something work on a small scale. It’s easier, and will play to the universal desire for “good news” and “bright spots”.
+
+
+# Posted by Alison Coote on Twitter
+
+* * *
+
+Posted by Alison Coote on Twitter
+
+![](https://cdn-images-1.medium.com/max/800/1*GKTrGck26CxOlHECjuH48w@2x.jpeg)
+
+
+# B2B SaaS Service Ecosystem Cheat Sheet
+
+To facilitate some training, I wrote up this quick cheat sheet of terms used
+in service ecosystems (where B2B SaaS products play). I have a…
+
+* * *
+
+### **B2B SaaS Service Ecosystem Cheat Sheet**
+
+To facilitate some training, I wrote up this quick cheat sheet of terms used
+in service ecosystems (where B2B SaaS products play). I have a PDF of this
+[here](https://goo.gl/ypZoLJ) . Feel free to share, but please keep the
+attribution (to me) on the doc. That way I’ll be liable for the spelling
+mistakes, not you.
+
+_Note: I wish I had time to make a fancy infographic or animated movie thing.
+Maybe later._
+
+* * *
+
+**CAPABILITIES** allow human **ACTORS** to achieve **OUTCOMES** (that produce **BENEFITS**). Actors frequently have relationships with other actors. Outcomes and benefits are sometimes referred to as **GOALS**, which importantly can have functional, motivational, emotional, and social dimensions. **VALUE** can be stated as a ratio of benefits to cost.
+
+To achieve outcomes, actors access **TOUCHPOINTS**, and interact** **with
+**INTERFACES** within those touchpoints. Repeated** INTERACTIONS** are often
+known as **WORKFLOWS**. Workflows can span multiple touchpoints/interfaces.
+Touchpoints are sometimes referred to as **CHANNELS**.
+
+Typically — in business software — actors actively (or passively) create,
+read, update, and delete **ENTITIES**. Think of entities — users, work orders,
+pageviews, companies — as nouns (and interactions as verbs). Entities contain
+**CONTENT** and **INFORMATION**. Importantly, entities may mean different
+things in different **CONTEXTS** (a specific actor, desired benefit,
+touchpoint, etc.) and have **ENTITY RELATIONSHIPS**. **BUSINESS LOGIC**
+prescribes how entities interact with one another.
+
+All **SERVICE DELIVERY** efforts can be mapped to actors and their desired
+benefits. Elements of service delivery can be visible to users (e.g.
+interface, customer service) or invisible (e.g. backend technology,
+monitoring, HR).
+
+Some **SKILLS** (also capabilities)** **are applicable narrowly to specific
+actors, interfaces. etc. Other skills — like accessibility, HR, performance,
+fraud prevention — span actors, desired outcomes, and interfaces. To reiterate
+… _everything _contributes to delivering value to customer actors, but some
+things happen to be closer to the customer. The Coffee Maker maps to customer
+value. Stop doing stuff that doesn’t!
+
+**PROJECTS** are temporary endeavors to optimize and/or expand the **CAPABILITY OFFERING**. **FEATURES** are temporary solutions to offering specific capabilities. The service delivery mechanism often changes with time. Actors may base buying decisions on advertised features, but in SaaS the long term value of the offering is contingent on the ability to continuously generate outcomes and benefits (also known as **BENEFIT REALIZATION**). Unlike wrapped software products, SaaS **PRODUCTS **— given their mutable nature — function more like capability offering packages. SaaS is predominantly a **SERVICE ECOSYSTEM**.
+
+By producing **VALUE** for Actors, and through effective **PACKAGING** and
+**ENABLEMENT** (delivered by internal actors and capabilities) an organization
+ostensibly makes **MONEY **(a **BUSINESS OUTCOME**)**.**
+
+* * *
+
+![](https://cdn-images-1.medium.com/max/800/1*DvDUFmlQhasuew19xRwu3g.png)
+
+
+# They Don’t Understand a Word You’re Saying
+
+Shared understanding is hard Part 2
+
+* * *
+
+### They Don’t Understand a Word You’re Saying
+
+#### Shared understanding is hard Part 2
+
+![](https://cdn-images-1.medium.com/max/1000/1*EeUENC3vGpe8Umrh0Dvwhw.jpeg)
+
+Doodling …. DO YOU HEAR ME!!!!
+
+Here is a a retro format that I have used over the years…
+
+> Today we are going to explore the idea of shared understanding. Please take
+a couple minutes to brainstorm words that are used with the best intentions by
+you or your fellow teammates, but that cause confusion, and make it difficult
+to forge shared understanding.
+
+Here are some of the words the a team generated recently:
+
+> Better, Architecture, Review, Design, Milestone, Team, Product Vision,
+Story, Epic, Bug, Engagement, Process, Healthy, Tech Lead, “Own this”, “Write
+a Story”, Validate, Experiment, Deadline, Spike, Proof of Concept, Ops, “Do
+Your Best”, Ownership, Accountability
+
+Do your best? Really? But this output is _very normal_ for the exercise.
+
+OK. Consider that these smart and talented people spend ~40hrs a week
+together. Not all of that time is spent talking, but a good chunk is spent
+interacting, Slacking, and socializing. Most of these words are used in
+regular meetings. How could such relatively pedestrian product development
+words cause confusion and impact outcomes?
+
+I’ve done this retro exercise many times. And I’m always surprised. What
+happens after the team brainstorms these words? The first instinct is to write
+a glossary. We need to work this out! We need a common vocabulary! Let’s chat
+now! Who owns what words? Write a Confluence page!
+
+But then it dawns on people that some of these concepts are a moving target.
+It isn’t the words themselves — they all have reasonable Google-able
+definitions — but rather about the varied (and shifting) context. After the
+retro, I print the output of the exercise as a reminder that you can’t assume
+people know what you mean. Shared understanding is HARD. You need to WORK at
+it. No one is going to read/remember that Confluence page (let alone
+understand it even if you do write it).
+
+You need repetition, experience, conversation, interaction, reformulation,
+iteration, STORIES, drawing, coffee, mind maps, wins, trust … and even then
+it’s frickin’ hard. Here today, gone tomorrow. Entropy FTW.
+
+Step back even further. Consider VPs who meet certain team members for an hour
+a month. Or those “super important” high-level 1hr meetings where everyone is
+nodding and saying “great idea” … but then all the attendees march off and
+inadvertently sabotage each other? Makes complete sense. If the folks spending
+most of their working life together need to work so hard to wrestle with
+words…what might that mean for the managers, execs, CEOs, and partners?
+
+> It’s not really a deadline. Just a guideline. I really need to see the team
+step up. Acme is an important customer. We need to help them succeed.
+Everybody should succeed, especially the team players. Try to write up a quick
+overview by next week, along with a status check.
+
+Consider how much can go wrong there.
+
+My experience is that many organizations routinely push employees to their
+absolute limit. It becomes a game of three dimensional chess you cannot win.
+Teams short-change the hard work required to build shared understanding. The
+organization rewards freneticism, velocity, and “stretch” goals. No one really
+understands each other. And no one is present enough — amidst the stress and
+adrenaline — to do the hard work of building shared understanding. Yet we plod
+on, because we identify with the myth of the multi-tasking, “great
+communicator” superhero.
+
+Try the retro format and see what you come up with.
+
+I truly believe that some percentage (&gt;60%?) of software development is
+about leaving humans the room to build shared understanding continuously, work
+on communication, and make the environment safe to have meaningful
+conversations. Without making their heads explode. And without fooling
+yourself there is a silver bullet.
+
+
+# Actionable Ways To Improve Psychological Safety On Teams
+
+I am conducting a call for concrete methods/tools/practices you have used to
+maximize the level of psychological safety in your…
+
+* * *
+
+### Actionable Ways To Improve Psychological Safety On Teams
+
+I am conducting a call for concrete methods/tools/practices you have used to
+maximize the level of psychological safety in your organization. What has
+worked for you?
+
+The one question survey can be found here:
+<https://goo.gl/forms/fpTRj5rKlRQ19lSn2>
+
+_Update 1: I’ll keep the raw results
+_[_here_](https://docs.google.com/spreadsheets/d
+/1y6XiIfoVobUwvkjvX_ECvL2rPtbkCQv8iw3Fuyj-OM8/edit?usp=sharing)
+
+[**Maximizing Psychological Safety On Teams (Responses)**  
+_Edit description_docs.google.com](https://docs.google.com/spreadsheets/d
+/1y6XiIfoVobUwvkjvX_ECvL2rPtbkCQv8iw3Fuyj-
+OM8/pubhtml?gid=232684973&single=true "https://docs.google.com/spreadsheets/d
+/1y6XiIfoVobUwvkjvX_ECvL2rPtbkCQv8iw3Fuyj-
+OM8/pubhtml?gid=232684973&single=true"
+)[](https://docs.google.com/spreadsheets/d
+/1y6XiIfoVobUwvkjvX_ECvL2rPtbkCQv8iw3Fuyj-
+OM8/pubhtml?gid=232684973&single=true)
+
+_Update 2: Or comment on this post._
+
+My goal is to curate the responses on this Medium post. It will evolve and
+grow with time. Basically, I needed a home for the post so that contributors
+would know where to eventually find the curated list.
+
+Check back soon.
+
+
+# Present Bias, Constraints, and making 60 Things Possible
+
+Note: Scroll down if you’re short on time, and want to get straight to the
+list of goodness.
+
+* * *
+
+### Present Bias, Constraints, and making 60 Things Possible
+
+**_Note: Scroll down if you’re short on time, and want to get straight to the list of goodness._**
+
+Software product development is an optimization problem. Adding objectives,
+constraints, and uncertainty to an optimization problem adds complexity. If
+you’ve done this for a while, you know the constant push-pull between short
+term gains and long term results.
+
+> The present bias refers to the tendency of people to give stronger weight to
+payoffs that are closer to the present time when considering trade-offs
+between two future moments (O’Donoghue, &amp;, Rabin, 1999).
+
+Put simply, people tend to want to get the reward today, but push the pain of
+loss far into the future. ([source](http://blog.alphaarchitect.com/2014/05/22
+/good-bad-want-now/#gs.nBwtQtc))
+
+![](https://cdn-images-1.medium.com/max/800/1*lWMBrsm_7yduEJXQU8W04w.png)
+
+A great example is building a feature to close a new customer. The money is
+right in your face. You can feel it. If you build X, you will make $Y. It’s
+easy to lose sight of the actual costs (including the opportunity cost).What
+if you focused on something riskier, but more valuable? We tend to lose sight
+of that option, which makes sense because thinking too far (or deeply) into
+the future can have a paralyzing effect. The lion will eat you if it takes
+that long.
+
+Other examples relate to [organizational resiliency](https://hackernoon.com/40
+-ways-to-invest-in-more-resilient-teams-c2ac7d008591). It can be tempting to
+shoot for short-term gains (adding headcount quickly, adding layers of
+hierarchy, siloing specializations for efficiency), without considering the
+long term effects. In short…we add constraints and new objectives. Which makes
+navigating the problem space more difficult. And entropy ensues.
+
+![](https://cdn-images-1.medium.com/max/800/1*uxVJLuLuZKiKIKHmxmNXhg.png)
+
+I often run into orgs that are trying _so damn hard _(as hard as they can,
+actually), but they can’t seem to generate any forward momentum. They’re
+layering more and more process on the situation without any impact. They’re
+chasing down a new symptom every quarter. But when you actually interview the
+various actors, you learn how insanely constrained their world is. We’re not
+talking about an inability to find a globally optimal solution. That would be
+too ambitious. Rather, even mediocre ways forward are impossible, or require
+mind-numbing 3 dimensional chess.
+
+“Installing” Agile without removing constraints will fail.
+
+Which brings me to a conversation I had with [Josh
+Seiden](https://medium.com/u/7f786c230ca9) (Sense &amp; Respond, LeanUX) the
+other day. Josh correctly pointed out that my post [42 Things Non-Front-Liners
+Misunderstand](https://hackernoon.com/40-things-non-front-liners-
+misunderstand-fcb2f55088f9) was basically preaching to the converted, and that
+Non-Front-Liners just wouldn’t get it. If a Dev or UX sent this to an
+executive, they’d get an “um”. His challenge — which will take me a while to
+execute on — was to figure out how to elicit a “hmmm, I think I see what you
+mean, I get it now, we should act on this!”
+
+But how?
+
+When you boil down many of the points in the 42 Things post, you end up at the
+tension between short(er) and long(er) term thinking, and individual and group
+intrinsic/extrinsic reward systems. Front-Liners, for example:
+
+  * DO touch the product, the code, and the design
+  * DON’T touch the sales quotas, revenue projections, and meetings with investors, lawyers, and analysts
+  * DO bang their heads against tech-debt ridden code, feel the hit of multi-tasking, and cringe at “just shipping” crappy features
+  * DON’T spend 60hrs per week in meetings where people are primarily 1) complaining and/or 2) pitching their pet projects
+  * DO have to sit in close quarters with a small development team, and — according to the data — have to solve a cost/benefit design decision every 15 minutes with very intense cognitively challenging work
+  * DON’T have the fate and livelihood of many hundred (or thousand) people in their hands. And have to be “good at PowerPoint” AND strategy
+  * … and tend not to have to answer 30 support calls a day, send a hundred outbound sales emails, butt heads with vendors, and field calls from angry first-tier customers
+
+![](https://cdn-images-1.medium.com/max/800/1*GlfiAGTJdAlEfo2TG7wTjA.png)
+
+So there are different versions of “good job” happening, and different mental
+models, cause/effect, and cost/reward. We respond to the present bias in
+different ways because of how we think, and what we know.
+
+How do you build shared understanding?
+
+If you’re lucky, the CTO or CPO are able to explain and describe the calculus
+to other senior leaders. If you’re even luckier, they are able to stand head
+to head with the CRO, CFO, and CEO, and translate the calculus into an
+actionable risk-management and continuous improvement framework. They’ll
+explain why chasing efficiency begets rigidness, and that you need to care
+about resiliency. They’ll explain why a lack of focus begets an exponential
+increase in the number of constraints. Finally, they’ll explain why having a
+tall org might not benefit the product. But that’s if you (and they) are
+lucky.
+
+Consider, then, that senior leaders _often_ don’t understand how certain
+decisions will impact the future. They’re already too far away from the action
+and no one has explained the calculus. People are running around talking about
+UX, Agile, DevOps, leaving slack in the day, lowering utilization, and
+Outcomes over Output…and someone without experience in the trenches (or
+experience a long time ago) will not know WTF is going on.
+
+> We put humans on the moon. And will send them to Mars. And you can’t fucking
+ship a mobile app, and migrate to the new ERP system? That makes no sense! Is
+anyone giving a damn here?
+
+The constraints you are experiencing today are a culmination of many, many
+decisions. At one point, you probably had a choice. And that is the central
+challenge. We need to explain why these choices matter for the long term
+success of your product development org. But don’t make them so sacred that
+you never make any decisions — or respond to any changes.
+
+That is OUR responsibility.
+
+* * *
+
+#### What if you could say? Why can’t you say?
+
+In the spirit of making my Medium posts way too long, below I have listed 60
+examples of things YOU COULD DO AND SAY if you play your cards right. But,
+given that I’m known to point out problems… I want you to ask yourself about
+what is stopping you from saying these things. What is the “yeah but”. Or if
+you can say them, what decision made that possible? And then reflect on how
+you can remove that constraint.
+
+  1. “Maybe we can borrow a developer from another team? It would be helpful to get a fresh pair of eyes on the problem.”
+  2. “Very reassuring to be able to test this in a production-like environment. But without the risk of harming customers if something goes wrong.”
+  3. “Let’s colocate the teams during the kickoff.”
+  4. “We may need to block out some of Team B’s time. But we’re not sure. It could go either way. Glad we have the flexibility of short notice scheduling.”
+  5. “We’ll benefit by having rapid access to customers. We have a list of customers that we’d like to contact in the next week.”
+  6. “Yes. We can hit that date within +/- 10d.”
+  7. “If the early data is encouraging, the team would like to continue iterating before jumping to another effort.”
+  8. “At the moment, our scaling predictions are very rough. Luckily we can add computing/network resources if required.”
+  9. “The team can talk this out together. I know the topic is a bit sensitive, but there’s an upside.”
+  10. “I consider myself lucky to work with people who aren’t all the same. The diversity of viewpoints and work styles is energizing.”
+  11. “The problem was quickly isolated to a tiny set of customers.”
+  12. “We’re not sure when we’ll need to talk to the UX Designer. But we will eventually. He’s available on short notice, right?”
+  13. “Since this will impact marketing, it would be great if at least a couple folks from that team could attend standup. Who is coming?”
+  14. “This is a great candidate for an A/B experiment. Let’s get it going.”
+  15. “Doug has many strengths as a new team member, but he will really benefit from closely pairing with that senior dev Maria for the first month or so. Maria has available cycles, right?”
+  16. “Anyone can take that front end story.”
+  17. “Ideally for this project we’ll be able to deploy on our own schedule, and without bugging Ops. Cool?”
+  18. “We have decided to pull this feature. It is rarely used, and it adds a lot of complexity to this area of the code.”
+  19. “We can hand over the reigns of the service to another team if you’d like. It’ll take a week or so of onboarding, but not much more.”
+  20. “I spoke up about that issue at the company meeting. I know it was hard to hear, but I’m positive we can learn from that failure.”
+  21. “We have some slack. We’d be happy to knock that high priority item out for you.”
+  22. “What a great opportunity! That area of the codebase is decently re-factored. This is something we should act on. It’ll be high value for the company.”
+  23. “I’ll just pop in to her office. It’s great when the CEO has open office hours.”
+  24. “Ah. Peace and quite. I really need to limit some distractions to get this done.”
+  25. “The meeting room is always available. It’s our team room! That means we can keep our stuff up on the wall.”
+  26. “You don’t need to pick a track here. If you’d like to try management, and then go back to being an IC, there is no stigma.”
+  27. “I was able to lay out the initiative in broad strokes and get going. There was a ton up in the air, so we needed to start digging in.”
+  28. “Jira didn’t work for us. This was more of a Trello quarter. So we fired up Trello.”
+  29. “Even if they are a great performer from a financial perspective, it is never OK to keep a toxic person here at the company. We took action and fired them.”
+  30. “Operations wasn’t his strong suit. So he willingly shifted roles. And now things are working so much more smoothly.”
+  31. “We’re going to be using more Go and Scala moving forward. Luckily, our teams are fast studies. The transition shouldn’t be tough, and we’re ok with making that investment.”
+  32. “Customer Success has such good insights on our customers. I’m happy to be able to draw on that knowledge when considering new features.”
+  33. “Multiple teams can work on that product and deploy on their own schedules.”
+  34. “It’s reassuring to do larger scale retrospectives, and to have the larger global blockers removed.”
+  35. “There’s enough time in the week to do some unstructured innovation work. It doesn’t need to be company oriented, either.”
+  36. “It’s nice not to have to put up your guard when C-level people come by.”
+  37. “Our compliance environment is tough, but we have taken a “compliance as code” approach. I’m so much more confident this way. And the teams don’t get bogged down as much. We automate as much as possible.”
+  38. “It was hard to kill the project that late in the game, we all agreed it it was in the best interest of our customers and internal teams.”
+  39. “Luckily there is great test coverage in that area of the codebase. It shouldn’t be hard to do an incremental refactor. I was worried for a second that we’d need to do a parallel rewrite.”
+  40. “Please. Enjoy your paternity leave. Don’t worry about us. We’ll be OK for the next eight weeks.”
+  41. “Localization shouldn’t be a big lift. We’ll get on it in a couple weeks.”
+  42. “Thanks for asking! Let’s take a look at the card wall, and I’ll talk you through the work.”
+  43. “It’s safe for us to augment this project with contractors. They can be effective AND not screw anything up.”
+  44. “It’s a relief to be able to make a data-informed decision on this.”
+  45. “The interns have arrived! One of my favorite times of the year is working with interns on their intern projects. Sure, we hire some. But it also help the senior folks hone their teaching and mentoring skills.”
+  46. “I used the company card to order lunch. Our expense reports run automatically.”
+  47. “We spent the day visiting customers with the whole team. It was awesome to see everyone connect with our users.”
+  48. “Adding measurement to that area of the product was super simple. Even for a non-technical person. Good thing we didn’t need to bug our developers.”
+  49. “You’re free to shift around between teams, which is nice when you are looking for a new challenge. There’s nothing worse than feeling stale.”
+  50. “Shit happens. But when a production issue comes up we have enough slack to actually get to the bottom of it. Putting out fires is OK. Solving the problem (so it never comes back) is satisfying.”
+  51. “Potential new hires can join us for two weeks to do real work. It is good for us and them.”
+  52. “The CEO “ask me anything” was refreshing.”
+  53. “The team (developers and UX) can pretty much handle the effort on their own. With the help of their part-time agile coach, they’ve shifted off Scrum, don’t need a manager, and leave the PM to focus on bringing in outside context.”
+  54. “Sometimes you just need an individual challenge. Once you’ve been here for a year or two, we allow developers to work on an individual project to really push their limits. And then they return refreshed to a team.”
+  55. “We caught the threat very early. What a relief. We all got to bed at a reasonable time that night.”
+  56. “The pattern library has made it super easy to build quick prototypes. We don’t need to reinvent the wheel. Instead of using Slack or InVision, our UXDs can just assemble working interfaces.”
+  57. “We can take a new grad and get them up to speed quickly. They stay, too! It is rewarding to help someone get situated in their career.”
+  58. “Having time set aside to attend conferences as a team has really helped us hone our chops.”
+  59. “We always had a hunch this might work. To get a working prototype out there in front of customers so quickly — warts and all — was such an asset. Otherwise we would have had to make a big project out of it.”
+  60. “The best part is knowing if the work we’re doing is actually have an impact. It is great for retention.”
+
+
+# Problems! Problems? Problems.
+
+All companies have problems (they signal opportunities)
+
+* * *
+
+### Problems! Problems? Problems.
+
+![](https://cdn-images-1.medium.com/max/800/1*MHZ5BFR4VgUCBPCj9DIVGQ.png)
+
+<https://xkcd.com/1739/>
+
+  1. All companies have problems (they signal opportunities)
+  2. Some problems are more important than other problems
+  3. Trying to solve too many problems at once is problematic
+  4. But, importantly, ignoring a problem will impact your team
+  5. Those impacted will want to understand why you are causing them anxiety, uncertainty, lowered career satisfaction, and lowered career opportunities
+  6. Saying “be patient, it just isn’t as important as [the more important option], here is why, and this is how we’ll measure progress” is VERY difficult to do. It requires transparency and psychological safety.
+  7. So we concoct vague and middling statements and/or try to fix the problem in a half-assed manner. It becomes “Medium Priority”. This is repeated with multiple problems. It becomes difficult to understand relative priority
+  8. No one wants to admit that something isn’t important (right now). Meanwhile, those impacted start to reject the blatant coherence issues. Do they care? Why not? They must have malicious intent!
+  9. The middling, poorly resourced efforts to fix the Medium Priority problem loose steam. This casts doubt on those impacted (and the people who manage them). Which triggers a confrontational, protective stance.
+  10. Which then causes more problems
+
+**The lesson for leaders: **Explain the why. Focus. Show humility. Don’t lie to yourself and others. Respect that your decisions have impact. Engage your people in solving the most important problems impacting the business.
+
+
+# The Dumb Google Kid
+
+Here is the problem.
+
+* * *
+
+### The Dumb Google Kid
+
+![](https://cdn-images-1.medium.com/max/800/1*TQK5mjuWU9QjEu6wrg0E9w.png)
+
+Here is the problem.
+
+[By linking together various unsubstantiated and vague
+statements](http://gizmodo.com/exclusive-heres-the-full-10-page-anti-
+diversity-screed-1797564320), the Google employee sounds reasonable. His piece
+says everything and nothing. It jumps between diversity, biology, internal
+Google politics, national politics, gender, and business (and more). To the
+uninformed, his motives appear both pure and obtuse.
+
+It is _dangerous_ because the lazy reader can ascribe whatever bias they want
+to the piece. Every reader will find something “smart” sounding in there. But
+on the whole — when you stitch the parts together — it is ineffective and rife
+with logical fallacies. It’s just not great (or good) writing. It isn’t crisp
+and direct. Assuming he had an objective… he likely didn’t/won’t achieve that
+objective, unless that goal was to destabilize his employer.
+
+I’m not even judging his viewpoint. He did, and wrote, a dumb thing. There are
+other people who have shared his opinions, but have framed the issue far more
+eloquently.
+
+Maybe he is smart, and this was a lapse. Maybe — as he mentions — men have a
+habit of doing risky/stupid shit like publishing poorly written 10 page
+screeds to their company intranets. Maybe he thought, deep down, that he was
+helping his company by regurgitating 4+ traditions of rebuttal to diversity in
+tech.
+
+It will hurt our economy. On Monday morning, tech companies (not just Google)
+will have to spend/lose millions of dollars to unwind the laziness in this
+person’s delivery and thinking. Why? It will embolden people who haven’t
+thoroughly researched the issue. Companies will lose people. Lots of meetings
+will happen.
+
+And … damn Google, you need to figure out how to talk about diversity
+internally. Authoritarian? Thought police?
+
+This hit me when I tried to parse the various statements in the piece. My
+first instinct was to start researching and disproving. But then I realized
+that would do no good. Instead I tried to play the part of the naive Google
+fanboy. And that’s where this gets scary (because I’ve already seen how this
+people are responding). To the lazy/uninformed reader this is “common sense”.
+
+Let’s look at the effect…
+
+The entries follow this format:
+
+> What the Google employee wrote
+
+What the lazy reader will process (I method acted)
+
+* * *
+
+> I value diversity and inclusion
+
+Phew. We all love diversity
+
+> we need to look at population level differences in distributions
+
+That sounds smart!
+
+> If we can’t have an honest discussion
+
+We all like honesty
+
+> our culture of shaming and misrepresentation is disrespectful
+
+Shaming sucks. We need to respect each other!
+
+> and the possibility of being fired
+
+Fire someone for speaking their mind? Fuck!
+
+> shaming into silence is the antithesis of psychological safety
+
+Shaming again. And shutting people up? Damn
+
+> This silencing has created an ideological echo chamber
+
+I’ve heard about this echo chamber
+
+> may in part explain
+
+Oh cool. He’s not making a definitive statement
+
+> People generally have good intentions
+
+Yes they do! An optimist!
+
+> open and honest discussion with those who disagree can highlight our blind
+spots and help us grow
+
+Growing. Everyone wants to grow. Let’s lifehack
+
+> discussion about these biases is being silenced by the dominant ideology
+
+Damn that dominant ideology. Thought-police
+
+> that desperately needs to be told at Google
+
+I can feel his desperation
+
+> the overwhelming majority of the social sciences, media, and Google lean
+left
+
+Well, we all know about the Media. Must be true
+
+> Neither side is 100% correct
+
+Now that’s pragmatic
+
+> both viewpoints are necessary for a functioning society
+
+Hmmm. Makes sense. Like Ying &amp; Yang
+
+> Only facts and reason can shed light on these biases
+
+Thank goodness. Something fact based
+
+> Google’s left bias has created a politically correct monoculture
+
+Wowzer. Mono what? PC? How compelling
+
+> by shaming dissenters into silence
+
+More shame. Dissent is good, right?
+
+> This silence removes any checks against encroaching extremist and
+authoritarian policies
+
+I’m getting scared. Authoritarian, … but
+
+> the extreme stance
+
+Everyone is SO extreme these days
+
+> the authoritarian element that’s required to actually discriminate to create
+equal representation
+
+Here come the thought police again
+
+> Of course, men and women experience bias, tech, and the workplace
+differently
+
+Of course!
+
+> but it’s far from the whole story
+
+Mystery … there’s more! Exciting!
+
+> On average, men and women biologically differ in many ways
+
+Well, I mean, women have breasts … right?
+
+> I’m not saying that all men differ from women in the following ways
+
+See, he’s reasonable
+
+> I’m simply stating
+
+Yeah … he’s modest. He’s simply stating
+
+> Many of these differences are small
+
+How small?
+
+> and there’s significant overlap
+
+How much?
+
+> Women, on average, have more
+
+On average? How much more?
+
+> These two differences in part explain
+
+I see, they partly explain
+
+> More men may like coding
+
+Yeah. They may. That’s a good assumption
+
+> This leads to women generally
+
+Generally?
+
+> Note that these are just average differences
+
+See, he’s smart and measured
+
+> We need to stop assuming that gender gaps imply sexism
+
+Damn straight! I mean there’s a chance, right?
+
+> without resorting to discrimination
+
+Discrimination = bad
+
+> Competitiveness and self reliance can be valuable traits
+
+Of course they can. Look at the Patriots
+
+> we shouldn’t necessarily disadvantage those that have them
+
+Not necessarily. That makes sense
+
+> Women on average
+
+Average?
+
+> men may disproportionately want to be in them
+
+They may. He’s right.
+
+> we should be optimizing for Google
+
+Exactly! Why sacrifice company profits?
+
+> I strongly believe in gender and racial diversity
+
+See! He believes in diversity
+
+> Google has created several discriminatory practices
+
+Ooooh. I love dirt on the company that didn’t hire me
+
+> Hiring practices which can effectively lower the bar
+
+Effectively? Can? How effectively?
+
+> both the morally and economically correct thing to do, but without evidence
+
+Yeah. Without evidence! WTF?
+
+> Thankfully, climate scientists and evolutionary biologists generally aren’t
+on the right
+
+My man! He’s a scientist! He’s not a nutjob
+
+> humans are generally biased towards protecting females
+
+No one messes with my girl (or my mom)
+
+> the Left’s affinity for those it sees as weak
+
+Snowflakes
+
+> when a man complains about a gender issue issue [sic] affecting men, he’s
+labelled as a misogynist and whiner[10]
+
+This totally happens. Right?
+
+> political correctness[11], which constrains discourse
+
+We need to be less PC to have real discussions
+
+> is complacent to the extremely sensitive PC-authoritarians
+
+Snowflakes. And authoritiarians
+
+> that use violence and shaming to advance their cause
+
+Violence? OK. Now shit is getting real
+
+> the violent leftists protests
+
+I saw the videos from Berkeley. Scary
+
+> the frequent shaming in TGIF and in our culture
+
+I feel bad for this guy. Shaming again?
+
+> I’m not saying that diversity is bad
+
+See! Diversity is good!
+
+> we have an intolerance for ideas and evidence that don’t fit a certain
+ideology
+
+Intolerance is bad
+
+> not saying that we should restrict people to certain gender role
+
+See! He’s thinks you can be whatever you want
+
+> treat people as individuals
+
+Exactly! Because we’re all special
+
+> not as just another member of their group (tribalism)
+
+Tribalism is bad. Very bad
+
+> we stop thinking about it in terms of costs and benefits
+
+Yeah! At the end of the day it is about costs/benefits
+
+> Viewpoint diversity is arguably the most important type of diversity
+
+See! He believes in diversity. And he has facts!
+
+> that feel like they need to stay in the closet to avoid open hostility
+
+Those poor conservative guys. WTF is happening?
+
+> We should empower those with different ideologies to be able to express
+themselves
+
+Because that is what America is about!
+
+> Alienating conservatives is both non-inclusive and generally bad business
+
+Bad business? Ooooh, that is compelling
+
+> tend to be higher in conscientiousness
+
+See! That isn’t reported as much
+
+> breaking down Googlegeist scores by political orientation and personality
+
+That sounds smart!
+
+> Have an open and honest discussion
+
+Openness. Honesty. I’m really like this guy
+
+> are highly politicized which further alienates non-progressives
+
+Exactly. You wouldn’t want to alienate us further
+
+> We should focus on psychological safety
+
+How touching
+
+> Having representative viewpoints is important for those designing and
+testing our products
+
+He knows about UX as well!
+
+> While I strongly support trying to understand how and why people think the
+way they do
+
+He’s curious
+
+> Our focus on microaggressions
+
+Hahaha. Microagressions
+
+> sensitivity increases both our tendency to take offense and our self
+censorship
+
+Snowflakes
+
+> Speaking up without the fear of being harshly judged is central to
+psychological safety
+
+Damn straight! Don’t judge the guy
+
+> Microaggression training incorrectly and dangerously equates speech with
+violence
+
+Big words. Like the NRA threatening violence?
+
+> not all differences are socially constructed
+
+No. Not all are. Indisputable
+
+> the political bias of the presentation is clear from the factual
+inaccuracies and the examples shown
+
+Damn biased politics
+
+> I can’t speak about other offices or countries
+
+Oh how smart of him. He gets it
+
+> Of course, I may be biased
+
+See, he even accepts his biases
+
+> a classical liberal
+
+OMG. You’re kidding me. He has balls!
+
+> Communism promised
+
+You have me by the heart strings. Communism?
+
+> transitioned from class warfare to gender and race politics
+
+You mean like labor unions?
+
+> Ironically, IQ tests were initially championed by the Left
+
+Oh, that’s a good one!
+
+
+# 11 Ways I Visualize Product Development Work
+
+…sharing some drawings and notes from a whiteboard training today.
+
+* * *
+
+### 11 Ways I Visualize Product Development Work
+
+…sharing some drawings and notes from a whiteboard training today.
+
+Excuse spelling… its been a long day in the trenches!
+
+The topic was **useful artifacts and visualizations (for PMs, product
+development teams, etc.)**
+
+* * *
+
+As a PM you are always shifting context.
+
+  * **Timeframe**. From today until two years from now
+  * **Audience**. From developers to CEOs
+  * **Scope**. From big picture strategy to tactical details
+  * **Level of Certainty**. From vague guesses to hard facts
+  * **Activity.** Making decisions, understanding status, providing necessary context, researching, facilitating meetings, [and about 100 other things]
+
+Whenever you’re thinking high level, someone will bring you down to earth and
+ask you to get into the weeds. Whenever you’re in the weeds, someone will
+complain that you’re not being high level enough. It’s the burden we bear.
+Just when you think you’ve figured things out, you’ll encounter a person who
+needs to see your roadmap, or backlog, or “sprint backlog”, or “project”, or
+“plan” in a whole new way.
+
+So…changing delivery based on context is important. You could argue that it is
+the biggest challenge facing PMs. It is a design problem!
+
+I’d like to share a couple that work for me. There are more, but these are
+some of my go-tos.
+
+**_Note: Very importantly. These drawings are very, very purposefully rough. Don’t read too much into the words I use. I’m not in love with the word Epic, for example._**
+
+* * *
+
+#### **1\. One page roadmap**
+
+![](https://cdn-images-1.medium.com/max/800/1*9d0uE4GWH1cJh0e1xtnAQA.png)
+
+Good for…
+
+  * Connecting work to humans and their needs
+  * Detailed idea of what is happening now
+  * Sense of what is happening next (but more high level)
+  * Clearly saying that some stuff will happen “later”
+  * Great backdrop for chatting about the now, and the next couple quarters
+
+#### **2\. Benefits map**
+
+![](https://cdn-images-1.medium.com/max/800/1*OMmcUo6yvnFNbjXfTVLKBg.png)
+
+Good for…
+
+  * Mapping your work to expected outcomes and benefits
+  * Facilitating discussions about causation and correlation
+  * Understanding the Why behind your current work
+  * Metrics brainstorming (“how will we measure the outcome”)
+
+#### [**3\. User story map**](http://jpattonassociates.com/user-story-
+mapping/)
+
+![](https://cdn-images-1.medium.com/max/800/1*GL1x-mT6a5vBx3tyea514Q.png)
+
+Good for…
+
+  * As a reminder to deliver horizontal slices across the problem space
+  * To facilitate release planning, prioritization, and scoping
+  * To keep the user journey/workflow/goal front stage
+  * To see how the experience will evolve over time
+  * PS: In my dream world, someone would make a user story map that could also be re-visualized as a kanban board. I think they’re probably the best all around tool for triggering conversations
+
+#### **4\. Epic board**
+
+![](https://cdn-images-1.medium.com/max/800/1*WHj4v1SauVqgJk6Er6DRvg.png)
+
+Good for…
+
+  * Going a level above user stories
+  * Prioritization discussions
+  * Coarse-level backlog grooming
+
+#### **5\. Timeline**
+
+![](https://cdn-images-1.medium.com/max/800/1*m1Ku4kURXuHm3-yC0v1hNg.png)
+
+Good for…
+
+  * Seeing a linear progression of planned work
+  * Communicating to people who think in terms of time/calendars
+  * See how a particular value stream will evolve over time
+  * **Warning:** I prefer not to see actual dates in the timeline. One trick is to obscure the timeline with a large “this month”, and smaller subsequent months … perhaps even keeping 6–12 months as a single block
+
+#### **6\. “Standup” Board**
+
+![](https://cdn-images-1.medium.com/max/800/1*VLZ4vVuYGkdKo18W9vwT5A.png)
+
+Good for…
+
+  * A centerpiece for day-to-day stand-ups
+  * What is being worked on right now?
+  * Resolving blockers and dependencies
+  * Knowing what is in PR review, staging, prod, etc.
+
+#### **7\. Mind map with horizons**
+
+![](https://cdn-images-1.medium.com/max/800/1*a8hK2zyp0NhvSNJWuwjVCQ.png)
+
+Good for…
+
+  * Understanding planning horizons. Mountains rarely move, and rocks can be thrown over cliffs
+  * Connecting work items to the central beliefs/assumptions of the organization
+  * Reinforcing that tactics/experiments may change, but the Why remains
+
+#### **8\. Combined Epic/Story board**
+
+![](https://cdn-images-1.medium.com/max/800/1*KNTHOfcpltXg21PILzCvPA.png)
+
+Good for…
+
+  * Attempting to reiterate the goal. Why are we writing these stories?
+  * Situations where you are “moving a metric”, and that the team will continue until you hit that metric
+  * Trying to merge the “bigger picture” with day-to-day activities
+
+#### **9\. Big visual checklist**
+
+![](https://cdn-images-1.medium.com/max/800/1*0YkIcM-1FbPaLEQjmQ9xGQ.png)
+
+Good for…
+
+  * A sense of accomplishment (“checking things off list”)
+  * Planning and brainstorming
+  * Sometimes, success is truly about ripping through stories (not often, in my book)
+
+#### [10\. Impact map](https://uxpressia.com/blog/build-impact-map-4-easy-
+steps).
+
+![](https://cdn-images-1.medium.com/max/800/1*GdBDuQ3ojrloUVoeVEe2Mg.png)
+
+Good for…
+
+  * Similar to the benefits map
+  * Importantly, includes the Who
+  * Can be a better option when words like “Outcome” and “Intervention” scare people away
+
+#### **11\. Experiment timeline**
+
+![](https://cdn-images-1.medium.com/max/800/1*SYaU_7wVBAy730ROVhJgug.png)
+
+Good for…
+
+  * Showing how work is mapping to our efforts to move a metric
+  * Showing the forecast (and the baseline)
+  * Plotting our progress
+  * Importantly, this is not velocity of work or a burn-down
+
+
+# The Agile Police
+
+Seriously. Sometimes I need to step out of the Agile echo chamber.
+
+* * *
+
+### The Agile Police
+
+![](https://cdn-images-1.medium.com/max/800/1*kKuWsS9z82xTGJkhkOB4eA.png)
+
+Gratuitous clip art so that Medium has a preview image.
+
+Seriously. Sometimes I need to step out of the Agile echo chamber.
+
+We (me included) go and on about extending agility to the the “whole
+organization”, but do a terrible job at communicating to non-developers. And
+then, to top it off, we blame “waterfall thinking outside of teams” on why
+[some effort] failed to produce meaningful results. Kind of circular, huh?
+
+We talk about Agile (and defend Agile) in ways that we would instantly
+recognize as unproductive and destined to fail if we observed those behaviors
+on teams and organizations. In fact, it smacks of the behavior we constantly
+deride in toxic senior leaders, managers, etc.
+
+Granted, these are (mostly) conversations between the already converted.
+Echoes in the echo chamber. But people “from the outside” notice and learn
+from these conversations. They see quibbling and aggressiveness. It’s bad PR.
+And bad service design.
+
+We are (and embarrassingly I am, at times) conveying ….
+
+> You’re not Agile. It smells bad. You just don’t get it. Your antiquated
+business practices are incompatible with an agile approach. You’re too far
+gone. No Agile team works that way. You’re abusing [some term]. You’re abusing
+[some practice]. You don’t trust anyone. SAFe can’t save you! Back in the day
+we didn’t need this stinking process. You are petty. You are a bean counter.
+Why can’t you evolve?
+
+I do think it is important to communicate an “authentic” Agile message… one
+distinct from the message of the Agile Industrial Complex. And I do believe
+strongly that new ideas are possible, and support efforts like [Joshua
+Kerievsky](https://medium.com/u/28229c304ac9)’s Modern Agile thing. But, we
+need to consider the onboarding and UX of our message. Because it will —
+almost by definition — be a little flakier and less concrete than the 50 page
+SAFe RFPs.
+
+Anyway. My resolution is to be more empathetic, and to appreciate just how
+counter-intuitive some of our “ways” must appear to smart people without a
+background in organizations that made it work.
+
+Show more. Listen more. Tell less. Police less.
+
+
+# Sample Product Development Flow
+
+Sharing a sample product development flow (the working pattern for my current
+team).
+
+* * *
+
+### Sample Product Development Flow
+
+Sharing a sample product development flow (the working pattern for my current
+team).
+
+Something I’ve learned over the years…
+
+**You have to TRY!**
+
+Your team needs to _own its words and working agreements._ I’ve seen certified
+Scrum Masters (and Product Managers, Engineering Managers, and Developers) use
+the words, but not understand the first principles at play. Trying to paint-
+by-numbers is dangerous (in my honest opinion). So is assuming that you need
+to do every meeting — and every bit of process — to complete work.
+
+![](https://cdn-images-1.medium.com/max/2000/1*s1mCGtRIOKQcFTyL0CD4Mg.jpeg)
+
+
+# 10 Tips For Taming Slack Overload
+
+Sharing a couple quick tips for taming Slack overload…
+
+* * *
+
+### 10 Tips For Taming Slack Overload
+
+#### Sharing a couple quick tips for taming
+[Slack](https://medium.com/u/26d90a99f605) overload…
+
+Slack is an awesome tool. But it isn’t magic (yet). I very much appreciate
+their mission:
+
+![](https://cdn-images-1.medium.com/max/800/1*pzcEdTmvF8_a-djMvqfusw.png)
+
+But sometimes I could swear it is making my life more complicated, adding
+cognitive load, and making me less product. Not Slack itself … but our use of
+the tool.
+
+Slack represents the communication channels in your org in all their gory
+complexity. You need to garden channels and their purposes frequently,
+otherwise the whole thing explodes. Which is something I actually like about
+Slack…it forces you to confront your expectations with team mates and make
+your working agreements explicit (but malleable).
+
+Whenever I hear someone say “I hate Slack”, what I’m actually hearing is “I
+hate how our nebulous communication channels and working agreements manifest
+in Slack”. With that, I share some tips from battling
+[Slack](https://medium.com/u/26d90a99f605) entropy.
+
+* * *
+
+1 — Keep the topic (and style/type) of messages relevant to the purpose of the
+channel.
+
+2 — When creating channels think of the messages that will fill the channel.
+Ideally, a channel should have messages with a similar profile across these
+six dimensions:
+
+  * How actionable are the messages? Are they questions/requests, or more general in nature (FYI, announcements)?
+  * How quickly do the messages need to be addressed?
+  * How important are the messages?
+  * How narrow or broad is the audience for these messages?
+  * How long do you expect exchanges resulting from these messages to last
+  * How similar are these messages from a topic perspective?
+
+_NOTE: This doesn’t mean every channel should be super-specific. It just means
+that super-general channels aren’t the best place for super-specific
+conversations._
+
+_NOTE: Urgent doesn’t always mean important. “Hey, we’re meeting for lunch in
+the lobby” needs to be read and acted on quickly. It isn’t as important as a
+major issue in production._
+
+3 — Review your channels regularly. Have they drifted / evolved?
+
+4 — Distinguish between channels that should be 1) “read” by all members (e.g.
+announcements, where everyone is expected to read all the messages) and 2)
+channels used to get answers, quickly collaborate, etc. (where you can scan
+for mentions, and mostly ignore everything else).
+
+  * Post to announcement channels sparsely. Limit discussion on these channels
+  * Set working agreements for specific channels like “we address questions there in __ minutes” or “everyone monitors that for questions” or “everyone reads every one of these posts”. Put that in the purpose of the channel.
+
+5 — For regular (more specific) topics, create new perpetual channels.
+Examples might include coordinating deployments, reviewing PRs, etc.
+
+6 — Having “lots of channels” is not a bad thing, as long as there are not big
+purpose overlaps.
+
+  * Slack has tons of features to make managing channels easier
+  * See sidebar options (to hide up to date channels), and notification keywords
+  * Use keyboard shortcuts (my favorite is Command K to quickly access channels by name)
+  * **In short, taming lots of channels is easier than taming obtuse threads and channels**
+
+7 — In every request/question, remember to clarify your desired next step.
+What do you need from people? Who can help?
+
+  * Consider the creative use of :symbols: (e.g. checkbox for a to-do, or :eyes: for must read items). It makes scanning easier
+  * Keep in mind that complex problems may require face-to-face (or video conferencing) interaction
+  * Imagine someone arriving late in the game. Will they have all the context?
+  * Consider doing a summary post to clarity the thread
+
+8 — You should probably have an “@” in your message.
+
+  * If you need the attention of specific people, remember to “@” them. If you are replying to a specific person “@” them
+  * “@here” is used to get the immediate attention of people who are available, and might be able to help you. “@here” is basically like asking everyone the question.
+  * @here **IS NOT **a great way to indicate that something is important
+  * If you don’t have an “@” mention in your message, then either the channel is announcement based, or perhaps it is exclusively for general questions. Remember… do the members of the channel expect to have to read every single message?
+
+9 — Create new channels for adhoc discussions. Threads were a good idea, but
+they tend to cause more confusion than they solve (as currently designed).
+Channels &gt; threads. They have super powers (and aren’t annoying). Follow
+these guidelines:
+
+  * add a prefix … d=discussion, i= issue to resolve
+  * add a specific suffix (e.g. d_jira1394)
+  * reference that discussion in general channel (“we will be talking about _____ in ______”)
+  * have a “purpose:”. Indicate the outcome that will trigger the closing of the channel
+  * close the channel once you have reached the outcome
+  * Use the star feature to keep active adhoc channels on your sidebar (see the settings that include starred channels on your sidebar)
+
+10 — If a specific conversation is involving a lot of back and forth (and is
+devolving away from the purpose of the channel) … it should be in an adhoc
+channel (see above) or a thread. Don’t let it pollute the current channel
+
+What has worked for you? How do you make Slack work for you and your team?
+
+
+# Good (But Hard) Questions — Episode 1
+
+If culture is how we act, what is the most destructive behavior we tolerate?
+Why?
+
+* * *
+
+### Good (But Hard) Questions — Episode 1
+
+![](https://cdn-images-1.medium.com/max/800/1*L23Ug4upCBkUitSWbSyGtw.png)
+
+  1. If culture is how we act, what is the most destructive behavior we tolerate? Why?
+  2. Do we believe _better_ is possible? Is better necessary?
+  3. What and when do we celebrate? What does that say about us?
+  4. Where do we accept mediocrity, and where do we demand excellence?
+  5. Do we have shared understanding on what we’d like to improve, and what we are willing to sacrifice _in order to_ improve?
+  6. What would need to happen for us to make the difficult decisions?
+  7. What is a statement we hear frequently when receiving feedback, but that we flat-out reject?
+  8. Where are we receiving late feedback (that is too late to be actionable)? Why was it delayed?
+  9. What obvious solutions do we dismiss? Why?
+  10. Are the right people talking?
+  11. Are our doors really open? Should they be?
+  12. Which voices should we be amplifying, but aren’t?
+  13. Change is often a battle of different change agendas. Who is battling to own/control how we change, and why? Are there overlaps?
+  14. Where are we seeing hints of a possible future? Is it a good future?
+  15. Why do people stay? Why do people leave? What can we learn from that?
+  16. What _can’t_ we fix, _even if_ it causes pain to our people?
+  17. What are we doing “just because”? Why?
+  18. How do decisions really get made here?
+  19. What does the unofficial org chart look like?
+  20. Where are we attacking a symptom instead of the root cause? What effect does that have?
+  21. A year from now, what will we still be talking about?
+  22. Where must trust and safety be repaired?
+  23. What can’t we see because we are too immersed in the system?
+  24. If a “fresh set of eyes” joined us, what would they see that we can’t see?
+  25. Who internally exemplifies the behavior we’d like to model our culture around? What do they do?
+  26. In what ways do we encourage local behavior that is effective, but not in alignment with our global goals/needs?
+  27. When are we more than the sum of our parts? When are we less than the sum of our parts (we bring each other down)?
+  28. What are our most intractable problems? Why have we failed to make a dent in these issues? Why are they so stubborn?
+  29. Do we trust our immediate peers? Do we have confidence in their abilities?
+  30. Scale almost always causes entropy and an increase in complexity. How are we taming these forces?
+  31. Where is the good we must amplify?
+  32. Where are our strengths also our weaknesses?
+  33. What do our individual contributors see that we don’t see?
+  34. What do we see that is difficult (or impossible) to communicate to our individual contributors?
+  35. Where are the areas of frequent confusion and poor shared understanding?
+  36. What (or who) is the elephant in the room? How have we contributed to _keeping_ the elephant in the room?
+  37. What is trying to emerge? Are we rejecting it? Encouraging it?
+
+
+# Limit PIP (Promises In Progress)
+
+I riffed recently on the idea of PIP (promises in progress).
+
+* * *
+
+### Limit PIP (Promises In Progress)
+
+I riffed recently on the idea of PIP (promises in progress).
+
+> [](https://twitter.com/johncutlefish/status/898586986289668097)
+
+The idea is growing on me. First, because it explains how some organizations
+go downhill. And second, it helped me reflect on how and why I throw off
+promises in my day to day work (and sometimes don’t keep those promises).
+
+![](https://cdn-images-1.medium.com/max/800/1*G5LTJdpH8d7hLHxJ_YqaOQ.png)
+
+<https://louisandmelcomics.wordpress.com/tag/cartoon/>
+
+Imagine you have a note taking robot at your disposal. The robot records every
+new promise made by people in your company — explicit or implicit, emotional
+or functional or social, aspirational or realistic. Everything! Gifted with an
+unlimited power supply (and storage), it moves on to survey for existing
+promises, expectations, and commitments. The robot does this every day.
+
+How long is the list? How many items get added every day? How many things get
+ignored? Who has dashed hopes? Maybe no one cares? Maybe they do.
+
+During a day at work recently, I tried to be that robot. I recorded every hint
+of a promise made during the three hours of meetings that day. The list was
+massive, and only a tiny percentage of the promises were captured somewhere
+(outside of my list). Most of the officially recognized promises lacked real
+clarity, next steps, and shared understanding. The implicit ones were all over
+the place… who knows how people interpreted them. Even when there seemed to be
+agreement, I couldn’t really tell.
+
+A CEO once told me that he expected “motivated” people to “load themselves up
+with too much to do, and routinely drop balls, but don’t screw up the
+important tasks.” According to their view of work (and life), unless someone
+is maxed out, they aren’t trying hard enough. Now multiply this across the
+organization. What happened? Predictably, people struggled with debilitating
+stress. But they were also hurt because other teammates (including leaders)
+had broken their promises to them, often unintentionally. The situation slowly
+spiraled out of control.
+
+Every person there wanted to please and wanted to make things work. The decay
+starts when — in our effort to keep some promises — we let other promises
+slide. We mean well, but just can’t deliver on all fronts. Most of the time
+it’s OK. I mean hell, everyone is so busy! But the cracks in trust,
+psychological safety, and respect begin to form.
+
+Maybe we start to drift on something fundamental — like a promise to ship
+high-quality products, do right by customers, hire the best, or respect our
+co-workers. But the increments of drift are small. They happen one iteration,
+one vanity feature, one hire, and one frustrated snide remark at a time. And
+all the while we are generating new well-meaning and hopeful promises. How
+many meetings end with a couple of good ideas, and some offers to “check that
+out and follow-up”? How many all-hands conclude with a small group deciding to
+take on a problem outside of their day-to-day?
+
+In [Drift into Failure: From Hunting Broken Components to Understanding
+Complex Systems](https://www.amazon.com/Drift-into-Failure-Components-
+Understanding/dp/1409422216), Sydney Dekker describes how drift works:
+
+> Drift occurs in small steps. This can be seen as decrementalism, where
+continuous organizational and operational adaptation around goal conflicts and
+uncertainty produces small, step-wise normalizations of what was previously
+judged as deviant or seen as violating some safety constraint. Each decrement
+is only a small deviation from the previously accepted norm, and continued
+operational success is taken as a guarantee that the small adaptations are
+safe, and will not harm future safety.
+
+I have observed this dynamic with broken promises (what Dekker would probably
+call “goal conflicts”). As mentioned above, many of these promises are never
+made concrete or explicit.
+
+David Allen (the Getting Things Done guru) calls these things “open loops,”
+“incompletes,” or “stuff.” His method recommends getting these things “out of
+your head and into a system” so that you can focus on getting things done. But
+anyone who has managed a product backlog (or set of action items for a complex
+project, or software development team) knows how quickly this can get out of
+control. You quickly hit a point of acute cognitive overload. There’s no way
+you can keep it all together, and still get any work done.
+
+In any busy environment, you’ll find people at their absolute limit.
+
+Something has to give. So while functioning at a high level, we also let
+things slide. Which then brings about Dekker’s “step-wise normalizations.”
+When I talk to people who are frustrated by their work environment, they
+frequently refer to what I now call broken promises:
+
+  * Someone has betrayed their trust or has stopped showing respect
+  * People act in ways that are not coherent with stated values
+  * The extra resources never arrived
+  * Another team failed to do their side of the bargain
+  * Their teammates didn’t offer to help in a bind
+  * The company transgressed on its commitment to craft and quality
+  * Promotions feel unfair and not equally applied
+  * Their team never iterated on the MVP, as promised
+  * The challenging projects never arrive
+  * Success theater is rewarded over hard work
+  * The company has stopped caring about innovation
+
+To top it off, they frequently don’t notice their broken promises.
+
+The terrifying thing here is that to turn the tide you need to both 1) start
+delivering on your promises, and 2) do so while trust is lacking and you need
+people’s help. When you need trust the most, it is missing. That’s fricking
+hard, especially when the person might be blaming individuals and situations
+that are suffering under the same state of overload. The irony is that all of
+the hard, cognitively taxing work in the current situation has become
+normalized, whereas the hard work required for change is acute and
+distasteful. It is easier to remain in the status quo.
+
+But remember when the company knocked [some effort] out of the park? It all
+seemed to change then, right?
+
+Most software product developers have experienced a “swarm” or “surge” or
+“final push” on a high priority initiative. The team rallies to get something
+high priority done. Later at the bar (because, you know, you celebrate these
+types of things…it’s actually rewarded), the stereotypical executive says
+something like this:
+
+> Don’t you see what we can do when we put our mind to it! Why can’t all
+efforts be like this! We should do this all the time!
+
+To which the maxed out (and buzzed) individual contributors reply:
+
+> Of course it worked …. because we focused on something. Are you willing to
+let us focus in the future? Or do we need to keep all of the other promises
+we’ve kept.
+
+A project manager ambles along with their white wine and says something like:
+
+> Well, if we only had a better system for tracking all of our deliverables,
+and for estimating better, we’d be able to handle all of this. We just need a
+better process. Then we can split story points across all of our tasks, and
+hold daily dependency and risk-mitigation check-ins.
+
+What happens next? Does anything change? No, the drift continues. Something
+gives (probably quality, or keeping your best team members). Schedules
+eventually slip because quality has slipped, and you’ve lost your best team
+members. An environment of low trust percolates, and only the fittest (most
+adaptable in low trust environments) survive.
+
+I’ve written a good deal about Kanban and the value of WIP (work in progress)
+constraints. But I realized recently that “the work” is only a small
+percentage of the promises we keep “at work”. As we add complexity to our
+products and organizations and relationships, we do so by creating a web of
+promises and commitments, ranging from explicit and actional to “open loops,”
+“incompletes,” and “stuff.” Promises are, in effect, dependencies. We can
+break them — and break the dependency — but that will have a ripple effect
+elsewhere.
+
+To counteract this drift, I’d like to advance the idea of limiting PIP
+(promises in progress), and reducing the size of your promise overhead to what
+is manageable and humane. Optimize for promise flow efficiency.
+
+Why use a loaded word like Promise? It feels kind of contracty. It feels like
+a manager asking for _predictability_, and “doing what you said you were going
+to do”. That’s not what I’m thinking about. Though that might be a byproduct.
+
+I feel that trust is built and grown by frequently keeping our promises.
+Research says that delivering frequently on small promises beats out large
+promises delivered infrequently. I am NOT just referring to our promises to
+finish projects or check off action items (which might indeed be the least
+important promises we make). I include things like the promises in your
+culture deck, the promise to keep reasonable work hours, the promise of
+psychological safety, the promise to mentor co-workers, and the promise to
+engage people with challenging, but meaningful work.
+
+To succeed at keeping our promises, we need to be incredibly disciplined about
+communicating and building shared understanding. One person’s “great idea you
+must do immediately” is another person’s “thing I might want to try
+eventually.” One person’s “they are going to help me advance in my career” is
+another person’s “we’ll chat about career stuff occasionally.” So you need
+that discipline.
+
+Make fewer promises! Keep more promises. Deliver on promises. Respect the
+cognitive overhead of active promises. Prioritize. And make the promise that
+matters most: to trust and respect the people you work with.
+
+
+# Good Work Is Hard Work
+
+Software product development is hard.
+
+* * *
+
+### Good Work Is Hard Work
+
+Software product development is hard.
+
+![](https://cdn-images-1.medium.com/max/800/1*W_ewTA8I4-Uuc3KFdaAcEg.png)
+
+Gratuitous, free-to-use photograph of something kind of difficult looking (so
+Medium has an image)
+
+Doing the hard work takes trust and safety. Without trust and safety,
+individuals and companies go into self-preservation mode. In these conditions
+we replace trust with process, and collaboration with control.
+
+All companies have problems. The _best _companies prioritize the most
+threatening problems and deal with them. New ones pop up, and they keep
+dealing with them. Complexity creeps up, and they tame it. Everyone has faith
+that “the important things will get worked out”. Promises (especially the
+promises for support and respect) are kept. These companies hold entropy at
+bay, because if you fall too far behind, you’ll never dig yourself out of the
+hole.
+
+To quote the great Greg Lemond:
+
+> “It never gets easier, you just go faster.
+
+A lot of continuous improvement is just making it _possible_ to do the hard
+work (the effective work) and face challenges when they arise.
+
+Because …
+
+  * Open-ended discovery is hard
+  * Switching contexts is hard
+  * Learning new skills is hard
+  * Confronting trust issues on your team is hard
+  * Pairing and mobbing is hard
+  * Admitting you’re wrong is hard
+  * Backlog grooming is hard
+  * Recruiting users/customers for interviews is hard
+  * Firing a toxic “high performer” is hard
+  * Coaching teams is hard
+  * Building shared understanding is hard
+  * Taming complexity is hard
+  * Sitting in a meeting for three hours is hard
+  * Making sense of your teammates is hard
+  * Slowing down to speed up is hard
+  * Great test coverage is hard
+  * Continuos improvement is hard
+  * Saying no is hard
+  * Defeating cognitive bias is hard
+  * Digging down to the root need is hard
+  * Facilitating a big meeting is hard
+  * Being understood is hard
+  * Understanding the business need is hard
+  * Breaking down user stories is hard
+  * Asking for help is hard
+  * Reaching consensus on a technology choice is hard
+  * Listening is hard
+  * Scaling is hard
+  * Giving constructive criticism is hard
+  * Empathy is hard
+  * Writing clean code is hard
+  * Working with a neurodiverse team is hard
+  * Uncertainty is hard
+  * Shifting teams is hard
+  * Hiring is hard
+  * Craftspersonship is hard
+  * Architecture for a moving target is hard
+  * Wrangling legacy code is hard
+  * Maintaining psychological safety is hard
+  * Measuring the impact of your work is hard
+  * Real deadlines are hard
+  * Revising your working agreements is hard
+  * Blameless retrospectives are hard
+  * Onboarding new team members is hard
+  * Breaking the monolith into microservices is hard
+  * Getting a team to buy in to goofy (but effective) activities is hard
+  * Retaining your best talent is hard
+  * Responding to existential competitive threats is hard
+
+### It’s all hard!
+
+![](https://cdn-images-1.medium.com/max/800/1*IAIgqCyhaYiKyzQ8-48XSw.png)
+
+
+# Continuous Improvement Vs. Continuous Suckage
+
+Continuous Improvement
+
+* * *
+
+### Continuous Improvement Vs. Continuous Suckage
+
+![](https://cdn-images-1.medium.com/max/800/1*2mk0UbudCoHIdhf-Cr32Gw.png)
+
+### Continuous Improvement
+
+  1. A facilitator helps the team run a good retrospective (and learn how to run their own retrospectives)
+  2. Underscore spirit of blameless retro. Establish safety. Provide coaching prior to retro if needed. Team able to “get real”
+  3. Accentuate the good. What’s working? What should we amplify?
+  4. Review output of prior retro. Team bubbles up new internal _and external_ issues impacting their performance (ideally supported with qualitative and quantitative data).
+  5. Team also reflects on success of continuous improvement efforts
+  6. Team prioritizes issues to fix and brainstorms possible interventions
+  7. Team secures help for resolving external blockers (and establishes way to track these blockers)
+  8. Team tries limited number of interventions
+  9. Repeat…rapidly
+  10. If certain issues persist, agree to escalate issues to a trusted leader for help and support
+
+### **Continuous Suckage**
+
+  1. Manager facilitates retro without prior experience
+  2. Team afraid to “rat out” co-workers and/or threaten their individual job prospects
+  3. Punt on dealing with interpersonal issues. Doesn’t “get real”
+  4. New processes created to fill trust void and “prove who is slacking”. Manager opts to deal with individuals directly, and not whole team. Manager dictates process
+  5. Turns into blame session
+  6. Team gets tired of bringing up chronic issues (especially external issues, that never get addressed) or brings them up and gets chastised for not being team players
+  7. Lack of accountability for continuous improvement efforts. High “change in progress”
+  8. External communication owned by manager, who attempts to preserve optics. Lack of coherence
+  9. Repeat. Long delivery cycles masks actual progress
+  10. If issues persist, manager and team develop alternate narratives to protect their self interests
+
+
+# All Companies Have Problems (Some Are Healthy, Some Are Lucky)
+
+A toxic individual occupies your company.
+
+* * *
+
+### All Companies Have Problems (Some Are Healthy, Some Are Lucky)
+
+![](https://cdn-images-1.medium.com/max/800/1*8gSuq2hVVdBdigQGTpnPiw.png)
+
+#### **A toxic individual occupies your company**.
+
+The healthy organization will increase local blood flow and send in cells from
+the immune system to attack and destroy the bacteria.
+
+#### **A team is wounded**.
+
+In a healthy organization a clot will form, then inflammation, then new tissue
+growth, and finally “maturation and remodeling”.
+
+![](https://cdn-images-1.medium.com/max/800/1*tWz26tw6dKfBVuK80SMwCQ.png)
+
+<https://en.wikipedia.org/wiki/Wound_healing>
+
+#### **The organization is temporarily off-balance**.
+
+Various systems coordinate a response:
+
+> Balance is the result of a number of body systems working together: the eyes
+(visual system), ears (vestibular system) and the body’s sense of where it is
+in space (proprioception) ideally need to be intact.
+([Wikipedia](https://en.wikipedia.org/wiki/Sense_of_balance))
+
+You get the idea.
+
+In the face of challenges and opportunities, the healthy organization can
+sense, respond, repair, rebuild, regulate, learn, strengthen, and defend.
+
+We often single out individuals and “problem teams”. Why can’t they figure it
+out? Why aren’t the improving? Why can’t the be as awesome as Team X? Maybe
+they are incompetent? Maybe we need a re-org? It’s all about trying to fix the
+specific person, team, or project or making sure **_that exact thing_** never
+happens again. And this can drag out forever in a game of endless
+Whack-a-mole. Managers and leaders seem to thrive on this game.
+
+We don’t spend enough time asking _why_ the organism (the organization) is
+allowing the damage to persist. In many cases it simply isn’t a priority,
+despite what people say. There are _too many problems_, and not enough energy
+to repair those problems.
+
+> This problem has been going on for YEARS!
+
+Translation: We have let this problem go on for years.
+
+Or perhaps the system is incapable of coordinating, communicating, and
+executing a response because of some sort of underlying disease, deficiency,
+blockage, split-focus, or imbalance.
+
+> By the time we get the committee together to address the problem, it has
+changed in nature!
+
+All companies have problems. It’s just that some companies fix their problems
+faster and with less energy, and side-effects. They don’t let those issues
+accumulate and become chronic. It doesn’t mean that everything is incremental.
+Sometimes you _have _to do the big re-org. But the system bounces back quickly
+(and typically stronger).
+
+I think that is how I’d describe a healthy organism… and a healthy
+organization.
+
+
+# Extra Strength 5-hour AGILE
+
+It’ll get you through the day.
+
+* * *
+
+### Extra Strength 5-hour AGILE
+
+It’ll get you through the day.
+
+Today I want to discuss 5hr Agile, aka Quick Fix Agile, aka We Need To Go
+Faster Right Now Agile.
+
+![](https://cdn-images-1.medium.com/max/800/1*qxylXoKJB997NJ6gg2ozRA.png)
+
+Here’s what concerns me.
+
+We owe it to companies (our companies if we’re on the inside) to be honest
+about the investment required to fundamentally change things. Installing [some
+tool/method] is never enough. You won’t go from a four (on a scale of 1–10) to
+a nine without some _serious work. _The turnaround will take years, not
+months. And you’ll probably need to do some restructuring and hiring/firing.
+
+If your company is doing OK, and you’re not willing to really commit … you’d
+probably do better to save the money and disruption and preserve the status
+quo. We’ve all read about the [accelerated death rates of public
+companies](http://www.businessinsider.com/us-companies-are-dying-faster-than-
+ever-2015-8), so maybe you’re fighting an uphill battle anyway. A half-hearted
+foray into Lean/Agile won’t really change things much (see A below).
+
+It’s like going to the gym once a week. You might as well save your knees.
+
+![](https://cdn-images-1.medium.com/max/800/1*O4SldrWDlmoN_UudnlJAtg.jpeg)
+
+If you’ve worked in a company doing “change-light” you know just how
+frustrating it is. Front-line teams scurry to adopt the new way, and
+management and leadership just remains the same. You lose your best people
+because the change isn’t effective. “Let’s experiment” doesn’t cut it.
+
+To make this work you’re going to need to…
+
+  * Hire people who are comfortable working in the “new” way
+  * Pay people who are not interested in working in the “new” way to leave
+  * Ingrain continuous improvement into the DNA of the organization
+  * Shift legacy mindsets, focusing especially on leadership and upper management
+  * Slow down, limit work in progress, lower utilization rates
+  * Make craft and quality a top priority
+  * Make safety a prerequisite (see [Modern Agile](http://modernagile.org/))
+  * Hire coaches and facilitators
+  * Bring individual contributors closer to customers/users
+  * Dedicate teams to outcomes/benefits (vs. solely to “shipping projects”)
+  * Discontinue the use of proxy metrics (e.g. “velocity”) wherever possible
+  * Remove layers of management (or retrain for new roles)
+  * Change the management culture, expectations, and mandate
+  * Combine certain departments (e.g. Operations and Engineering)
+  * Embed UX, Data Science, and QA on product development teams
+  * Reshape the role of QA across the organization and eliminate handoffs
+  * Address dependencies (may involve hiring)
+  * Change how you fund/resource initiatives and teams
+  * Change how you architect and deploy your products/services
+  * Visualize work on the portfolio/program/team level and address bottlenecks
+  * Be more open and transparent
+  * And more …
+
+Not trivial, huh?
+
+We dedicate tons of money to installing Agile practices that don’t rock the
+boat. I’d argue that rocking the boat is exactly what you need to do.
+
+
+# Faster →Frequent, Speed → Endurance
+
+Some brainstorming from the notebook.
+
+* * *
+
+### Faster →Frequent, Speed → Endurance
+
+Some brainstorming from the notebook.
+
+The shift is often counter-intuitive…
+
+![](https://cdn-images-1.medium.com/max/1000/1*EyFZ6t59Zu3Nop7ZxRLVcw.jpeg)
+
+
+# Fixing Quarterly Planning
+
+I absolutely hate quarterly planning. It feels so counterproductive and
+disruptive!
+
+* * *
+
+### Fixing Quarterly Planning
+
+![](https://cdn-images-1.medium.com/max/800/1*xCZX9amQWhhH_-zbI45rpA.png)
+
+> I absolutely hate quarterly planning. It feels so counterproductive and
+disruptive!
+
+This post is about making quarterly planning more effective. You may have an
+awesome quarterly planning approach. If so… You’re A Winner! For many PMs —
+especially at bigger companies — the process is fraught with pain and
+frustration.
+
+#### It’s a non-subtle form of masochism: a 91.25 day sprint including 28 days
+of planning, that doesn’t “work”.
+
+Why?
+
+Quarterly planning is disruptive when it introduces _too much new information
+_at once: too many new projects, too many new dependencies, and too many
+shifting priorities. There’s simply no way you can build adequate shared
+understanding. Tweaking the planning quarterly is simply too slow (and too
+disruptive) for a rapidly growing company. Without shared understanding,
+you’ll never get optimal results. But we get caught up in the drama and
+excitement and just perpetuate the problem.
+
+![](https://cdn-images-1.medium.com/max/800/1*FGfZZoNAhYAGGkMph1RkNg.png)
+
+Equally disruptive is that we tend to synchronize _execution_ cadence with the
+_planning and prioritization_ cadence. Somehow, all projects start to take
+one, two, three, or four quarters. This worsens the quarterly “hit” (due to
+harmonic oscillation), and impacts decision making. The shit goes down… at the
+start and end of every quarter.
+
+Common symptoms of a unhealthy quarterly planning process include:
+
+  * Low completion rates (teams can’t meet their often artificial “commitments”)
+  * Longer than normal lead times
+  * Rework, or work items completely miss window of opportunity
+  * Last minute dependency management (shared teams are overloaded)
+  * Items in progress need to be “punted” to the next quarter
+  * Teams rush to get their projects “in the system” for the next quarter
+  * Silver bullet projects materialize
+  * Network effects (snowball effect) as one shared team is delayed
+  * Planning is rushed. People aren’t on the same page
+  * Invisible work
+
+> But isn’t this how you _have_ to do it? We want less process, not more! It
+sucks, but there’s no other way! How can we move quickly unless we set stretch
+goals!?
+
+This isn’t how it has to be.
+
+#### A Quick Scrum Diversion
+
+Let’s check out a fixed-length sprint (Scrum) analogy. For a sprint to be
+considered “successful”, you finish _all _of the _committed items. _You don’t
+get _credit _for items left in progress. At the end of the sprint, you deliver
+a potentially shippable increment (there are no multi-phase or artificially
+split stories). The smart team figures out its _sprint velocity _by looking at
+prior sprints, and sets a reasonable goal. And at the end of the sprint
+there’s a retrospective and demo, and the whole process repeats.
+
+Note the critical point here: the team bases velocity on actual data, and
+embarks on a sustainable approach. You don’t beat yourself up!
+
+This all takes incredible discipline and repetition. An organization that has
+trouble “making its quarterly commitments”, does so for the exact reasons a
+scrum team has trouble making its sprint commitments…albeit on **a much
+grander scale**. These reasons typically include unplanned work, rework,
+artificially splitting stories, multi-tasking, high utilization, handoffs,
+dependencies, non-shippable work, external blockers, changing requirements,
+overoptimism, etc.
+
+It’s the usual suspects… but addressed every 91 days on, again, **a much
+grander scale**.
+
+On a scrum team you reflect and adapt. Typical fixes include taking on less
+work, better story decomposition and grooming, fixing the source of production
+issues, dedicated QA and UX, and more active dependency management.
+
+Interestingly (and counterintuitively), Agile stalwart [Ron
+Jeffries](https://medium.com/u/a45b68b1ab11) recommends (I’m paraphrasing)
+“shortening the sprint, down to a day if necessary.” Can the team reliably
+plan and deliver SOMETHING during the increment, even if it is a day? His
+approach** starts with success and builds from there**. This is very different
+from the idea of loading up a sprint (or quarter), doing your best, shooting
+high, and just punting along the work that doesn’t get done.
+
+> Ah! I see … we need to total up story points across 60 teams, do careful
+estimation, and “fill up” the quarter just like we fill up a sprint! Right?
+
+Nope. Scrum-don’t-play-that. But we’re getting close.
+
+And this sort of gets to the crux of the problem. Consider how hard it is for
+an individual team to crack this nut. Now increase the complexity non-linearly
+across the whole organization. **There’s no possible way that a big-batch
+planning approach across this many teams will EVER produce predictability.**
+The system just can’t calibrate itself because 1) the calibrating and
+inspect/adapt happens too infrequently, and 2) there are too many moving
+parts.
+
+### A Solution…
+
+On a high level, the solution is to:
+
+  1. Decouple planning, prioritization, and execution. Use just-in-time and cadenced meetings appropriately
+  2. Adopt a pull-based approach instead of a push-based approach
+  3. Make the next rolling 6–12 months of work visible, and always current
+
+What do I mean?
+
+Consider this Kanban board:
+
+![](https://cdn-images-1.medium.com/max/800/0*KTuj4J7BxIEOR3Ln.)
+
+  * Longer term prioritization occurs in A
+  * Planning and coordination occurs in B
+  * Dependency management is maintained through C
+  * Last minute prioritization occurs in D. At this point it is committed. It’s going to happen
+  * Checking in on execution happens in E
+  * We review long term benefits delivered in F
+
+This is a PULL system with WIP constraints. When Card 1 moves to Delivered,
+work on Card 2 starts, and Card 3 is moved from Planning to Committed
+(assuming it really is committed).
+
+![](https://cdn-images-1.medium.com/max/800/0*YbFMZgqpJSACIgl5.)
+
+Pull-based system. To move work “ahead”, a downstream item must move ahead
+
+The important thing here from a quarterly planning standpoint is that you’ve
+reduced the “big bang” nature of the exercise. By visualizing the upstream
+part of the process — the prioritized backlog, planning, and commitment steps
+— you’ll have far less “resetting” to do each quarter. If you do this right,
+you’ll always have a year’s worth of work up there. Of course things will
+change … you’ll pull things from planning, or shuffle priorities for committed
+items, but it’s clear what is going on.
+
+Executives often incorrectly assume that this approach will trigger anarchy.
+The push-back goes as follows:
+
+> _Us executives are so busy! The business works on a quarterly cadence, so we
+need to set up a ton of meetings to review the quarter and give our blessing.
+How can this ever work? Our calendar’s are full!_
+
+_Side Note: Consider whether executive availability is the actual bottleneck_
+
+The quarterly planning process becomes a way for senior people to exert
+influence, get “face time”, horse-trade, and politic for their top priorities.
+They kind of like it. They love the drama.
+
+So this is where working agreements come in. For example (just riffing, I
+wouldn’t do all this), you could decide that:
+
+  * Directors meet monthly to review items in the **Planning** column
+  * VPs review all items **In Progress** monthly
+  * Quarterly, conduct a 60 person Kaizen event using board. Review all items
+  * Any VP or above can expedite an item into the **Planning** column
+  * Items that are L or XL need C-level approval to move into the **Committed** column
+  * Any **Committed** items that has dependencies needs to be signed off on by all participating teams
+  * An item stuck in **In Progress** for more than 180 days triggers an immediate COO facilitated meeting
+  * Etc.
+
+I’m more of a distributed decision making kind of person, but you can be as
+command-and-control as you want here. Executives can be as involved as they
+want to be. Some activities are:
+
+  1. **Triggered **(e.g. backlog replenishment, when card count falls below X) and other activities are…
+  2. **Cadenced** (e.g. monthly review of blocked In Progress items)
+
+The key is to make the working agreements explicit and make the work visible.
+
+How is this different than normal quarterly planning. Normal quarterly
+planning is a PUSH based system, not a continuous PULL based system. Normal
+quarterly planning is like the running of the bulls.
+
+**Subway is a PULL based system**. Note how the sandwich-making is _never overloaded_. The line might grow slightly, but Subway gets the job done.
+
+![](https://cdn-images-1.medium.com/max/800/1*GOsNNK0LiwjztvavJ8yTAg.png)
+
+A quarterly planning process can occur ON TOP OF a continuous flow-based,
+pull-based system. We imagine a big calendar cut into four blocks and
+mistakenly believe that “predictability” in this context involves dropping
+work — the execution — into those blocks. Instead, think about regularly
+scheduled (or just in time, pull based) meetings that keep watch over a flow
+of work.
+
+You go from this:
+
+![](https://cdn-images-1.medium.com/max/800/1*c3a_Bg0U2TKeNlZ93fZAPQ.png)
+
+To this ….
+
+![](https://cdn-images-1.medium.com/max/800/1*T5G3HFUee06POx8IesZ69w.png)
+
+What you often learn is that the development teams were never the bottleneck.
+Rather, it was shifting priorities, silver-bullets, and too much work in
+progress that brought the operation to a grinding halt. Sure there were issues
+with delivery, but the process itself obscured those issues. It made it
+difficult to swarm resources on addressing those problems.
+
+And now you can fix that. If you are unfamiliar with Kanban, [Amazon is your
+friend](https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Ddigital-
+text&field-keywords=kanban).
+
+* * *
+
+> But when will things be done? That isn’t possible unless you put it in a
+calendar.
+
+That’s for another post, but the basic answer is that by limiting work in
+progress and focusing on flow, you’ll be better able — using actual data for
+different classes of work — to predict when something will be done. And do so
+with far better confidence than a big-batch, wipe-the-slate-clean quarterly
+planning process. This approach might not work well if you make your money
+delivering singular, unique custom projects, but should be possible in a
+modern SaaS company.
+
+
+# Limit, Visualize, and Improve
+
+I’ve been thinking lately about what it means to be disciplined in product
+development work. How do we do the right thing, even when doing…
+
+* * *
+
+### Limit, Visualize, and Improve
+
+I’ve been thinking lately about what it means to be _disciplined_ in product
+development work. How do we do the _right _thing, even when doing the right
+thing is hard, inconvenient, and counterintuitive to outsiders?
+
+(Almost daily) I urge teams to take responsibility for their working
+agreements, “process”, continuous improvement, and principles. No this is NOT
+code or a design. But it is the best way, in my opinion, to advocate for
+craft, sustainability, and not cutting corners. I am often asked to just “set
+it up”. But I explain that you have to internalize and live these principles.
+You can’t outsource it.
+
+  1. Pull (don’t push) and limit work-in-progress
+  2. Visualize things as they are
+  3. Improve continuously
+
+Stepping back further, there’s an almost zen-like quality to all this. It’s a
+never-ending puzzle to solve. And some might argue (OK, I might argue) that it
+is kind of fun.
+
+* * *
+
+### 1\. Pull (don’t push) and limit work-in-progress
+
+Busyness is a drug. It’s heroic and pragmatic…a form of occupational theater.
+Instead, embrace the challenge of focus and flow. This is the hard, and
+disciplined work.
+
+In a **WIP constrained system,** no individual or team is overloaded. You’re
+at your optimal level of utilization. You work hard _and _smart.
+
+In a **pull based system**, starting something MUST involve finishing
+something else.
+
+Together these create flow, and an opportunity to inspect and adapt.
+
+### 2\. Visualize things as they are
+
+What is actually happening? How are we working?
+
+Visualize ideas, work, decisions, information, flow, allocation, blockers,
+wins, losses, team energy, and experiments. Visualize everything. Get it out
+of your head. Show don’t tell. Clarify working agreements.
+
+We use whatever else it takes … to make the invisible things visible. And when
+reality changes, we make that change visual. Always.
+
+![](https://cdn-images-1.medium.com/max/800/1*A8N1I7p-SViOHf8s7d3fMQ.jpeg)
+
+### 3\. Improve continuously
+
+By limiting work-in-progress and visualizing everything (and measuring), we
+can have the right conversations. The bottleneck emerges. And we chase it.
+
+Have a conversation “at the board”. Where should we focus? What should we
+amplify, and what should we dampen? Invite the elephant in the room out for
+coffee. Make it safe.
+
+Problems are opportunities, and everybody has ’em. Sense and seize those
+opportunities.
+
+![](https://cdn-images-1.medium.com/max/800/1*hPa974HdbYT6NT3U66qV0A.jpeg)
+
+_As a companion to this post (and to understand one of my key inspirations), I
+recommend reading _[_The Principles of the Kanban Method by David
+Anderson_](http://www.djaa.com/principles-kanban-method-0)_. I especially love
+the principle “Start with what you do now.”_
+
+
+# Change With No Change
+
+Have you ever had this conversation with a friend (or your inner-self)?
+
+* * *
+
+### Change With No Change
+
+![](https://cdn-images-1.medium.com/max/800/1*KaXHBQEOcehgWCTIPZYHWw.png)
+
+<https://mentaleldar.deviantart.com/art/crazyness-270544628>
+
+Have you ever had this conversation with a friend (or your inner-self)?
+
+How is work?
+
+> There have been a ton of changes …
+
+Has anything changed?
+
+> No.
+
+The odd thing is that **nothing actually changes**, but meanwhile **everything
+is changing**!
+
+**Nothing actually changes.** Poorly behaving (and performing) executives keep their jobs. Underfunded teams remain underfunded teams. There are no new investments in tooling, the deployment pipeline, testing environments, configuration management, etc. The CEO still jams silver bullets through the system. Incentive structures, titles, constraints, longtime exec feuds, how decisions are made, hiring practices, bad behavior, and toxic partnerships… all stay — the — same.
+
+**But everything changes: **a re-org every month, shuffling teams, consultants, a “new strategy”, introducing copycat practices ([insert method X], lots of sticky notes, rotating managers, outsourcing, vague communications about culture, and a newfound myopic focus on a “do or die project” with a return to “business as usual” in a month or so.
+
+It’s like changing your outfit every day to impress someone, but forgetting to
+brush your teeth. Or buying a “3 Easy Installments of $99.00” exercise gizmo,
+and not actually exercising.
+
+You need something to actually CHANGE on a deep and lasting level:
+
+  * Changes in external environment (e.g. competitive landscape)
+  * Introduce new sources of information into the system
+  * Change how information moves through the system
+  * Change a behavior. Introduce a new behavior. Amplify/dampen a behavior. Learn and apply a new behavior
+  * Automate an activity
+  * Use new tools. Or use existing tools in different ways
+  * Change code, architecture, design, process, patterns …”how things work”
+  * Change how you allocate your focus, time, energy, and money
+  * Add new sources of energy
+  * Change how actors participate in the system (e.g. decision making, incentives, collaboration)
+  * Change the actors in the system
+  * Change “structure” (actor proximity, pattern of incentives, power flow, information flow,resource flow, actor relationships)
+  * Change how you assess/frame progress
+
+You get the idea.
+
+Re-orgs may move people around, but they often fail to change how the actors
+participate in the system. Adopting “Agile” may change how projects are
+delivered, but it doesn’t impact which projects get prioritized. You pledge to
+be customer-centric, but receive no new data regarding your customers.
+
+Nothing angers and alienates employees more than a series of surface-
+adjustments without an attempt to dig deeper. Experimenting with a clear goal
+in mind (while engaging your team in the experiment) is a good thing.
+Experimenting ON YOUR TEAM is not a good thing.
+
+Or maybe even going up a level … change is what you might see as a RESULT of
+you trying to intervene. The interventions themselves are not the changes …
+the interventions are tactics. If the tactics produce no change…well, they’ve
+failed.
+
+
+# Stories and Epics
+
+Nested hierarchies, boundaries, independence, and value…
+
+* * *
+
+### Stories and Epics
+
+#### Nested hierarchies, boundaries, independence, and value…
+
+#### Stories and Epics (and Independent Value)
+
+  * **Story** = a story that is _small enough_ to fit into a sprint
+  * **Epic** = a story that is _too big_ to fit into a sprint
+
+In Scrum, Epics get broken down into Stories (because everything needs to fit
+into a sprint). Stories should be valuable and independent ([see
+INVEST](https://www.agilealliance.org/glossary/invest/)). And with that we
+arrive at an apparent contradiction: if the Story rolls up to an Epic, is the
+Story truly independent? And is the Story _independently valuable_? [Maybe,
+but the value is
+locked](https://www.scrumalliance.org/community/articles/2014/march/stories-
+versus-themes-versus-epics):
+
+> While the stories that comprise an epic may be completed independently,
+their **business value **isn’t realized until the entire epic is complete.
+
+Hmmm. OK. So Story 1 below is _not_ independently valuable from a “business”
+perspective (though may be extremely valuable from a learning standpoint,
+which is certainly valuable to the business). Story 4 _is_ independently
+valuable from a business perspective.
+
+![](https://cdn-images-1.medium.com/max/800/1*DacUbUfX4UZLcTw3LwfI-w.png)
+
+#### Potentially Releasable
+
+If you’ve done Scrum training, you may have gotten stuck on reconciling the
+use of Epics with the[ definition of a Sprint](https://www.scrum.org/resources
+/what-is-a-sprint-in-scrum):
+
+> A time-box of one month or less during which a “Done”, useable, and
+**potentially releasable** product Increment is created.
+
+![](https://cdn-images-1.medium.com/max/800/1*WCOADvOAsH3L6cbHKPW6yQ.png)
+
+The tricky phrase is “potentially releasable”. How can we have a _potentially
+releasable product increment_ if some Stories are assigned to Epics, and Epics
+— by definition — are too big to fit into a Sprint?
+
+There’s an answer for this puzzle too! [Ken
+Rubin](https://medium.com/u/e8471ec71422)(author of [Essential
+Scrum](https://www.amazon.com/Essential-Scrum-Practical-Addison-Wesley-
+Signature/dp/0137043295)) contributed [this nugget to Google
+Groups](https://groups.google.com/forum/#!topic/scrumalliance/R55_NL1XSZQ):
+
+> To be clear, “potentially shippable” does not mean that what got built must
+actually be shipped. **Shipping is a business decision, which is frequently
+influenced by things such as “Do we have enough features or enough of a
+customer workflow to justify a customer deployment?” or “Can our customers
+absorb another change given that we just gave them a release two weeks ago?”**
+
+> Potentially shippable is better thought of as a state of confidence that
+what got built in the sprint is actually done, meaning that **there isn’t
+materially important undone work** (such as important testing or integration
+and so on) that needs to be completed before we can ship the results from the
+sprint, if shipping is our business desire.”
+
+In [New Framework — the Increment,](http://ronjeffries.com/articles/017-08ff
+/new-framework-increment/) [Ron Jeffries](https://medium.com/u/a45b68b1ab11)
+defines The Increment (which matches up with Ken Rubin’s description):
+
+> At regular intervals, preferably every week or two, the developers provide
+an integrated, running, tested version of the software, the “Increment”,
+containing all the features and capabilities **which have been completed so
+far in the project**. The Increment must be in usable condition and must meet
+all the agreed standards of completeness and correctness.
+
+Summary: Some amount of value has been delivered (even if that value is
+dependent on 1) other items being completed, 2) a function of the learning and
+feedback that is now possible, and/or 3) the sheer act of pulling “something”
+together that can be deployed). And in theory the work can be released.
+
+#### Story Map
+
+We decide it will be valuable to start selling subscription plans for our
+Widget Service. Here’s how Epics, Releases, Increments, and Stories might look
+using a User Story Map ([see here for more info](http://jpattonassociates.com
+/user-story-mapping/)):
+
+![](https://cdn-images-1.medium.com/max/800/1*Opg7f3O-QukvSRxNBtqq_g.png)
+
+Note how these fit together:
+
+  * We create a horizontal flow based on the user journey
+  * We use **Stories** to focus our efforts on discreet bits of user-impacting functionality (feedback on these stories can be instantaneous and continuous)
+  * We use **Increments** to regularly **inspect and adapt**
+  * We use **Releases** to coordinate the decision to get something new in front of our users
+  * We use **Epics** as a container for business value (or at least an assumption around business value)
+
+#### Incremental Inspect/Adapt
+
+Grasping the value of The Increment, the team decides to do a weekly review.
+In a bout of experimentation, AcmeTeam drops their user story estimates, and
+strives instead to make user stories as “small as possible, but no smaller”.
+It’s like Scrum, but without worrying about a story point commitment/sprint
+planning. Grafted on to a Kanban board it looks a bit like this:
+
+![](https://cdn-images-1.medium.com/max/800/1*aJetFdolRut-dhLDYyUs9A.png)
+
+Not pretty (I prefer the Story Map), but still helpful.
+
+Every Thursday the team commits to reviewing “the features and capabilities
+**which have been completed so far in the project” (see Demo/Review).**
+Depending on the week, this demo should cover 2–4 Stories. _Something _is done
+and something is demoed. Now, it may not be the nice and neat Week 1 end-to-
+end increment as described in the story-map, but it is _something_. Instead of
+waiting until the end of next week — until it is _all done_ — the team gets
+meaningful feedback.
+
+> But, the demo will only make sense if four stories are demoed together!
+
+Perhaps. Maybe the trick, then, is to schedule that demo the day those four
+stories are done?
+
+#### So What?
+
+Where am I going with all this? Consider that our original definition of an
+Epic was Sprint-constrained. But let’s remove Sprints from the equation.
+
+At the end of the day, the central questions are:
+
+  1. Can we break the problem down into **smaller, discreet problems**?
+  2. What **boundaries** need to exist for the team to do its work? As PM, the boundary I might care about is end-to-end customer value. For a developer writing tests, something much more narrow is appropriate.
+  3. How can we preserve the **relationships** (both hierarchal and adjacent)
+  4. How do we make sure to **align the work with user outcomes/benefits**
+  5. How do we **inspect and adapt** based on our progress?
+
+![](https://cdn-images-1.medium.com/max/800/1*6Wo2UheqK8Idyx7cO4bv6A.png)
+
+Less experienced teams tend to get tripped up trying to define Epics, User
+Stories, Task, and Sub Tasks. The reality is that software product development
+is typically one big nested hierarchy, and a super messy one at that.
+Additional tools — like maps, canvasses, designs, wireframes, logic diagrams —
+are needed to hold the mental model together.
+
+Managers foist all kinds of meaning on to “cards” — as requirements, for
+scheduling, for accountability, to assign stuff to people, as units to measure
+velocity —while losing their essential connectedness (and squeezing out
+flexibility and customization for the task at hand).
+
+You could probably do away with the words User Story and Epic altogether, and
+use these instead:
+
+  * Mountain
+  * Hill
+  * Boulder
+  * Rock
+  * Stone
+  * Pebble
+  * Grain
+
+I’m only partly joking.
+
+I’ll finish with a table that explains why it is so hard to settle on
+“standard” definitions for how we describe our work. Our work is all over the
+map below. Shared Understanding is hard. Great teams figure out how to keep
+their mental model accurate.
+
+![](https://cdn-images-1.medium.com/max/800/1*hfOMC9A16bySoMoqYNVw5w.png)
+
+
+# Stop Sprinting. Start Thinking.
+
+…Even if you end up thoughtfully sprinting
+
+* * *
+
+### Stop Sprinting. Start Thinking.
+
+#### …Even if you end up thoughtfully sprinting
+
+![](https://cdn-images-1.medium.com/max/800/1*HKsy7kOeWhaU37a4IxbrIg.png)
+
+OK. Your team has a choice…
+
+  1. Here’s a prioritized list of stuff we need to tackle. Break down the work, **_and figure out what you can finish in the next two weeks_.** Let’s meet up in two weeks and reflect on where we are at.
+  2. Here’s a prioritized list of stuff we need to tackle. Break down the work, **_pull from the top, and do your best._** Let’s meet up in two weeks and reflect on where we are at.
+
+#### **Push-back to #2 typically involves variations of the following:**
+
+  1. In #1 the team will be motivated to make their sprint commitment.
+  2. It is nice to have something to shoot for. #1 gives you that.
+  3. Developers need to learn how to deliver on their promises. #1.
+  4. #1 shows that the developers can deliver predictably.
+  5. How can we possibly forecast this project without doing #1?
+  6. With #1 we’d deliver a cohesive thing for feedback.
+
+#### I would argue that #2 can deliver software products equally well.
+
+  1. You want your team to do their best. Delivering a pre-determined set of stories is not a great measure of doing your best. For example, you might hit a big glob of refactoring. It’s hard. With #1 you’ll miss your commitment, but be_ doing your best_.
+  2. #2 does not preclude having goals. But it does give you the flexibility to decouple goals of different types: feedback/learning cycles, delivery cycles, etc.
+  3. Many teams are “basically doing #2, but with estimates and a sprint goal… we don’t treat the stories as a commitment”. Hmmm. Ok.
+  4. There’s an easy way to consistently deliver on promises (especially in a low trust environment)… simply under-commit. We don’t want that.
+  5. Predictability, almost by definition, requires time to pass. There’s no reason why #2 can’t demonstrate a predictable flow of done work over time.
+  6. The ability to forecast is highly influenced by factors unrelated to the time it takes to actually “do” the work (e.g. batch size, work in progress, hand-offs, tooling, environment consistency, reviews, multi-tasking, utilization rates, etc.) Both #1 and #2 can address these factors, **but #2 does so with less process overhead and abstraction.**
+
+#### So What?
+
+**My bias is clear. I like #2. However …**
+
+**Here’s the important part. #1 and #2 are not all that different in terms of output/impact. Seriously, take a 30,000ft view. Are they?**
+
+I can picture a **_healthy team_** pursuing both with the exact same effect.
+Or for #1 to look more like #2 over time, and visa versa. If a team is
+empowered to continuously improve (and has the scope of influence to remove
+external blockers, and has psychological safety), they’ll find what is right
+for them.
+
+The problem, in my mind, is that #1 — and all the rituals behind it (story
+point estimation, sprint “commitments”, burn-down/up charts, etc.)— are so
+_easily abused_. Let’s face it: they ARE being abused, ALL the time. The goal
+_is not_ to DO SCRUM™ and dance all the little dances. Rather, it is to
+embrace continuous improvement and empirical process control (transparency,
+inspection, and adaptation).
+
+**There is nothing stopping your team reflecting on some cadence.**
+
+![](https://cdn-images-1.medium.com/max/800/1*P_f_F9-gIEfQYYSi4JSvGQ.png)
+
+**There is nothing stopping your team from setting meaningful goals.**
+
+So my advice is to stop sprinting, and to start thinking (even if you end up
+thoughtfully sprinting). Know the Why behind the various rituals. And make it
+safe to experiment and learn.
+
+
+# We’re Drowning in Tech Debt. Why Isn’t Anyone Listening?
+
+We’re struggling with technical debt. We’re going slower. We try to bring it
+up, but somehow no one seems to pay attention.
+
+* * *
+
+### We’re Drowning in Tech Debt. Why Isn’t Anyone Listening?
+
+> We’re struggling with technical debt. We’re going slower. We try to bring it
+up, but somehow no one seems to pay attention.
+
+Why does this happen? It’s complicated…
+
+![](https://cdn-images-1.medium.com/max/2000/1*CySEiwTR060qx2Pz71-OFw.png)
